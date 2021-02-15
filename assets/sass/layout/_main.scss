@@ -114,7 +114,7 @@
 
 			.thumb {
 				@include vendor('transition-delay', '#{$defaultDelay}');
-				height: calc(#{100vh / ($rows + $pad)} - #{_size(header) / $rows});
+				height: calc(#{100vh * 3 / ($rows + $pad)} - #{_size(header) * 3 / $rows});
 				min-height: $minHeight;
 				width: (100% / $columns);
 
