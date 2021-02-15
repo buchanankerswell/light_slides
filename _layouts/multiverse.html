@@ -12,8 +12,11 @@
       <div id="main">
         {% for image in site.images %}
         <article class="thumb">
-          <a href="{{site.baseurl}}/assets/images/fulls/{{ image.path | split: '/' | last | split: '.' | first }}.jpg" class="image">
-            <img src="{{site.baseurl}}/assets/images/thumbs/{{ image.path | split: '/' | last | split: '.' | first }}.jpg" alt="{{ image.title }}" />
+          <a href="{{ site.baseurl }}/assets/vids/fulls/{{ image.path | split: '/' | last | split: '.' | first }}.mp4" data-poptrox="ignore">
+            <video muted autoplay playsinline loop width="100%">
+              <source src="{{ site.baseurl }}/assets/vids/thumbs/{{ image.path | split: '/' | last | split: '.' | first }}_scaled.mp4" type="video/mp4">
+            </video>
+            <!---<img src="{{ site.baseurl }}/assets/vids/thumbs/{{ image.path | split: '/' | last | split: '.' | first }}_scaled.png" alt="{{ image.title }}" />--->
           </a>
           <h2>{{ image.title }}</h2>
           <p>{{ image.caption }}</p>

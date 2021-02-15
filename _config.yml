@@ -1,17 +1,16 @@
-title: Multiverse by HTML5 UP
-author: João Neto
-email: joao@neto.pt
+title: Light Slides
+author: Buchanan Kerswell
+email: buck.kerswell@gmail.com
+baseurl: /light-slides # the subpath of your site, e.g. /blog
+url: https://buchanankerswell.github.io # the base hostname & protocol for your site
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  A simple catalogue of petrographic thin sections in plane- and cross-polarised light.
 social:
-  twitter: joaomlneto
-  facebook: joaomlneto
-  instagram: joaomlneto
-  github: joaomlneto
-  linkedin:
+  github_url: https://github.com/buchanankerswell
+  researchgate_url: https://www.researchgate.net/profile/Buchanan_Kerswell
+  googlescholar_url: https://scholar.google.com/citations?hl=en&user=O7TM22kAAAAJ
+  orcid_url: https://orcid.org/0000-0003-0495-4162
+  osf_url: https://osf.io/sd5z3/
 
 # Build settings
 markdown: kramdown
