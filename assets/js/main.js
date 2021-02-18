@@ -4,7 +4,28 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
 (function($) {
+
+	$(window).scroll(function() {
+	    $('video').each(function(){
+	        if ($(this).is(":in-viewport")) {
+	            $(this)[0].play();
+	        } else {
+	            $(this)[0].pause();
+	        }
+	    })
+	})
+	
+/*	$(window).scroll(function() {
+    $('video').each(function() {
+        if ($(this).visible(true)) {
+            $(this)[0].play();
+        } else {
+            $(this)[0].pause();
+        }
+    })
+})*/
 
 	var	$window = $(window),
 		$body = $('body'),
