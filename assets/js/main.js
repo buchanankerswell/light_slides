@@ -16,7 +16,7 @@
 	        }
 	    })
 	})
-	
+
 /*	$(window).scroll(function() {
     $('video').each(function() {
         if ($(this).visible(true)) {
@@ -280,7 +280,7 @@
 				popupLoaderText: '',
 				popupSpeed: 300,
 				popupWidth: 150,
-				selector: '.thumb > a.image',
+				selector: '.thumb > video',
 				usePopupCaption: true,
 				usePopupCloser: true,
 				usePopupDefaultStyling: false,
