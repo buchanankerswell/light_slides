@@ -1,0 +1,23 @@
+# Matt's Optical petrography playlist
+PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi
+
+# Get title names from file and and write to markdown with yaml
+youtube-dl --get-filename -o '%(title)s' PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi --restrict-filenames | while IFS= read -r fname; do echo "writing file: ${fname}.md" && echo "---
+title: ${fname//_/ }
+caption:
+path-crop: assets/vids/fulls/${fname}_crop.mp4
+path-thumb: assets/vids/thumbs/${fname}_crop_thumb.mp4
+---
+" > ${fname}.md; done
+
+# Download playlist
+youtube-dl -i PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi -f 'bestvideo[ext=mp4]/bestvideo' -o '%(title)s.%(ext)s' --restrict-filenames
+
+# Crop to standard size (1080 x 1080)
+for i in *.mp4; do ffmpeg -i $i -filter:v "crop=1080:1080" ${i%.*}_crop.mp4; done
+
+# Resize to thumb size (633 x 633)
+for i in *.mp4; do ffmpeg -i $i -vf "scale=iw/1.5:ih/1.5" -y ${i%.*}_thumb.mp4; done
+
+# Remove all but cropped
+rm ^*crop.mp4

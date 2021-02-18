@@ -9,16 +9,13 @@
     {%- if social.instagram -%}<li><a href="https://www.instagram.com/{{ social.instagram | cgi_escape | escape }}" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>{%- endif -%}
     {%- if social.github -%}<li><a href="https://github.com/{{ social.github | cgi_escape | escape }}" class="icon brands fa-github"><span class="label">GitHub</span></a></li>{%- endif -%}
     {%- if social.linkedin -%}<li><a href="https://www.linkedin.com/in/{{ social.linkedin | cgi_escape | escape }}" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>{%- endif -%}--->
-    {%- if social.researchgate_url -%}<li><a href="{{ site.researchgate_url }}" class="ai ai-researchgate-square ai-2x" target="_blank"></a></li>{%- endif -%}
-    {%- if social.googlescholar_url -%}<li><a href="{{ site.googlescholar_url }}" class="ai ai-google-scholar-square ai-2x" target="_blank"></a></li>{%- endif -%}
-    {%- if social.orcid_url -%}<li><a href="{{ site.orcid_url }}" class="ai ai-orcid-square ai-2x" target="_blank"></a></li>{%- endif -%}
-    {%- if social.osf_url -%}<li><a href="{{ site.osf_url }}" class="ai ai-osf-square ai-2x" target="_blank"></a></li>{%- endif -%}
-    {%- if social.github_url -%}<li><a href="{{ site.github_url }}" class="icon fa-github-square fa-2x" target="_blank"></a></li>{%- endif -%}
+    {%- if social.github_url -%}<li><a href="{{ social.github_url }}" class="fab fa-github-square fa-2x" target="_blank"></a></li>{%- endif -%}
+    {%- if social.researchgate_url -%}<li><a href="{{ social.researchgate_url }}" class="ai ai-researchgate-square ai-2x" target="_blank"></a></li>{%- endif -%}
+    {%- if social.googlescholar_url -%}<li><a href="{{ social.googlescholar_url }}" class="ai ai-google-scholar-square ai-2x" target="_blank"></a></li>{%- endif -%}
+    {%- if social.orcid_url -%}<li><a href="{{ social.orcid_url }}" class="ai ai-orcid-square ai-2x" target="_blank"></a></li>{%- endif -%}
+    {%- if social.osf_url -%}<li><a href="{{ social.osf_url }}" class="ai ai-osf-square ai-2x" target="_blank"></a></li>{%- endif -%}
   </ul>
 </section>
-
-
-
 
 <!-- {%- assign social = site.minima.social_links -%}
 
