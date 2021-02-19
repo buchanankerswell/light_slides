@@ -134,6 +134,13 @@
 			}
 		}
 
+		// Stop touch from copy/save/select/etc
+
+		.hover {
+			-webkit-user-select: none;
+			-webkit-touch-callout: none;
+		}
+
 		// Default.
 			@include thumb(
 				_misc(main-layout, default, rows),
