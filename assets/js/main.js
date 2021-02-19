@@ -55,6 +55,29 @@
 
   }
 
+  // Play/pause autoplay
+
+  // On mousever
+  $(document).ready(function() {
+    $('video').mouseover(function() {
+      $(this).get(0).play();
+    })
+    $('video').mouseout(function() {
+      $(this).get(0).pause();
+    })
+  });
+
+  // Mobile
+  // On mouseover mobile
+  $(document).ready(function() {
+    $('video').on('touchstart', function() {
+      $(this).get(0).play();
+    });
+    $('video').on('touchend', function() {
+      $(this).get(0).pause();
+    });
+  });
+
   // Scroll back to top.
   $window.scrollTop(0);
 
@@ -184,30 +207,6 @@
       });
 
   });
-
-  // Play/pause autoplay
-
-  // On mousever
-  $('video').mouseover(function() {
-    $(this).get(0).play();
-  })
-  $('video').mouseout(function() {
-    $(this).get(0).pause();
-  })
-
-  // Mobile
-
-  if($body.hasClass('touch')) {
-    // On mouseover mobile
-    $(document).ready(function() {
-      $('video').on('touchstart', function() {
-        $(this).get(0).play();
-      });
-      $('video').on('touchend', function() {
-        $(this).get(0).pause();
-      });
-    });
-  }
 
   // Footer.
   var $footer = $('#footer');
