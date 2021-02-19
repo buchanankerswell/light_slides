@@ -24,8 +24,11 @@ youtube-dl -i PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi -f 'bestvideo[ext=mp4]/bestvide
 # Crop to standard size (1080 x 1080)
 for i in *.mp4; do ffmpeg -i $i -filter:v "crop=1080:1080" ${i%.*}_crop.mp4; done
 
-# Resize to thumb size (633 x 633)
+# Resize to thumb size (720 x 720)
 for i in *.mp4; do ffmpeg -i $i -vf "scale=iw/1.5:ih/1.5" -y ${i%.*}_thumb.mp4; done
+
+# Compress to 'visually loseless' **** Does not work ****
+for i in *.mp4; do ffmpeg -i $i -c:v libx264 -preset veryslow -crf 18 ${i%.*}_compressed.mp4; done
 
 # Remove all but cropped
 rm ^*crop.mp4
