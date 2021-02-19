@@ -7,13 +7,6 @@
 
 (function($) {
 
-  /*$('video').mouseover(function() {
-    $(this).get(0).play();
-  })
-  $('video').mouseout(function() {
-    $(this).get(0).pause();
-  })*/
-
   var $window = $(window),
     $body = $('body'),
     $wrapper = $('#wrapper');
@@ -192,6 +185,28 @@
 
   });
 
+  // Play/pause autoplay
+
+  if($body.hasClass('touch')) {
+    // On mouseover mobile
+    $(document).ready(function() {
+      $('video').on('touchstart', function() {
+        $(this).get(0).play();
+      });
+      $('video').on('touchend', function() {
+        $(this).get(0).pause();
+      });
+    });
+  } else {
+    // On mousever
+    $('video').mouseover(function() {
+      $(this).get(0).play();
+    })
+    $('video').mouseout(function() {
+      $(this).get(0).pause();
+    })
+  }
+
   // Footer.
   var $footer = $('#footer');
 
@@ -262,7 +277,7 @@
     fadeSpeed: 300,
     onPopupClose: function() {
       $body.removeClass('modal-active');
-      $(window).scroll(function() {
+      /*$(window).scroll(function() {
         $('video').each(function() {
           if ($(this).is(":in-viewport") && !$body.hasClass('modal-active')) {
             $(this)[0].play();
@@ -270,13 +285,13 @@
             $(this)[0].pause();
           }
         })
-      })
+      })*/
     },
     onPopupOpen: function() {
       $body.addClass('modal-active');
-      $('video').each(function() {
+      /*$('video').each(function() {
         $(this)[0].pause();
-      })
+      })*/
     },
     overlayOpacity: 0,
     popupCloserText: '',
