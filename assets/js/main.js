@@ -59,23 +59,26 @@
 
   // On mousever
   $(document).ready(function() {
+    $('video').get(0).pause();
     $('video').mouseover(function() {
       $(this).get(0).play();
-    })
+    });
+    $('video').get(0).pause();
     $('video').mouseout(function() {
       $(this).get(0).pause();
-    })
+    });
   });
 
   // Mobile
   // On mouseover mobile
   $(document).ready(function() {
-    $('video').on('touchmove', function() {
+    $('video').get(0).pause();
+    $('video').on('touchstart', function() {
       $(this).get(0).play();
     });
-    /*$('video').on('touchend', function() {
+    $('video').on('touchend', function() {
       $(this).get(0).pause();
-    });*/
+    });
   });
 
   // Scroll back to top.
