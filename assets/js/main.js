@@ -187,6 +187,16 @@
 
   // Play/pause autoplay
 
+  // On mousever
+  $('video').mouseover(function() {
+    $(this).get(0).play();
+  })
+  $('video').mouseout(function() {
+    $(this).get(0).pause();
+  })
+
+  // Mobile
+
   if($body.hasClass('touch')) {
     // On mouseover mobile
     $(document).ready(function() {
@@ -197,14 +207,6 @@
         $(this).get(0).pause();
       });
     });
-  } else {
-    // On mousever
-    $('video').mouseover(function() {
-      $(this).get(0).play();
-    })
-    $('video').mouseout(function() {
-      $(this).get(0).pause();
-    })
   }
 
   // Footer.
