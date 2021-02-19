@@ -35,10 +35,10 @@
     $window.on('load', function() {
       window.setTimeout(function() {
         $body.removeClass('is-preload');
-        $('video').each(function() {
-          $(this).get(0).pause();
-        });
-      }, 100);
+      }
+      $('video').each(function() {
+        $(this).get(0).pause();
+      });, 100);
     });
 
     // Prevent transitions/animations on resize.
