@@ -70,12 +70,12 @@
   // Mobile
   // On mouseover mobile
   $(document).ready(function() {
-    $('video').on('touchstart', function() {
+    $('video').on('touchmove', function() {
       $(this).get(0).play();
     });
-    $('video').on('touchend', function() {
+    /*$('video').on('touchend', function() {
       $(this).get(0).pause();
-    });
+    });*/
   });
 
   // Scroll back to top.
