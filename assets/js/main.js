@@ -35,7 +35,9 @@
     $window.on('load', function() {
       window.setTimeout(function() {
         $body.removeClass('is-preload');
-        $('video').get(0).pause();
+        $('video').each(function() {
+          $(this).get(0).pause();
+        });
       }, 100);
     });
 
