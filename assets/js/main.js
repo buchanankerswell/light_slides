@@ -7,6 +7,13 @@
 
 (function($) {
 
+  /*$('video').mouseover(function() {
+    $(this).get(0).play();
+  })
+  $('video').mouseout(function() {
+    $(this).get(0).pause();
+  })*/
+
   var $window = $(window),
     $body = $('body'),
     $wrapper = $('#wrapper');
