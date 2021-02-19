@@ -35,6 +35,7 @@
     $window.on('load', function() {
       window.setTimeout(function() {
         $body.removeClass('is-preload');
+        $('video').get(0).pause();
       }, 100);
     });
 
@@ -59,7 +60,6 @@
 
   // On mousever
   $(document).ready(function() {
-    $('video').get(0).pause();
     $('video').mouseover(function() {
       $(this).get(0).play();
     });
@@ -70,9 +70,8 @@
   });
 
   // Mobile
-  // On mouseover mobile
+  // On touch (mobile)
   $(document).ready(function() {
-    $('video').get(0).pause();
     $('video').on('touchstart', function() {
       $(this).get(0).play();
     });
