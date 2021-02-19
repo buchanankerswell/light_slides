@@ -264,7 +264,7 @@
       $body.removeClass('modal-active');
       $(window).scroll(function() {
         $('video').each(function() {
-          if ($(this).is(":in-viewport")) {
+          if ($(this).is(":in-viewport") && !$body.hasClass('modal-active')) {
             $(this)[0].play();
           } else {
             $(this)[0].pause();

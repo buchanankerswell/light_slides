@@ -12,7 +12,7 @@
       <div id="main">
         {% for image in site.images %}
         <article class="thumb">
-          <a href="{{ image.yt-url }}" data-poptrox="youtube, 1280x720">
+          <a id='popup' href="{{ image.yt-url }}" data-poptrox="youtube, 1280x720">
             <video muted playsinline autoplay loop width="100%">
               <source src="{{ site.baseurl }}/{{ image.path-thumb }}" type="video/mp4">
             </video>
