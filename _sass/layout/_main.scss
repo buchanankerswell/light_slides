@@ -16,6 +16,11 @@
 		@include vendor('display', 'flex');
 		@include vendor('flex-wrap', 'wrap');
 		-webkit-tap-highlight-color: rgba(255,255,255,0);
+		// Prevent user touch selection
+		-moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 
 		.thumb {
 			@include vendor('transition', (
