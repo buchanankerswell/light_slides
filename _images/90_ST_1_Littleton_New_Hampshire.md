@@ -1,7 +1,7 @@
 ---
 title: 90 ST 1 Littleton New Hampshire
 caption:
-path-crop: assets/vids/fulls/90_ST_1_Littleton_New_Hampshire_crop.mp4
-path-thumb: assets/vids/thumbs/90_ST_1_Littleton_New_Hampshire_crop_thumb.mp4
+path-vid: assets/vids/90_ST_1_Littleton_New_Hampshire.mp4
+path-poster: assets/images/posters/90_ST_1_Littleton_New_Hampshire.jpg
 yt-url: 'https://youtu.be/IiKLd7egoH4'
 ---

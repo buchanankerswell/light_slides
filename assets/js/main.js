@@ -9,6 +9,7 @@
 
   var $window = $(window),
     $body = $('body'),
+    $video = $('video'),
     $wrapper = $('#wrapper');
 
   // Breakpoints.
@@ -55,25 +56,25 @@
 
   }
 
-  // Play/pause autoplay
-
-  // On mousever
-  $(document).ready(function() {
-    $('video').mouseover(function() {
-      $(this).get(0).play();
-    });
-    $('video').mouseout(function() {
-      $(this).get(0).pause();
-    });
+  // Playback speed
+  $("#speed").click(function() {
+    document.getElementById('thumb').defaultPlaybackRate = 3.0;
+    document.getElementById('thumb').load();
   });
 
-  // Mobile
-  // On touch (mobile)
   $(document).ready(function() {
-    $('video').on('touchstart', function() {
+    // Play/pause on mousever
+    $video.mouseover(function() {
       $(this).get(0).play();
     });
-    $('video').on('touchend', function() {
+    $video.mouseout(function() {
+      $(this).get(0).pause();
+    });
+    // Play/pause on touch
+    $video.on('touchstart', function() {
+      $(this).get(0).play();
+    });
+    $video.on('touchend', function() {
       $(this).get(0).pause();
     });
   });
@@ -278,21 +279,9 @@
     fadeSpeed: 300,
     onPopupClose: function() {
       $body.removeClass('modal-active');
-      /*$(window).scroll(function() {
-        $('video').each(function() {
-          if ($(this).is(":in-viewport") && !$body.hasClass('modal-active')) {
-            $(this)[0].play();
-          } else {
-            $(this)[0].pause();
-          }
-        })
-      })*/
     },
     onPopupOpen: function() {
       $body.addClass('modal-active');
-      /*$('video').each(function() {
-        $(this)[0].pause();
-      })*/
     },
     overlayOpacity: 0,
     popupCloserText: '',

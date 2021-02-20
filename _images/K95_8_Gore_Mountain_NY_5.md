@@ -1,7 +1,7 @@
 ---
 title: K95 8 Gore Mountain NY 5
 caption:
-path-crop: assets/vids/fulls/K95_8_Gore_Mountain_NY_5_crop.mp4
-path-thumb: assets/vids/thumbs/K95_8_Gore_Mountain_NY_5_crop_thumb.mp4
+path-vid: assets/vids/K95_8_Gore_Mountain_NY_5.mp4
+path-poster: assets/images/posters/K95_8_Gore_Mountain_NY_5.jpg
 yt-url: 'https://youtu.be/Idai5r4oC2Y'
 ---

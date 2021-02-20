@@ -1,7 +1,7 @@
 ---
 title: AS01 41b Annapurna Nepal
 caption:
-path-crop: assets/vids/fulls/AS01_41b_Annapurna_Nepal_crop.mp4
-path-thumb: assets/vids/thumbs/AS01_41b_Annapurna_Nepal_crop_thumb.mp4
+path-vid: assets/vids/AS01_41b_Annapurna_Nepal.mp4
+path-poster: assets/images/posters/AS01_41b_Annapurna_Nepal.jpg
 yt-url: 'https://youtu.be/5CCi0Ptlc80'
 ---

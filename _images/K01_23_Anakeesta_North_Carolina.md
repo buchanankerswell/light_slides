@@ -1,7 +1,7 @@
 ---
 title: K01 23 Anakeesta North Carolina
 caption:
-path-crop: assets/vids/fulls/K01_23_Anakeesta_North_Carolina_crop.mp4
-path-thumb: assets/vids/thumbs/K01_23_Anakeesta_North_Carolina_crop_thumb.mp4
+path-vid: assets/vids/K01_23_Anakeesta_North_Carolina.mp4
+path-poster: assets/images/posters/K01_23_Anakeesta_North_Carolina.jpg
 yt-url: 'https://youtu.be/nXvmGLPQPF4'
 ---

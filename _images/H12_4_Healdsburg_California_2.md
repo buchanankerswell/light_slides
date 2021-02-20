@@ -1,7 +1,7 @@
 ---
 title: H12 4 Healdsburg California 2
 caption:
-path-crop: assets/vids/fulls/H12_4_Healdsburg_California_2_crop.mp4
-path-thumb: assets/vids/thumbs/H12_4_Healdsburg_California_2_crop_thumb.mp4
+path-vid: assets/vids/H12_4_Healdsburg_California_2.mp4
+path-poster: assets/images/posters/H12_4_Healdsburg_California_2.jpg
 yt-url: 'https://youtu.be/IQz6UTGPmg8'
 ---

@@ -1,7 +1,7 @@
 ---
 title: TCE8 origin unknown 2
 caption:
-path-crop: assets/vids/fulls/TCE8_origin_unknown_2_crop.mp4
-path-thumb: assets/vids/thumbs/TCE8_origin_unknown_2_crop_thumb.mp4
+path-vid: assets/vids/TCE8_origin_unknown_2.mp4
+path-poster: assets/images/posters/TCE8_origin_unknown_2.jpg
 yt-url: 'https://youtu.be/xI-GOBxaG3c'
 ---
