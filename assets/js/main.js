@@ -59,9 +59,6 @@
 
   // On mousever
   $(document).ready(function() {
-    $('video').each(function() {
-      $(this).get(0).pause()
-    });
     $('video').mouseover(function() {
       $(this).get(0).play();
     });
@@ -73,9 +70,6 @@
   // Mobile
   // On touch (mobile)
   $(document).ready(function() {
-    $('video').each(function() {
-      $(this).get(0).pause()
-    });
     $('video').on('touchstart', function() {
       $(this).get(0).play();
     });
