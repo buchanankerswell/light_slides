@@ -56,12 +56,6 @@
 
   }
 
-  // Playback speed
-  $("#speed").click(function() {
-    document.getElementById('thumb').defaultPlaybackRate = 3.0;
-    document.getElementById('thumb').load();
-  });
-
   $(document).ready(function() {
     // Play/pause on mousever
     $video.mouseover(function() {
