@@ -33,9 +33,6 @@
 
     // Play initial animations on page load.
     $window.on('load', function() {
-      $('video').each(function() {
-        $(this).get(0).pause()
-      });
       window.setTimeout(function() {
         $body.removeClass('is-preload')
       }, 100);
@@ -62,10 +59,12 @@
 
   // On mousever
   $(document).ready(function() {
+    $('video').each(function() {
+      $(this).get(0).pause()
+    });
     $('video').mouseover(function() {
       $(this).get(0).play();
     });
-    $('video').get(0).pause();
     $('video').mouseout(function() {
       $(this).get(0).pause();
     });
@@ -74,6 +73,9 @@
   // Mobile
   // On touch (mobile)
   $(document).ready(function() {
+    $('video').each(function() {
+      $(this).get(0).pause()
+    });
     $('video').on('touchstart', function() {
       $(this).get(0).play();
     });
