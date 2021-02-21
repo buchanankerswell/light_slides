@@ -16,11 +16,6 @@
 		@include vendor('display', 'flex');
 		@include vendor('flex-wrap', 'wrap');
 		-webkit-tap-highlight-color: rgba(255,255,255,0);
-		// Prevent user touch selection
-		-moz-user-select: none;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
 
 		.thumb {
 			@include vendor('transition', (
@@ -130,6 +125,14 @@
 				height: ((100vw / $columns) + 2vw);
 				min-height: $minHeight;
 				width: (100% / $columns);
+
+				// Prevent user touch selection
+				-webkit-touch-callout: none;
+		    -webkit-user-select: none;
+				-khtml-user-select: none;
+				-moz-user-select: none;
+		    -ms-user-select: none;
+		    user-select: none;
 
 				@for $i from 1 through (($rows * $columns)) {
 					&:nth-child(#{$i}) {

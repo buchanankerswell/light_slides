@@ -56,6 +56,8 @@
 
   }
 
+  // Video play/pause
+
   $(document).ready(function() {
     // Play/pause on mousever
     $video.mouseover(function() {
