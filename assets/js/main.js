@@ -65,6 +65,7 @@
     });
     $video.mouseout(function() {
       $(this).get(0).pause();
+      $(this).get(0).currentTime=0.1;
     });
     // Play/pause on touch
     $video.on('touchstart', function() {
@@ -72,6 +73,7 @@
     });
     $video.on('touchend', function() {
       $(this).get(0).pause();
+      $(this).get(0).currentTime=0.1;
     });
   });
 
