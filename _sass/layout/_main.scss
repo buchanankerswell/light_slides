@@ -131,6 +131,14 @@
 				min-height: $minHeight;
 				width: (100% / $columns);
 
+				// Prevent user touch selection
+				-webkit-touch-callout: none;
+		    -webkit-user-select: none;
+				-khtml-user-select: none;
+				-moz-user-select: none;
+		    -ms-user-select: none;
+		    user-select: none;
+
 				@for $i from 1 through (($rows * $columns)) {
 					&:nth-child(#{$i}) {
 						@include vendor('transition-delay', '#{$baseDelay + ($i * _duration(thumb))}');
