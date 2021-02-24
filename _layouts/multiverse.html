@@ -1,44 +1,46 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+{%- include head.html -%}
 
-  <body class="is-preload">
+<body class="is-preload">
 
-    <div id="wrapper">
+  <div id="wrapper">
 
-      {%- include header.html -%}
+    <span class="loading-text">Loading {{ site.images.size }} videos ... Have a sip of café</span>
 
-      <div id="main">
-        {% for image in site.images %}
-        <article class="thumb">
-          <a href="{{ image.yt-url }}" data-poptrox="youtube, 1280x720">
-            <video muted playsinline loop preload="auto" width="100%" poster="{{ site.baseurl }}/{{ image.path-poster }}">
-              <source src="{{ site.baseurl }}/{{ image.path-vid }}" type="video/mp4">
-            </video>
-          </a>
-          <h2>{{ image.title }}</h2>
-          <p>{{ image.caption }}</p>
-        </article>
-        {% endfor %}
+    {%- include header.html -%}
 
-        <!-- no idea where to put this... -->
-        <!-- {{ content }} -->
-      </div>
+    <div id="main">
+      {% for image in site.images %}
+      <article class="thumb">
+        <a href="{{ image.yt-url }}" data-poptrox="youtube, 1280x720">
+          <video muted playsinline loop preload="auto" width="100%" poster="{{ site.baseurl }}/{{ image.path-poster }}">
+            <source src="{{ site.baseurl }}/{{ image.path-vid }}" type="video/mp4">
+          </video>
+        </a>
+        <h2>{{ image.title }}</h2>
+        <p>{{ image.caption }}</p>
+      </article>
+      {% endfor %}
 
-      {%- include footer.html -%}
-
+      <!-- no idea where to put this... -->
+      <!-- {{ content }} -->
     </div>
 
-    <script src="{{ 'assets/js/jquery.min.js' | relative_url }}"></script>
-    <script src="{{ 'assets/js/jquery.poptrox.min.js' | relative_url }}"></script>
-    <script src="{{ 'assets/js/browser.min.js' | relative_url }}"></script>
-    <script src="{{ 'assets/js/isInViewport.min.js' | relative_url }}"></script>
-    <script src="{{ 'assets/js/jquery.visible.min.js' | relative_url }}"></script>
-    <script src="{{ 'assets/js/breakpoints.min.js' | relative_url }}"></script>
-    <script src="{{ 'assets/js/util.js' | relative_url }}"></script>
-    <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
+    {%- include footer.html -%}
 
-  </body>
+  </div>
+
+  <script src="{{ 'assets/js/jquery.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/jquery.poptrox.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/browser.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/isInViewport.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/jquery.visible.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/breakpoints.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/util.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
+
+</body>
 
 </html>
