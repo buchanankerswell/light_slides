@@ -307,4 +307,12 @@
     $main[0]._poptrox.windowMargin = 50;
   });
 
+  // Set asynchronous call to stop safari from timeout
+  $.ajax({
+    url: 'https://buchanankerswell.github.io/light-slides/',
+    async: true,
+    dataType: 'html',
+    timeout: 300000
+});
+
 })(jQuery);
