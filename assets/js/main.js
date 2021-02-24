@@ -309,7 +309,7 @@
 
   // Set asynchronous call to stop safari from timeout
   $.ajax({
-    url: 'https://buchanankerswell.github.io/light-slides/',
+    url: 'https://buchanankerswell.com/light-slides/',
     async: true,
     dataType: 'html',
     timeout: 300000
