@@ -9,7 +9,7 @@ echo $fg_bold[green] "https://www.youtube.com/playlist?list=PL8dDgAwuMuPTXCj0MPO
 
 # Last script run (last download)
 read -r lastdl < run-date.txt
-echo $fg_bold[green] "downloading videos in best .mp4 format"
+echo $fg_bold[green] "downloading videos in .mp4 format and 480p"
 echo $fg_bold[green] "starting new playlist download from (yyyymmdd): $lastdl"
 
 # Getting youtube titles and urls
@@ -25,20 +25,20 @@ else
 fi
 
 # Download playlist
-youtube-dl --dateafter $lastdl -f 'bestvideo[ext=mp4]/bestvideo' -i PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi -o '%(title)s.%(ext)s' --restrict-filenames
+youtube-dl --dateafter $lastdl -f 135 -i PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi -o '%(title)s.%(ext)s' --restrict-filenames
 
-# Crop videos that are not square
-echo $fg_bold[green] "cropping videos that are not square to 1080x1080"
-for i in *.mp4; do
-  if [[ $(ffprobe -v error -select_streams v:0 -show_entries stream=width -of csv=s=x:p=0 $i) !=
-        $(ffprobe -v error -select_streams v:0 -show_entries stream=height -of csv=s=x:p=0 $i) ]]; then
-          echo $fg_bold[magenta] "cropping ${i%.*} to 1080x1080" &&
-          ffmpeg -i $i -filter:v "crop=1080:1080" -preset slow ${i%.*}_crop.mp4;
-  fi
-done
-
-# Remove "_crop" from filename
-rename -f 's/_crop//' *.mp4
+# # Crop videos that are not square
+# echo $fg_bold[green] "cropping videos that are not square to 1080x1080"
+# for i in *.mp4; do
+#   if [[ $(ffprobe -v error -select_streams v:0 -show_entries stream=width -of csv=s=x:p=0 $i) !=
+#         $(ffprobe -v error -select_streams v:0 -show_entries stream=height -of csv=s=x:p=0 $i) ]]; then
+#           echo $fg_bold[magenta] "cropping ${i%.*} to 1080x1080" &&
+#           ffmpeg -i $i -filter:v "crop=1080:1080" -preset slow ${i%.*}_crop.mp4;
+#   fi
+# done
+#
+# # Remove "_crop" from filename
+# rename -f 's/_crop//' *.mp4
 
 # Get thumbnails for video poster image
 echo $fg_bold[green] "extracting first frames for thumbnails"
