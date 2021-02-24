@@ -13,7 +13,7 @@
         {% for image in site.images %}
         <article class="thumb">
           <a href="{{ image.yt-url }}" data-poptrox="youtube, 1280x720">
-            <video muted playsinline loop width="100%" poster="{{ site.baseurl }}/{{ image.path-poster }}">
+            <video muted playsinline loop preload="none" width="100%" poster="{{ site.baseurl }}/{{ image.path-poster }}">
               <source src="{{ site.baseurl }}/{{ image.path-vid }}" type="video/mp4">
             </video>
           </a>
