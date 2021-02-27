@@ -59,8 +59,8 @@ for (( i = 1; i <= $#fname; i++ )) do (
   echo "---
 title: ${fname[i]//_/ }
 caption:
-path-vid: assets/vids/${fname[i]}.mp4
-path-poster: assets/images/posters/${fname[i]}.jpg
+path-vid: 'assets/vids/${fname[i]}.mp4'
+path-poster: 'assets/images/posters/${fname[i]}.jpg'
 yt-url: '$url[i]'
 ---" > _images/$fname[i].md
 )
