@@ -61,15 +61,6 @@
 		visibility: hidden;
 		width: 2em;
 
-		.loading-text {
-			position: absolute;
-			top: 0;
-			left: 0;
-			margin: auto;
-			text-align: center;
-			visibility: hidden;
-			opacity: 0;
-		}
 	}
 
 	body.is-preload & {
@@ -82,10 +73,10 @@
 		}
 
 		.loading-text {
-			position: fixed;
-			top: 55%;
-			left: 40%;
-			text-align: right;
+			position: absolute;
+			top: 55vh;
+			width: 100%;
+			text-align: center;
 			visibility: visible;
 		}
 	}

@@ -7,25 +7,23 @@
 
   <div id="wrapper">
 
-    <span class="loading-text">Loading {{ site.images.size }} videos ... Have a sip of café</span>
+    <span class="loading-text">Loading {{ site.slides.size }} videos ... have a sip of café</span>
 
     {%- include header.html -%}
 
     <div id="main">
-      {% for image in site.images %}
+      {% for slide in site.slides %}
       <article class="thumb">
-        <a href="{{ image.yt-url }}" data-poptrox="youtube, 1280x720">
-          <video muted playsinline loop preload="auto" width="100%" poster="{{ site.baseurl }}/{{ image.path-poster }}">
-            <source src="{{ site.baseurl }}/{{ image.path-vid }}" type="video/mp4">
+        <a href="{{ slide.yt-url }}" data-poptrox="youtube, 1280x720">
+          <video muted playsinline loop preload="auto" width="100%" poster="{{ site.baseurl }}/{{ slide.path-poster }}">
+            <source src="{{ site.baseurl }}/{{ slide.path-vid }}" type="video/mp4">
           </video>
         </a>
-        <h2>{{ image.title }}</h2>
-        <p>{{ image.caption }}</p>
+        <h2>{{ slide.title }}</h2>
+        <p>{{ slide.caption }}</p>
       </article>
       {% endfor %}
 
-      <!-- no idea where to put this... -->
-      <!-- {{ content }} -->
     </div>
 
     {%- include footer.html -%}
