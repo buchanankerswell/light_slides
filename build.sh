@@ -17,7 +17,7 @@ echo "\ndownloading videos in .mp4 format and 480p"
 # fetch n random videos from playlist
 NVIDS=12
 PLAYLIST="PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi"
-PLAYLIST_TITLES=$(youtube-dl -J --flat-playlist ${PLAYLIST} | jq '.entries[] | select(.duration < 80)' | jq '.title')
+PLAYLIST_TITLES=$(youtube-dl -J --flat-playlist ${PLAYLIST} | jq '.entries[] | select(.duration < 40)' | jq '.title')
 SHUF=$(echo $PLAYLIST_TITLES | shuf -n $NVIDS)
 echo $SHUF > titles.txt
 
@@ -34,20 +34,20 @@ fi
 youtube-dl --restrict-filenames --default-search 'ytsearch' -a 'titles.txt' -f 135 -o '%(title)s.%(ext)s'
 
 # crop videos that are not square
-echo "\ncropping videos that are not square to 480x480"
-for i in *.mp4; do
-  if [[ $(ffprobe -v error -select_streams v:0 -show_entries stream=width -of csv=s=x:p=0 ${i}) != $(ffprobe -v error -select_streams v:0 -show_entries stream=height -of csv=s=x:p=0 ${i}) ]]; then
-    echo "cropping ${i%.*} to 480x480"
-    ffmpeg -i ${i} -filter:v "crop=480:480" -preset veryslow ${i%.*}_crop.mp4;
-  else
-    echo "${i} is square"
-  fi
-done
-unset i
-
+# echo "\ncropping videos that are not square to 480x480"
+# for i in *.mp4; do
+#   if [[ $(ffprobe -v error -select_streams v:0 -show_entries stream=width -of csv=s=x:p=0 ${i}) != $(ffprobe -v error -select_streams v:0 -show_entries stream=height -of csv=s=x:p=0 ${i}) ]]; then
+#     echo "cropping ${i%.*} to 480x480"
+#     ffmpeg -i ${i} -filter:v "crop=480:480" -preset veryslow ${i%.*}_crop.mp4;
+#   else
+#     echo "${i} is square"
+#   fi
+# done
+# unset i
+#
 # remove "_crop" from filename
-rename -f 's/_crop//' *.mp4
-
+# rename -f 's/_crop//' *.mp4
+#
 # get thumbnails for video poster image
 echo "\nextracting first frames for thumbnails"
 for i in *.mp4; do
