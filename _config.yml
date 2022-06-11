@@ -5,7 +5,7 @@ baseurl: /light-slides # the subpath of your site, e.g. /blog
 url: https://buchanankerswell.github.io # the base hostname & protocol for your site
 description: >-
   A simple catalogue of petrographic thin sections in plane- and cross-polarized light. Videos thanks to <a href="https://www.youtube.com/playlist?list=PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi">Matt Kohn</a>, Boise State University.
-tagline: "A random selection of thin sections from Matt Kohn's library"
+tagline: "A random sampling of thin sections from Matt Kohn's library"
 social:
   name: Buchanan Kerswell
   links:
