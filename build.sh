@@ -15,26 +15,23 @@ echo "\ndownloading videos in .mp4 format and 480p"
 
 # create array of comma separated random numbers to
 # fetch n random videos from playlist
-PLAYLIST="PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi"
-PLAYLIST_LENGTH=$(youtube-dl -J --flat-playlist ${PLAYLIST} | jq '.entries | length')
 NVIDS=12
-declare -a ivids
-for (( i=1; i<=${NVIDS}; i++ )); do ivids[${i}]=$((1 + $RANDOM % ${PLAYLIST_LENGTH})); done
-unset i
-printf -v vidarray '%s,' "${ivids[@]}"
+PLAYLIST="PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi"
+PLAYLIST_TITLES=$(youtube-dl -J --flat-playlist ${PLAYLIST} | jq '.entries[] | select(.duration < 80)' | jq '.title')
+SHUF=$(echo $PLAYLIST_TITLES | shuf -n $NVIDS)
+echo $SHUF > titles.txt
 
 # get youtube titles and urls
-echo "\nfetching ${NVIDS} random youtube video titles from playlist"
-fname=("${(@f)$(youtube-dl --get-filename --restrict-filenames --playlist-items "${vidarray%,}" -o '%(title)s' ${PLAYLIST})}")
-url=("${(@f)$(youtube-dl -j --flat-playlist --playlist-items "${vidarray%,}" ${PLAYLIST} | jq -r '.id' | sed 's_^_https://youtu.be/_')}")
-if [[ $fname ]]; then
-  echo "\ngetting ${#fname} videos:"
-  printf '%s\n' "${fname[@]}"
+PLAYLIST_FNAMES=("${(@f)$(youtube-dl --get-filename --restrict-filenames --default-search 'ytsearch' -a 'titles.txt' -o '%(title)s')}")
+PLAYLIST_URLS=("${(@f)$(youtube-dl -j --default-search 'ytsearch' -a 'titles.txt' | jq -r '.id' | sed 's_^_https://youtu.be/_')}")
+if [[ $PLAYLIST_FNAMES ]]; then
+  echo "\ngetting ${#PLAYLIST_FNAMES} videos:"
+  printf '%s\n' "${PLAYLIST_FNAMES[@]}"
   echo ""
 fi
 
 # download playlist
-youtube-dl --restrict-filenames --playlist-items "${vidarray%,}" -f 135 -i ${PLAYLIST} -o '%(title)s.%(ext)s'
+youtube-dl --restrict-filenames --default-search 'ytsearch' -a 'titles.txt' -f 135 -o '%(title)s.%(ext)s'
 
 # crop videos that are not square
 echo "\ncropping videos that are not square to 480x480"
@@ -66,15 +63,15 @@ mv *.mp4 assets/vids/
 
 # Write markdown yaml's
 echo "\nwriting markdown pages"
-for (( i=1; i<=${#fname}; i++ )) do (
-  echo "writing yaml for: ${fname[i]}"
+for (( i=1; i<=${#PLAYLIST_FNAMES}; i++ )) do (
+  echo "writing yaml for: ${PLAYLIST_FNAMES[i]}"
   echo "---
-title: ${fname[i]//_/ }
+title: ${PLAYLIST_FNAMES[i]//_/ }
 caption:
-path-vid: 'assets/vids/${fname[i]}.mp4'
-path-poster: 'assets/images/${fname[i]}.jpg'
-yt-url: '$url[i]'
----" > _slides/$fname[i].md
+path-vid: 'assets/vids/${PLAYLIST_FNAMES[i]}.mp4'
+path-poster: 'assets/images/${PLAYLIST_FNAMES[i]}.jpg'
+yt-url: '$PLAYLIST_URLS[i]'
+---" > _slides/$PLAYLIST_FNAMES[i].md
 )
 done
 
