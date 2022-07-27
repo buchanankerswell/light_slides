@@ -1,13 +1,13 @@
 # Light-Slides
-This repository includes a script (`build.sh`) that uses [`youtube-dl`](https://youtube-dl.org) to download a number of random videos from Matt Kohn's personal research collection and write a static website with [jekyll](https://jekyllrb.com).
+This repository includes a script `build.sh` that downloads a number of random petrographic videos and writes a static website with [jekyll](https://jekyllrb.com).
 
 ## Overview
 
-[Prof. Kohn](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjp-9q57pn5AhX8HjQIHesCCA8QFnoECAYQAQ&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DxSyB1KQAAAAJ%26hl%3Den&usg=AOvVaw3ywGo5FHrblLESdK2RJAMy) (Boise State University) began making [petrography videos](https://www.youtube.com/playlist?list=PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi) to substitute for hands-on microscope time in his petrology class following the COVID-19 outbreak in 2020. These videos and tutorials allow students to view optical properties of common rock-forming minerals, even without access to petrographic microscopes. The code to generate the website [Light Slides]() was built by myself to showcase these teaching materials and use in my own petrology courses.
+[Prof. Kohn](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjp-9q57pn5AhX8HjQIHesCCA8QFnoECAYQAQ&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DxSyB1KQAAAAJ%26hl%3Den&usg=AOvVaw3ywGo5FHrblLESdK2RJAMy) (Boise State University) began making [petrography videos](https://www.youtube.com/playlist?list=PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi) for his petrology class following the COVID-19 outbreak in 2020. Even if students are prohibited to use microscopes normally, these videos and tutorials allow students to view optical properties of common rock-forming minerals. The code to generate the website [Light Slides](https://buchanankerswell.com/light-slides) was built by myself to showcase these teaching materials in a nice way.
 
 ## Acknowledgment
 
-These videos and tutorials were produced from hours of careful loading and filming of petrographic slides from Matt Kohn's personal research library.
+These videos and tutorials were produced by Matt Kohn from hours of filming petrographic slides from his own personal research library.
 
 ## MIT License
 
