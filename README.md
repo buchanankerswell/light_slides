@@ -1,9 +1,9 @@
-# Light-Slides
+# Light Slides
 This repository includes a script `build.sh` that downloads a number of random petrographic videos and writes a static website with [jekyll](https://jekyllrb.com).
 
 ## Overview
 
-[Prof. Kohn](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjp-9q57pn5AhX8HjQIHesCCA8QFnoECAYQAQ&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DxSyB1KQAAAAJ%26hl%3Den&usg=AOvVaw3ywGo5FHrblLESdK2RJAMy) (Boise State University) began making [petrography videos](https://www.youtube.com/playlist?list=PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi) for his petrology class following the COVID-19 outbreak in 2020. Even if students are prohibited to use microscopes normally, these videos and tutorials allow students to view optical properties of common rock-forming minerals. The code to generate the website [Light Slides](https://buchanankerswell.com/light-slides) was built by myself to showcase these teaching materials in a nice way.
+[Prof. Kohn](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjp-9q57pn5AhX8HjQIHesCCA8QFnoECAYQAQ&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DxSyB1KQAAAAJ%26hl%3Den&usg=AOvVaw3ywGo5FHrblLESdK2RJAMy) (Boise State University) began making [petrography videos](https://www.youtube.com/playlist?list=PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi) for his petrology class following the COVID-19 outbreak in 2020. Even if students are prohibited to use microscopes normally, these videos and tutorials allow students to view optical properties of common rock-forming minerals. The code to generate the website [Light Slides](https://buchanankerswell.com/light_slides) was built by myself to showcase these teaching materials in a nice way.
 
 ## Acknowledgment
 

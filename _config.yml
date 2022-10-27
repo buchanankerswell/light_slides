@@ -1,7 +1,7 @@
 title: Light Slides
 author: Buchanan Kerswell, PhD
 email: buck.kerswell@gmail.com
-baseurl: /light-slides # the subpath of your site, e.g. /blog
+baseurl: /light_slides # the subpath of your site, e.g. /blog
 url: https://buchanankerswell.github.io # the base hostname & protocol for your site
 description: >-
   A simple catalogue of petrographic thin sections in plane- and cross-polarized light. Videos thanks to <a href="https://www.youtube.com/playlist?list=PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi">Matt Kohn</a>, Boise State University.
