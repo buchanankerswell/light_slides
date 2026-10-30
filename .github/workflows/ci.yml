@@ -1,0 +1,21 @@
+name: ci
+
+# Fast, fixture-free checks only: full verification (make build, the
+# 73-check headless-browser pass) needs raw downloads, encodes, and a
+# browser, so it stays a local step (see README).
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: python3 pipeline/check.py docs
+      - run: python3 pipeline/check_media.py
