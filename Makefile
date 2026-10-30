@@ -15,8 +15,11 @@ WHISPER_MODEL := small
 SERVE_PORT := 8811
 LOCAL_PORT := 8812
 LOCAL_TEST_DIR := /tmp/ls-local-test
-MEDIA_RELEASE := tutorial-videos-v1
-RELEASE_URL := https://github.com/buchanankerswell/light_slides/releases/download/$(MEDIA_RELEASE)
+# Media host: Cloudflare R2 public bucket (correct video/mp4 MIME + Range).
+# Override R2_REMOTE/R2_BUCKET on the make line to match your rclone setup.
+R2_REMOTE ?= r2-light-slides
+R2_BUCKET ?= light-slides-videos
+RELEASE_URL := https://pub-a271a0a11bfd40dfaf71d6e928f27eea.r2.dev
 
 # Targets
 .PHONY: run run-local verify-local test format environment fetch cues build release-media clean deep-clean help
@@ -66,9 +69,9 @@ cues:
 build:
 	@$(CONDA_PYTHON) $(PIPELINE)/build.py --raw $(RAW) --cues $(CUES) --release $(RELEASE_URL) --out $(SITE)
 
-# Upload encoded videos to the media Release (the viewer streams these; repo stays small)
+# Upload encoded videos to the R2 media bucket (the viewer streams these; repo stays small)
 release-media:
-	@gh release upload $(MEDIA_RELEASE) $(SITE)/assets/vids/*.mp4 --clobber
+	@rclone copy $(SITE)/assets/vids/ $(R2_REMOTE):$(R2_BUCKET)/ --progress
 
 # Cleanup directory
 CLEAN := $(PIPELINE)/**/__pycache__ $(CURDIR)/.pytest_cache
@@ -139,7 +142,7 @@ help:
 	@echo "  fetch        Download 54 tutorials + auto-subs into pipeline/raw"
 	@echo "  cues         Transcribe raw videos with faster-whisper into pipeline/cues"
 	@echo "  build        Encode + posters + slides.json into the docs dir"
-	@echo "  release-media Upload encoded videos to the tutorial-videos-v1 Release"
+	@echo "  release-media Upload encoded videos to the R2 media bucket"
 	@echo "  test         Validate slides.json and its referenced assets"
 	@echo "  format       Format code to 150 columns (ruff + prettier)"
 	@echo "  environment  Create Conda environment"

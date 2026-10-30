@@ -11,7 +11,7 @@ Writes:
   docs/assets/posters/<id>.jpg
 
 Usage:
-    python3 build.py --raw raw --cues cues --release https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1 --out docs
+    python3 build.py --raw raw --cues cues --release https://pub-a271a0a11bfd40dfaf71d6e928f27eea.r2.dev --out docs
 """
 
 import argparse
