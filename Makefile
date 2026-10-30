@@ -22,7 +22,7 @@ R2_BUCKET ?= light-slides-videos
 RELEASE_URL := https://pub-a271a0a11bfd40dfaf71d6e928f27eea.r2.dev
 
 # Targets
-.PHONY: run run-local verify-local test format environment fetch cues build release-media clean deep-clean help
+.PHONY: run run-local verify-local test check-media format environment fetch cues build release-media clean deep-clean help
 
 all: environment test run
 
@@ -79,6 +79,11 @@ DEEP_CLEAN := $(RAW) $(CUES)
 
 test:
 	@$(CONDA_PYTHON) $(PIPELINE)/check.py $(SITE)
+
+# Fast publish-contract checks (no conda, no video bytes): hosted-media
+# MIME + Range headers for every video URL in slides.json.
+check-media:
+	@python3 $(PIPELINE)/check_media.py
 
 format:
 	@$(CONDA_PYTHON) -m ruff format .
@@ -144,6 +149,7 @@ help:
 	@echo "  build        Encode + posters + slides.json into the docs dir"
 	@echo "  release-media Upload encoded videos to the R2 media bucket"
 	@echo "  test         Validate slides.json and its referenced assets"
+	@echo "  check-media  Verify hosted videos serve video/mp4 with ranges"
 	@echo "  format       Format code to 150 columns (ruff + prettier)"
 	@echo "  environment  Create Conda environment"
 	@echo "  clean        Cleanup unnecessary files and directories (safe)"
