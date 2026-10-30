@@ -52,7 +52,7 @@ Rebuild the site from the source videos:
 make fetch          # download tutorials + auto-subs into pipeline/raw
 make cues           # transcribe audio with faster-whisper into pipeline/cues
 make build          # encode + posters + slides.json into the docs dir
-make release-media  # upload encoded videos to the media Release
+make release-media  # upload encoded videos to the R2 media bucket
 ```
 
 Run `make help` for the full target list and `make test` to validate the built data.
