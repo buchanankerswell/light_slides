@@ -1,0 +1,875 @@
+[
+ {
+  "start": 0.0,
+  "end": 4.98,
+  "text": "I have only a couple of rocks with clintonite, and the clintonite is kind of like biotite,",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.72,
+    "text": "I"
+   },
+   {
+    "start": 0.72,
+    "end": 0.92,
+    "text": "have"
+   },
+   {
+    "start": 0.92,
+    "end": 1.12,
+    "text": "only"
+   },
+   {
+    "start": 1.12,
+    "end": 1.28,
+    "text": "a"
+   },
+   {
+    "start": 1.28,
+    "end": 1.48,
+    "text": "couple"
+   },
+   {
+    "start": 1.48,
+    "end": 1.66,
+    "text": "of"
+   },
+   {
+    "start": 1.66,
+    "end": 1.9,
+    "text": "rocks"
+   },
+   {
+    "start": 1.9,
+    "end": 2.2,
+    "text": "with"
+   },
+   {
+    "start": 2.2,
+    "end": 2.86,
+    "text": "clintonite,"
+   },
+   {
+    "start": 2.96,
+    "end": 3.06,
+    "text": "and"
+   },
+   {
+    "start": 3.06,
+    "end": 3.16,
+    "text": "the"
+   },
+   {
+    "start": 3.16,
+    "end": 3.84,
+    "text": "clintonite"
+   },
+   {
+    "start": 3.84,
+    "end": 4.02,
+    "text": "is"
+   },
+   {
+    "start": 4.02,
+    "end": 4.3,
+    "text": "kind"
+   },
+   {
+    "start": 4.3,
+    "end": 4.42,
+    "text": "of"
+   },
+   {
+    "start": 4.42,
+    "end": 4.54,
+    "text": "like"
+   },
+   {
+    "start": 4.54,
+    "end": 4.98,
+    "text": "biotite,"
+   }
+  ]
+ },
+ {
+  "start": 5.12,
+  "end": 7.74,
+  "text": "except it has calcium in the alkali site instead of potassium.",
+  "words": [
+   {
+    "start": 5.12,
+    "end": 5.28,
+    "text": "except"
+   },
+   {
+    "start": 5.28,
+    "end": 5.48,
+    "text": "it"
+   },
+   {
+    "start": 5.48,
+    "end": 5.66,
+    "text": "has"
+   },
+   {
+    "start": 5.66,
+    "end": 6.08,
+    "text": "calcium"
+   },
+   {
+    "start": 6.08,
+    "end": 6.24,
+    "text": "in"
+   },
+   {
+    "start": 6.24,
+    "end": 6.34,
+    "text": "the"
+   },
+   {
+    "start": 6.34,
+    "end": 6.64,
+    "text": "alkali"
+   },
+   {
+    "start": 6.64,
+    "end": 6.98,
+    "text": "site"
+   },
+   {
+    "start": 6.98,
+    "end": 7.22,
+    "text": "instead"
+   },
+   {
+    "start": 7.22,
+    "end": 7.38,
+    "text": "of"
+   },
+   {
+    "start": 7.38,
+    "end": 7.74,
+    "text": "potassium."
+   }
+  ]
+ },
+ {
+  "start": 8.38,
+  "end": 13.7,
+  "text": "And what's distinctive about it is it has this unusual green and orange pleochroism.",
+  "words": [
+   {
+    "start": 8.38,
+    "end": 8.62,
+    "text": "And"
+   },
+   {
+    "start": 8.62,
+    "end": 8.78,
+    "text": "what's"
+   },
+   {
+    "start": 8.78,
+    "end": 9.08,
+    "text": "distinctive"
+   },
+   {
+    "start": 9.08,
+    "end": 9.46,
+    "text": "about"
+   },
+   {
+    "start": 9.46,
+    "end": 9.64,
+    "text": "it"
+   },
+   {
+    "start": 9.64,
+    "end": 9.78,
+    "text": "is"
+   },
+   {
+    "start": 9.78,
+    "end": 9.92,
+    "text": "it"
+   },
+   {
+    "start": 9.92,
+    "end": 10.1,
+    "text": "has"
+   },
+   {
+    "start": 10.1,
+    "end": 10.38,
+    "text": "this"
+   },
+   {
+    "start": 10.38,
+    "end": 11.16,
+    "text": "unusual"
+   },
+   {
+    "start": 11.16,
+    "end": 11.9,
+    "text": "green"
+   },
+   {
+    "start": 11.9,
+    "end": 12.38,
+    "text": "and"
+   },
+   {
+    "start": 12.38,
+    "end": 12.8,
+    "text": "orange"
+   },
+   {
+    "start": 12.8,
+    "end": 13.7,
+    "text": "pleochroism."
+   }
+  ]
+ },
+ {
+  "start": 14.72,
+  "end": 18.84,
+  "text": "When you cross the polars, it has a load of moderate interference colors,",
+  "words": [
+   {
+    "start": 14.72,
+    "end": 14.96,
+    "text": "When"
+   },
+   {
+    "start": 14.96,
+    "end": 15.08,
+    "text": "you"
+   },
+   {
+    "start": 15.08,
+    "end": 15.28,
+    "text": "cross"
+   },
+   {
+    "start": 15.28,
+    "end": 15.48,
+    "text": "the"
+   },
+   {
+    "start": 15.48,
+    "end": 15.96,
+    "text": "polars,"
+   },
+   {
+    "start": 16.26,
+    "end": 16.32,
+    "text": "it"
+   },
+   {
+    "start": 16.32,
+    "end": 16.66,
+    "text": "has"
+   },
+   {
+    "start": 16.66,
+    "end": 17.1,
+    "text": "a"
+   },
+   {
+    "start": 17.1,
+    "end": 17.46,
+    "text": "load"
+   },
+   {
+    "start": 17.46,
+    "end": 17.6,
+    "text": "of"
+   },
+   {
+    "start": 17.6,
+    "end": 17.94,
+    "text": "moderate"
+   },
+   {
+    "start": 17.94,
+    "end": 18.44,
+    "text": "interference"
+   },
+   {
+    "start": 18.44,
+    "end": 18.84,
+    "text": "colors,"
+   }
+  ]
+ },
+ {
+  "start": 18.92,
+  "end": 20.92,
+  "text": "but it does not have bird's eye extinction.",
+  "words": [
+   {
+    "start": 18.92,
+    "end": 19.08,
+    "text": "but"
+   },
+   {
+    "start": 19.08,
+    "end": 19.26,
+    "text": "it"
+   },
+   {
+    "start": 19.26,
+    "end": 19.48,
+    "text": "does"
+   },
+   {
+    "start": 19.48,
+    "end": 19.76,
+    "text": "not"
+   },
+   {
+    "start": 19.76,
+    "end": 20.06,
+    "text": "have"
+   },
+   {
+    "start": 20.06,
+    "end": 20.42,
+    "text": "bird's"
+   },
+   {
+    "start": 20.42,
+    "end": 20.52,
+    "text": "eye"
+   },
+   {
+    "start": 20.52,
+    "end": 20.92,
+    "text": "extinction."
+   }
+  ]
+ },
+ {
+  "start": 22.12,
+  "end": 27.14,
+  "text": "That's what is particularly distinctive about it in terms of comparisons to other mycas.",
+  "words": [
+   {
+    "start": 22.12,
+    "end": 22.6,
+    "text": "That's"
+   },
+   {
+    "start": 22.6,
+    "end": 22.74,
+    "text": "what"
+   },
+   {
+    "start": 22.74,
+    "end": 22.96,
+    "text": "is"
+   },
+   {
+    "start": 22.96,
+    "end": 23.26,
+    "text": "particularly"
+   },
+   {
+    "start": 23.26,
+    "end": 24.44,
+    "text": "distinctive"
+   },
+   {
+    "start": 24.44,
+    "end": 25.0,
+    "text": "about"
+   },
+   {
+    "start": 25.0,
+    "end": 25.2,
+    "text": "it"
+   },
+   {
+    "start": 25.2,
+    "end": 25.4,
+    "text": "in"
+   },
+   {
+    "start": 25.4,
+    "end": 25.7,
+    "text": "terms"
+   },
+   {
+    "start": 25.7,
+    "end": 25.92,
+    "text": "of"
+   },
+   {
+    "start": 25.92,
+    "end": 26.38,
+    "text": "comparisons"
+   },
+   {
+    "start": 26.38,
+    "end": 26.68,
+    "text": "to"
+   },
+   {
+    "start": 26.68,
+    "end": 26.84,
+    "text": "other"
+   },
+   {
+    "start": 26.84,
+    "end": 27.14,
+    "text": "mycas."
+   }
+  ]
+ },
+ {
+  "start": 30.78,
+  "end": 35.94,
+  "text": "Here are some larger grains, and you can see the orange to green pleochroism",
+  "words": [
+   {
+    "start": 30.78,
+    "end": 31.3,
+    "text": "Here"
+   },
+   {
+    "start": 31.3,
+    "end": 31.42,
+    "text": "are"
+   },
+   {
+    "start": 31.42,
+    "end": 31.54,
+    "text": "some"
+   },
+   {
+    "start": 31.54,
+    "end": 31.88,
+    "text": "larger"
+   },
+   {
+    "start": 31.88,
+    "end": 32.18,
+    "text": "grains,"
+   },
+   {
+    "start": 32.32,
+    "end": 32.4,
+    "text": "and"
+   },
+   {
+    "start": 32.4,
+    "end": 32.5,
+    "text": "you"
+   },
+   {
+    "start": 32.5,
+    "end": 32.62,
+    "text": "can"
+   },
+   {
+    "start": 32.62,
+    "end": 32.82,
+    "text": "see"
+   },
+   {
+    "start": 32.82,
+    "end": 32.96,
+    "text": "the"
+   },
+   {
+    "start": 32.96,
+    "end": 33.48,
+    "text": "orange"
+   },
+   {
+    "start": 33.48,
+    "end": 33.78,
+    "text": "to"
+   },
+   {
+    "start": 33.78,
+    "end": 34.26,
+    "text": "green"
+   },
+   {
+    "start": 34.26,
+    "end": 35.94,
+    "text": "pleochroism"
+   }
+  ]
+ },
+ {
+  "start": 35.94,
+  "end": 38.22,
+  "text": "that's so unusual about it.",
+  "words": [
+   {
+    "start": 35.94,
+    "end": 36.5,
+    "text": "that's"
+   },
+   {
+    "start": 36.5,
+    "end": 37.14,
+    "text": "so"
+   },
+   {
+    "start": 37.14,
+    "end": 37.68,
+    "text": "unusual"
+   },
+   {
+    "start": 37.68,
+    "end": 38.06,
+    "text": "about"
+   },
+   {
+    "start": 38.06,
+    "end": 38.22,
+    "text": "it."
+   }
+  ]
+ },
+ {
+  "start": 38.76,
+  "end": 42.7,
+  "text": "I would not be able to identify clintonite routinely in a rock.",
+  "words": [
+   {
+    "start": 38.76,
+    "end": 38.94,
+    "text": "I"
+   },
+   {
+    "start": 38.94,
+    "end": 39.1,
+    "text": "would"
+   },
+   {
+    "start": 39.1,
+    "end": 39.28,
+    "text": "not"
+   },
+   {
+    "start": 39.28,
+    "end": 39.52,
+    "text": "be"
+   },
+   {
+    "start": 39.52,
+    "end": 39.7,
+    "text": "able"
+   },
+   {
+    "start": 39.7,
+    "end": 39.84,
+    "text": "to"
+   },
+   {
+    "start": 39.84,
+    "end": 40.34,
+    "text": "identify"
+   },
+   {
+    "start": 40.34,
+    "end": 41.18,
+    "text": "clintonite"
+   },
+   {
+    "start": 41.18,
+    "end": 41.84,
+    "text": "routinely"
+   },
+   {
+    "start": 41.84,
+    "end": 42.32,
+    "text": "in"
+   },
+   {
+    "start": 42.32,
+    "end": 42.44,
+    "text": "a"
+   },
+   {
+    "start": 42.44,
+    "end": 42.7,
+    "text": "rock."
+   }
+  ]
+ },
+ {
+  "start": 43.32,
+  "end": 46.5,
+  "text": "I happen to know that this rock has clintonite in it,",
+  "words": [
+   {
+    "start": 43.32,
+    "end": 43.66,
+    "text": "I"
+   },
+   {
+    "start": 43.66,
+    "end": 44.32,
+    "text": "happen"
+   },
+   {
+    "start": 44.32,
+    "end": 44.48,
+    "text": "to"
+   },
+   {
+    "start": 44.48,
+    "end": 44.62,
+    "text": "know"
+   },
+   {
+    "start": 44.62,
+    "end": 44.86,
+    "text": "that"
+   },
+   {
+    "start": 44.86,
+    "end": 45.02,
+    "text": "this"
+   },
+   {
+    "start": 45.02,
+    "end": 45.26,
+    "text": "rock"
+   },
+   {
+    "start": 45.26,
+    "end": 45.48,
+    "text": "has"
+   },
+   {
+    "start": 45.48,
+    "end": 46.04,
+    "text": "clintonite"
+   },
+   {
+    "start": 46.04,
+    "end": 46.34,
+    "text": "in"
+   },
+   {
+    "start": 46.34,
+    "end": 46.5,
+    "text": "it,"
+   }
+  ]
+ },
+ {
+  "start": 46.76,
+  "end": 50.88,
+  "text": "and so that's how I'm able to make these videos to show what it looks like.",
+  "words": [
+   {
+    "start": 46.76,
+    "end": 47.22,
+    "text": "and"
+   },
+   {
+    "start": 47.22,
+    "end": 47.5,
+    "text": "so"
+   },
+   {
+    "start": 47.5,
+    "end": 47.8,
+    "text": "that's"
+   },
+   {
+    "start": 47.8,
+    "end": 47.94,
+    "text": "how"
+   },
+   {
+    "start": 47.94,
+    "end": 48.08,
+    "text": "I'm"
+   },
+   {
+    "start": 48.08,
+    "end": 48.28,
+    "text": "able"
+   },
+   {
+    "start": 48.28,
+    "end": 48.56,
+    "text": "to"
+   },
+   {
+    "start": 48.56,
+    "end": 49.0,
+    "text": "make"
+   },
+   {
+    "start": 49.0,
+    "end": 49.28,
+    "text": "these"
+   },
+   {
+    "start": 49.28,
+    "end": 49.84,
+    "text": "videos"
+   },
+   {
+    "start": 49.84,
+    "end": 50.06,
+    "text": "to"
+   },
+   {
+    "start": 50.06,
+    "end": 50.26,
+    "text": "show"
+   },
+   {
+    "start": 50.26,
+    "end": 50.36,
+    "text": "what"
+   },
+   {
+    "start": 50.36,
+    "end": 50.44,
+    "text": "it"
+   },
+   {
+    "start": 50.44,
+    "end": 50.6,
+    "text": "looks"
+   },
+   {
+    "start": 50.6,
+    "end": 50.88,
+    "text": "like."
+   }
+  ]
+ },
+ {
+  "start": 61.68,
+  "end": 66.1,
+  "text": "And one last example, a little less pleochroic than the others,",
+  "words": [
+   {
+    "start": 61.68,
+    "end": 62.24,
+    "text": "And"
+   },
+   {
+    "start": 62.24,
+    "end": 62.58,
+    "text": "one"
+   },
+   {
+    "start": 62.58,
+    "end": 63.06,
+    "text": "last"
+   },
+   {
+    "start": 63.06,
+    "end": 63.88,
+    "text": "example,"
+   },
+   {
+    "start": 64.32,
+    "end": 64.54,
+    "text": "a"
+   },
+   {
+    "start": 64.54,
+    "end": 64.68,
+    "text": "little"
+   },
+   {
+    "start": 64.68,
+    "end": 64.94,
+    "text": "less"
+   },
+   {
+    "start": 64.94,
+    "end": 65.54,
+    "text": "pleochroic"
+   },
+   {
+    "start": 65.54,
+    "end": 65.7,
+    "text": "than"
+   },
+   {
+    "start": 65.7,
+    "end": 65.82,
+    "text": "the"
+   },
+   {
+    "start": 65.82,
+    "end": 66.1,
+    "text": "others,"
+   }
+  ]
+ },
+ {
+  "start": 66.36,
+  "end": 68.98,
+  "text": "but still shows that the same characteristics.",
+  "words": [
+   {
+    "start": 66.36,
+    "end": 66.62,
+    "text": "but"
+   },
+   {
+    "start": 66.62,
+    "end": 66.88,
+    "text": "still"
+   },
+   {
+    "start": 66.88,
+    "end": 67.24,
+    "text": "shows"
+   },
+   {
+    "start": 67.24,
+    "end": 67.46,
+    "text": "that"
+   },
+   {
+    "start": 67.46,
+    "end": 67.68,
+    "text": "the"
+   },
+   {
+    "start": 67.68,
+    "end": 68.0,
+    "text": "same"
+   },
+   {
+    "start": 68.0,
+    "end": 68.98,
+    "text": "characteristics."
+   }
+  ]
+ },
+ {
+  "start": 90.98,
+  "end": 92.38,
+  "text": "Thank you.",
+  "words": [
+   {
+    "start": 90.98,
+    "end": 92.38,
+    "text": "Thank"
+   },
+   {
+    "start": 92.38,
+    "end": 92.38,
+    "text": "you."
+   }
+  ]
+ }
+]

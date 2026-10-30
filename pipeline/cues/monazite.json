@@ -1,0 +1,1824 @@
+[
+ {
+  "start": 0.0,
+  "end": 5.68,
+  "text": "Monazite is an absolute bear to identify in thin sections. It's very difficult to be certain.",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.84,
+    "text": "Monazite"
+   },
+   {
+    "start": 0.84,
+    "end": 0.98,
+    "text": "is"
+   },
+   {
+    "start": 0.98,
+    "end": 1.08,
+    "text": "an"
+   },
+   {
+    "start": 1.08,
+    "end": 1.5,
+    "text": "absolute"
+   },
+   {
+    "start": 1.5,
+    "end": 2.04,
+    "text": "bear"
+   },
+   {
+    "start": 2.04,
+    "end": 2.32,
+    "text": "to"
+   },
+   {
+    "start": 2.32,
+    "end": 2.9,
+    "text": "identify"
+   },
+   {
+    "start": 2.9,
+    "end": 3.28,
+    "text": "in"
+   },
+   {
+    "start": 3.28,
+    "end": 3.48,
+    "text": "thin"
+   },
+   {
+    "start": 3.48,
+    "end": 3.8,
+    "text": "sections."
+   },
+   {
+    "start": 3.82,
+    "end": 4.02,
+    "text": "It's"
+   },
+   {
+    "start": 4.02,
+    "end": 4.16,
+    "text": "very"
+   },
+   {
+    "start": 4.16,
+    "end": 4.52,
+    "text": "difficult"
+   },
+   {
+    "start": 4.52,
+    "end": 4.78,
+    "text": "to"
+   },
+   {
+    "start": 4.78,
+    "end": 5.02,
+    "text": "be"
+   },
+   {
+    "start": 5.02,
+    "end": 5.68,
+    "text": "certain."
+   }
+  ]
+ },
+ {
+  "start": 6.82,
+  "end": 9.78,
+  "text": "It has high relief. It has high interference colors. You'll see that.",
+  "words": [
+   {
+    "start": 6.82,
+    "end": 6.96,
+    "text": "It"
+   },
+   {
+    "start": 6.96,
+    "end": 7.08,
+    "text": "has"
+   },
+   {
+    "start": 7.08,
+    "end": 7.28,
+    "text": "high"
+   },
+   {
+    "start": 7.28,
+    "end": 7.56,
+    "text": "relief."
+   },
+   {
+    "start": 8.14,
+    "end": 8.18,
+    "text": "It"
+   },
+   {
+    "start": 8.18,
+    "end": 8.26,
+    "text": "has"
+   },
+   {
+    "start": 8.26,
+    "end": 8.5,
+    "text": "high"
+   },
+   {
+    "start": 8.5,
+    "end": 8.8,
+    "text": "interference"
+   },
+   {
+    "start": 8.8,
+    "end": 9.14,
+    "text": "colors."
+   },
+   {
+    "start": 9.28,
+    "end": 9.4,
+    "text": "You'll"
+   },
+   {
+    "start": 9.4,
+    "end": 9.56,
+    "text": "see"
+   },
+   {
+    "start": 9.56,
+    "end": 9.78,
+    "text": "that."
+   }
+  ]
+ },
+ {
+  "start": 10.26,
+  "end": 19.36,
+  "text": "It forms these pleochroic halos in minerals like biotite. You can also see it in chloride, sometimes in horn blend.",
+  "words": [
+   {
+    "start": 10.26,
+    "end": 10.44,
+    "text": "It"
+   },
+   {
+    "start": 10.44,
+    "end": 10.9,
+    "text": "forms"
+   },
+   {
+    "start": 10.9,
+    "end": 11.28,
+    "text": "these"
+   },
+   {
+    "start": 11.28,
+    "end": 12.3,
+    "text": "pleochroic"
+   },
+   {
+    "start": 12.3,
+    "end": 13.14,
+    "text": "halos"
+   },
+   {
+    "start": 13.14,
+    "end": 14.1,
+    "text": "in"
+   },
+   {
+    "start": 14.1,
+    "end": 14.6,
+    "text": "minerals"
+   },
+   {
+    "start": 14.6,
+    "end": 15.12,
+    "text": "like"
+   },
+   {
+    "start": 15.12,
+    "end": 16.14,
+    "text": "biotite."
+   },
+   {
+    "start": 16.5,
+    "end": 16.62,
+    "text": "You"
+   },
+   {
+    "start": 16.62,
+    "end": 16.68,
+    "text": "can"
+   },
+   {
+    "start": 16.68,
+    "end": 16.86,
+    "text": "also"
+   },
+   {
+    "start": 16.86,
+    "end": 17.08,
+    "text": "see"
+   },
+   {
+    "start": 17.08,
+    "end": 17.18,
+    "text": "it"
+   },
+   {
+    "start": 17.18,
+    "end": 17.24,
+    "text": "in"
+   },
+   {
+    "start": 17.24,
+    "end": 17.56,
+    "text": "chloride,"
+   },
+   {
+    "start": 17.72,
+    "end": 18.18,
+    "text": "sometimes"
+   },
+   {
+    "start": 18.18,
+    "end": 18.72,
+    "text": "in"
+   },
+   {
+    "start": 18.72,
+    "end": 19.08,
+    "text": "horn"
+   },
+   {
+    "start": 19.08,
+    "end": 19.36,
+    "text": "blend."
+   }
+  ]
+ },
+ {
+  "start": 20.54,
+  "end": 26.28,
+  "text": "And really, it's the shape of the crystal that suggests that it's monazite as opposed to something like zircon.",
+  "words": [
+   {
+    "start": 20.54,
+    "end": 21.1,
+    "text": "And"
+   },
+   {
+    "start": 21.1,
+    "end": 21.38,
+    "text": "really,"
+   },
+   {
+    "start": 21.48,
+    "end": 21.72,
+    "text": "it's"
+   },
+   {
+    "start": 21.72,
+    "end": 21.84,
+    "text": "the"
+   },
+   {
+    "start": 21.84,
+    "end": 22.14,
+    "text": "shape"
+   },
+   {
+    "start": 22.14,
+    "end": 22.3,
+    "text": "of"
+   },
+   {
+    "start": 22.3,
+    "end": 22.38,
+    "text": "the"
+   },
+   {
+    "start": 22.38,
+    "end": 22.78,
+    "text": "crystal"
+   },
+   {
+    "start": 22.78,
+    "end": 23.26,
+    "text": "that"
+   },
+   {
+    "start": 23.26,
+    "end": 23.6,
+    "text": "suggests"
+   },
+   {
+    "start": 23.6,
+    "end": 23.86,
+    "text": "that"
+   },
+   {
+    "start": 23.86,
+    "end": 24.02,
+    "text": "it's"
+   },
+   {
+    "start": 24.02,
+    "end": 24.58,
+    "text": "monazite"
+   },
+   {
+    "start": 24.58,
+    "end": 24.74,
+    "text": "as"
+   },
+   {
+    "start": 24.74,
+    "end": 25.0,
+    "text": "opposed"
+   },
+   {
+    "start": 25.0,
+    "end": 25.3,
+    "text": "to"
+   },
+   {
+    "start": 25.3,
+    "end": 25.6,
+    "text": "something"
+   },
+   {
+    "start": 25.6,
+    "end": 25.86,
+    "text": "like"
+   },
+   {
+    "start": 25.86,
+    "end": 26.28,
+    "text": "zircon."
+   }
+  ]
+ },
+ {
+  "start": 30.9,
+  "end": 33.9,
+  "text": "Here's another example of those pleochroic halos.",
+  "words": [
+   {
+    "start": 30.9,
+    "end": 31.54,
+    "text": "Here's"
+   },
+   {
+    "start": 31.54,
+    "end": 31.72,
+    "text": "another"
+   },
+   {
+    "start": 31.72,
+    "end": 32.3,
+    "text": "example"
+   },
+   {
+    "start": 32.3,
+    "end": 32.68,
+    "text": "of"
+   },
+   {
+    "start": 32.68,
+    "end": 32.86,
+    "text": "those"
+   },
+   {
+    "start": 32.86,
+    "end": 33.5,
+    "text": "pleochroic"
+   },
+   {
+    "start": 33.5,
+    "end": 33.9,
+    "text": "halos."
+   }
+  ]
+ },
+ {
+  "start": 34.22,
+  "end": 41.9,
+  "text": "And what you notice about the shape is that it is a parallelogram, but the sides are not perpendicular to each other.",
+  "words": [
+   {
+    "start": 34.22,
+    "end": 34.32,
+    "text": "And"
+   },
+   {
+    "start": 34.32,
+    "end": 34.68,
+    "text": "what"
+   },
+   {
+    "start": 34.68,
+    "end": 34.84,
+    "text": "you"
+   },
+   {
+    "start": 34.84,
+    "end": 35.04,
+    "text": "notice"
+   },
+   {
+    "start": 35.04,
+    "end": 35.32,
+    "text": "about"
+   },
+   {
+    "start": 35.32,
+    "end": 35.5,
+    "text": "the"
+   },
+   {
+    "start": 35.5,
+    "end": 35.78,
+    "text": "shape"
+   },
+   {
+    "start": 35.78,
+    "end": 36.7,
+    "text": "is"
+   },
+   {
+    "start": 36.7,
+    "end": 37.02,
+    "text": "that"
+   },
+   {
+    "start": 37.02,
+    "end": 37.64,
+    "text": "it"
+   },
+   {
+    "start": 37.64,
+    "end": 37.88,
+    "text": "is"
+   },
+   {
+    "start": 37.88,
+    "end": 37.98,
+    "text": "a"
+   },
+   {
+    "start": 37.98,
+    "end": 38.88,
+    "text": "parallelogram,"
+   },
+   {
+    "start": 39.5,
+    "end": 39.94,
+    "text": "but"
+   },
+   {
+    "start": 39.94,
+    "end": 40.12,
+    "text": "the"
+   },
+   {
+    "start": 40.12,
+    "end": 40.44,
+    "text": "sides"
+   },
+   {
+    "start": 40.44,
+    "end": 40.56,
+    "text": "are"
+   },
+   {
+    "start": 40.56,
+    "end": 40.7,
+    "text": "not"
+   },
+   {
+    "start": 40.7,
+    "end": 41.02,
+    "text": "perpendicular"
+   },
+   {
+    "start": 41.02,
+    "end": 41.5,
+    "text": "to"
+   },
+   {
+    "start": 41.5,
+    "end": 41.68,
+    "text": "each"
+   },
+   {
+    "start": 41.68,
+    "end": 41.9,
+    "text": "other."
+   }
+  ]
+ },
+ {
+  "start": 42.18,
+  "end": 46.98,
+  "text": "So zircons tend to have much better symmetry. Monazite is monoclinic.",
+  "words": [
+   {
+    "start": 42.18,
+    "end": 42.26,
+    "text": "So"
+   },
+   {
+    "start": 42.26,
+    "end": 42.7,
+    "text": "zircons"
+   },
+   {
+    "start": 42.7,
+    "end": 43.12,
+    "text": "tend"
+   },
+   {
+    "start": 43.12,
+    "end": 43.34,
+    "text": "to"
+   },
+   {
+    "start": 43.34,
+    "end": 43.64,
+    "text": "have"
+   },
+   {
+    "start": 43.64,
+    "end": 44.1,
+    "text": "much"
+   },
+   {
+    "start": 44.1,
+    "end": 44.32,
+    "text": "better"
+   },
+   {
+    "start": 44.32,
+    "end": 44.86,
+    "text": "symmetry."
+   },
+   {
+    "start": 45.56,
+    "end": 45.98,
+    "text": "Monazite"
+   },
+   {
+    "start": 45.98,
+    "end": 46.22,
+    "text": "is"
+   },
+   {
+    "start": 46.22,
+    "end": 46.98,
+    "text": "monoclinic."
+   }
+  ]
+ },
+ {
+  "start": 47.68,
+  "end": 52.42,
+  "text": "And so that particular shape with the pleochroic halo suggests that it's actually a monazite.",
+  "words": [
+   {
+    "start": 47.68,
+    "end": 48.06,
+    "text": "And"
+   },
+   {
+    "start": 48.06,
+    "end": 48.24,
+    "text": "so"
+   },
+   {
+    "start": 48.24,
+    "end": 48.42,
+    "text": "that"
+   },
+   {
+    "start": 48.42,
+    "end": 48.8,
+    "text": "particular"
+   },
+   {
+    "start": 48.8,
+    "end": 49.16,
+    "text": "shape"
+   },
+   {
+    "start": 49.16,
+    "end": 49.4,
+    "text": "with"
+   },
+   {
+    "start": 49.4,
+    "end": 49.54,
+    "text": "the"
+   },
+   {
+    "start": 49.54,
+    "end": 50.1,
+    "text": "pleochroic"
+   },
+   {
+    "start": 50.1,
+    "end": 50.36,
+    "text": "halo"
+   },
+   {
+    "start": 50.36,
+    "end": 50.82,
+    "text": "suggests"
+   },
+   {
+    "start": 50.82,
+    "end": 51.2,
+    "text": "that"
+   },
+   {
+    "start": 51.2,
+    "end": 51.56,
+    "text": "it's"
+   },
+   {
+    "start": 51.56,
+    "end": 51.84,
+    "text": "actually"
+   },
+   {
+    "start": 51.84,
+    "end": 51.98,
+    "text": "a"
+   },
+   {
+    "start": 51.98,
+    "end": 52.42,
+    "text": "monazite."
+   }
+  ]
+ },
+ {
+  "start": 52.78,
+  "end": 58.42,
+  "text": "There's a little dot on there. That's a laser ablation spot where we were collecting some uranium-led data.",
+  "words": [
+   {
+    "start": 52.78,
+    "end": 53.0,
+    "text": "There's"
+   },
+   {
+    "start": 53.0,
+    "end": 53.06,
+    "text": "a"
+   },
+   {
+    "start": 53.06,
+    "end": 53.18,
+    "text": "little"
+   },
+   {
+    "start": 53.18,
+    "end": 53.48,
+    "text": "dot"
+   },
+   {
+    "start": 53.48,
+    "end": 53.64,
+    "text": "on"
+   },
+   {
+    "start": 53.64,
+    "end": 53.78,
+    "text": "there."
+   },
+   {
+    "start": 53.88,
+    "end": 54.08,
+    "text": "That's"
+   },
+   {
+    "start": 54.08,
+    "end": 54.16,
+    "text": "a"
+   },
+   {
+    "start": 54.16,
+    "end": 54.38,
+    "text": "laser"
+   },
+   {
+    "start": 54.38,
+    "end": 54.72,
+    "text": "ablation"
+   },
+   {
+    "start": 54.72,
+    "end": 55.26,
+    "text": "spot"
+   },
+   {
+    "start": 55.26,
+    "end": 55.6,
+    "text": "where"
+   },
+   {
+    "start": 55.6,
+    "end": 56.12,
+    "text": "we"
+   },
+   {
+    "start": 56.12,
+    "end": 56.34,
+    "text": "were"
+   },
+   {
+    "start": 56.34,
+    "end": 56.76,
+    "text": "collecting"
+   },
+   {
+    "start": 56.76,
+    "end": 57.16,
+    "text": "some"
+   },
+   {
+    "start": 57.16,
+    "end": 57.74,
+    "text": "uranium"
+   },
+   {
+    "start": 57.74,
+    "end": 58.0,
+    "text": "-led"
+   },
+   {
+    "start": 58.0,
+    "end": 58.42,
+    "text": "data."
+   }
+  ]
+ },
+ {
+  "start": 61.44,
+  "end": 68.54,
+  "text": "This is monazite in a kyanite crystal. You can see, again, high relief, much higher than the kyanite.",
+  "words": [
+   {
+    "start": 61.44,
+    "end": 61.96,
+    "text": "This"
+   },
+   {
+    "start": 61.96,
+    "end": 62.12,
+    "text": "is"
+   },
+   {
+    "start": 62.12,
+    "end": 62.78,
+    "text": "monazite"
+   },
+   {
+    "start": 62.78,
+    "end": 63.16,
+    "text": "in"
+   },
+   {
+    "start": 63.16,
+    "end": 63.34,
+    "text": "a"
+   },
+   {
+    "start": 63.34,
+    "end": 63.92,
+    "text": "kyanite"
+   },
+   {
+    "start": 63.92,
+    "end": 64.56,
+    "text": "crystal."
+   },
+   {
+    "start": 65.66,
+    "end": 65.76,
+    "text": "You"
+   },
+   {
+    "start": 65.76,
+    "end": 65.9,
+    "text": "can"
+   },
+   {
+    "start": 65.9,
+    "end": 66.14,
+    "text": "see,"
+   },
+   {
+    "start": 66.34,
+    "end": 66.64,
+    "text": "again,"
+   },
+   {
+    "start": 66.84,
+    "end": 67.0,
+    "text": "high"
+   },
+   {
+    "start": 67.0,
+    "end": 67.3,
+    "text": "relief,"
+   },
+   {
+    "start": 67.44,
+    "end": 67.54,
+    "text": "much"
+   },
+   {
+    "start": 67.54,
+    "end": 67.76,
+    "text": "higher"
+   },
+   {
+    "start": 67.76,
+    "end": 67.94,
+    "text": "than"
+   },
+   {
+    "start": 67.94,
+    "end": 68.08,
+    "text": "the"
+   },
+   {
+    "start": 68.08,
+    "end": 68.54,
+    "text": "kyanite."
+   }
+  ]
+ },
+ {
+  "start": 69.88,
+  "end": 73.72,
+  "text": "It doesn't really have much color to it. Sometimes it's a little bit tan.",
+  "words": [
+   {
+    "start": 69.88,
+    "end": 70.4,
+    "text": "It"
+   },
+   {
+    "start": 70.4,
+    "end": 70.78,
+    "text": "doesn't"
+   },
+   {
+    "start": 70.78,
+    "end": 71.06,
+    "text": "really"
+   },
+   {
+    "start": 71.06,
+    "end": 71.42,
+    "text": "have"
+   },
+   {
+    "start": 71.42,
+    "end": 71.74,
+    "text": "much"
+   },
+   {
+    "start": 71.74,
+    "end": 72.04,
+    "text": "color"
+   },
+   {
+    "start": 72.04,
+    "end": 72.26,
+    "text": "to"
+   },
+   {
+    "start": 72.26,
+    "end": 72.42,
+    "text": "it."
+   },
+   {
+    "start": 72.46,
+    "end": 72.7,
+    "text": "Sometimes"
+   },
+   {
+    "start": 72.7,
+    "end": 72.98,
+    "text": "it's"
+   },
+   {
+    "start": 72.98,
+    "end": 73.08,
+    "text": "a"
+   },
+   {
+    "start": 73.08,
+    "end": 73.24,
+    "text": "little"
+   },
+   {
+    "start": 73.24,
+    "end": 73.4,
+    "text": "bit"
+   },
+   {
+    "start": 73.4,
+    "end": 73.72,
+    "text": "tan."
+   }
+  ]
+ },
+ {
+  "start": 74.5,
+  "end": 80.1,
+  "text": "When I cross the polars, you'll see it has these high order, really bright interference colors.",
+  "words": [
+   {
+    "start": 74.5,
+    "end": 74.62,
+    "text": "When"
+   },
+   {
+    "start": 74.62,
+    "end": 74.74,
+    "text": "I"
+   },
+   {
+    "start": 74.74,
+    "end": 74.88,
+    "text": "cross"
+   },
+   {
+    "start": 74.88,
+    "end": 75.08,
+    "text": "the"
+   },
+   {
+    "start": 75.08,
+    "end": 75.36,
+    "text": "polars,"
+   },
+   {
+    "start": 75.52,
+    "end": 75.62,
+    "text": "you'll"
+   },
+   {
+    "start": 75.62,
+    "end": 75.88,
+    "text": "see"
+   },
+   {
+    "start": 75.88,
+    "end": 76.58,
+    "text": "it"
+   },
+   {
+    "start": 76.58,
+    "end": 76.8,
+    "text": "has"
+   },
+   {
+    "start": 76.8,
+    "end": 77.02,
+    "text": "these"
+   },
+   {
+    "start": 77.02,
+    "end": 77.36,
+    "text": "high"
+   },
+   {
+    "start": 77.36,
+    "end": 77.74,
+    "text": "order,"
+   },
+   {
+    "start": 77.92,
+    "end": 78.34,
+    "text": "really"
+   },
+   {
+    "start": 78.34,
+    "end": 78.78,
+    "text": "bright"
+   },
+   {
+    "start": 78.78,
+    "end": 79.64,
+    "text": "interference"
+   },
+   {
+    "start": 79.64,
+    "end": 80.1,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 81.08,
+  "end": 84.94,
+  "text": "And I'll just say this is about the biggest monazite crystal you'll ever see.",
+  "words": [
+   {
+    "start": 81.08,
+    "end": 81.58,
+    "text": "And"
+   },
+   {
+    "start": 81.58,
+    "end": 81.72,
+    "text": "I'll"
+   },
+   {
+    "start": 81.72,
+    "end": 81.86,
+    "text": "just"
+   },
+   {
+    "start": 81.86,
+    "end": 82.08,
+    "text": "say"
+   },
+   {
+    "start": 82.08,
+    "end": 82.32,
+    "text": "this"
+   },
+   {
+    "start": 82.32,
+    "end": 82.44,
+    "text": "is"
+   },
+   {
+    "start": 82.44,
+    "end": 82.62,
+    "text": "about"
+   },
+   {
+    "start": 82.62,
+    "end": 82.74,
+    "text": "the"
+   },
+   {
+    "start": 82.74,
+    "end": 82.98,
+    "text": "biggest"
+   },
+   {
+    "start": 82.98,
+    "end": 83.6,
+    "text": "monazite"
+   },
+   {
+    "start": 83.6,
+    "end": 83.92,
+    "text": "crystal"
+   },
+   {
+    "start": 83.92,
+    "end": 84.28,
+    "text": "you'll"
+   },
+   {
+    "start": 84.28,
+    "end": 84.68,
+    "text": "ever"
+   },
+   {
+    "start": 84.68,
+    "end": 84.94,
+    "text": "see."
+   }
+  ]
+ },
+ {
+  "start": 85.04,
+  "end": 89.14,
+  "text": "It's like 50 or 100 microns across. That's big by monazite standards.",
+  "words": [
+   {
+    "start": 85.04,
+    "end": 85.16,
+    "text": "It's"
+   },
+   {
+    "start": 85.16,
+    "end": 85.34,
+    "text": "like"
+   },
+   {
+    "start": 85.34,
+    "end": 85.64,
+    "text": "50"
+   },
+   {
+    "start": 85.64,
+    "end": 85.82,
+    "text": "or"
+   },
+   {
+    "start": 85.82,
+    "end": 86.12,
+    "text": "100"
+   },
+   {
+    "start": 86.12,
+    "end": 86.62,
+    "text": "microns"
+   },
+   {
+    "start": 86.62,
+    "end": 86.92,
+    "text": "across."
+   },
+   {
+    "start": 87.54,
+    "end": 87.76,
+    "text": "That's"
+   },
+   {
+    "start": 87.76,
+    "end": 88.02,
+    "text": "big"
+   },
+   {
+    "start": 88.02,
+    "end": 88.24,
+    "text": "by"
+   },
+   {
+    "start": 88.24,
+    "end": 88.74,
+    "text": "monazite"
+   },
+   {
+    "start": 88.74,
+    "end": 89.14,
+    "text": "standards."
+   }
+  ]
+ },
+ {
+  "start": 91.58,
+  "end": 99.9,
+  "text": "This is monazite in a large andalusite porphyroblast, large crystal, with a bunch of little quartz inclusions as well.",
+  "words": [
+   {
+    "start": 91.58,
+    "end": 92.22,
+    "text": "This"
+   },
+   {
+    "start": 92.22,
+    "end": 92.38,
+    "text": "is"
+   },
+   {
+    "start": 92.38,
+    "end": 92.96,
+    "text": "monazite"
+   },
+   {
+    "start": 92.96,
+    "end": 93.48,
+    "text": "in"
+   },
+   {
+    "start": 93.48,
+    "end": 93.82,
+    "text": "a"
+   },
+   {
+    "start": 93.82,
+    "end": 94.28,
+    "text": "large"
+   },
+   {
+    "start": 94.28,
+    "end": 95.44,
+    "text": "andalusite"
+   },
+   {
+    "start": 95.44,
+    "end": 96.54,
+    "text": "porphyroblast,"
+   },
+   {
+    "start": 96.68,
+    "end": 96.96,
+    "text": "large"
+   },
+   {
+    "start": 96.96,
+    "end": 97.4,
+    "text": "crystal,"
+   },
+   {
+    "start": 97.84,
+    "end": 97.98,
+    "text": "with"
+   },
+   {
+    "start": 97.98,
+    "end": 98.04,
+    "text": "a"
+   },
+   {
+    "start": 98.04,
+    "end": 98.14,
+    "text": "bunch"
+   },
+   {
+    "start": 98.14,
+    "end": 98.28,
+    "text": "of"
+   },
+   {
+    "start": 98.28,
+    "end": 98.6,
+    "text": "little"
+   },
+   {
+    "start": 98.6,
+    "end": 98.96,
+    "text": "quartz"
+   },
+   {
+    "start": 98.96,
+    "end": 99.52,
+    "text": "inclusions"
+   },
+   {
+    "start": 99.52,
+    "end": 99.68,
+    "text": "as"
+   },
+   {
+    "start": 99.68,
+    "end": 99.9,
+    "text": "well."
+   }
+  ]
+ },
+ {
+  "start": 100.68,
+  "end": 111.14,
+  "text": "I noticed in these rocks that there is a little bit of red staining around the monazite crystals in the andalusite.",
+  "words": [
+   {
+    "start": 100.68,
+    "end": 101.3,
+    "text": "I"
+   },
+   {
+    "start": 101.3,
+    "end": 101.54,
+    "text": "noticed"
+   },
+   {
+    "start": 101.54,
+    "end": 101.9,
+    "text": "in"
+   },
+   {
+    "start": 101.9,
+    "end": 102.3,
+    "text": "these"
+   },
+   {
+    "start": 102.3,
+    "end": 102.66,
+    "text": "rocks"
+   },
+   {
+    "start": 102.66,
+    "end": 103.1,
+    "text": "that"
+   },
+   {
+    "start": 103.1,
+    "end": 103.5,
+    "text": "there"
+   },
+   {
+    "start": 103.5,
+    "end": 103.82,
+    "text": "is"
+   },
+   {
+    "start": 103.82,
+    "end": 103.94,
+    "text": "a"
+   },
+   {
+    "start": 103.94,
+    "end": 104.1,
+    "text": "little"
+   },
+   {
+    "start": 104.1,
+    "end": 104.3,
+    "text": "bit"
+   },
+   {
+    "start": 104.3,
+    "end": 104.48,
+    "text": "of"
+   },
+   {
+    "start": 104.48,
+    "end": 104.94,
+    "text": "red"
+   },
+   {
+    "start": 104.94,
+    "end": 106.36,
+    "text": "staining"
+   },
+   {
+    "start": 106.36,
+    "end": 107.2,
+    "text": "around"
+   },
+   {
+    "start": 107.2,
+    "end": 108.58,
+    "text": "the"
+   },
+   {
+    "start": 108.58,
+    "end": 109.26,
+    "text": "monazite"
+   },
+   {
+    "start": 109.26,
+    "end": 109.7,
+    "text": "crystals"
+   },
+   {
+    "start": 109.7,
+    "end": 110.38,
+    "text": "in"
+   },
+   {
+    "start": 110.38,
+    "end": 110.52,
+    "text": "the"
+   },
+   {
+    "start": 110.52,
+    "end": 111.14,
+    "text": "andalusite."
+   }
+  ]
+ },
+ {
+  "start": 111.24,
+  "end": 114.4,
+  "text": "And that might actually be radiation damage, but I've never seen that before.",
+  "words": [
+   {
+    "start": 111.24,
+    "end": 111.28,
+    "text": "And"
+   },
+   {
+    "start": 111.28,
+    "end": 111.36,
+    "text": "that"
+   },
+   {
+    "start": 111.36,
+    "end": 111.52,
+    "text": "might"
+   },
+   {
+    "start": 111.52,
+    "end": 111.84,
+    "text": "actually"
+   },
+   {
+    "start": 111.84,
+    "end": 112.04,
+    "text": "be"
+   },
+   {
+    "start": 112.04,
+    "end": 112.58,
+    "text": "radiation"
+   },
+   {
+    "start": 112.58,
+    "end": 112.98,
+    "text": "damage,"
+   },
+   {
+    "start": 113.16,
+    "end": 113.32,
+    "text": "but"
+   },
+   {
+    "start": 113.32,
+    "end": 113.56,
+    "text": "I've"
+   },
+   {
+    "start": 113.56,
+    "end": 113.7,
+    "text": "never"
+   },
+   {
+    "start": 113.7,
+    "end": 113.94,
+    "text": "seen"
+   },
+   {
+    "start": 113.94,
+    "end": 114.12,
+    "text": "that"
+   },
+   {
+    "start": 114.12,
+    "end": 114.4,
+    "text": "before."
+   }
+  ]
+ },
+ {
+  "start": 121.64,
+  "end": 129.9,
+  "text": "And then one more monazite crystal inside the andalusite. You can see that sort of reddish-brown staining, maybe radiation damage.",
+  "words": [
+   {
+    "start": 121.64,
+    "end": 122.36,
+    "text": "And"
+   },
+   {
+    "start": 122.36,
+    "end": 122.54,
+    "text": "then"
+   },
+   {
+    "start": 122.54,
+    "end": 122.8,
+    "text": "one"
+   },
+   {
+    "start": 122.8,
+    "end": 123.04,
+    "text": "more"
+   },
+   {
+    "start": 123.04,
+    "end": 123.6,
+    "text": "monazite"
+   },
+   {
+    "start": 123.6,
+    "end": 123.94,
+    "text": "crystal"
+   },
+   {
+    "start": 123.94,
+    "end": 124.6,
+    "text": "inside"
+   },
+   {
+    "start": 124.6,
+    "end": 124.8,
+    "text": "the"
+   },
+   {
+    "start": 124.8,
+    "end": 125.32,
+    "text": "andalusite."
+   },
+   {
+    "start": 125.42,
+    "end": 125.48,
+    "text": "You"
+   },
+   {
+    "start": 125.48,
+    "end": 125.58,
+    "text": "can"
+   },
+   {
+    "start": 125.58,
+    "end": 125.76,
+    "text": "see"
+   },
+   {
+    "start": 125.76,
+    "end": 125.96,
+    "text": "that"
+   },
+   {
+    "start": 125.96,
+    "end": 126.14,
+    "text": "sort"
+   },
+   {
+    "start": 126.14,
+    "end": 126.26,
+    "text": "of"
+   },
+   {
+    "start": 126.26,
+    "end": 126.56,
+    "text": "reddish"
+   },
+   {
+    "start": 126.56,
+    "end": 126.92,
+    "text": "-brown"
+   },
+   {
+    "start": 126.92,
+    "end": 127.7,
+    "text": "staining,"
+   },
+   {
+    "start": 128.06,
+    "end": 129.04,
+    "text": "maybe"
+   },
+   {
+    "start": 129.04,
+    "end": 129.54,
+    "text": "radiation"
+   },
+   {
+    "start": 129.54,
+    "end": 129.9,
+    "text": "damage."
+   }
+  ]
+ },
+ {
+  "start": 130.74,
+  "end": 140.0,
+  "text": "Again, this does not have a particularly good crystal form, and so that's what suggests to me that it's monazite rather than zircon.",
+  "words": [
+   {
+    "start": 130.74,
+    "end": 131.1,
+    "text": "Again,"
+   },
+   {
+    "start": 131.64,
+    "end": 132.16,
+    "text": "this"
+   },
+   {
+    "start": 132.16,
+    "end": 132.46,
+    "text": "does"
+   },
+   {
+    "start": 132.46,
+    "end": 132.7,
+    "text": "not"
+   },
+   {
+    "start": 132.7,
+    "end": 133.18,
+    "text": "have"
+   },
+   {
+    "start": 133.18,
+    "end": 133.32,
+    "text": "a"
+   },
+   {
+    "start": 133.32,
+    "end": 133.7,
+    "text": "particularly"
+   },
+   {
+    "start": 133.7,
+    "end": 134.16,
+    "text": "good"
+   },
+   {
+    "start": 134.16,
+    "end": 134.54,
+    "text": "crystal"
+   },
+   {
+    "start": 134.54,
+    "end": 135.12,
+    "text": "form,"
+   },
+   {
+    "start": 135.32,
+    "end": 135.54,
+    "text": "and"
+   },
+   {
+    "start": 135.54,
+    "end": 135.76,
+    "text": "so"
+   },
+   {
+    "start": 135.76,
+    "end": 136.12,
+    "text": "that's"
+   },
+   {
+    "start": 136.12,
+    "end": 136.44,
+    "text": "what"
+   },
+   {
+    "start": 136.44,
+    "end": 136.84,
+    "text": "suggests"
+   },
+   {
+    "start": 136.84,
+    "end": 137.1,
+    "text": "to"
+   },
+   {
+    "start": 137.1,
+    "end": 137.26,
+    "text": "me"
+   },
+   {
+    "start": 137.26,
+    "end": 137.42,
+    "text": "that"
+   },
+   {
+    "start": 137.42,
+    "end": 137.62,
+    "text": "it's"
+   },
+   {
+    "start": 137.62,
+    "end": 138.28,
+    "text": "monazite"
+   },
+   {
+    "start": 138.28,
+    "end": 138.86,
+    "text": "rather"
+   },
+   {
+    "start": 138.86,
+    "end": 139.26,
+    "text": "than"
+   },
+   {
+    "start": 139.26,
+    "end": 140.0,
+    "text": "zircon."
+   }
+  ]
+ },
+ {
+  "start": 141.16,
+  "end": 145.0,
+  "text": "Titanite would definitely be browner, usually has higher interference colors also.",
+  "words": [
+   {
+    "start": 141.16,
+    "end": 141.66,
+    "text": "Titanite"
+   },
+   {
+    "start": 141.66,
+    "end": 141.86,
+    "text": "would"
+   },
+   {
+    "start": 141.86,
+    "end": 142.38,
+    "text": "definitely"
+   },
+   {
+    "start": 142.38,
+    "end": 142.6,
+    "text": "be"
+   },
+   {
+    "start": 142.6,
+    "end": 143.18,
+    "text": "browner,"
+   },
+   {
+    "start": 143.26,
+    "end": 143.54,
+    "text": "usually"
+   },
+   {
+    "start": 143.54,
+    "end": 143.88,
+    "text": "has"
+   },
+   {
+    "start": 143.88,
+    "end": 144.12,
+    "text": "higher"
+   },
+   {
+    "start": 144.12,
+    "end": 144.56,
+    "text": "interference"
+   },
+   {
+    "start": 144.56,
+    "end": 144.98,
+    "text": "colors"
+   },
+   {
+    "start": 144.98,
+    "end": 145.34,
+    "text": "also."
+   }
+  ]
+ },
+ {
+  "start": 145.34,
+  "end": 149.94,
+  "text": "You should probably look at the zircon in Titanite videos for comparison.",
+  "words": [
+   {
+    "start": 145.34,
+    "end": 146.16,
+    "text": "You"
+   },
+   {
+    "start": 146.16,
+    "end": 146.36,
+    "text": "should"
+   },
+   {
+    "start": 146.36,
+    "end": 146.72,
+    "text": "probably"
+   },
+   {
+    "start": 146.72,
+    "end": 147.06,
+    "text": "look"
+   },
+   {
+    "start": 147.06,
+    "end": 147.2,
+    "text": "at"
+   },
+   {
+    "start": 147.2,
+    "end": 147.3,
+    "text": "the"
+   },
+   {
+    "start": 147.3,
+    "end": 147.7,
+    "text": "zircon"
+   },
+   {
+    "start": 147.7,
+    "end": 147.96,
+    "text": "in"
+   },
+   {
+    "start": 147.96,
+    "end": 148.54,
+    "text": "Titanite"
+   },
+   {
+    "start": 148.54,
+    "end": 149.12,
+    "text": "videos"
+   },
+   {
+    "start": 149.12,
+    "end": 149.52,
+    "text": "for"
+   },
+   {
+    "start": 149.52,
+    "end": 149.94,
+    "text": "comparison."
+   }
+  ]
+ }
+]

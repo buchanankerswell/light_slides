@@ -1,0 +1,30 @@
+{
+  "chain": {
+    "label": "Chain silicates",
+    "members": ["Orthopyroxene", "Clinopyroxene", "Wollastonite", "Actinolite/tremolite", "Hornblende", "Anthophyllite/gedrite", "Cummingtonite", "Glaucophane"]
+  },
+  "framework": {
+    "label": "Framework silicates",
+    "members": ["Quartz", "Plagioclase", "K-feldspar", "Nepheline", "Sodalite", "Cancrinite", "Leucite", "Scapolite", "Coesite (pseudomorph)"]
+  },
+  "island": {
+    "label": "Island & pair silicates",
+    "members": ["Olivine", "Garnet", "Zircon", "Titanite", "Staurolite", "Chloritoid", "Andalusite", "Kyanite", "Sillimanite", "Epidote group", "Vesuvianite", "Lawsonite", "Titanoclinohumite", "Yoderite"]
+  },
+  "accessories": {
+    "label": "Oxides & accessories",
+    "members": ["Rutile", "Spinel", "Corundum", "Apatite", "Monazite", "Graphite", "Carbonate", "Brucite"]
+  },
+  "ring": {
+    "label": "Ring silicates",
+    "members": ["Tourmaline", "Cordierite"]
+  },
+  "sheet": {
+    "label": "Sheet silicates",
+    "members": ["Muscovite", "Biotite", "Chlorite", "Serpentine", "Talc", "Margarite", "Clintonite"]
+  },
+  "concepts": {
+    "label": "Optical properties",
+    "members": ["Pleochroism and color", "Cleavage", "Amphibole discrimination", "Birds eye extinction", "Myrmekite", "Optical petrography video how-to"]
+  }
+}

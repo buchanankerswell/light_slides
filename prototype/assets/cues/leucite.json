@@ -1,0 +1,1073 @@
+[
+ {
+  "start": 0.48,
+  "end": 3.27,
+  "text": "i have just one sample with lucite in it",
+  "words": [
+   {
+    "start": 0.48,
+    "end": 0.64,
+    "text": "i"
+   },
+   {
+    "start": 0.64,
+    "end": 0.88,
+    "text": "have"
+   },
+   {
+    "start": 0.88,
+    "end": 1.12,
+    "text": "just"
+   },
+   {
+    "start": 1.12,
+    "end": 1.44,
+    "text": "one"
+   },
+   {
+    "start": 1.44,
+    "end": 2.0,
+    "text": "sample"
+   },
+   {
+    "start": 2.0,
+    "end": 2.32,
+    "text": "with"
+   },
+   {
+    "start": 2.32,
+    "end": 2.96,
+    "text": "lucite"
+   },
+   {
+    "start": 2.96,
+    "end": 3.12,
+    "text": "in"
+   },
+   {
+    "start": 3.12,
+    "end": 3.27,
+    "text": "it"
+   }
+  ]
+ },
+ {
+  "start": 3.28,
+  "end": 5.59,
+  "text": "i have just one sample with lucite in it lucide is that very large",
+  "words": [
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "i"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "have"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "just"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "one"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "sample"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "with"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "lucite"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "in"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "it"
+   },
+   {
+    "start": 3.28,
+    "end": 3.68,
+    "text": "lucide"
+   },
+   {
+    "start": 3.68,
+    "end": 3.84,
+    "text": "is"
+   },
+   {
+    "start": 3.84,
+    "end": 4.16,
+    "text": "that"
+   },
+   {
+    "start": 4.16,
+    "end": 4.64,
+    "text": "very"
+   },
+   {
+    "start": 4.64,
+    "end": 5.59,
+    "text": "large"
+   }
+  ]
+ },
+ {
+  "start": 5.59,
+  "end": 5.6,
+  "text": "lucide is that very large",
+  "words": [
+   {
+    "start": 5.59,
+    "end": 5.59,
+    "text": "lucide"
+   },
+   {
+    "start": 5.59,
+    "end": 5.59,
+    "text": "is"
+   },
+   {
+    "start": 5.59,
+    "end": 5.59,
+    "text": "that"
+   },
+   {
+    "start": 5.59,
+    "end": 5.59,
+    "text": "very"
+   },
+   {
+    "start": 5.59,
+    "end": 5.6,
+    "text": "large"
+   }
+  ]
+ },
+ {
+  "start": 5.6,
+  "end": 8.07,
+  "text": "lucide is that very large euhedral crystal in the middle you can",
+  "words": [
+   {
+    "start": 5.6,
+    "end": 5.6,
+    "text": "lucide"
+   },
+   {
+    "start": 5.6,
+    "end": 5.6,
+    "text": "is"
+   },
+   {
+    "start": 5.6,
+    "end": 5.6,
+    "text": "that"
+   },
+   {
+    "start": 5.6,
+    "end": 5.6,
+    "text": "very"
+   },
+   {
+    "start": 5.6,
+    "end": 5.6,
+    "text": "large"
+   },
+   {
+    "start": 5.6,
+    "end": 6.48,
+    "text": "euhedral"
+   },
+   {
+    "start": 6.48,
+    "end": 7.36,
+    "text": "crystal"
+   },
+   {
+    "start": 7.36,
+    "end": 7.52,
+    "text": "in"
+   },
+   {
+    "start": 7.52,
+    "end": 7.6,
+    "text": "the"
+   },
+   {
+    "start": 7.6,
+    "end": 7.92,
+    "text": "middle"
+   },
+   {
+    "start": 7.92,
+    "end": 8.0,
+    "text": "you"
+   },
+   {
+    "start": 8.0,
+    "end": 8.07,
+    "text": "can"
+   }
+  ]
+ },
+ {
+  "start": 8.07,
+  "end": 8.08,
+  "text": "euhedral crystal in the middle you can",
+  "words": [
+   {
+    "start": 8.07,
+    "end": 8.07,
+    "text": "euhedral"
+   },
+   {
+    "start": 8.07,
+    "end": 8.07,
+    "text": "crystal"
+   },
+   {
+    "start": 8.07,
+    "end": 8.07,
+    "text": "in"
+   },
+   {
+    "start": 8.07,
+    "end": 8.07,
+    "text": "the"
+   },
+   {
+    "start": 8.07,
+    "end": 8.07,
+    "text": "middle"
+   },
+   {
+    "start": 8.07,
+    "end": 8.07,
+    "text": "you"
+   },
+   {
+    "start": 8.07,
+    "end": 8.08,
+    "text": "can"
+   }
+  ]
+ },
+ {
+  "start": 8.08,
+  "end": 9.91,
+  "text": "euhedral crystal in the middle you can see some little inclusions of",
+  "words": [
+   {
+    "start": 8.08,
+    "end": 8.08,
+    "text": "euhedral"
+   },
+   {
+    "start": 8.08,
+    "end": 8.08,
+    "text": "crystal"
+   },
+   {
+    "start": 8.08,
+    "end": 8.08,
+    "text": "in"
+   },
+   {
+    "start": 8.08,
+    "end": 8.08,
+    "text": "the"
+   },
+   {
+    "start": 8.08,
+    "end": 8.08,
+    "text": "middle"
+   },
+   {
+    "start": 8.08,
+    "end": 8.08,
+    "text": "you"
+   },
+   {
+    "start": 8.08,
+    "end": 8.08,
+    "text": "can"
+   },
+   {
+    "start": 8.08,
+    "end": 8.32,
+    "text": "see"
+   },
+   {
+    "start": 8.32,
+    "end": 8.48,
+    "text": "some"
+   },
+   {
+    "start": 8.48,
+    "end": 8.72,
+    "text": "little"
+   },
+   {
+    "start": 8.72,
+    "end": 9.44,
+    "text": "inclusions"
+   },
+   {
+    "start": 9.44,
+    "end": 9.91,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 9.91,
+  "end": 9.92,
+  "text": "see some little inclusions of",
+  "words": [
+   {
+    "start": 9.91,
+    "end": 9.91,
+    "text": "see"
+   },
+   {
+    "start": 9.91,
+    "end": 9.91,
+    "text": "some"
+   },
+   {
+    "start": 9.91,
+    "end": 9.91,
+    "text": "little"
+   },
+   {
+    "start": 9.91,
+    "end": 9.91,
+    "text": "inclusions"
+   },
+   {
+    "start": 9.91,
+    "end": 9.92,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 9.92,
+  "end": 13.35,
+  "text": "see some little inclusions of of melt in there very low relief",
+  "words": [
+   {
+    "start": 9.92,
+    "end": 9.92,
+    "text": "see"
+   },
+   {
+    "start": 9.92,
+    "end": 9.92,
+    "text": "some"
+   },
+   {
+    "start": 9.92,
+    "end": 9.92,
+    "text": "little"
+   },
+   {
+    "start": 9.92,
+    "end": 9.92,
+    "text": "inclusions"
+   },
+   {
+    "start": 9.92,
+    "end": 9.92,
+    "text": "of"
+   },
+   {
+    "start": 9.92,
+    "end": 10.16,
+    "text": "of"
+   },
+   {
+    "start": 10.16,
+    "end": 10.48,
+    "text": "melt"
+   },
+   {
+    "start": 10.48,
+    "end": 10.56,
+    "text": "in"
+   },
+   {
+    "start": 10.56,
+    "end": 11.12,
+    "text": "there"
+   },
+   {
+    "start": 11.12,
+    "end": 11.52,
+    "text": "very"
+   },
+   {
+    "start": 11.52,
+    "end": 11.76,
+    "text": "low"
+   },
+   {
+    "start": 11.76,
+    "end": 13.35,
+    "text": "relief"
+   }
+  ]
+ },
+ {
+  "start": 13.35,
+  "end": 13.36,
+  "text": "of melt in there very low relief",
+  "words": [
+   {
+    "start": 13.35,
+    "end": 13.35,
+    "text": "of"
+   },
+   {
+    "start": 13.35,
+    "end": 13.35,
+    "text": "melt"
+   },
+   {
+    "start": 13.35,
+    "end": 13.35,
+    "text": "in"
+   },
+   {
+    "start": 13.35,
+    "end": 13.35,
+    "text": "there"
+   },
+   {
+    "start": 13.35,
+    "end": 13.35,
+    "text": "very"
+   },
+   {
+    "start": 13.35,
+    "end": 13.35,
+    "text": "low"
+   },
+   {
+    "start": 13.35,
+    "end": 13.36,
+    "text": "relief"
+   }
+  ]
+ },
+ {
+  "start": 13.36,
+  "end": 15.67,
+  "text": "of melt in there very low relief and when you cross the polars you'll see",
+  "words": [
+   {
+    "start": 13.36,
+    "end": 13.36,
+    "text": "of"
+   },
+   {
+    "start": 13.36,
+    "end": 13.36,
+    "text": "melt"
+   },
+   {
+    "start": 13.36,
+    "end": 13.36,
+    "text": "in"
+   },
+   {
+    "start": 13.36,
+    "end": 13.36,
+    "text": "there"
+   },
+   {
+    "start": 13.36,
+    "end": 13.36,
+    "text": "very"
+   },
+   {
+    "start": 13.36,
+    "end": 13.36,
+    "text": "low"
+   },
+   {
+    "start": 13.36,
+    "end": 13.36,
+    "text": "relief"
+   },
+   {
+    "start": 13.36,
+    "end": 13.52,
+    "text": "and"
+   },
+   {
+    "start": 13.52,
+    "end": 13.68,
+    "text": "when"
+   },
+   {
+    "start": 13.68,
+    "end": 13.76,
+    "text": "you"
+   },
+   {
+    "start": 13.76,
+    "end": 14.0,
+    "text": "cross"
+   },
+   {
+    "start": 14.0,
+    "end": 14.16,
+    "text": "the"
+   },
+   {
+    "start": 14.16,
+    "end": 14.8,
+    "text": "polars"
+   },
+   {
+    "start": 14.8,
+    "end": 15.12,
+    "text": "you'll"
+   },
+   {
+    "start": 15.12,
+    "end": 15.67,
+    "text": "see"
+   }
+  ]
+ },
+ {
+  "start": 15.67,
+  "end": 15.68,
+  "text": "and when you cross the polars you'll see",
+  "words": [
+   {
+    "start": 15.67,
+    "end": 15.67,
+    "text": "and"
+   },
+   {
+    "start": 15.67,
+    "end": 15.67,
+    "text": "when"
+   },
+   {
+    "start": 15.67,
+    "end": 15.67,
+    "text": "you"
+   },
+   {
+    "start": 15.67,
+    "end": 15.67,
+    "text": "cross"
+   },
+   {
+    "start": 15.67,
+    "end": 15.67,
+    "text": "the"
+   },
+   {
+    "start": 15.67,
+    "end": 15.67,
+    "text": "polars"
+   },
+   {
+    "start": 15.67,
+    "end": 15.67,
+    "text": "you'll"
+   },
+   {
+    "start": 15.67,
+    "end": 15.68,
+    "text": "see"
+   }
+  ]
+ },
+ {
+  "start": 15.68,
+  "end": 16.39,
+  "text": "and when you cross the polars you'll see it has",
+  "words": [
+   {
+    "start": 15.68,
+    "end": 15.68,
+    "text": "and"
+   },
+   {
+    "start": 15.68,
+    "end": 15.68,
+    "text": "when"
+   },
+   {
+    "start": 15.68,
+    "end": 15.68,
+    "text": "you"
+   },
+   {
+    "start": 15.68,
+    "end": 15.68,
+    "text": "cross"
+   },
+   {
+    "start": 15.68,
+    "end": 15.68,
+    "text": "the"
+   },
+   {
+    "start": 15.68,
+    "end": 15.68,
+    "text": "polars"
+   },
+   {
+    "start": 15.68,
+    "end": 15.68,
+    "text": "you'll"
+   },
+   {
+    "start": 15.68,
+    "end": 15.68,
+    "text": "see"
+   },
+   {
+    "start": 15.68,
+    "end": 15.92,
+    "text": "it"
+   },
+   {
+    "start": 15.92,
+    "end": 16.39,
+    "text": "has"
+   }
+  ]
+ },
+ {
+  "start": 16.39,
+  "end": 16.4,
+  "text": "it has",
+  "words": [
+   {
+    "start": 16.39,
+    "end": 16.39,
+    "text": "it"
+   },
+   {
+    "start": 16.39,
+    "end": 16.4,
+    "text": "has"
+   }
+  ]
+ },
+ {
+  "start": 16.4,
+  "end": 19.83,
+  "text": "it has very very low interference colors just",
+  "words": [
+   {
+    "start": 16.4,
+    "end": 16.4,
+    "text": "it"
+   },
+   {
+    "start": 16.4,
+    "end": 16.4,
+    "text": "has"
+   },
+   {
+    "start": 16.4,
+    "end": 16.96,
+    "text": "very"
+   },
+   {
+    "start": 16.96,
+    "end": 17.44,
+    "text": "very"
+   },
+   {
+    "start": 17.44,
+    "end": 18.4,
+    "text": "low"
+   },
+   {
+    "start": 18.4,
+    "end": 19.04,
+    "text": "interference"
+   },
+   {
+    "start": 19.04,
+    "end": 19.44,
+    "text": "colors"
+   },
+   {
+    "start": 19.44,
+    "end": 19.83,
+    "text": "just"
+   }
+  ]
+ },
+ {
+  "start": 19.83,
+  "end": 19.84,
+  "text": "very very low interference colors just",
+  "words": [
+   {
+    "start": 19.83,
+    "end": 19.83,
+    "text": "very"
+   },
+   {
+    "start": 19.83,
+    "end": 19.83,
+    "text": "very"
+   },
+   {
+    "start": 19.83,
+    "end": 19.83,
+    "text": "low"
+   },
+   {
+    "start": 19.83,
+    "end": 19.83,
+    "text": "interference"
+   },
+   {
+    "start": 19.83,
+    "end": 19.83,
+    "text": "colors"
+   },
+   {
+    "start": 19.83,
+    "end": 19.84,
+    "text": "just"
+   }
+  ]
+ },
+ {
+  "start": 19.84,
+  "end": 23.03,
+  "text": "very very low interference colors just barely pick those out it has this kind",
+  "words": [
+   {
+    "start": 19.84,
+    "end": 19.84,
+    "text": "very"
+   },
+   {
+    "start": 19.84,
+    "end": 19.84,
+    "text": "very"
+   },
+   {
+    "start": 19.84,
+    "end": 19.84,
+    "text": "low"
+   },
+   {
+    "start": 19.84,
+    "end": 19.84,
+    "text": "interference"
+   },
+   {
+    "start": 19.84,
+    "end": 19.84,
+    "text": "colors"
+   },
+   {
+    "start": 19.84,
+    "end": 19.84,
+    "text": "just"
+   },
+   {
+    "start": 19.84,
+    "end": 20.8,
+    "text": "barely"
+   },
+   {
+    "start": 20.8,
+    "end": 21.04,
+    "text": "pick"
+   },
+   {
+    "start": 21.04,
+    "end": 21.36,
+    "text": "those"
+   },
+   {
+    "start": 21.36,
+    "end": 22.24,
+    "text": "out"
+   },
+   {
+    "start": 22.24,
+    "end": 22.4,
+    "text": "it"
+   },
+   {
+    "start": 22.4,
+    "end": 22.64,
+    "text": "has"
+   },
+   {
+    "start": 22.64,
+    "end": 22.72,
+    "text": "this"
+   },
+   {
+    "start": 22.72,
+    "end": 23.03,
+    "text": "kind"
+   }
+  ]
+ },
+ {
+  "start": 23.03,
+  "end": 23.04,
+  "text": "barely pick those out it has this kind",
+  "words": [
+   {
+    "start": 23.03,
+    "end": 23.03,
+    "text": "barely"
+   },
+   {
+    "start": 23.03,
+    "end": 23.03,
+    "text": "pick"
+   },
+   {
+    "start": 23.03,
+    "end": 23.03,
+    "text": "those"
+   },
+   {
+    "start": 23.03,
+    "end": 23.03,
+    "text": "out"
+   },
+   {
+    "start": 23.03,
+    "end": 23.03,
+    "text": "it"
+   },
+   {
+    "start": 23.03,
+    "end": 23.03,
+    "text": "has"
+   },
+   {
+    "start": 23.03,
+    "end": 23.03,
+    "text": "this"
+   },
+   {
+    "start": 23.03,
+    "end": 23.04,
+    "text": "kind"
+   }
+  ]
+ },
+ {
+  "start": 23.04,
+  "end": 23.51,
+  "text": "barely pick those out it has this kind of",
+  "words": [
+   {
+    "start": 23.04,
+    "end": 23.04,
+    "text": "barely"
+   },
+   {
+    "start": 23.04,
+    "end": 23.04,
+    "text": "pick"
+   },
+   {
+    "start": 23.04,
+    "end": 23.04,
+    "text": "those"
+   },
+   {
+    "start": 23.04,
+    "end": 23.04,
+    "text": "out"
+   },
+   {
+    "start": 23.04,
+    "end": 23.04,
+    "text": "it"
+   },
+   {
+    "start": 23.04,
+    "end": 23.04,
+    "text": "has"
+   },
+   {
+    "start": 23.04,
+    "end": 23.04,
+    "text": "this"
+   },
+   {
+    "start": 23.04,
+    "end": 23.04,
+    "text": "kind"
+   },
+   {
+    "start": 23.04,
+    "end": 23.51,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 23.51,
+  "end": 23.52,
+  "text": "of",
+  "words": [
+   {
+    "start": 23.51,
+    "end": 23.52,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 23.52,
+  "end": 26.55,
+  "text": "of zones that are optically",
+  "words": [
+   {
+    "start": 23.52,
+    "end": 23.52,
+    "text": "of"
+   },
+   {
+    "start": 23.52,
+    "end": 24.08,
+    "text": "zones"
+   },
+   {
+    "start": 24.08,
+    "end": 24.32,
+    "text": "that"
+   },
+   {
+    "start": 24.32,
+    "end": 25.44,
+    "text": "are"
+   },
+   {
+    "start": 25.44,
+    "end": 26.55,
+    "text": "optically"
+   }
+  ]
+ },
+ {
+  "start": 26.55,
+  "end": 26.56,
+  "text": "zones that are optically",
+  "words": [
+   {
+    "start": 26.55,
+    "end": 26.55,
+    "text": "zones"
+   },
+   {
+    "start": 26.55,
+    "end": 26.55,
+    "text": "that"
+   },
+   {
+    "start": 26.55,
+    "end": 26.55,
+    "text": "are"
+   },
+   {
+    "start": 26.55,
+    "end": 26.56,
+    "text": "optically"
+   }
+  ]
+ },
+ {
+  "start": 26.56,
+  "end": 33.03,
+  "text": "zones that are optically distinct from each other",
+  "words": [
+   {
+    "start": 26.56,
+    "end": 26.56,
+    "text": "zones"
+   },
+   {
+    "start": 26.56,
+    "end": 26.56,
+    "text": "that"
+   },
+   {
+    "start": 26.56,
+    "end": 26.56,
+    "text": "are"
+   },
+   {
+    "start": 26.56,
+    "end": 26.56,
+    "text": "optically"
+   },
+   {
+    "start": 26.56,
+    "end": 27.12,
+    "text": "distinct"
+   },
+   {
+    "start": 27.12,
+    "end": 27.36,
+    "text": "from"
+   },
+   {
+    "start": 27.36,
+    "end": 28.84,
+    "text": "each"
+   },
+   {
+    "start": 28.84,
+    "end": 33.03,
+    "text": "other"
+   }
+  ]
+ },
+ {
+  "start": 33.04,
+  "end": 35.12,
+  "text": "you",
+  "words": [
+   {
+    "start": 33.04,
+    "end": 35.12,
+    "text": "you"
+   }
+  ]
+ }
+]

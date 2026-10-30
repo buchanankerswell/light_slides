@@ -1,0 +1,2562 @@
+[
+ {
+  "start": 0.0,
+  "end": 9.72,
+  "text": "This is super typical rutile in thin section, elongate crystals, sort of amber color, reddish brown color, or honey colored.",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.62,
+    "text": "This"
+   },
+   {
+    "start": 0.62,
+    "end": 0.8,
+    "text": "is"
+   },
+   {
+    "start": 0.8,
+    "end": 1.16,
+    "text": "super"
+   },
+   {
+    "start": 1.16,
+    "end": 1.52,
+    "text": "typical"
+   },
+   {
+    "start": 1.52,
+    "end": 2.48,
+    "text": "rutile"
+   },
+   {
+    "start": 2.48,
+    "end": 2.82,
+    "text": "in"
+   },
+   {
+    "start": 2.82,
+    "end": 3.0,
+    "text": "thin"
+   },
+   {
+    "start": 3.0,
+    "end": 3.44,
+    "text": "section,"
+   },
+   {
+    "start": 4.1,
+    "end": 4.6,
+    "text": "elongate"
+   },
+   {
+    "start": 4.6,
+    "end": 4.98,
+    "text": "crystals,"
+   },
+   {
+    "start": 5.28,
+    "end": 5.28,
+    "text": "sort"
+   },
+   {
+    "start": 5.28,
+    "end": 5.4,
+    "text": "of"
+   },
+   {
+    "start": 5.4,
+    "end": 5.8,
+    "text": "amber"
+   },
+   {
+    "start": 5.8,
+    "end": 6.32,
+    "text": "color,"
+   },
+   {
+    "start": 6.72,
+    "end": 7.24,
+    "text": "reddish"
+   },
+   {
+    "start": 7.24,
+    "end": 7.6,
+    "text": "brown"
+   },
+   {
+    "start": 7.6,
+    "end": 8.32,
+    "text": "color,"
+   },
+   {
+    "start": 8.86,
+    "end": 9.08,
+    "text": "or"
+   },
+   {
+    "start": 9.08,
+    "end": 9.34,
+    "text": "honey"
+   },
+   {
+    "start": 9.34,
+    "end": 9.72,
+    "text": "colored."
+   }
+  ]
+ },
+ {
+  "start": 10.4,
+  "end": 13.46,
+  "text": "It's more pronounced if you put it in the substage condenser.",
+  "words": [
+   {
+    "start": 10.4,
+    "end": 10.86,
+    "text": "It's"
+   },
+   {
+    "start": 10.86,
+    "end": 11.06,
+    "text": "more"
+   },
+   {
+    "start": 11.06,
+    "end": 11.62,
+    "text": "pronounced"
+   },
+   {
+    "start": 11.62,
+    "end": 11.96,
+    "text": "if"
+   },
+   {
+    "start": 11.96,
+    "end": 12.06,
+    "text": "you"
+   },
+   {
+    "start": 12.06,
+    "end": 12.24,
+    "text": "put"
+   },
+   {
+    "start": 12.24,
+    "end": 12.34,
+    "text": "it"
+   },
+   {
+    "start": 12.34,
+    "end": 12.38,
+    "text": "in"
+   },
+   {
+    "start": 12.38,
+    "end": 12.5,
+    "text": "the"
+   },
+   {
+    "start": 12.5,
+    "end": 12.94,
+    "text": "substage"
+   },
+   {
+    "start": 12.94,
+    "end": 13.46,
+    "text": "condenser."
+   }
+  ]
+ },
+ {
+  "start": 13.96,
+  "end": 22.1,
+  "text": "In cross-polars, you don't really see interference colors a lot of times, but you do see parallel extinction with the elongate crystals.",
+  "words": [
+   {
+    "start": 13.96,
+    "end": 14.16,
+    "text": "In"
+   },
+   {
+    "start": 14.16,
+    "end": 14.4,
+    "text": "cross"
+   },
+   {
+    "start": 14.4,
+    "end": 14.84,
+    "text": "-polars,"
+   },
+   {
+    "start": 15.02,
+    "end": 15.06,
+    "text": "you"
+   },
+   {
+    "start": 15.06,
+    "end": 15.2,
+    "text": "don't"
+   },
+   {
+    "start": 15.2,
+    "end": 15.46,
+    "text": "really"
+   },
+   {
+    "start": 15.46,
+    "end": 15.74,
+    "text": "see"
+   },
+   {
+    "start": 15.74,
+    "end": 16.12,
+    "text": "interference"
+   },
+   {
+    "start": 16.12,
+    "end": 16.6,
+    "text": "colors"
+   },
+   {
+    "start": 16.6,
+    "end": 16.84,
+    "text": "a"
+   },
+   {
+    "start": 16.84,
+    "end": 16.96,
+    "text": "lot"
+   },
+   {
+    "start": 16.96,
+    "end": 17.06,
+    "text": "of"
+   },
+   {
+    "start": 17.06,
+    "end": 17.48,
+    "text": "times,"
+   },
+   {
+    "start": 17.72,
+    "end": 18.22,
+    "text": "but"
+   },
+   {
+    "start": 18.22,
+    "end": 18.4,
+    "text": "you"
+   },
+   {
+    "start": 18.4,
+    "end": 18.56,
+    "text": "do"
+   },
+   {
+    "start": 18.56,
+    "end": 18.88,
+    "text": "see"
+   },
+   {
+    "start": 18.88,
+    "end": 19.38,
+    "text": "parallel"
+   },
+   {
+    "start": 19.38,
+    "end": 20.02,
+    "text": "extinction"
+   },
+   {
+    "start": 20.02,
+    "end": 20.84,
+    "text": "with"
+   },
+   {
+    "start": 20.84,
+    "end": 21.04,
+    "text": "the"
+   },
+   {
+    "start": 21.04,
+    "end": 21.66,
+    "text": "elongate"
+   },
+   {
+    "start": 21.66,
+    "end": 22.1,
+    "text": "crystals."
+   }
+  ]
+ },
+ {
+  "start": 22.76,
+  "end": 29.52,
+  "text": "Interference colors are actually super high, but with these larger crystals, mostly all you see is the amber color.",
+  "words": [
+   {
+    "start": 22.76,
+    "end": 23.36,
+    "text": "Interference"
+   },
+   {
+    "start": 23.36,
+    "end": 23.64,
+    "text": "colors"
+   },
+   {
+    "start": 23.64,
+    "end": 23.86,
+    "text": "are"
+   },
+   {
+    "start": 23.86,
+    "end": 24.28,
+    "text": "actually"
+   },
+   {
+    "start": 24.28,
+    "end": 24.6,
+    "text": "super"
+   },
+   {
+    "start": 24.6,
+    "end": 24.9,
+    "text": "high,"
+   },
+   {
+    "start": 25.02,
+    "end": 25.16,
+    "text": "but"
+   },
+   {
+    "start": 25.16,
+    "end": 26.38,
+    "text": "with"
+   },
+   {
+    "start": 26.38,
+    "end": 26.72,
+    "text": "these"
+   },
+   {
+    "start": 26.72,
+    "end": 27.16,
+    "text": "larger"
+   },
+   {
+    "start": 27.16,
+    "end": 27.6,
+    "text": "crystals,"
+   },
+   {
+    "start": 27.8,
+    "end": 28.12,
+    "text": "mostly"
+   },
+   {
+    "start": 28.12,
+    "end": 28.34,
+    "text": "all"
+   },
+   {
+    "start": 28.34,
+    "end": 28.46,
+    "text": "you"
+   },
+   {
+    "start": 28.46,
+    "end": 28.64,
+    "text": "see"
+   },
+   {
+    "start": 28.64,
+    "end": 28.78,
+    "text": "is"
+   },
+   {
+    "start": 28.78,
+    "end": 28.92,
+    "text": "the"
+   },
+   {
+    "start": 28.92,
+    "end": 29.18,
+    "text": "amber"
+   },
+   {
+    "start": 29.18,
+    "end": 29.52,
+    "text": "color."
+   }
+  ]
+ },
+ {
+  "start": 30.48,
+  "end": 37.58,
+  "text": "This is just a single large crystal, shows you that same amber-y color, also shows the high relief.",
+  "words": [
+   {
+    "start": 30.48,
+    "end": 30.94,
+    "text": "This"
+   },
+   {
+    "start": 30.94,
+    "end": 31.16,
+    "text": "is"
+   },
+   {
+    "start": 31.16,
+    "end": 31.58,
+    "text": "just"
+   },
+   {
+    "start": 31.58,
+    "end": 31.74,
+    "text": "a"
+   },
+   {
+    "start": 31.74,
+    "end": 31.98,
+    "text": "single"
+   },
+   {
+    "start": 31.98,
+    "end": 32.3,
+    "text": "large"
+   },
+   {
+    "start": 32.3,
+    "end": 32.82,
+    "text": "crystal,"
+   },
+   {
+    "start": 33.06,
+    "end": 33.28,
+    "text": "shows"
+   },
+   {
+    "start": 33.28,
+    "end": 33.52,
+    "text": "you"
+   },
+   {
+    "start": 33.52,
+    "end": 33.74,
+    "text": "that"
+   },
+   {
+    "start": 33.74,
+    "end": 34.04,
+    "text": "same"
+   },
+   {
+    "start": 34.04,
+    "end": 34.62,
+    "text": "amber"
+   },
+   {
+    "start": 34.62,
+    "end": 34.76,
+    "text": "-y"
+   },
+   {
+    "start": 34.76,
+    "end": 35.08,
+    "text": "color,"
+   },
+   {
+    "start": 35.78,
+    "end": 36.24,
+    "text": "also"
+   },
+   {
+    "start": 36.24,
+    "end": 36.62,
+    "text": "shows"
+   },
+   {
+    "start": 36.62,
+    "end": 36.94,
+    "text": "the"
+   },
+   {
+    "start": 36.94,
+    "end": 37.12,
+    "text": "high"
+   },
+   {
+    "start": 37.12,
+    "end": 37.58,
+    "text": "relief."
+   }
+  ]
+ },
+ {
+  "start": 43.3,
+  "end": 48.68,
+  "text": "Cross-polars, and you'll see it has that amber color for interference colors as well.",
+  "words": [
+   {
+    "start": 43.3,
+    "end": 43.9,
+    "text": "Cross"
+   },
+   {
+    "start": 43.9,
+    "end": 44.34,
+    "text": "-polars,"
+   },
+   {
+    "start": 44.44,
+    "end": 44.52,
+    "text": "and"
+   },
+   {
+    "start": 44.52,
+    "end": 44.66,
+    "text": "you'll"
+   },
+   {
+    "start": 44.66,
+    "end": 44.82,
+    "text": "see"
+   },
+   {
+    "start": 44.82,
+    "end": 44.96,
+    "text": "it"
+   },
+   {
+    "start": 44.96,
+    "end": 45.14,
+    "text": "has"
+   },
+   {
+    "start": 45.14,
+    "end": 45.34,
+    "text": "that"
+   },
+   {
+    "start": 45.34,
+    "end": 45.72,
+    "text": "amber"
+   },
+   {
+    "start": 45.72,
+    "end": 46.28,
+    "text": "color"
+   },
+   {
+    "start": 46.28,
+    "end": 47.06,
+    "text": "for"
+   },
+   {
+    "start": 47.06,
+    "end": 47.8,
+    "text": "interference"
+   },
+   {
+    "start": 47.8,
+    "end": 48.26,
+    "text": "colors"
+   },
+   {
+    "start": 48.26,
+    "end": 48.5,
+    "text": "as"
+   },
+   {
+    "start": 48.5,
+    "end": 48.68,
+    "text": "well."
+   }
+  ]
+ },
+ {
+  "start": 60.3,
+  "end": 67.82,
+  "text": "Now, most rutile is amber colored, but there are crystals that have this sort of purpley plum color.",
+  "words": [
+   {
+    "start": 60.3,
+    "end": 60.78,
+    "text": "Now,"
+   },
+   {
+    "start": 60.94,
+    "end": 61.36,
+    "text": "most"
+   },
+   {
+    "start": 61.36,
+    "end": 62.1,
+    "text": "rutile"
+   },
+   {
+    "start": 62.1,
+    "end": 62.58,
+    "text": "is"
+   },
+   {
+    "start": 62.58,
+    "end": 62.96,
+    "text": "amber"
+   },
+   {
+    "start": 62.96,
+    "end": 63.28,
+    "text": "colored,"
+   },
+   {
+    "start": 63.4,
+    "end": 63.56,
+    "text": "but"
+   },
+   {
+    "start": 63.56,
+    "end": 63.9,
+    "text": "there"
+   },
+   {
+    "start": 63.9,
+    "end": 64.34,
+    "text": "are"
+   },
+   {
+    "start": 64.34,
+    "end": 64.82,
+    "text": "crystals"
+   },
+   {
+    "start": 64.82,
+    "end": 65.22,
+    "text": "that"
+   },
+   {
+    "start": 65.22,
+    "end": 65.46,
+    "text": "have"
+   },
+   {
+    "start": 65.46,
+    "end": 65.66,
+    "text": "this"
+   },
+   {
+    "start": 65.66,
+    "end": 65.88,
+    "text": "sort"
+   },
+   {
+    "start": 65.88,
+    "end": 66.06,
+    "text": "of"
+   },
+   {
+    "start": 66.06,
+    "end": 66.88,
+    "text": "purpley"
+   },
+   {
+    "start": 66.88,
+    "end": 67.26,
+    "text": "plum"
+   },
+   {
+    "start": 67.26,
+    "end": 67.82,
+    "text": "color."
+   }
+  ]
+ },
+ {
+  "start": 68.4,
+  "end": 69.3,
+  "text": "That's what I'm showing here.",
+  "words": [
+   {
+    "start": 68.4,
+    "end": 68.7,
+    "text": "That's"
+   },
+   {
+    "start": 68.7,
+    "end": 68.78,
+    "text": "what"
+   },
+   {
+    "start": 68.78,
+    "end": 68.88,
+    "text": "I'm"
+   },
+   {
+    "start": 68.88,
+    "end": 69.06,
+    "text": "showing"
+   },
+   {
+    "start": 69.06,
+    "end": 69.3,
+    "text": "here."
+   }
+  ]
+ },
+ {
+  "start": 69.36,
+  "end": 73.62,
+  "text": "I put in the substage condenser so you can see the colors much more accurately.",
+  "words": [
+   {
+    "start": 69.36,
+    "end": 69.4,
+    "text": "I"
+   },
+   {
+    "start": 69.4,
+    "end": 69.52,
+    "text": "put"
+   },
+   {
+    "start": 69.52,
+    "end": 69.64,
+    "text": "in"
+   },
+   {
+    "start": 69.64,
+    "end": 69.74,
+    "text": "the"
+   },
+   {
+    "start": 69.74,
+    "end": 70.12,
+    "text": "substage"
+   },
+   {
+    "start": 70.12,
+    "end": 70.62,
+    "text": "condenser"
+   },
+   {
+    "start": 70.62,
+    "end": 70.82,
+    "text": "so"
+   },
+   {
+    "start": 70.82,
+    "end": 71.0,
+    "text": "you"
+   },
+   {
+    "start": 71.0,
+    "end": 71.14,
+    "text": "can"
+   },
+   {
+    "start": 71.14,
+    "end": 71.36,
+    "text": "see"
+   },
+   {
+    "start": 71.36,
+    "end": 71.52,
+    "text": "the"
+   },
+   {
+    "start": 71.52,
+    "end": 71.86,
+    "text": "colors"
+   },
+   {
+    "start": 71.86,
+    "end": 72.6,
+    "text": "much"
+   },
+   {
+    "start": 72.6,
+    "end": 72.86,
+    "text": "more"
+   },
+   {
+    "start": 72.86,
+    "end": 73.62,
+    "text": "accurately."
+   }
+  ]
+ },
+ {
+  "start": 74.32,
+  "end": 78.14,
+  "text": "I don't remember off the top of my head the reason for the different color.",
+  "words": [
+   {
+    "start": 74.32,
+    "end": 74.6,
+    "text": "I"
+   },
+   {
+    "start": 74.6,
+    "end": 74.8,
+    "text": "don't"
+   },
+   {
+    "start": 74.8,
+    "end": 75.04,
+    "text": "remember"
+   },
+   {
+    "start": 75.04,
+    "end": 75.32,
+    "text": "off"
+   },
+   {
+    "start": 75.32,
+    "end": 75.44,
+    "text": "the"
+   },
+   {
+    "start": 75.44,
+    "end": 75.64,
+    "text": "top"
+   },
+   {
+    "start": 75.64,
+    "end": 75.74,
+    "text": "of"
+   },
+   {
+    "start": 75.74,
+    "end": 75.86,
+    "text": "my"
+   },
+   {
+    "start": 75.86,
+    "end": 76.14,
+    "text": "head"
+   },
+   {
+    "start": 76.14,
+    "end": 76.58,
+    "text": "the"
+   },
+   {
+    "start": 76.58,
+    "end": 77.22,
+    "text": "reason"
+   },
+   {
+    "start": 77.22,
+    "end": 77.44,
+    "text": "for"
+   },
+   {
+    "start": 77.44,
+    "end": 77.54,
+    "text": "the"
+   },
+   {
+    "start": 77.54,
+    "end": 77.8,
+    "text": "different"
+   },
+   {
+    "start": 77.8,
+    "end": 78.14,
+    "text": "color."
+   }
+  ]
+ },
+ {
+  "start": 78.14,
+  "end": 81.9,
+  "text": "It may have something to do with variable valence state for titanium.",
+  "words": [
+   {
+    "start": 78.14,
+    "end": 78.32,
+    "text": "It"
+   },
+   {
+    "start": 78.32,
+    "end": 78.52,
+    "text": "may"
+   },
+   {
+    "start": 78.52,
+    "end": 78.7,
+    "text": "have"
+   },
+   {
+    "start": 78.7,
+    "end": 78.9,
+    "text": "something"
+   },
+   {
+    "start": 78.9,
+    "end": 79.14,
+    "text": "to"
+   },
+   {
+    "start": 79.14,
+    "end": 79.26,
+    "text": "do"
+   },
+   {
+    "start": 79.26,
+    "end": 79.66,
+    "text": "with"
+   },
+   {
+    "start": 79.66,
+    "end": 80.36,
+    "text": "variable"
+   },
+   {
+    "start": 80.36,
+    "end": 80.86,
+    "text": "valence"
+   },
+   {
+    "start": 80.86,
+    "end": 81.22,
+    "text": "state"
+   },
+   {
+    "start": 81.22,
+    "end": 81.5,
+    "text": "for"
+   },
+   {
+    "start": 81.5,
+    "end": 81.9,
+    "text": "titanium."
+   }
+  ]
+ },
+ {
+  "start": 82.78,
+  "end": 84.52,
+  "text": "This is not a common color, though.",
+  "words": [
+   {
+    "start": 82.78,
+    "end": 83.34,
+    "text": "This"
+   },
+   {
+    "start": 83.34,
+    "end": 83.48,
+    "text": "is"
+   },
+   {
+    "start": 83.48,
+    "end": 83.64,
+    "text": "not"
+   },
+   {
+    "start": 83.64,
+    "end": 83.78,
+    "text": "a"
+   },
+   {
+    "start": 83.78,
+    "end": 84.02,
+    "text": "common"
+   },
+   {
+    "start": 84.02,
+    "end": 84.32,
+    "text": "color,"
+   },
+   {
+    "start": 84.42,
+    "end": 84.52,
+    "text": "though."
+   }
+  ]
+ },
+ {
+  "start": 84.6,
+  "end": 89.24,
+  "text": "I see it in maybe one in a thousand, one in ten thousand crystals, but I do see it occasionally.",
+  "words": [
+   {
+    "start": 84.6,
+    "end": 84.7,
+    "text": "I"
+   },
+   {
+    "start": 84.7,
+    "end": 84.9,
+    "text": "see"
+   },
+   {
+    "start": 84.9,
+    "end": 85.04,
+    "text": "it"
+   },
+   {
+    "start": 85.04,
+    "end": 85.22,
+    "text": "in"
+   },
+   {
+    "start": 85.22,
+    "end": 85.64,
+    "text": "maybe"
+   },
+   {
+    "start": 85.64,
+    "end": 85.94,
+    "text": "one"
+   },
+   {
+    "start": 85.94,
+    "end": 86.1,
+    "text": "in"
+   },
+   {
+    "start": 86.1,
+    "end": 86.2,
+    "text": "a"
+   },
+   {
+    "start": 86.2,
+    "end": 86.58,
+    "text": "thousand,"
+   },
+   {
+    "start": 86.76,
+    "end": 86.88,
+    "text": "one"
+   },
+   {
+    "start": 86.88,
+    "end": 87.06,
+    "text": "in"
+   },
+   {
+    "start": 87.06,
+    "end": 87.26,
+    "text": "ten"
+   },
+   {
+    "start": 87.26,
+    "end": 87.62,
+    "text": "thousand"
+   },
+   {
+    "start": 87.62,
+    "end": 88.0,
+    "text": "crystals,"
+   },
+   {
+    "start": 88.16,
+    "end": 88.38,
+    "text": "but"
+   },
+   {
+    "start": 88.38,
+    "end": 88.48,
+    "text": "I"
+   },
+   {
+    "start": 88.48,
+    "end": 88.6,
+    "text": "do"
+   },
+   {
+    "start": 88.6,
+    "end": 88.78,
+    "text": "see"
+   },
+   {
+    "start": 88.78,
+    "end": 88.88,
+    "text": "it"
+   },
+   {
+    "start": 88.88,
+    "end": 89.24,
+    "text": "occasionally."
+   }
+  ]
+ },
+ {
+  "start": 90.68,
+  "end": 94.42,
+  "text": "This is a really typical texture for rutile in blucious.",
+  "words": [
+   {
+    "start": 90.68,
+    "end": 91.24,
+    "text": "This"
+   },
+   {
+    "start": 91.24,
+    "end": 91.38,
+    "text": "is"
+   },
+   {
+    "start": 91.38,
+    "end": 91.48,
+    "text": "a"
+   },
+   {
+    "start": 91.48,
+    "end": 91.76,
+    "text": "really"
+   },
+   {
+    "start": 91.76,
+    "end": 92.1,
+    "text": "typical"
+   },
+   {
+    "start": 92.1,
+    "end": 92.56,
+    "text": "texture"
+   },
+   {
+    "start": 92.56,
+    "end": 93.12,
+    "text": "for"
+   },
+   {
+    "start": 93.12,
+    "end": 93.66,
+    "text": "rutile"
+   },
+   {
+    "start": 93.66,
+    "end": 93.96,
+    "text": "in"
+   },
+   {
+    "start": 93.96,
+    "end": 94.42,
+    "text": "blucious."
+   }
+  ]
+ },
+ {
+  "start": 94.76,
+  "end": 97.36,
+  "text": "What you're looking at is a central rutile crystal.",
+  "words": [
+   {
+    "start": 94.76,
+    "end": 94.92,
+    "text": "What"
+   },
+   {
+    "start": 94.92,
+    "end": 95.06,
+    "text": "you're"
+   },
+   {
+    "start": 95.06,
+    "end": 95.24,
+    "text": "looking"
+   },
+   {
+    "start": 95.24,
+    "end": 95.56,
+    "text": "at"
+   },
+   {
+    "start": 95.56,
+    "end": 96.12,
+    "text": "is"
+   },
+   {
+    "start": 96.12,
+    "end": 96.24,
+    "text": "a"
+   },
+   {
+    "start": 96.24,
+    "end": 96.48,
+    "text": "central"
+   },
+   {
+    "start": 96.48,
+    "end": 96.96,
+    "text": "rutile"
+   },
+   {
+    "start": 96.96,
+    "end": 97.36,
+    "text": "crystal."
+   }
+  ]
+ },
+ {
+  "start": 97.5,
+  "end": 106.48,
+  "text": "That's the amber crystal, and it's surrounded by high relief, sort of tannish to clear other mineral.",
+  "words": [
+   {
+    "start": 97.5,
+    "end": 97.68,
+    "text": "That's"
+   },
+   {
+    "start": 97.68,
+    "end": 97.8,
+    "text": "the"
+   },
+   {
+    "start": 97.8,
+    "end": 98.08,
+    "text": "amber"
+   },
+   {
+    "start": 98.08,
+    "end": 98.54,
+    "text": "crystal,"
+   },
+   {
+    "start": 99.02,
+    "end": 99.5,
+    "text": "and"
+   },
+   {
+    "start": 99.5,
+    "end": 99.66,
+    "text": "it's"
+   },
+   {
+    "start": 99.66,
+    "end": 100.0,
+    "text": "surrounded"
+   },
+   {
+    "start": 100.0,
+    "end": 100.32,
+    "text": "by"
+   },
+   {
+    "start": 100.32,
+    "end": 100.78,
+    "text": "high"
+   },
+   {
+    "start": 100.78,
+    "end": 101.54,
+    "text": "relief,"
+   },
+   {
+    "start": 101.72,
+    "end": 102.78,
+    "text": "sort"
+   },
+   {
+    "start": 102.78,
+    "end": 102.94,
+    "text": "of"
+   },
+   {
+    "start": 102.94,
+    "end": 103.6,
+    "text": "tannish"
+   },
+   {
+    "start": 103.6,
+    "end": 103.94,
+    "text": "to"
+   },
+   {
+    "start": 103.94,
+    "end": 105.08,
+    "text": "clear"
+   },
+   {
+    "start": 105.08,
+    "end": 106.16,
+    "text": "other"
+   },
+   {
+    "start": 106.16,
+    "end": 106.48,
+    "text": "mineral."
+   }
+  ]
+ },
+ {
+  "start": 106.48,
+  "end": 107.7,
+  "text": "Well, that's titanite.",
+  "words": [
+   {
+    "start": 106.48,
+    "end": 106.74,
+    "text": "Well,"
+   },
+   {
+    "start": 106.74,
+    "end": 107.12,
+    "text": "that's"
+   },
+   {
+    "start": 107.12,
+    "end": 107.7,
+    "text": "titanite."
+   }
+  ]
+ },
+ {
+  "start": 108.3,
+  "end": 114.36,
+  "text": "The titanium from the rutile reacts to form the titanium component that makes up titanite.",
+  "words": [
+   {
+    "start": 108.3,
+    "end": 108.42,
+    "text": "The"
+   },
+   {
+    "start": 108.42,
+    "end": 108.94,
+    "text": "titanium"
+   },
+   {
+    "start": 108.94,
+    "end": 109.26,
+    "text": "from"
+   },
+   {
+    "start": 109.26,
+    "end": 109.42,
+    "text": "the"
+   },
+   {
+    "start": 109.42,
+    "end": 109.9,
+    "text": "rutile"
+   },
+   {
+    "start": 109.9,
+    "end": 110.52,
+    "text": "reacts"
+   },
+   {
+    "start": 110.52,
+    "end": 110.8,
+    "text": "to"
+   },
+   {
+    "start": 110.8,
+    "end": 111.14,
+    "text": "form"
+   },
+   {
+    "start": 111.14,
+    "end": 111.8,
+    "text": "the"
+   },
+   {
+    "start": 111.8,
+    "end": 112.28,
+    "text": "titanium"
+   },
+   {
+    "start": 112.28,
+    "end": 112.98,
+    "text": "component"
+   },
+   {
+    "start": 112.98,
+    "end": 113.48,
+    "text": "that"
+   },
+   {
+    "start": 113.48,
+    "end": 113.74,
+    "text": "makes"
+   },
+   {
+    "start": 113.74,
+    "end": 113.88,
+    "text": "up"
+   },
+   {
+    "start": 113.88,
+    "end": 114.36,
+    "text": "titanite."
+   }
+  ]
+ },
+ {
+  "start": 114.46,
+  "end": 117.64,
+  "text": "That's a retrograde, over-printing reaction.",
+  "words": [
+   {
+    "start": 114.46,
+    "end": 115.1,
+    "text": "That's"
+   },
+   {
+    "start": 115.1,
+    "end": 115.16,
+    "text": "a"
+   },
+   {
+    "start": 115.16,
+    "end": 115.88,
+    "text": "retrograde,"
+   },
+   {
+    "start": 116.08,
+    "end": 116.6,
+    "text": "over"
+   },
+   {
+    "start": 116.6,
+    "end": 117.18,
+    "text": "-printing"
+   },
+   {
+    "start": 117.18,
+    "end": 117.64,
+    "text": "reaction."
+   }
+  ]
+ },
+ {
+  "start": 118.5,
+  "end": 123.0,
+  "text": "A lot of times, it's easier to see these textures with the substage condenser in it.",
+  "words": [
+   {
+    "start": 118.5,
+    "end": 118.62,
+    "text": "A"
+   },
+   {
+    "start": 118.62,
+    "end": 118.74,
+    "text": "lot"
+   },
+   {
+    "start": 118.74,
+    "end": 118.86,
+    "text": "of"
+   },
+   {
+    "start": 118.86,
+    "end": 119.1,
+    "text": "times,"
+   },
+   {
+    "start": 119.16,
+    "end": 119.34,
+    "text": "it's"
+   },
+   {
+    "start": 119.34,
+    "end": 119.58,
+    "text": "easier"
+   },
+   {
+    "start": 119.58,
+    "end": 119.7,
+    "text": "to"
+   },
+   {
+    "start": 119.7,
+    "end": 120.04,
+    "text": "see"
+   },
+   {
+    "start": 120.04,
+    "end": 120.36,
+    "text": "these"
+   },
+   {
+    "start": 120.36,
+    "end": 120.78,
+    "text": "textures"
+   },
+   {
+    "start": 120.78,
+    "end": 121.38,
+    "text": "with"
+   },
+   {
+    "start": 121.38,
+    "end": 121.76,
+    "text": "the"
+   },
+   {
+    "start": 121.76,
+    "end": 122.22,
+    "text": "substage"
+   },
+   {
+    "start": 122.22,
+    "end": 122.68,
+    "text": "condenser"
+   },
+   {
+    "start": 122.68,
+    "end": 122.88,
+    "text": "in"
+   },
+   {
+    "start": 122.88,
+    "end": 123.0,
+    "text": "it."
+   }
+  ]
+ },
+ {
+  "start": 126.48,
+  "end": 129.2,
+  "text": "This is another pretty common rutile texture.",
+  "words": [
+   {
+    "start": 126.21,
+    "end": 126.6,
+    "text": "This"
+   },
+   {
+    "start": 126.6,
+    "end": 126.72,
+    "text": "is"
+   },
+   {
+    "start": 126.72,
+    "end": 127.02,
+    "text": "another"
+   },
+   {
+    "start": 127.02,
+    "end": 127.52,
+    "text": "pretty"
+   },
+   {
+    "start": 127.52,
+    "end": 127.92,
+    "text": "common"
+   },
+   {
+    "start": 127.92,
+    "end": 128.8,
+    "text": "rutile"
+   },
+   {
+    "start": 128.8,
+    "end": 129.2,
+    "text": "texture."
+   }
+  ]
+ },
+ {
+  "start": 129.2,
+  "end": 137.64,
+  "text": "There's a large crystal of rutile, the amber crystal, that has reacted during cooling to form ilmenite.",
+  "words": [
+   {
+    "start": 129.2,
+    "end": 130.02,
+    "text": "There's"
+   },
+   {
+    "start": 130.02,
+    "end": 130.1,
+    "text": "a"
+   },
+   {
+    "start": 130.1,
+    "end": 130.36,
+    "text": "large"
+   },
+   {
+    "start": 130.36,
+    "end": 130.78,
+    "text": "crystal"
+   },
+   {
+    "start": 130.78,
+    "end": 130.96,
+    "text": "of"
+   },
+   {
+    "start": 130.96,
+    "end": 131.32,
+    "text": "rutile,"
+   },
+   {
+    "start": 131.38,
+    "end": 131.48,
+    "text": "the"
+   },
+   {
+    "start": 131.48,
+    "end": 131.76,
+    "text": "amber"
+   },
+   {
+    "start": 131.76,
+    "end": 132.16,
+    "text": "crystal,"
+   },
+   {
+    "start": 132.4,
+    "end": 133.06,
+    "text": "that"
+   },
+   {
+    "start": 133.06,
+    "end": 133.4,
+    "text": "has"
+   },
+   {
+    "start": 133.4,
+    "end": 134.12,
+    "text": "reacted"
+   },
+   {
+    "start": 134.12,
+    "end": 134.84,
+    "text": "during"
+   },
+   {
+    "start": 134.84,
+    "end": 135.48,
+    "text": "cooling"
+   },
+   {
+    "start": 135.48,
+    "end": 136.14,
+    "text": "to"
+   },
+   {
+    "start": 136.14,
+    "end": 136.96,
+    "text": "form"
+   },
+   {
+    "start": 136.96,
+    "end": 137.64,
+    "text": "ilmenite."
+   }
+  ]
+ },
+ {
+  "start": 138.42,
+  "end": 143.26,
+  "text": "So all of the black around the outside and those black bands that are following cleavage planes",
+  "words": [
+   {
+    "start": 138.42,
+    "end": 138.54,
+    "text": "So"
+   },
+   {
+    "start": 138.54,
+    "end": 138.78,
+    "text": "all"
+   },
+   {
+    "start": 138.78,
+    "end": 138.88,
+    "text": "of"
+   },
+   {
+    "start": 138.88,
+    "end": 138.96,
+    "text": "the"
+   },
+   {
+    "start": 138.96,
+    "end": 139.22,
+    "text": "black"
+   },
+   {
+    "start": 139.22,
+    "end": 139.5,
+    "text": "around"
+   },
+   {
+    "start": 139.5,
+    "end": 139.66,
+    "text": "the"
+   },
+   {
+    "start": 139.66,
+    "end": 140.14,
+    "text": "outside"
+   },
+   {
+    "start": 140.14,
+    "end": 140.44,
+    "text": "and"
+   },
+   {
+    "start": 140.44,
+    "end": 140.6,
+    "text": "those"
+   },
+   {
+    "start": 140.6,
+    "end": 140.92,
+    "text": "black"
+   },
+   {
+    "start": 140.92,
+    "end": 141.38,
+    "text": "bands"
+   },
+   {
+    "start": 141.38,
+    "end": 141.64,
+    "text": "that"
+   },
+   {
+    "start": 141.64,
+    "end": 142.02,
+    "text": "are"
+   },
+   {
+    "start": 142.02,
+    "end": 142.44,
+    "text": "following"
+   },
+   {
+    "start": 142.44,
+    "end": 142.9,
+    "text": "cleavage"
+   },
+   {
+    "start": 142.9,
+    "end": 143.26,
+    "text": "planes"
+   }
+  ]
+ },
+ {
+  "start": 143.26,
+  "end": 146.32,
+  "text": "or twin planes or something like that are ilmenite.",
+  "words": [
+   {
+    "start": 143.26,
+    "end": 143.46,
+    "text": "or"
+   },
+   {
+    "start": 143.46,
+    "end": 143.66,
+    "text": "twin"
+   },
+   {
+    "start": 143.66,
+    "end": 144.02,
+    "text": "planes"
+   },
+   {
+    "start": 144.02,
+    "end": 144.18,
+    "text": "or"
+   },
+   {
+    "start": 144.18,
+    "end": 144.38,
+    "text": "something"
+   },
+   {
+    "start": 144.38,
+    "end": 144.62,
+    "text": "like"
+   },
+   {
+    "start": 144.62,
+    "end": 144.86,
+    "text": "that"
+   },
+   {
+    "start": 144.86,
+    "end": 145.34,
+    "text": "are"
+   },
+   {
+    "start": 145.34,
+    "end": 146.32,
+    "text": "ilmenite."
+   }
+  ]
+ },
+ {
+  "start": 157.02,
+  "end": 161.24,
+  "text": "This is another example of the rutile to ilmenite reaction.",
+  "words": [
+   {
+    "start": 157.02,
+    "end": 157.62,
+    "text": "This"
+   },
+   {
+    "start": 157.62,
+    "end": 157.84,
+    "text": "is"
+   },
+   {
+    "start": 157.84,
+    "end": 158.04,
+    "text": "another"
+   },
+   {
+    "start": 158.04,
+    "end": 158.54,
+    "text": "example"
+   },
+   {
+    "start": 158.54,
+    "end": 159.08,
+    "text": "of"
+   },
+   {
+    "start": 159.08,
+    "end": 159.26,
+    "text": "the"
+   },
+   {
+    "start": 159.26,
+    "end": 159.8,
+    "text": "rutile"
+   },
+   {
+    "start": 159.8,
+    "end": 160.06,
+    "text": "to"
+   },
+   {
+    "start": 160.06,
+    "end": 160.64,
+    "text": "ilmenite"
+   },
+   {
+    "start": 160.64,
+    "end": 161.24,
+    "text": "reaction."
+   }
+  ]
+ },
+ {
+  "start": 162.02,
+  "end": 164.22,
+  "text": "Here, the crystal is really dark.",
+  "words": [
+   {
+    "start": 162.02,
+    "end": 162.3,
+    "text": "Here,"
+   },
+   {
+    "start": 162.46,
+    "end": 162.56,
+    "text": "the"
+   },
+   {
+    "start": 162.56,
+    "end": 162.82,
+    "text": "crystal"
+   },
+   {
+    "start": 162.82,
+    "end": 163.12,
+    "text": "is"
+   },
+   {
+    "start": 163.12,
+    "end": 163.86,
+    "text": "really"
+   },
+   {
+    "start": 163.86,
+    "end": 164.22,
+    "text": "dark."
+   }
+  ]
+ },
+ {
+  "start": 164.42,
+  "end": 166.26,
+  "text": "Even the rutile is pretty dark.",
+  "words": [
+   {
+    "start": 164.42,
+    "end": 164.62,
+    "text": "Even"
+   },
+   {
+    "start": 164.62,
+    "end": 164.9,
+    "text": "the"
+   },
+   {
+    "start": 164.9,
+    "end": 165.58,
+    "text": "rutile"
+   },
+   {
+    "start": 165.58,
+    "end": 165.78,
+    "text": "is"
+   },
+   {
+    "start": 165.78,
+    "end": 165.98,
+    "text": "pretty"
+   },
+   {
+    "start": 165.98,
+    "end": 166.26,
+    "text": "dark."
+   }
+  ]
+ },
+ {
+  "start": 166.64,
+  "end": 172.42,
+  "text": "So when I'm looking for rutile in thin sections, sometimes it's easier to put the substage condenser in",
+  "words": [
+   {
+    "start": 166.64,
+    "end": 166.84,
+    "text": "So"
+   },
+   {
+    "start": 166.84,
+    "end": 166.98,
+    "text": "when"
+   },
+   {
+    "start": 166.98,
+    "end": 167.16,
+    "text": "I'm"
+   },
+   {
+    "start": 167.16,
+    "end": 167.5,
+    "text": "looking"
+   },
+   {
+    "start": 167.5,
+    "end": 167.74,
+    "text": "for"
+   },
+   {
+    "start": 167.74,
+    "end": 168.18,
+    "text": "rutile"
+   },
+   {
+    "start": 168.18,
+    "end": 168.34,
+    "text": "in"
+   },
+   {
+    "start": 168.34,
+    "end": 168.52,
+    "text": "thin"
+   },
+   {
+    "start": 168.52,
+    "end": 168.96,
+    "text": "sections,"
+   },
+   {
+    "start": 169.26,
+    "end": 169.58,
+    "text": "sometimes"
+   },
+   {
+    "start": 169.58,
+    "end": 169.94,
+    "text": "it's"
+   },
+   {
+    "start": 169.94,
+    "end": 170.42,
+    "text": "easier"
+   },
+   {
+    "start": 170.42,
+    "end": 170.72,
+    "text": "to"
+   },
+   {
+    "start": 170.72,
+    "end": 170.9,
+    "text": "put"
+   },
+   {
+    "start": 170.9,
+    "end": 171.06,
+    "text": "the"
+   },
+   {
+    "start": 171.06,
+    "end": 171.54,
+    "text": "substage"
+   },
+   {
+    "start": 171.54,
+    "end": 172.1,
+    "text": "condenser"
+   },
+   {
+    "start": 172.1,
+    "end": 172.42,
+    "text": "in"
+   }
+  ]
+ },
+ {
+  "start": 172.42,
+  "end": 180.48,
+  "text": "and then all these little high-relief blackish minerals, if it's rutile, they'll actually stand out with that amber color.",
+  "words": [
+   {
+    "start": 172.42,
+    "end": 173.1,
+    "text": "and"
+   },
+   {
+    "start": 173.1,
+    "end": 173.32,
+    "text": "then"
+   },
+   {
+    "start": 173.32,
+    "end": 173.76,
+    "text": "all"
+   },
+   {
+    "start": 173.76,
+    "end": 173.96,
+    "text": "these"
+   },
+   {
+    "start": 173.96,
+    "end": 174.22,
+    "text": "little"
+   },
+   {
+    "start": 174.22,
+    "end": 174.48,
+    "text": "high"
+   },
+   {
+    "start": 174.48,
+    "end": 174.98,
+    "text": "-relief"
+   },
+   {
+    "start": 174.98,
+    "end": 176.08,
+    "text": "blackish"
+   },
+   {
+    "start": 176.08,
+    "end": 176.74,
+    "text": "minerals,"
+   },
+   {
+    "start": 177.22,
+    "end": 177.48,
+    "text": "if"
+   },
+   {
+    "start": 177.48,
+    "end": 177.66,
+    "text": "it's"
+   },
+   {
+    "start": 177.66,
+    "end": 178.06,
+    "text": "rutile,"
+   },
+   {
+    "start": 178.22,
+    "end": 178.42,
+    "text": "they'll"
+   },
+   {
+    "start": 178.42,
+    "end": 178.74,
+    "text": "actually"
+   },
+   {
+    "start": 178.74,
+    "end": 179.1,
+    "text": "stand"
+   },
+   {
+    "start": 179.1,
+    "end": 179.38,
+    "text": "out"
+   },
+   {
+    "start": 179.38,
+    "end": 179.58,
+    "text": "with"
+   },
+   {
+    "start": 179.58,
+    "end": 179.8,
+    "text": "that"
+   },
+   {
+    "start": 179.8,
+    "end": 180.16,
+    "text": "amber"
+   },
+   {
+    "start": 180.16,
+    "end": 180.48,
+    "text": "color."
+   }
+  ]
+ },
+ {
+  "start": 180.82,
+  "end": 183.8,
+  "text": "You lose any sense of relief, but the colors really stand out.",
+  "words": [
+   {
+    "start": 180.82,
+    "end": 180.94,
+    "text": "You"
+   },
+   {
+    "start": 180.94,
+    "end": 181.24,
+    "text": "lose"
+   },
+   {
+    "start": 181.24,
+    "end": 181.56,
+    "text": "any"
+   },
+   {
+    "start": 181.56,
+    "end": 181.82,
+    "text": "sense"
+   },
+   {
+    "start": 181.82,
+    "end": 181.98,
+    "text": "of"
+   },
+   {
+    "start": 181.98,
+    "end": 182.3,
+    "text": "relief,"
+   },
+   {
+    "start": 182.44,
+    "end": 182.54,
+    "text": "but"
+   },
+   {
+    "start": 182.54,
+    "end": 182.66,
+    "text": "the"
+   },
+   {
+    "start": 182.66,
+    "end": 182.92,
+    "text": "colors"
+   },
+   {
+    "start": 182.92,
+    "end": 183.22,
+    "text": "really"
+   },
+   {
+    "start": 183.22,
+    "end": 183.52,
+    "text": "stand"
+   },
+   {
+    "start": 183.52,
+    "end": 183.8,
+    "text": "out."
+   }
+  ]
+ },
+ {
+  "start": 188.08,
+  "end": 192.32,
+  "text": "And this probably just looks kind of fuzzy, but when I cross the polars,",
+  "words": [
+   {
+    "start": 188.08,
+    "end": 188.64,
+    "text": "And"
+   },
+   {
+    "start": 188.64,
+    "end": 188.92,
+    "text": "this"
+   },
+   {
+    "start": 188.92,
+    "end": 189.32,
+    "text": "probably"
+   },
+   {
+    "start": 189.32,
+    "end": 189.7,
+    "text": "just"
+   },
+   {
+    "start": 189.7,
+    "end": 189.96,
+    "text": "looks"
+   },
+   {
+    "start": 189.96,
+    "end": 190.14,
+    "text": "kind"
+   },
+   {
+    "start": 190.14,
+    "end": 190.22,
+    "text": "of"
+   },
+   {
+    "start": 190.22,
+    "end": 190.46,
+    "text": "fuzzy,"
+   },
+   {
+    "start": 190.72,
+    "end": 190.98,
+    "text": "but"
+   },
+   {
+    "start": 190.98,
+    "end": 191.58,
+    "text": "when"
+   },
+   {
+    "start": 191.58,
+    "end": 191.7,
+    "text": "I"
+   },
+   {
+    "start": 191.7,
+    "end": 191.84,
+    "text": "cross"
+   },
+   {
+    "start": 191.84,
+    "end": 192.06,
+    "text": "the"
+   },
+   {
+    "start": 192.06,
+    "end": 192.32,
+    "text": "polars,"
+   }
+  ]
+ },
+ {
+  "start": 192.5,
+  "end": 199.1,
+  "text": "what you'll see is that this garnet, which is the host phase, is absolutely filled with rutile needles.",
+  "words": [
+   {
+    "start": 192.5,
+    "end": 192.5,
+    "text": "what"
+   },
+   {
+    "start": 192.5,
+    "end": 192.74,
+    "text": "you'll"
+   },
+   {
+    "start": 192.74,
+    "end": 193.06,
+    "text": "see"
+   },
+   {
+    "start": 193.06,
+    "end": 193.44,
+    "text": "is"
+   },
+   {
+    "start": 193.44,
+    "end": 193.64,
+    "text": "that"
+   },
+   {
+    "start": 193.64,
+    "end": 193.86,
+    "text": "this"
+   },
+   {
+    "start": 193.86,
+    "end": 194.46,
+    "text": "garnet,"
+   },
+   {
+    "start": 194.46,
+    "end": 194.72,
+    "text": "which"
+   },
+   {
+    "start": 194.72,
+    "end": 194.9,
+    "text": "is"
+   },
+   {
+    "start": 194.9,
+    "end": 195.08,
+    "text": "the"
+   },
+   {
+    "start": 195.08,
+    "end": 195.3,
+    "text": "host"
+   },
+   {
+    "start": 195.3,
+    "end": 195.6,
+    "text": "phase,"
+   },
+   {
+    "start": 196.16,
+    "end": 196.62,
+    "text": "is"
+   },
+   {
+    "start": 196.62,
+    "end": 197.2,
+    "text": "absolutely"
+   },
+   {
+    "start": 197.2,
+    "end": 197.78,
+    "text": "filled"
+   },
+   {
+    "start": 197.78,
+    "end": 198.22,
+    "text": "with"
+   },
+   {
+    "start": 198.22,
+    "end": 198.72,
+    "text": "rutile"
+   },
+   {
+    "start": 198.72,
+    "end": 199.1,
+    "text": "needles."
+   }
+  ]
+ },
+ {
+  "start": 202.42,
+  "end": 207.2,
+  "text": "All of that highly birefringent material is all rutile.",
+  "words": [
+   {
+    "start": 202.42,
+    "end": 202.6,
+    "text": "All"
+   },
+   {
+    "start": 202.6,
+    "end": 202.8,
+    "text": "of"
+   },
+   {
+    "start": 202.8,
+    "end": 203.04,
+    "text": "that"
+   },
+   {
+    "start": 203.04,
+    "end": 203.7,
+    "text": "highly"
+   },
+   {
+    "start": 203.7,
+    "end": 204.68,
+    "text": "birefringent"
+   },
+   {
+    "start": 204.68,
+    "end": 205.26,
+    "text": "material"
+   },
+   {
+    "start": 205.26,
+    "end": 206.22,
+    "text": "is"
+   },
+   {
+    "start": 206.22,
+    "end": 206.6,
+    "text": "all"
+   },
+   {
+    "start": 206.6,
+    "end": 207.2,
+    "text": "rutile."
+   }
+  ]
+ },
+ {
+  "start": 208.28,
+  "end": 213.2,
+  "text": "Rutile has super high interference colors, so even the thinnest of needles look birefringent.",
+  "words": [
+   {
+    "start": 208.28,
+    "end": 208.7,
+    "text": "Rutile"
+   },
+   {
+    "start": 208.7,
+    "end": 208.92,
+    "text": "has"
+   },
+   {
+    "start": 208.92,
+    "end": 209.22,
+    "text": "super"
+   },
+   {
+    "start": 209.22,
+    "end": 209.44,
+    "text": "high"
+   },
+   {
+    "start": 209.44,
+    "end": 209.84,
+    "text": "interference"
+   },
+   {
+    "start": 209.84,
+    "end": 210.22,
+    "text": "colors,"
+   },
+   {
+    "start": 210.38,
+    "end": 210.48,
+    "text": "so"
+   },
+   {
+    "start": 210.48,
+    "end": 210.78,
+    "text": "even"
+   },
+   {
+    "start": 210.78,
+    "end": 210.98,
+    "text": "the"
+   },
+   {
+    "start": 210.98,
+    "end": 211.34,
+    "text": "thinnest"
+   },
+   {
+    "start": 211.34,
+    "end": 211.5,
+    "text": "of"
+   },
+   {
+    "start": 211.5,
+    "end": 211.8,
+    "text": "needles"
+   },
+   {
+    "start": 211.8,
+    "end": 212.42,
+    "text": "look"
+   },
+   {
+    "start": 212.42,
+    "end": 213.2,
+    "text": "birefringent."
+   }
+  ]
+ },
+ {
+  "start": 213.58,
+  "end": 216.94,
+  "text": "I've seen this texture in several rocks and it's pretty distinctive.",
+  "words": [
+   {
+    "start": 213.58,
+    "end": 213.76,
+    "text": "I've"
+   },
+   {
+    "start": 213.76,
+    "end": 213.96,
+    "text": "seen"
+   },
+   {
+    "start": 213.96,
+    "end": 214.14,
+    "text": "this"
+   },
+   {
+    "start": 214.14,
+    "end": 214.52,
+    "text": "texture"
+   },
+   {
+    "start": 214.52,
+    "end": 214.88,
+    "text": "in"
+   },
+   {
+    "start": 214.88,
+    "end": 215.2,
+    "text": "several"
+   },
+   {
+    "start": 215.2,
+    "end": 215.54,
+    "text": "rocks"
+   },
+   {
+    "start": 215.54,
+    "end": 215.86,
+    "text": "and"
+   },
+   {
+    "start": 215.86,
+    "end": 216.2,
+    "text": "it's"
+   },
+   {
+    "start": 216.2,
+    "end": 216.52,
+    "text": "pretty"
+   },
+   {
+    "start": 216.52,
+    "end": 216.94,
+    "text": "distinctive."
+   }
+  ]
+ }
+]

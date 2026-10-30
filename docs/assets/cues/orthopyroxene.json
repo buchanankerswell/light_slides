@@ -1,0 +1,1284 @@
+[
+ {
+  "start": 0.0,
+  "end": 7.5,
+  "text": "This is characteristic orthopyroxene. It has this pink-to-green pleochroism, high relief.",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.64,
+    "text": "This"
+   },
+   {
+    "start": 0.64,
+    "end": 0.8,
+    "text": "is"
+   },
+   {
+    "start": 0.8,
+    "end": 1.5,
+    "text": "characteristic"
+   },
+   {
+    "start": 1.5,
+    "end": 2.54,
+    "text": "orthopyroxene."
+   },
+   {
+    "start": 3.06,
+    "end": 3.16,
+    "text": "It"
+   },
+   {
+    "start": 3.16,
+    "end": 3.4,
+    "text": "has"
+   },
+   {
+    "start": 3.4,
+    "end": 3.66,
+    "text": "this"
+   },
+   {
+    "start": 3.66,
+    "end": 4.16,
+    "text": "pink"
+   },
+   {
+    "start": 4.16,
+    "end": 4.42,
+    "text": "-to"
+   },
+   {
+    "start": 4.42,
+    "end": 4.86,
+    "text": "-green"
+   },
+   {
+    "start": 4.86,
+    "end": 5.88,
+    "text": "pleochroism,"
+   },
+   {
+    "start": 6.82,
+    "end": 7.1,
+    "text": "high"
+   },
+   {
+    "start": 7.1,
+    "end": 7.5,
+    "text": "relief."
+   }
+  ]
+ },
+ {
+  "start": 8.5,
+  "end": 11.1,
+  "text": "Pyroxene cleavages to it, not particularly great.",
+  "words": [
+   {
+    "start": 8.5,
+    "end": 8.84,
+    "text": "Pyroxene"
+   },
+   {
+    "start": 8.84,
+    "end": 9.48,
+    "text": "cleavages"
+   },
+   {
+    "start": 9.48,
+    "end": 9.74,
+    "text": "to"
+   },
+   {
+    "start": 9.74,
+    "end": 9.92,
+    "text": "it,"
+   },
+   {
+    "start": 9.94,
+    "end": 10.18,
+    "text": "not"
+   },
+   {
+    "start": 10.18,
+    "end": 10.68,
+    "text": "particularly"
+   },
+   {
+    "start": 10.68,
+    "end": 11.1,
+    "text": "great."
+   }
+  ]
+ },
+ {
+  "start": 11.78,
+  "end": 14.78,
+  "text": "Cross the polars and you see it has very low interference colors.",
+  "words": [
+   {
+    "start": 11.78,
+    "end": 12.04,
+    "text": "Cross"
+   },
+   {
+    "start": 12.04,
+    "end": 12.24,
+    "text": "the"
+   },
+   {
+    "start": 12.24,
+    "end": 12.5,
+    "text": "polars"
+   },
+   {
+    "start": 12.5,
+    "end": 12.66,
+    "text": "and"
+   },
+   {
+    "start": 12.66,
+    "end": 12.76,
+    "text": "you"
+   },
+   {
+    "start": 12.76,
+    "end": 12.92,
+    "text": "see"
+   },
+   {
+    "start": 12.92,
+    "end": 13.02,
+    "text": "it"
+   },
+   {
+    "start": 13.02,
+    "end": 13.18,
+    "text": "has"
+   },
+   {
+    "start": 13.18,
+    "end": 13.52,
+    "text": "very"
+   },
+   {
+    "start": 13.52,
+    "end": 13.86,
+    "text": "low"
+   },
+   {
+    "start": 13.86,
+    "end": 14.38,
+    "text": "interference"
+   },
+   {
+    "start": 14.38,
+    "end": 14.78,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 14.94,
+  "end": 16.28,
+  "text": "These are about as high as they ever get.",
+  "words": [
+   {
+    "start": 14.94,
+    "end": 15.04,
+    "text": "These"
+   },
+   {
+    "start": 15.04,
+    "end": 15.16,
+    "text": "are"
+   },
+   {
+    "start": 15.16,
+    "end": 15.3,
+    "text": "about"
+   },
+   {
+    "start": 15.3,
+    "end": 15.46,
+    "text": "as"
+   },
+   {
+    "start": 15.46,
+    "end": 15.68,
+    "text": "high"
+   },
+   {
+    "start": 15.68,
+    "end": 15.84,
+    "text": "as"
+   },
+   {
+    "start": 15.84,
+    "end": 15.96,
+    "text": "they"
+   },
+   {
+    "start": 15.96,
+    "end": 16.08,
+    "text": "ever"
+   },
+   {
+    "start": 16.08,
+    "end": 16.28,
+    "text": "get."
+   }
+  ]
+ },
+ {
+  "start": 16.74,
+  "end": 18.86,
+  "text": "And that's different from clina pyroxene.",
+  "words": [
+   {
+    "start": 16.74,
+    "end": 17.08,
+    "text": "And"
+   },
+   {
+    "start": 17.08,
+    "end": 17.3,
+    "text": "that's"
+   },
+   {
+    "start": 17.3,
+    "end": 17.62,
+    "text": "different"
+   },
+   {
+    "start": 17.62,
+    "end": 17.88,
+    "text": "from"
+   },
+   {
+    "start": 17.88,
+    "end": 18.2,
+    "text": "clina"
+   },
+   {
+    "start": 18.2,
+    "end": 18.86,
+    "text": "pyroxene."
+   }
+  ]
+ },
+ {
+  "start": 19.3,
+  "end": 24.0,
+  "text": "Clina pyroxene, there will be some grain that has much higher interference colors somewhere in this section.",
+  "words": [
+   {
+    "start": 19.3,
+    "end": 19.6,
+    "text": "Clina"
+   },
+   {
+    "start": 19.6,
+    "end": 19.98,
+    "text": "pyroxene,"
+   },
+   {
+    "start": 20.06,
+    "end": 20.12,
+    "text": "there"
+   },
+   {
+    "start": 20.12,
+    "end": 20.26,
+    "text": "will"
+   },
+   {
+    "start": 20.26,
+    "end": 20.44,
+    "text": "be"
+   },
+   {
+    "start": 20.44,
+    "end": 20.68,
+    "text": "some"
+   },
+   {
+    "start": 20.68,
+    "end": 20.96,
+    "text": "grain"
+   },
+   {
+    "start": 20.96,
+    "end": 21.18,
+    "text": "that"
+   },
+   {
+    "start": 21.18,
+    "end": 21.46,
+    "text": "has"
+   },
+   {
+    "start": 21.46,
+    "end": 21.72,
+    "text": "much"
+   },
+   {
+    "start": 21.72,
+    "end": 21.98,
+    "text": "higher"
+   },
+   {
+    "start": 21.98,
+    "end": 22.5,
+    "text": "interference"
+   },
+   {
+    "start": 22.5,
+    "end": 22.94,
+    "text": "colors"
+   },
+   {
+    "start": 22.94,
+    "end": 23.34,
+    "text": "somewhere"
+   },
+   {
+    "start": 23.34,
+    "end": 23.56,
+    "text": "in"
+   },
+   {
+    "start": 23.56,
+    "end": 23.68,
+    "text": "this"
+   },
+   {
+    "start": 23.68,
+    "end": 24.0,
+    "text": "section."
+   }
+  ]
+ },
+ {
+  "start": 30.82,
+  "end": 33.78,
+  "text": "This is orthopyroxene in a plutonic rock.",
+  "words": [
+   {
+    "start": 30.82,
+    "end": 31.34,
+    "text": "This"
+   },
+   {
+    "start": 31.34,
+    "end": 31.56,
+    "text": "is"
+   },
+   {
+    "start": 31.56,
+    "end": 32.88,
+    "text": "orthopyroxene"
+   },
+   {
+    "start": 32.88,
+    "end": 33.04,
+    "text": "in"
+   },
+   {
+    "start": 33.04,
+    "end": 33.16,
+    "text": "a"
+   },
+   {
+    "start": 33.16,
+    "end": 33.52,
+    "text": "plutonic"
+   },
+   {
+    "start": 33.52,
+    "end": 33.78,
+    "text": "rock."
+   }
+  ]
+ },
+ {
+  "start": 34.42,
+  "end": 38.66,
+  "text": "You can see some of that pleochroism again, but this one is nice elongate.",
+  "words": [
+   {
+    "start": 34.42,
+    "end": 34.52,
+    "text": "You"
+   },
+   {
+    "start": 34.52,
+    "end": 34.68,
+    "text": "can"
+   },
+   {
+    "start": 34.68,
+    "end": 34.9,
+    "text": "see"
+   },
+   {
+    "start": 34.9,
+    "end": 35.3,
+    "text": "some"
+   },
+   {
+    "start": 35.3,
+    "end": 35.44,
+    "text": "of"
+   },
+   {
+    "start": 35.44,
+    "end": 35.58,
+    "text": "that"
+   },
+   {
+    "start": 35.58,
+    "end": 36.22,
+    "text": "pleochroism"
+   },
+   {
+    "start": 36.22,
+    "end": 36.48,
+    "text": "again,"
+   },
+   {
+    "start": 36.64,
+    "end": 36.78,
+    "text": "but"
+   },
+   {
+    "start": 36.78,
+    "end": 37.18,
+    "text": "this"
+   },
+   {
+    "start": 37.18,
+    "end": 37.44,
+    "text": "one"
+   },
+   {
+    "start": 37.44,
+    "end": 37.72,
+    "text": "is"
+   },
+   {
+    "start": 37.72,
+    "end": 37.96,
+    "text": "nice"
+   },
+   {
+    "start": 37.96,
+    "end": 38.66,
+    "text": "elongate."
+   }
+  ]
+ },
+ {
+  "start": 38.82,
+  "end": 40.34,
+  "text": "It has some pretty good cleavages to it.",
+  "words": [
+   {
+    "start": 38.82,
+    "end": 38.82,
+    "text": "It"
+   },
+   {
+    "start": 38.82,
+    "end": 38.9,
+    "text": "has"
+   },
+   {
+    "start": 38.9,
+    "end": 39.1,
+    "text": "some"
+   },
+   {
+    "start": 39.1,
+    "end": 39.22,
+    "text": "pretty"
+   },
+   {
+    "start": 39.22,
+    "end": 39.38,
+    "text": "good"
+   },
+   {
+    "start": 39.38,
+    "end": 39.8,
+    "text": "cleavages"
+   },
+   {
+    "start": 39.8,
+    "end": 40.1,
+    "text": "to"
+   },
+   {
+    "start": 40.1,
+    "end": 40.34,
+    "text": "it."
+   }
+  ]
+ },
+ {
+  "start": 40.68,
+  "end": 45.88,
+  "text": "So when I cross the polars, you will see that it has parallel extinction.",
+  "words": [
+   {
+    "start": 40.68,
+    "end": 41.18,
+    "text": "So"
+   },
+   {
+    "start": 41.18,
+    "end": 41.54,
+    "text": "when"
+   },
+   {
+    "start": 41.54,
+    "end": 41.68,
+    "text": "I"
+   },
+   {
+    "start": 41.68,
+    "end": 41.94,
+    "text": "cross"
+   },
+   {
+    "start": 41.94,
+    "end": 42.16,
+    "text": "the"
+   },
+   {
+    "start": 42.16,
+    "end": 42.58,
+    "text": "polars,"
+   },
+   {
+    "start": 42.74,
+    "end": 42.86,
+    "text": "you"
+   },
+   {
+    "start": 42.86,
+    "end": 43.0,
+    "text": "will"
+   },
+   {
+    "start": 43.0,
+    "end": 43.3,
+    "text": "see"
+   },
+   {
+    "start": 43.3,
+    "end": 43.72,
+    "text": "that"
+   },
+   {
+    "start": 43.72,
+    "end": 43.86,
+    "text": "it"
+   },
+   {
+    "start": 43.86,
+    "end": 44.22,
+    "text": "has"
+   },
+   {
+    "start": 44.22,
+    "end": 45.1,
+    "text": "parallel"
+   },
+   {
+    "start": 45.1,
+    "end": 45.88,
+    "text": "extinction."
+   }
+  ]
+ },
+ {
+  "start": 47.5,
+  "end": 51.08,
+  "text": "That's another characteristic of orthopyroxene that I look for.",
+  "words": [
+   {
+    "start": 47.5,
+    "end": 48.02,
+    "text": "That's"
+   },
+   {
+    "start": 48.02,
+    "end": 48.2,
+    "text": "another"
+   },
+   {
+    "start": 48.2,
+    "end": 48.98,
+    "text": "characteristic"
+   },
+   {
+    "start": 48.98,
+    "end": 49.24,
+    "text": "of"
+   },
+   {
+    "start": 49.24,
+    "end": 50.2,
+    "text": "orthopyroxene"
+   },
+   {
+    "start": 50.2,
+    "end": 50.46,
+    "text": "that"
+   },
+   {
+    "start": 50.46,
+    "end": 50.58,
+    "text": "I"
+   },
+   {
+    "start": 50.58,
+    "end": 50.74,
+    "text": "look"
+   },
+   {
+    "start": 50.74,
+    "end": 51.08,
+    "text": "for."
+   }
+  ]
+ },
+ {
+  "start": 61.24,
+  "end": 65.34,
+  "text": "This is more pink-to-green pleochroic orthopyroxene.",
+  "words": [
+   {
+    "start": 61.24,
+    "end": 61.8,
+    "text": "This"
+   },
+   {
+    "start": 61.8,
+    "end": 61.96,
+    "text": "is"
+   },
+   {
+    "start": 61.96,
+    "end": 62.28,
+    "text": "more"
+   },
+   {
+    "start": 62.28,
+    "end": 62.92,
+    "text": "pink"
+   },
+   {
+    "start": 62.92,
+    "end": 63.28,
+    "text": "-to"
+   },
+   {
+    "start": 63.28,
+    "end": 63.54,
+    "text": "-green"
+   },
+   {
+    "start": 63.54,
+    "end": 64.38,
+    "text": "pleochroic"
+   },
+   {
+    "start": 64.38,
+    "end": 65.34,
+    "text": "orthopyroxene."
+   }
+  ]
+ },
+ {
+  "start": 65.9,
+  "end": 68.46,
+  "text": "There's a little olive-green horn blend around the edges,",
+  "words": [
+   {
+    "start": 65.9,
+    "end": 66.08,
+    "text": "There's"
+   },
+   {
+    "start": 66.08,
+    "end": 66.18,
+    "text": "a"
+   },
+   {
+    "start": 66.18,
+    "end": 66.3,
+    "text": "little"
+   },
+   {
+    "start": 66.3,
+    "end": 66.66,
+    "text": "olive"
+   },
+   {
+    "start": 66.66,
+    "end": 67.06,
+    "text": "-green"
+   },
+   {
+    "start": 67.06,
+    "end": 67.44,
+    "text": "horn"
+   },
+   {
+    "start": 67.44,
+    "end": 67.74,
+    "text": "blend"
+   },
+   {
+    "start": 67.74,
+    "end": 68.0,
+    "text": "around"
+   },
+   {
+    "start": 68.0,
+    "end": 68.24,
+    "text": "the"
+   },
+   {
+    "start": 68.24,
+    "end": 68.46,
+    "text": "edges,"
+   }
+  ]
+ },
+ {
+  "start": 68.62,
+  "end": 73.78,
+  "text": "and you can see that the horn blend has lower relief than the orthopyroxene.",
+  "words": [
+   {
+    "start": 68.62,
+    "end": 68.7,
+    "text": "and"
+   },
+   {
+    "start": 68.7,
+    "end": 68.8,
+    "text": "you"
+   },
+   {
+    "start": 68.8,
+    "end": 68.94,
+    "text": "can"
+   },
+   {
+    "start": 68.94,
+    "end": 69.16,
+    "text": "see"
+   },
+   {
+    "start": 69.16,
+    "end": 69.4,
+    "text": "that"
+   },
+   {
+    "start": 69.4,
+    "end": 69.64,
+    "text": "the"
+   },
+   {
+    "start": 69.64,
+    "end": 70.56,
+    "text": "horn"
+   },
+   {
+    "start": 70.56,
+    "end": 70.84,
+    "text": "blend"
+   },
+   {
+    "start": 70.84,
+    "end": 71.26,
+    "text": "has"
+   },
+   {
+    "start": 71.26,
+    "end": 71.9,
+    "text": "lower"
+   },
+   {
+    "start": 71.9,
+    "end": 72.34,
+    "text": "relief"
+   },
+   {
+    "start": 72.34,
+    "end": 72.62,
+    "text": "than"
+   },
+   {
+    "start": 72.62,
+    "end": 72.84,
+    "text": "the"
+   },
+   {
+    "start": 72.84,
+    "end": 73.78,
+    "text": "orthopyroxene."
+   }
+  ]
+ },
+ {
+  "start": 91.66,
+  "end": 95.06,
+  "text": "And last, this is pink orthopyroxene from agabro.",
+  "words": [
+   {
+    "start": 91.66,
+    "end": 92.14,
+    "text": "And"
+   },
+   {
+    "start": 92.14,
+    "end": 92.5,
+    "text": "last,"
+   },
+   {
+    "start": 92.72,
+    "end": 92.88,
+    "text": "this"
+   },
+   {
+    "start": 92.88,
+    "end": 93.06,
+    "text": "is"
+   },
+   {
+    "start": 93.06,
+    "end": 93.42,
+    "text": "pink"
+   },
+   {
+    "start": 93.42,
+    "end": 94.3,
+    "text": "orthopyroxene"
+   },
+   {
+    "start": 94.3,
+    "end": 94.54,
+    "text": "from"
+   },
+   {
+    "start": 94.54,
+    "end": 95.06,
+    "text": "agabro."
+   }
+  ]
+ },
+ {
+  "start": 96.7,
+  "end": 103.14,
+  "text": "I have to say identifying orthopyroxene, clina pyroxene, and olivine is just not very easy.",
+  "words": [
+   {
+    "start": 96.7,
+    "end": 96.96,
+    "text": "I"
+   },
+   {
+    "start": 96.96,
+    "end": 97.1,
+    "text": "have"
+   },
+   {
+    "start": 97.1,
+    "end": 97.22,
+    "text": "to"
+   },
+   {
+    "start": 97.22,
+    "end": 97.5,
+    "text": "say"
+   },
+   {
+    "start": 97.5,
+    "end": 98.58,
+    "text": "identifying"
+   },
+   {
+    "start": 98.58,
+    "end": 99.62,
+    "text": "orthopyroxene,"
+   },
+   {
+    "start": 99.82,
+    "end": 99.88,
+    "text": "clina"
+   },
+   {
+    "start": 99.88,
+    "end": 100.52,
+    "text": "pyroxene,"
+   },
+   {
+    "start": 101.02,
+    "end": 101.16,
+    "text": "and"
+   },
+   {
+    "start": 101.16,
+    "end": 101.72,
+    "text": "olivine"
+   },
+   {
+    "start": 101.72,
+    "end": 101.94,
+    "text": "is"
+   },
+   {
+    "start": 101.94,
+    "end": 102.14,
+    "text": "just"
+   },
+   {
+    "start": 102.14,
+    "end": 102.42,
+    "text": "not"
+   },
+   {
+    "start": 102.42,
+    "end": 102.7,
+    "text": "very"
+   },
+   {
+    "start": 102.7,
+    "end": 103.14,
+    "text": "easy."
+   }
+  ]
+ },
+ {
+  "start": 103.6,
+  "end": 107.7,
+  "text": "So what I do is I scan around a section until I find a really distinctive grain,",
+  "words": [
+   {
+    "start": 103.6,
+    "end": 103.78,
+    "text": "So"
+   },
+   {
+    "start": 103.78,
+    "end": 103.94,
+    "text": "what"
+   },
+   {
+    "start": 103.94,
+    "end": 104.06,
+    "text": "I"
+   },
+   {
+    "start": 104.06,
+    "end": 104.22,
+    "text": "do"
+   },
+   {
+    "start": 104.22,
+    "end": 104.4,
+    "text": "is"
+   },
+   {
+    "start": 104.4,
+    "end": 104.5,
+    "text": "I"
+   },
+   {
+    "start": 104.5,
+    "end": 104.84,
+    "text": "scan"
+   },
+   {
+    "start": 104.84,
+    "end": 105.14,
+    "text": "around"
+   },
+   {
+    "start": 105.14,
+    "end": 105.34,
+    "text": "a"
+   },
+   {
+    "start": 105.34,
+    "end": 105.62,
+    "text": "section"
+   },
+   {
+    "start": 105.62,
+    "end": 106.0,
+    "text": "until"
+   },
+   {
+    "start": 106.0,
+    "end": 106.2,
+    "text": "I"
+   },
+   {
+    "start": 106.2,
+    "end": 106.42,
+    "text": "find"
+   },
+   {
+    "start": 106.42,
+    "end": 106.56,
+    "text": "a"
+   },
+   {
+    "start": 106.56,
+    "end": 106.76,
+    "text": "really"
+   },
+   {
+    "start": 106.76,
+    "end": 107.26,
+    "text": "distinctive"
+   },
+   {
+    "start": 107.26,
+    "end": 107.7,
+    "text": "grain,"
+   }
+  ]
+ },
+ {
+  "start": 108.0,
+  "end": 110.3,
+  "text": "like this one, for example, and then I say,",
+  "words": [
+   {
+    "start": 108.0,
+    "end": 108.24,
+    "text": "like"
+   },
+   {
+    "start": 108.24,
+    "end": 108.54,
+    "text": "this"
+   },
+   {
+    "start": 108.54,
+    "end": 108.78,
+    "text": "one,"
+   },
+   {
+    "start": 108.86,
+    "end": 108.98,
+    "text": "for"
+   },
+   {
+    "start": 108.98,
+    "end": 109.38,
+    "text": "example,"
+   },
+   {
+    "start": 109.78,
+    "end": 110.02,
+    "text": "and"
+   },
+   {
+    "start": 110.02,
+    "end": 110.1,
+    "text": "then"
+   },
+   {
+    "start": 110.1,
+    "end": 110.18,
+    "text": "I"
+   },
+   {
+    "start": 110.18,
+    "end": 110.3,
+    "text": "say,"
+   }
+  ]
+ },
+ {
+  "start": 110.36,
+  "end": 112.42,
+  "text": "ah, there is orthopyroxene in here.",
+  "words": [
+   {
+    "start": 110.36,
+    "end": 110.58,
+    "text": "ah,"
+   },
+   {
+    "start": 110.62,
+    "end": 110.8,
+    "text": "there"
+   },
+   {
+    "start": 110.8,
+    "end": 111.04,
+    "text": "is"
+   },
+   {
+    "start": 111.04,
+    "end": 111.98,
+    "text": "orthopyroxene"
+   },
+   {
+    "start": 111.98,
+    "end": 112.16,
+    "text": "in"
+   },
+   {
+    "start": 112.16,
+    "end": 112.42,
+    "text": "here."
+   }
+  ]
+ },
+ {
+  "start": 112.92,
+  "end": 116.0,
+  "text": "I won't be able to identify every orthopyroxene grain,",
+  "words": [
+   {
+    "start": 112.92,
+    "end": 113.16,
+    "text": "I"
+   },
+   {
+    "start": 113.16,
+    "end": 113.34,
+    "text": "won't"
+   },
+   {
+    "start": 113.34,
+    "end": 113.48,
+    "text": "be"
+   },
+   {
+    "start": 113.48,
+    "end": 113.66,
+    "text": "able"
+   },
+   {
+    "start": 113.66,
+    "end": 113.74,
+    "text": "to"
+   },
+   {
+    "start": 113.74,
+    "end": 114.34,
+    "text": "identify"
+   },
+   {
+    "start": 114.34,
+    "end": 114.82,
+    "text": "every"
+   },
+   {
+    "start": 114.82,
+    "end": 115.62,
+    "text": "orthopyroxene"
+   },
+   {
+    "start": 115.62,
+    "end": 116.0,
+    "text": "grain,"
+   }
+  ]
+ },
+ {
+  "start": 116.0,
+  "end": 119.48,
+  "text": "but at least I will be able to know that orthopyroxene is in the rock.",
+  "words": [
+   {
+    "start": 116.0,
+    "end": 116.36,
+    "text": "but"
+   },
+   {
+    "start": 116.36,
+    "end": 116.5,
+    "text": "at"
+   },
+   {
+    "start": 116.5,
+    "end": 116.68,
+    "text": "least"
+   },
+   {
+    "start": 116.68,
+    "end": 116.84,
+    "text": "I"
+   },
+   {
+    "start": 116.84,
+    "end": 116.98,
+    "text": "will"
+   },
+   {
+    "start": 116.98,
+    "end": 117.3,
+    "text": "be"
+   },
+   {
+    "start": 117.3,
+    "end": 117.46,
+    "text": "able"
+   },
+   {
+    "start": 117.46,
+    "end": 117.68,
+    "text": "to"
+   },
+   {
+    "start": 117.68,
+    "end": 117.94,
+    "text": "know"
+   },
+   {
+    "start": 117.94,
+    "end": 118.1,
+    "text": "that"
+   },
+   {
+    "start": 118.1,
+    "end": 118.86,
+    "text": "orthopyroxene"
+   },
+   {
+    "start": 118.86,
+    "end": 119.02,
+    "text": "is"
+   },
+   {
+    "start": 119.02,
+    "end": 119.16,
+    "text": "in"
+   },
+   {
+    "start": 119.16,
+    "end": 119.24,
+    "text": "the"
+   },
+   {
+    "start": 119.24,
+    "end": 119.48,
+    "text": "rock."
+   }
+  ]
+ }
+]

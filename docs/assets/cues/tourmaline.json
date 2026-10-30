@@ -1,0 +1,2212 @@
+[
+ {
+  "start": 0.0,
+  "end": 2.44,
+  "text": "tourmaline always stumps me at first.",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.7,
+    "text": "tourmaline"
+   },
+   {
+    "start": 0.7,
+    "end": 1.06,
+    "text": "always"
+   },
+   {
+    "start": 1.06,
+    "end": 1.52,
+    "text": "stumps"
+   },
+   {
+    "start": 1.52,
+    "end": 1.84,
+    "text": "me"
+   },
+   {
+    "start": 1.84,
+    "end": 2.1,
+    "text": "at"
+   },
+   {
+    "start": 2.1,
+    "end": 2.44,
+    "text": "first."
+   }
+  ]
+ },
+ {
+  "start": 3.22,
+  "end": 5.92,
+  "text": "It's highly colored, so I'm always wondering, what is that mineral?",
+  "words": [
+   {
+    "start": 3.22,
+    "end": 3.38,
+    "text": "It's"
+   },
+   {
+    "start": 3.38,
+    "end": 3.64,
+    "text": "highly"
+   },
+   {
+    "start": 3.64,
+    "end": 4.12,
+    "text": "colored,"
+   },
+   {
+    "start": 4.14,
+    "end": 4.38,
+    "text": "so"
+   },
+   {
+    "start": 4.38,
+    "end": 4.46,
+    "text": "I'm"
+   },
+   {
+    "start": 4.46,
+    "end": 4.62,
+    "text": "always"
+   },
+   {
+    "start": 4.62,
+    "end": 4.82,
+    "text": "wondering,"
+   },
+   {
+    "start": 4.92,
+    "end": 5.0,
+    "text": "what"
+   },
+   {
+    "start": 5.0,
+    "end": 5.24,
+    "text": "is"
+   },
+   {
+    "start": 5.24,
+    "end": 5.48,
+    "text": "that"
+   },
+   {
+    "start": 5.48,
+    "end": 5.92,
+    "text": "mineral?"
+   }
+  ]
+ },
+ {
+  "start": 6.38,
+  "end": 9.64,
+  "text": "What always saves me is that it has reverse pleochroism.",
+  "words": [
+   {
+    "start": 6.38,
+    "end": 6.56,
+    "text": "What"
+   },
+   {
+    "start": 6.56,
+    "end": 6.82,
+    "text": "always"
+   },
+   {
+    "start": 6.82,
+    "end": 7.16,
+    "text": "saves"
+   },
+   {
+    "start": 7.16,
+    "end": 7.44,
+    "text": "me"
+   },
+   {
+    "start": 7.44,
+    "end": 7.72,
+    "text": "is"
+   },
+   {
+    "start": 7.72,
+    "end": 7.9,
+    "text": "that"
+   },
+   {
+    "start": 7.9,
+    "end": 8.06,
+    "text": "it"
+   },
+   {
+    "start": 8.06,
+    "end": 8.26,
+    "text": "has"
+   },
+   {
+    "start": 8.26,
+    "end": 8.7,
+    "text": "reverse"
+   },
+   {
+    "start": 8.7,
+    "end": 9.64,
+    "text": "pleochroism."
+   }
+  ]
+ },
+ {
+  "start": 10.0,
+  "end": 12.48,
+  "text": "So when it's oriented up and down north-south,",
+  "words": [
+   {
+    "start": 10.0,
+    "end": 10.1,
+    "text": "So"
+   },
+   {
+    "start": 10.1,
+    "end": 10.24,
+    "text": "when"
+   },
+   {
+    "start": 10.24,
+    "end": 10.46,
+    "text": "it's"
+   },
+   {
+    "start": 10.46,
+    "end": 10.82,
+    "text": "oriented"
+   },
+   {
+    "start": 10.82,
+    "end": 11.22,
+    "text": "up"
+   },
+   {
+    "start": 11.22,
+    "end": 11.34,
+    "text": "and"
+   },
+   {
+    "start": 11.34,
+    "end": 11.62,
+    "text": "down"
+   },
+   {
+    "start": 11.62,
+    "end": 12.08,
+    "text": "north"
+   },
+   {
+    "start": 12.08,
+    "end": 12.48,
+    "text": "-south,"
+   }
+  ]
+ },
+ {
+  "start": 12.78,
+  "end": 15.6,
+  "text": "it's darkest and lightest when it's east-west.",
+  "words": [
+   {
+    "start": 12.78,
+    "end": 13.3,
+    "text": "it's"
+   },
+   {
+    "start": 13.3,
+    "end": 13.66,
+    "text": "darkest"
+   },
+   {
+    "start": 13.66,
+    "end": 14.26,
+    "text": "and"
+   },
+   {
+    "start": 14.26,
+    "end": 14.7,
+    "text": "lightest"
+   },
+   {
+    "start": 14.7,
+    "end": 14.86,
+    "text": "when"
+   },
+   {
+    "start": 14.86,
+    "end": 15.06,
+    "text": "it's"
+   },
+   {
+    "start": 15.06,
+    "end": 15.28,
+    "text": "east"
+   },
+   {
+    "start": 15.28,
+    "end": 15.6,
+    "text": "-west."
+   }
+  ]
+ },
+ {
+  "start": 16.38,
+  "end": 20.3,
+  "text": "The interference colors are typically kind of odd looking to me.",
+  "words": [
+   {
+    "start": 16.38,
+    "end": 16.5,
+    "text": "The"
+   },
+   {
+    "start": 16.5,
+    "end": 16.78,
+    "text": "interference"
+   },
+   {
+    "start": 16.78,
+    "end": 17.12,
+    "text": "colors"
+   },
+   {
+    "start": 17.12,
+    "end": 17.9,
+    "text": "are"
+   },
+   {
+    "start": 17.9,
+    "end": 18.34,
+    "text": "typically"
+   },
+   {
+    "start": 18.34,
+    "end": 19.02,
+    "text": "kind"
+   },
+   {
+    "start": 19.02,
+    "end": 19.16,
+    "text": "of"
+   },
+   {
+    "start": 19.16,
+    "end": 19.48,
+    "text": "odd"
+   },
+   {
+    "start": 19.48,
+    "end": 19.82,
+    "text": "looking"
+   },
+   {
+    "start": 19.82,
+    "end": 20.14,
+    "text": "to"
+   },
+   {
+    "start": 20.14,
+    "end": 20.3,
+    "text": "me."
+   }
+  ]
+ },
+ {
+  "start": 20.5,
+  "end": 21.92,
+  "text": "It's hard for me to explain why.",
+  "words": [
+   {
+    "start": 20.5,
+    "end": 20.68,
+    "text": "It's"
+   },
+   {
+    "start": 20.68,
+    "end": 20.88,
+    "text": "hard"
+   },
+   {
+    "start": 20.88,
+    "end": 21.04,
+    "text": "for"
+   },
+   {
+    "start": 21.04,
+    "end": 21.12,
+    "text": "me"
+   },
+   {
+    "start": 21.12,
+    "end": 21.22,
+    "text": "to"
+   },
+   {
+    "start": 21.22,
+    "end": 21.58,
+    "text": "explain"
+   },
+   {
+    "start": 21.58,
+    "end": 21.92,
+    "text": "why."
+   }
+  ]
+ },
+ {
+  "start": 22.26,
+  "end": 24.08,
+  "text": "I think they seem kind of drab,",
+  "words": [
+   {
+    "start": 22.26,
+    "end": 22.38,
+    "text": "I"
+   },
+   {
+    "start": 22.38,
+    "end": 22.58,
+    "text": "think"
+   },
+   {
+    "start": 22.58,
+    "end": 22.8,
+    "text": "they"
+   },
+   {
+    "start": 22.8,
+    "end": 23.1,
+    "text": "seem"
+   },
+   {
+    "start": 23.1,
+    "end": 23.38,
+    "text": "kind"
+   },
+   {
+    "start": 23.38,
+    "end": 23.54,
+    "text": "of"
+   },
+   {
+    "start": 23.54,
+    "end": 24.08,
+    "text": "drab,"
+   }
+  ]
+ },
+ {
+  "start": 24.18,
+  "end": 28.3,
+  "text": "but those interference colors are also distinctive of tourmaline.",
+  "words": [
+   {
+    "start": 24.18,
+    "end": 24.4,
+    "text": "but"
+   },
+   {
+    "start": 24.4,
+    "end": 24.86,
+    "text": "those"
+   },
+   {
+    "start": 24.86,
+    "end": 25.68,
+    "text": "interference"
+   },
+   {
+    "start": 25.68,
+    "end": 26.08,
+    "text": "colors"
+   },
+   {
+    "start": 26.08,
+    "end": 26.64,
+    "text": "are"
+   },
+   {
+    "start": 26.64,
+    "end": 27.1,
+    "text": "also"
+   },
+   {
+    "start": 27.1,
+    "end": 27.54,
+    "text": "distinctive"
+   },
+   {
+    "start": 27.54,
+    "end": 27.82,
+    "text": "of"
+   },
+   {
+    "start": 27.82,
+    "end": 28.3,
+    "text": "tourmaline."
+   }
+  ]
+ },
+ {
+  "start": 30.16,
+  "end": 34.24,
+  "text": "So here we can compare the reverse pleochroism of tourmaline,",
+  "words": [
+   {
+    "start": 30.16,
+    "end": 30.76,
+    "text": "So"
+   },
+   {
+    "start": 30.76,
+    "end": 31.04,
+    "text": "here"
+   },
+   {
+    "start": 31.04,
+    "end": 31.24,
+    "text": "we"
+   },
+   {
+    "start": 31.24,
+    "end": 31.42,
+    "text": "can"
+   },
+   {
+    "start": 31.42,
+    "end": 31.9,
+    "text": "compare"
+   },
+   {
+    "start": 31.9,
+    "end": 32.18,
+    "text": "the"
+   },
+   {
+    "start": 32.18,
+    "end": 32.54,
+    "text": "reverse"
+   },
+   {
+    "start": 32.54,
+    "end": 33.38,
+    "text": "pleochroism"
+   },
+   {
+    "start": 33.38,
+    "end": 33.72,
+    "text": "of"
+   },
+   {
+    "start": 33.72,
+    "end": 34.24,
+    "text": "tourmaline,"
+   }
+  ]
+ },
+ {
+  "start": 34.32,
+  "end": 36.82,
+  "text": "which is that long, skinny crystal in the center,",
+  "words": [
+   {
+    "start": 34.32,
+    "end": 34.44,
+    "text": "which"
+   },
+   {
+    "start": 34.44,
+    "end": 34.6,
+    "text": "is"
+   },
+   {
+    "start": 34.6,
+    "end": 34.82,
+    "text": "that"
+   },
+   {
+    "start": 34.82,
+    "end": 35.12,
+    "text": "long,"
+   },
+   {
+    "start": 35.2,
+    "end": 35.66,
+    "text": "skinny"
+   },
+   {
+    "start": 35.66,
+    "end": 36.24,
+    "text": "crystal"
+   },
+   {
+    "start": 36.24,
+    "end": 36.46,
+    "text": "in"
+   },
+   {
+    "start": 36.46,
+    "end": 36.58,
+    "text": "the"
+   },
+   {
+    "start": 36.58,
+    "end": 36.82,
+    "text": "center,"
+   }
+  ]
+ },
+ {
+  "start": 37.46,
+  "end": 38.2,
+  "text": "with Biotite.",
+  "words": [
+   {
+    "start": 37.46,
+    "end": 37.54,
+    "text": "with"
+   },
+   {
+    "start": 37.54,
+    "end": 38.2,
+    "text": "Biotite."
+   }
+  ]
+ },
+ {
+  "start": 38.36,
+  "end": 41.22,
+  "text": "You'll notice Biotite is darkest when it runs east-west.",
+  "words": [
+   {
+    "start": 38.36,
+    "end": 38.46,
+    "text": "You'll"
+   },
+   {
+    "start": 38.46,
+    "end": 38.62,
+    "text": "notice"
+   },
+   {
+    "start": 38.62,
+    "end": 39.28,
+    "text": "Biotite"
+   },
+   {
+    "start": 39.28,
+    "end": 39.58,
+    "text": "is"
+   },
+   {
+    "start": 39.58,
+    "end": 40.0,
+    "text": "darkest"
+   },
+   {
+    "start": 40.0,
+    "end": 40.3,
+    "text": "when"
+   },
+   {
+    "start": 40.3,
+    "end": 40.44,
+    "text": "it"
+   },
+   {
+    "start": 40.44,
+    "end": 40.64,
+    "text": "runs"
+   },
+   {
+    "start": 40.64,
+    "end": 40.88,
+    "text": "east"
+   },
+   {
+    "start": 40.88,
+    "end": 41.22,
+    "text": "-west."
+   }
+  ]
+ },
+ {
+  "start": 42.04,
+  "end": 44.1,
+  "text": "tourmaline is lightest when it runs east-west.",
+  "words": [
+   {
+    "start": 42.04,
+    "end": 42.28,
+    "text": "tourmaline"
+   },
+   {
+    "start": 42.28,
+    "end": 42.44,
+    "text": "is"
+   },
+   {
+    "start": 42.44,
+    "end": 42.98,
+    "text": "lightest"
+   },
+   {
+    "start": 42.98,
+    "end": 43.14,
+    "text": "when"
+   },
+   {
+    "start": 43.14,
+    "end": 43.28,
+    "text": "it"
+   },
+   {
+    "start": 43.28,
+    "end": 43.5,
+    "text": "runs"
+   },
+   {
+    "start": 43.5,
+    "end": 43.74,
+    "text": "east"
+   },
+   {
+    "start": 43.74,
+    "end": 44.1,
+    "text": "-west."
+   }
+  ]
+ },
+ {
+  "start": 44.7,
+  "end": 47.18,
+  "text": "Biotite has normal pleochroism,",
+  "words": [
+   {
+    "start": 44.7,
+    "end": 45.3,
+    "text": "Biotite"
+   },
+   {
+    "start": 45.3,
+    "end": 45.56,
+    "text": "has"
+   },
+   {
+    "start": 45.56,
+    "end": 45.96,
+    "text": "normal"
+   },
+   {
+    "start": 45.96,
+    "end": 47.18,
+    "text": "pleochroism,"
+   }
+  ]
+ },
+ {
+  "start": 47.42,
+  "end": 50.14,
+  "text": "and tourmaline has reverse pleochroism.",
+  "words": [
+   {
+    "start": 47.42,
+    "end": 47.6,
+    "text": "and"
+   },
+   {
+    "start": 47.6,
+    "end": 48.04,
+    "text": "tourmaline"
+   },
+   {
+    "start": 48.04,
+    "end": 48.46,
+    "text": "has"
+   },
+   {
+    "start": 48.46,
+    "end": 49.32,
+    "text": "reverse"
+   },
+   {
+    "start": 49.32,
+    "end": 50.14,
+    "text": "pleochroism."
+   }
+  ]
+ },
+ {
+  "start": 51.36,
+  "end": 54.9,
+  "text": "You can also see the tourmaline has parallel extinction.",
+  "words": [
+   {
+    "start": 51.36,
+    "end": 51.88,
+    "text": "You"
+   },
+   {
+    "start": 51.88,
+    "end": 52.02,
+    "text": "can"
+   },
+   {
+    "start": 52.02,
+    "end": 52.26,
+    "text": "also"
+   },
+   {
+    "start": 52.26,
+    "end": 52.56,
+    "text": "see"
+   },
+   {
+    "start": 52.56,
+    "end": 52.74,
+    "text": "the"
+   },
+   {
+    "start": 52.74,
+    "end": 53.2,
+    "text": "tourmaline"
+   },
+   {
+    "start": 53.2,
+    "end": 53.66,
+    "text": "has"
+   },
+   {
+    "start": 53.66,
+    "end": 54.38,
+    "text": "parallel"
+   },
+   {
+    "start": 54.38,
+    "end": 54.9,
+    "text": "extinction."
+   }
+  ]
+ },
+ {
+  "start": 60.36,
+  "end": 63.06,
+  "text": "So this is actually a pretty typical tourmaline.",
+  "words": [
+   {
+    "start": 60.36,
+    "end": 60.92,
+    "text": "So"
+   },
+   {
+    "start": 60.92,
+    "end": 61.24,
+    "text": "this"
+   },
+   {
+    "start": 61.24,
+    "end": 61.38,
+    "text": "is"
+   },
+   {
+    "start": 61.38,
+    "end": 61.68,
+    "text": "actually"
+   },
+   {
+    "start": 61.68,
+    "end": 61.82,
+    "text": "a"
+   },
+   {
+    "start": 61.82,
+    "end": 62.02,
+    "text": "pretty"
+   },
+   {
+    "start": 62.02,
+    "end": 62.5,
+    "text": "typical"
+   },
+   {
+    "start": 62.5,
+    "end": 63.06,
+    "text": "tourmaline."
+   }
+  ]
+ },
+ {
+  "start": 63.14,
+  "end": 66.32,
+  "text": "It's some little dinky crystal, highly colored,",
+  "words": [
+   {
+    "start": 63.14,
+    "end": 63.3,
+    "text": "It's"
+   },
+   {
+    "start": 63.3,
+    "end": 63.46,
+    "text": "some"
+   },
+   {
+    "start": 63.46,
+    "end": 63.96,
+    "text": "little"
+   },
+   {
+    "start": 63.96,
+    "end": 64.9,
+    "text": "dinky"
+   },
+   {
+    "start": 64.9,
+    "end": 65.42,
+    "text": "crystal,"
+   },
+   {
+    "start": 65.58,
+    "end": 65.86,
+    "text": "highly"
+   },
+   {
+    "start": 65.86,
+    "end": 66.32,
+    "text": "colored,"
+   }
+  ]
+ },
+ {
+  "start": 66.88,
+  "end": 69.98,
+  "text": "and what I notice is that when it is elongate,",
+  "words": [
+   {
+    "start": 66.88,
+    "end": 67.24,
+    "text": "and"
+   },
+   {
+    "start": 67.24,
+    "end": 67.62,
+    "text": "what"
+   },
+   {
+    "start": 67.62,
+    "end": 67.78,
+    "text": "I"
+   },
+   {
+    "start": 67.78,
+    "end": 68.0,
+    "text": "notice"
+   },
+   {
+    "start": 68.0,
+    "end": 68.36,
+    "text": "is"
+   },
+   {
+    "start": 68.36,
+    "end": 68.64,
+    "text": "that"
+   },
+   {
+    "start": 68.64,
+    "end": 68.94,
+    "text": "when"
+   },
+   {
+    "start": 68.94,
+    "end": 69.1,
+    "text": "it"
+   },
+   {
+    "start": 69.1,
+    "end": 69.26,
+    "text": "is"
+   },
+   {
+    "start": 69.26,
+    "end": 69.98,
+    "text": "elongate,"
+   }
+  ]
+ },
+ {
+  "start": 70.28,
+  "end": 75.02,
+  "text": "parallel to the north-south axes of the crosshairs, it's darkest.",
+  "words": [
+   {
+    "start": 70.28,
+    "end": 70.76,
+    "text": "parallel"
+   },
+   {
+    "start": 70.76,
+    "end": 71.58,
+    "text": "to"
+   },
+   {
+    "start": 71.58,
+    "end": 72.06,
+    "text": "the"
+   },
+   {
+    "start": 72.06,
+    "end": 72.34,
+    "text": "north"
+   },
+   {
+    "start": 72.34,
+    "end": 72.7,
+    "text": "-south"
+   },
+   {
+    "start": 72.7,
+    "end": 73.28,
+    "text": "axes"
+   },
+   {
+    "start": 73.28,
+    "end": 73.58,
+    "text": "of"
+   },
+   {
+    "start": 73.58,
+    "end": 73.84,
+    "text": "the"
+   },
+   {
+    "start": 73.84,
+    "end": 74.42,
+    "text": "crosshairs,"
+   },
+   {
+    "start": 74.58,
+    "end": 74.7,
+    "text": "it's"
+   },
+   {
+    "start": 74.7,
+    "end": 75.02,
+    "text": "darkest."
+   }
+  ]
+ },
+ {
+  "start": 76.0,
+  "end": 78.7,
+  "text": "And that's really it, although I'll look around a section",
+  "words": [
+   {
+    "start": 76.0,
+    "end": 76.28,
+    "text": "And"
+   },
+   {
+    "start": 76.28,
+    "end": 76.48,
+    "text": "that's"
+   },
+   {
+    "start": 76.48,
+    "end": 76.66,
+    "text": "really"
+   },
+   {
+    "start": 76.66,
+    "end": 76.98,
+    "text": "it,"
+   },
+   {
+    "start": 77.36,
+    "end": 77.64,
+    "text": "although"
+   },
+   {
+    "start": 77.64,
+    "end": 77.86,
+    "text": "I'll"
+   },
+   {
+    "start": 77.86,
+    "end": 78.0,
+    "text": "look"
+   },
+   {
+    "start": 78.0,
+    "end": 78.28,
+    "text": "around"
+   },
+   {
+    "start": 78.28,
+    "end": 78.46,
+    "text": "a"
+   },
+   {
+    "start": 78.46,
+    "end": 78.7,
+    "text": "section"
+   }
+  ]
+ },
+ {
+  "start": 78.7,
+  "end": 81.94,
+  "text": "to see if there are other grains that are also distinctive.",
+  "words": [
+   {
+    "start": 78.7,
+    "end": 78.92,
+    "text": "to"
+   },
+   {
+    "start": 78.92,
+    "end": 79.1,
+    "text": "see"
+   },
+   {
+    "start": 79.1,
+    "end": 79.2,
+    "text": "if"
+   },
+   {
+    "start": 79.2,
+    "end": 79.32,
+    "text": "there"
+   },
+   {
+    "start": 79.32,
+    "end": 79.46,
+    "text": "are"
+   },
+   {
+    "start": 79.46,
+    "end": 79.68,
+    "text": "other"
+   },
+   {
+    "start": 79.68,
+    "end": 79.96,
+    "text": "grains"
+   },
+   {
+    "start": 79.96,
+    "end": 80.34,
+    "text": "that"
+   },
+   {
+    "start": 80.34,
+    "end": 80.82,
+    "text": "are"
+   },
+   {
+    "start": 80.82,
+    "end": 81.26,
+    "text": "also"
+   },
+   {
+    "start": 81.26,
+    "end": 81.94,
+    "text": "distinctive."
+   }
+  ]
+ },
+ {
+  "start": 91.02,
+  "end": 93.34,
+  "text": "This is, in fact, from the same section,",
+  "words": [
+   {
+    "start": 91.02,
+    "end": 91.5,
+    "text": "This"
+   },
+   {
+    "start": 91.5,
+    "end": 91.88,
+    "text": "is,"
+   },
+   {
+    "start": 91.94,
+    "end": 92.14,
+    "text": "in"
+   },
+   {
+    "start": 92.14,
+    "end": 92.38,
+    "text": "fact,"
+   },
+   {
+    "start": 92.46,
+    "end": 92.6,
+    "text": "from"
+   },
+   {
+    "start": 92.6,
+    "end": 92.76,
+    "text": "the"
+   },
+   {
+    "start": 92.76,
+    "end": 92.98,
+    "text": "same"
+   },
+   {
+    "start": 92.98,
+    "end": 93.34,
+    "text": "section,"
+   }
+  ]
+ },
+ {
+  "start": 93.5,
+  "end": 94.92,
+  "text": "and you can see there are lots of grains.",
+  "words": [
+   {
+    "start": 93.5,
+    "end": 93.6,
+    "text": "and"
+   },
+   {
+    "start": 93.6,
+    "end": 93.8,
+    "text": "you"
+   },
+   {
+    "start": 93.8,
+    "end": 93.94,
+    "text": "can"
+   },
+   {
+    "start": 93.94,
+    "end": 94.12,
+    "text": "see"
+   },
+   {
+    "start": 94.12,
+    "end": 94.26,
+    "text": "there"
+   },
+   {
+    "start": 94.26,
+    "end": 94.36,
+    "text": "are"
+   },
+   {
+    "start": 94.36,
+    "end": 94.54,
+    "text": "lots"
+   },
+   {
+    "start": 94.54,
+    "end": 94.7,
+    "text": "of"
+   },
+   {
+    "start": 94.7,
+    "end": 94.92,
+    "text": "grains."
+   }
+  ]
+ },
+ {
+  "start": 95.08,
+  "end": 97.14,
+  "text": "They all show this reverse pleochroism",
+  "words": [
+   {
+    "start": 95.08,
+    "end": 95.22,
+    "text": "They"
+   },
+   {
+    "start": 95.22,
+    "end": 95.46,
+    "text": "all"
+   },
+   {
+    "start": 95.46,
+    "end": 95.74,
+    "text": "show"
+   },
+   {
+    "start": 95.74,
+    "end": 96.02,
+    "text": "this"
+   },
+   {
+    "start": 96.02,
+    "end": 96.34,
+    "text": "reverse"
+   },
+   {
+    "start": 96.34,
+    "end": 97.14,
+    "text": "pleochroism"
+   }
+  ]
+ },
+ {
+  "start": 97.94,
+  "end": 102.34,
+  "text": "in sort of a weird green, dark green color across the polars,",
+  "words": [
+   {
+    "start": 97.94,
+    "end": 98.42,
+    "text": "in"
+   },
+   {
+    "start": 98.42,
+    "end": 98.66,
+    "text": "sort"
+   },
+   {
+    "start": 98.66,
+    "end": 98.76,
+    "text": "of"
+   },
+   {
+    "start": 98.76,
+    "end": 98.84,
+    "text": "a"
+   },
+   {
+    "start": 98.84,
+    "end": 99.18,
+    "text": "weird"
+   },
+   {
+    "start": 99.18,
+    "end": 100.02,
+    "text": "green,"
+   },
+   {
+    "start": 100.28,
+    "end": 100.42,
+    "text": "dark"
+   },
+   {
+    "start": 100.42,
+    "end": 100.66,
+    "text": "green"
+   },
+   {
+    "start": 100.66,
+    "end": 101.04,
+    "text": "color"
+   },
+   {
+    "start": 101.04,
+    "end": 101.78,
+    "text": "across"
+   },
+   {
+    "start": 101.78,
+    "end": 101.98,
+    "text": "the"
+   },
+   {
+    "start": 101.98,
+    "end": 102.34,
+    "text": "polars,"
+   }
+  ]
+ },
+ {
+  "start": 102.46,
+  "end": 105.46,
+  "text": "and you'll see that they have parallel extinction",
+  "words": [
+   {
+    "start": 102.46,
+    "end": 102.68,
+    "text": "and"
+   },
+   {
+    "start": 102.68,
+    "end": 102.86,
+    "text": "you'll"
+   },
+   {
+    "start": 102.86,
+    "end": 103.12,
+    "text": "see"
+   },
+   {
+    "start": 103.12,
+    "end": 103.5,
+    "text": "that"
+   },
+   {
+    "start": 103.5,
+    "end": 103.76,
+    "text": "they"
+   },
+   {
+    "start": 103.76,
+    "end": 104.18,
+    "text": "have"
+   },
+   {
+    "start": 104.18,
+    "end": 104.9,
+    "text": "parallel"
+   },
+   {
+    "start": 104.9,
+    "end": 105.46,
+    "text": "extinction"
+   }
+  ]
+ },
+ {
+  "start": 105.98,
+  "end": 109.58,
+  "text": "and some rather odd-looking interference colors.",
+  "words": [
+   {
+    "start": 105.98,
+    "end": 106.46,
+    "text": "and"
+   },
+   {
+    "start": 106.46,
+    "end": 106.8,
+    "text": "some"
+   },
+   {
+    "start": 106.8,
+    "end": 107.34,
+    "text": "rather"
+   },
+   {
+    "start": 107.34,
+    "end": 107.76,
+    "text": "odd"
+   },
+   {
+    "start": 107.76,
+    "end": 108.1,
+    "text": "-looking"
+   },
+   {
+    "start": 108.1,
+    "end": 109.18,
+    "text": "interference"
+   },
+   {
+    "start": 109.18,
+    "end": 109.58,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 121.54,
+  "end": 124.0,
+  "text": "This is an end section of tourmaline,",
+  "words": [
+   {
+    "start": 121.54,
+    "end": 122.1,
+    "text": "This"
+   },
+   {
+    "start": 122.1,
+    "end": 122.22,
+    "text": "is"
+   },
+   {
+    "start": 122.22,
+    "end": 122.36,
+    "text": "an"
+   },
+   {
+    "start": 122.36,
+    "end": 122.62,
+    "text": "end"
+   },
+   {
+    "start": 122.62,
+    "end": 123.04,
+    "text": "section"
+   },
+   {
+    "start": 123.04,
+    "end": 123.48,
+    "text": "of"
+   },
+   {
+    "start": 123.48,
+    "end": 124.0,
+    "text": "tourmaline,"
+   }
+  ]
+ },
+ {
+  "start": 124.26,
+  "end": 127.5,
+  "text": "and what I notice about it, in addition to the intense colors",
+  "words": [
+   {
+    "start": 124.26,
+    "end": 124.42,
+    "text": "and"
+   },
+   {
+    "start": 124.42,
+    "end": 124.66,
+    "text": "what"
+   },
+   {
+    "start": 124.66,
+    "end": 124.8,
+    "text": "I"
+   },
+   {
+    "start": 124.8,
+    "end": 124.98,
+    "text": "notice"
+   },
+   {
+    "start": 124.98,
+    "end": 125.3,
+    "text": "about"
+   },
+   {
+    "start": 125.3,
+    "end": 125.5,
+    "text": "it,"
+   },
+   {
+    "start": 125.6,
+    "end": 125.72,
+    "text": "in"
+   },
+   {
+    "start": 125.72,
+    "end": 126.0,
+    "text": "addition"
+   },
+   {
+    "start": 126.0,
+    "end": 126.36,
+    "text": "to"
+   },
+   {
+    "start": 126.36,
+    "end": 126.62,
+    "text": "the"
+   },
+   {
+    "start": 126.62,
+    "end": 127.08,
+    "text": "intense"
+   },
+   {
+    "start": 127.08,
+    "end": 127.5,
+    "text": "colors"
+   }
+  ]
+ },
+ {
+  "start": 127.5,
+  "end": 133.88,
+  "text": "and pleochroism, is a sort of trigonal geometry to it.",
+  "words": [
+   {
+    "start": 127.5,
+    "end": 127.74,
+    "text": "and"
+   },
+   {
+    "start": 127.74,
+    "end": 128.38,
+    "text": "pleochroism,"
+   },
+   {
+    "start": 128.76,
+    "end": 129.38,
+    "text": "is"
+   },
+   {
+    "start": 129.38,
+    "end": 129.76,
+    "text": "a"
+   },
+   {
+    "start": 129.76,
+    "end": 130.76,
+    "text": "sort"
+   },
+   {
+    "start": 130.76,
+    "end": 131.12,
+    "text": "of"
+   },
+   {
+    "start": 131.12,
+    "end": 131.82,
+    "text": "trigonal"
+   },
+   {
+    "start": 131.82,
+    "end": 133.22,
+    "text": "geometry"
+   },
+   {
+    "start": 133.22,
+    "end": 133.66,
+    "text": "to"
+   },
+   {
+    "start": 133.66,
+    "end": 133.88,
+    "text": "it."
+   }
+  ]
+ },
+ {
+  "start": 134.26,
+  "end": 138.34,
+  "text": "It looks a little like a triangle that has had its sides bulged out.",
+  "words": [
+   {
+    "start": 134.26,
+    "end": 134.4,
+    "text": "It"
+   },
+   {
+    "start": 134.4,
+    "end": 134.54,
+    "text": "looks"
+   },
+   {
+    "start": 134.54,
+    "end": 134.72,
+    "text": "a"
+   },
+   {
+    "start": 134.72,
+    "end": 134.84,
+    "text": "little"
+   },
+   {
+    "start": 134.84,
+    "end": 135.12,
+    "text": "like"
+   },
+   {
+    "start": 135.12,
+    "end": 135.24,
+    "text": "a"
+   },
+   {
+    "start": 135.24,
+    "end": 135.72,
+    "text": "triangle"
+   },
+   {
+    "start": 135.72,
+    "end": 136.4,
+    "text": "that"
+   },
+   {
+    "start": 136.4,
+    "end": 136.68,
+    "text": "has"
+   },
+   {
+    "start": 136.68,
+    "end": 136.92,
+    "text": "had"
+   },
+   {
+    "start": 136.92,
+    "end": 137.06,
+    "text": "its"
+   },
+   {
+    "start": 137.06,
+    "end": 137.5,
+    "text": "sides"
+   },
+   {
+    "start": 137.5,
+    "end": 138.08,
+    "text": "bulged"
+   },
+   {
+    "start": 138.08,
+    "end": 138.34,
+    "text": "out."
+   }
+  ]
+ },
+ {
+  "start": 138.9,
+  "end": 140.58,
+  "text": "That's really typical for tourmaline.",
+  "words": [
+   {
+    "start": 138.9,
+    "end": 139.24,
+    "text": "That's"
+   },
+   {
+    "start": 139.24,
+    "end": 139.54,
+    "text": "really"
+   },
+   {
+    "start": 139.54,
+    "end": 139.88,
+    "text": "typical"
+   },
+   {
+    "start": 139.88,
+    "end": 140.14,
+    "text": "for"
+   },
+   {
+    "start": 140.14,
+    "end": 140.58,
+    "text": "tourmaline."
+   }
+  ]
+ },
+ {
+  "start": 140.72,
+  "end": 146.22,
+  "text": "tourmaline forms these trigonal symmetric grains, prisms,",
+  "words": [
+   {
+    "start": 140.72,
+    "end": 141.14,
+    "text": "tourmaline"
+   },
+   {
+    "start": 141.14,
+    "end": 141.8,
+    "text": "forms"
+   },
+   {
+    "start": 141.8,
+    "end": 142.26,
+    "text": "these"
+   },
+   {
+    "start": 142.26,
+    "end": 143.42,
+    "text": "trigonal"
+   },
+   {
+    "start": 143.42,
+    "end": 144.32,
+    "text": "symmetric"
+   },
+   {
+    "start": 144.32,
+    "end": 145.4,
+    "text": "grains,"
+   },
+   {
+    "start": 145.96,
+    "end": 146.22,
+    "text": "prisms,"
+   }
+  ]
+ },
+ {
+  "start": 146.52,
+  "end": 148.22,
+  "text": "and you're looking at the end of one of those.",
+  "words": [
+   {
+    "start": 146.52,
+    "end": 146.62,
+    "text": "and"
+   },
+   {
+    "start": 146.62,
+    "end": 146.86,
+    "text": "you're"
+   },
+   {
+    "start": 146.86,
+    "end": 147.06,
+    "text": "looking"
+   },
+   {
+    "start": 147.06,
+    "end": 147.24,
+    "text": "at"
+   },
+   {
+    "start": 147.24,
+    "end": 147.34,
+    "text": "the"
+   },
+   {
+    "start": 147.34,
+    "end": 147.62,
+    "text": "end"
+   },
+   {
+    "start": 147.62,
+    "end": 147.78,
+    "text": "of"
+   },
+   {
+    "start": 147.78,
+    "end": 147.9,
+    "text": "one"
+   },
+   {
+    "start": 147.9,
+    "end": 148.02,
+    "text": "of"
+   },
+   {
+    "start": 148.02,
+    "end": 148.22,
+    "text": "those."
+   }
+  ]
+ },
+ {
+  "start": 151.2,
+  "end": 154.38,
+  "text": "This is to show some different colors of tourmaline,",
+  "words": [
+   {
+    "start": 151.2,
+    "end": 151.68,
+    "text": "This"
+   },
+   {
+    "start": 151.68,
+    "end": 151.8,
+    "text": "is"
+   },
+   {
+    "start": 151.8,
+    "end": 151.94,
+    "text": "to"
+   },
+   {
+    "start": 151.94,
+    "end": 152.22,
+    "text": "show"
+   },
+   {
+    "start": 152.22,
+    "end": 152.54,
+    "text": "some"
+   },
+   {
+    "start": 152.54,
+    "end": 152.8,
+    "text": "different"
+   },
+   {
+    "start": 152.8,
+    "end": 153.22,
+    "text": "colors"
+   },
+   {
+    "start": 153.22,
+    "end": 153.82,
+    "text": "of"
+   },
+   {
+    "start": 153.82,
+    "end": 154.38,
+    "text": "tourmaline,"
+   }
+  ]
+ },
+ {
+  "start": 154.6,
+  "end": 156.46,
+  "text": "so there's the green and the brownish green,",
+  "words": [
+   {
+    "start": 154.6,
+    "end": 154.78,
+    "text": "so"
+   },
+   {
+    "start": 154.78,
+    "end": 155.1,
+    "text": "there's"
+   },
+   {
+    "start": 155.1,
+    "end": 155.2,
+    "text": "the"
+   },
+   {
+    "start": 155.2,
+    "end": 155.44,
+    "text": "green"
+   },
+   {
+    "start": 155.44,
+    "end": 155.68,
+    "text": "and"
+   },
+   {
+    "start": 155.68,
+    "end": 155.78,
+    "text": "the"
+   },
+   {
+    "start": 155.78,
+    "end": 156.24,
+    "text": "brownish"
+   },
+   {
+    "start": 156.24,
+    "end": 156.46,
+    "text": "green,"
+   }
+  ]
+ },
+ {
+  "start": 156.5,
+  "end": 161.06,
+  "text": "but there's also that bright blue that shows up in a few rocks as well.",
+  "words": [
+   {
+    "start": 156.5,
+    "end": 156.6,
+    "text": "but"
+   },
+   {
+    "start": 156.6,
+    "end": 156.8,
+    "text": "there's"
+   },
+   {
+    "start": 156.8,
+    "end": 157.04,
+    "text": "also"
+   },
+   {
+    "start": 157.04,
+    "end": 157.26,
+    "text": "that"
+   },
+   {
+    "start": 157.26,
+    "end": 157.5,
+    "text": "bright"
+   },
+   {
+    "start": 157.5,
+    "end": 157.8,
+    "text": "blue"
+   },
+   {
+    "start": 157.8,
+    "end": 158.7,
+    "text": "that"
+   },
+   {
+    "start": 158.7,
+    "end": 159.1,
+    "text": "shows"
+   },
+   {
+    "start": 159.1,
+    "end": 159.38,
+    "text": "up"
+   },
+   {
+    "start": 159.38,
+    "end": 159.64,
+    "text": "in"
+   },
+   {
+    "start": 159.64,
+    "end": 160.18,
+    "text": "a"
+   },
+   {
+    "start": 160.18,
+    "end": 160.36,
+    "text": "few"
+   },
+   {
+    "start": 160.36,
+    "end": 160.66,
+    "text": "rocks"
+   },
+   {
+    "start": 160.66,
+    "end": 160.86,
+    "text": "as"
+   },
+   {
+    "start": 160.86,
+    "end": 161.06,
+    "text": "well."
+   }
+  ]
+ },
+ {
+  "start": 181.3,
+  "end": 185.72,
+  "text": "And then last is this large tan to khaki,",
+  "words": [
+   {
+    "start": 181.3,
+    "end": 182.02,
+    "text": "And"
+   },
+   {
+    "start": 182.02,
+    "end": 182.2,
+    "text": "then"
+   },
+   {
+    "start": 182.2,
+    "end": 182.64,
+    "text": "last"
+   },
+   {
+    "start": 182.64,
+    "end": 183.22,
+    "text": "is"
+   },
+   {
+    "start": 183.22,
+    "end": 183.54,
+    "text": "this"
+   },
+   {
+    "start": 183.54,
+    "end": 184.14,
+    "text": "large"
+   },
+   {
+    "start": 184.14,
+    "end": 184.86,
+    "text": "tan"
+   },
+   {
+    "start": 184.86,
+    "end": 185.22,
+    "text": "to"
+   },
+   {
+    "start": 185.22,
+    "end": 185.72,
+    "text": "khaki,"
+   }
+  ]
+ },
+ {
+  "start": 186.26,
+  "end": 190.24,
+  "text": "to dark olive green pleochroism,",
+  "words": [
+   {
+    "start": 186.26,
+    "end": 186.52,
+    "text": "to"
+   },
+   {
+    "start": 186.52,
+    "end": 187.4,
+    "text": "dark"
+   },
+   {
+    "start": 187.4,
+    "end": 188.38,
+    "text": "olive"
+   },
+   {
+    "start": 188.38,
+    "end": 188.94,
+    "text": "green"
+   },
+   {
+    "start": 188.94,
+    "end": 190.24,
+    "text": "pleochroism,"
+   }
+  ]
+ },
+ {
+  "start": 190.44,
+  "end": 192.46,
+  "text": "and if you watch the biotite,",
+  "words": [
+   {
+    "start": 190.44,
+    "end": 190.7,
+    "text": "and"
+   },
+   {
+    "start": 190.7,
+    "end": 191.0,
+    "text": "if"
+   },
+   {
+    "start": 191.0,
+    "end": 191.22,
+    "text": "you"
+   },
+   {
+    "start": 191.22,
+    "end": 191.88,
+    "text": "watch"
+   },
+   {
+    "start": 191.88,
+    "end": 192.04,
+    "text": "the"
+   },
+   {
+    "start": 192.04,
+    "end": 192.46,
+    "text": "biotite,"
+   }
+  ]
+ },
+ {
+  "start": 192.56,
+  "end": 196.06,
+  "text": "you'll notice that the biotite is going darkest east-west",
+  "words": [
+   {
+    "start": 192.56,
+    "end": 192.68,
+    "text": "you'll"
+   },
+   {
+    "start": 192.68,
+    "end": 192.94,
+    "text": "notice"
+   },
+   {
+    "start": 192.94,
+    "end": 193.18,
+    "text": "that"
+   },
+   {
+    "start": 193.18,
+    "end": 193.28,
+    "text": "the"
+   },
+   {
+    "start": 193.28,
+    "end": 193.7,
+    "text": "biotite"
+   },
+   {
+    "start": 193.7,
+    "end": 193.86,
+    "text": "is"
+   },
+   {
+    "start": 193.86,
+    "end": 194.08,
+    "text": "going"
+   },
+   {
+    "start": 194.08,
+    "end": 194.54,
+    "text": "darkest"
+   },
+   {
+    "start": 194.54,
+    "end": 195.72,
+    "text": "east"
+   },
+   {
+    "start": 195.72,
+    "end": 196.06,
+    "text": "-west"
+   }
+  ]
+ },
+ {
+  "start": 196.06,
+  "end": 198.92,
+  "text": "while the tourmaline is darkest north-south.",
+  "words": [
+   {
+    "start": 196.06,
+    "end": 197.06,
+    "text": "while"
+   },
+   {
+    "start": 197.06,
+    "end": 197.28,
+    "text": "the"
+   },
+   {
+    "start": 197.28,
+    "end": 197.64,
+    "text": "tourmaline"
+   },
+   {
+    "start": 197.64,
+    "end": 197.78,
+    "text": "is"
+   },
+   {
+    "start": 197.78,
+    "end": 198.08,
+    "text": "darkest"
+   },
+   {
+    "start": 198.08,
+    "end": 198.56,
+    "text": "north"
+   },
+   {
+    "start": 198.56,
+    "end": 198.92,
+    "text": "-south."
+   }
+  ]
+ },
+ {
+  "start": 210.0,
+  "end": 211.4,
+  "text": "This is tourmaline.",
+  "words": [
+   {
+    "start": 210.0,
+    "end": 211.4,
+    "text": "This"
+   },
+   {
+    "start": 211.4,
+    "end": 211.4,
+    "text": "is"
+   },
+   {
+    "start": 211.4,
+    "end": 211.4,
+    "text": "tourmaline."
+   }
+  ]
+ }
+]

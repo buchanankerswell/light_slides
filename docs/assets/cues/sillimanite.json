@@ -1,0 +1,3206 @@
+[
+ {
+  "start": 0.0,
+  "end": 6.36,
+  "text": "Wow, so this is coarse prismatic silamonite from a very high temperature, metamorphic",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.7,
+    "text": "Wow,"
+   },
+   {
+    "start": 0.82,
+    "end": 0.98,
+    "text": "so"
+   },
+   {
+    "start": 0.98,
+    "end": 1.3,
+    "text": "this"
+   },
+   {
+    "start": 1.3,
+    "end": 1.44,
+    "text": "is"
+   },
+   {
+    "start": 1.44,
+    "end": 1.92,
+    "text": "coarse"
+   },
+   {
+    "start": 1.92,
+    "end": 2.7,
+    "text": "prismatic"
+   },
+   {
+    "start": 2.7,
+    "end": 3.48,
+    "text": "silamonite"
+   },
+   {
+    "start": 3.48,
+    "end": 3.82,
+    "text": "from"
+   },
+   {
+    "start": 3.82,
+    "end": 3.98,
+    "text": "a"
+   },
+   {
+    "start": 3.98,
+    "end": 4.24,
+    "text": "very"
+   },
+   {
+    "start": 4.24,
+    "end": 4.48,
+    "text": "high"
+   },
+   {
+    "start": 4.48,
+    "end": 4.92,
+    "text": "temperature,"
+   },
+   {
+    "start": 5.16,
+    "end": 6.36,
+    "text": "metamorphic"
+   }
+  ]
+ },
+ {
+  "start": 6.36,
+  "end": 7.44,
+  "text": "rock, a restite.",
+  "words": [
+   {
+    "start": 6.36,
+    "end": 6.58,
+    "text": "rock,"
+   },
+   {
+    "start": 6.76,
+    "end": 6.84,
+    "text": "a"
+   },
+   {
+    "start": 6.84,
+    "end": 7.44,
+    "text": "restite."
+   }
+  ]
+ },
+ {
+  "start": 8.2,
+  "end": 14.86,
+  "text": "And what you see is there are these long, laths, needles of silamonite that have the",
+  "words": [
+   {
+    "start": 8.2,
+    "end": 8.66,
+    "text": "And"
+   },
+   {
+    "start": 8.66,
+    "end": 8.9,
+    "text": "what"
+   },
+   {
+    "start": 8.9,
+    "end": 9.06,
+    "text": "you"
+   },
+   {
+    "start": 9.06,
+    "end": 9.24,
+    "text": "see"
+   },
+   {
+    "start": 9.24,
+    "end": 9.42,
+    "text": "is"
+   },
+   {
+    "start": 9.42,
+    "end": 9.56,
+    "text": "there"
+   },
+   {
+    "start": 9.56,
+    "end": 9.64,
+    "text": "are"
+   },
+   {
+    "start": 9.64,
+    "end": 9.76,
+    "text": "these"
+   },
+   {
+    "start": 9.76,
+    "end": 10.26,
+    "text": "long,"
+   },
+   {
+    "start": 10.42,
+    "end": 11.46,
+    "text": "laths,"
+   },
+   {
+    "start": 11.54,
+    "end": 11.8,
+    "text": "needles"
+   },
+   {
+    "start": 11.8,
+    "end": 12.46,
+    "text": "of"
+   },
+   {
+    "start": 12.46,
+    "end": 13.14,
+    "text": "silamonite"
+   },
+   {
+    "start": 13.14,
+    "end": 13.92,
+    "text": "that"
+   },
+   {
+    "start": 13.92,
+    "end": 14.34,
+    "text": "have"
+   },
+   {
+    "start": 14.34,
+    "end": 14.86,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 14.86,
+  "end": 17.82,
+  "text": "higher interference colors, the brighter interference colors.",
+  "words": [
+   {
+    "start": 14.86,
+    "end": 15.22,
+    "text": "higher"
+   },
+   {
+    "start": 15.22,
+    "end": 15.76,
+    "text": "interference"
+   },
+   {
+    "start": 15.76,
+    "end": 16.14,
+    "text": "colors,"
+   },
+   {
+    "start": 16.36,
+    "end": 16.46,
+    "text": "the"
+   },
+   {
+    "start": 16.46,
+    "end": 16.92,
+    "text": "brighter"
+   },
+   {
+    "start": 16.92,
+    "end": 17.42,
+    "text": "interference"
+   },
+   {
+    "start": 17.42,
+    "end": 17.82,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 18.24,
+  "end": 24.5,
+  "text": "And then you see these polygons of silamonite that have those, they're not quite square",
+  "words": [
+   {
+    "start": 18.24,
+    "end": 18.46,
+    "text": "And"
+   },
+   {
+    "start": 18.46,
+    "end": 18.56,
+    "text": "then"
+   },
+   {
+    "start": 18.56,
+    "end": 18.7,
+    "text": "you"
+   },
+   {
+    "start": 18.7,
+    "end": 18.94,
+    "text": "see"
+   },
+   {
+    "start": 18.94,
+    "end": 19.38,
+    "text": "these"
+   },
+   {
+    "start": 19.38,
+    "end": 20.52,
+    "text": "polygons"
+   },
+   {
+    "start": 20.52,
+    "end": 21.48,
+    "text": "of"
+   },
+   {
+    "start": 21.48,
+    "end": 22.52,
+    "text": "silamonite"
+   },
+   {
+    "start": 22.52,
+    "end": 22.84,
+    "text": "that"
+   },
+   {
+    "start": 22.84,
+    "end": 23.22,
+    "text": "have"
+   },
+   {
+    "start": 23.22,
+    "end": 23.52,
+    "text": "those,"
+   },
+   {
+    "start": 23.76,
+    "end": 23.84,
+    "text": "they're"
+   },
+   {
+    "start": 23.84,
+    "end": 23.96,
+    "text": "not"
+   },
+   {
+    "start": 23.96,
+    "end": 24.16,
+    "text": "quite"
+   },
+   {
+    "start": 24.16,
+    "end": 24.5,
+    "text": "square"
+   }
+  ]
+ },
+ {
+  "start": 24.5,
+  "end": 27.14,
+  "text": "cross sections, but they have gray interference colors.",
+  "words": [
+   {
+    "start": 24.5,
+    "end": 24.76,
+    "text": "cross"
+   },
+   {
+    "start": 24.76,
+    "end": 25.16,
+    "text": "sections,"
+   },
+   {
+    "start": 25.48,
+    "end": 25.62,
+    "text": "but"
+   },
+   {
+    "start": 25.62,
+    "end": 25.76,
+    "text": "they"
+   },
+   {
+    "start": 25.76,
+    "end": 25.92,
+    "text": "have"
+   },
+   {
+    "start": 25.92,
+    "end": 26.24,
+    "text": "gray"
+   },
+   {
+    "start": 26.24,
+    "end": 26.78,
+    "text": "interference"
+   },
+   {
+    "start": 26.78,
+    "end": 27.14,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 30.66,
+  "end": 37.58,
+  "text": "Now this is a close-up of those prisms that have the almost square rectangular cross sections.",
+  "words": [
+   {
+    "start": 30.66,
+    "end": 31.34,
+    "text": "Now"
+   },
+   {
+    "start": 31.34,
+    "end": 31.56,
+    "text": "this"
+   },
+   {
+    "start": 31.56,
+    "end": 31.66,
+    "text": "is"
+   },
+   {
+    "start": 31.66,
+    "end": 31.76,
+    "text": "a"
+   },
+   {
+    "start": 31.76,
+    "end": 32.02,
+    "text": "close"
+   },
+   {
+    "start": 32.02,
+    "end": 32.34,
+    "text": "-up"
+   },
+   {
+    "start": 32.34,
+    "end": 32.68,
+    "text": "of"
+   },
+   {
+    "start": 32.68,
+    "end": 32.96,
+    "text": "those"
+   },
+   {
+    "start": 32.96,
+    "end": 33.58,
+    "text": "prisms"
+   },
+   {
+    "start": 33.58,
+    "end": 34.62,
+    "text": "that"
+   },
+   {
+    "start": 34.62,
+    "end": 35.08,
+    "text": "have"
+   },
+   {
+    "start": 35.08,
+    "end": 35.4,
+    "text": "the"
+   },
+   {
+    "start": 35.4,
+    "end": 35.84,
+    "text": "almost"
+   },
+   {
+    "start": 35.84,
+    "end": 36.3,
+    "text": "square"
+   },
+   {
+    "start": 36.3,
+    "end": 36.82,
+    "text": "rectangular"
+   },
+   {
+    "start": 36.82,
+    "end": 37.14,
+    "text": "cross"
+   },
+   {
+    "start": 37.14,
+    "end": 37.58,
+    "text": "sections."
+   }
+  ]
+ },
+ {
+  "start": 38.34,
+  "end": 41.74,
+  "text": "And this is thoroughly distinctive of silamonite.",
+  "words": [
+   {
+    "start": 38.34,
+    "end": 38.46,
+    "text": "And"
+   },
+   {
+    "start": 38.46,
+    "end": 38.6,
+    "text": "this"
+   },
+   {
+    "start": 38.6,
+    "end": 38.76,
+    "text": "is"
+   },
+   {
+    "start": 38.76,
+    "end": 39.5,
+    "text": "thoroughly"
+   },
+   {
+    "start": 39.5,
+    "end": 40.1,
+    "text": "distinctive"
+   },
+   {
+    "start": 40.1,
+    "end": 41.2,
+    "text": "of"
+   },
+   {
+    "start": 41.2,
+    "end": 41.74,
+    "text": "silamonite."
+   }
+  ]
+ },
+ {
+  "start": 41.88,
+  "end": 49.96,
+  "text": "It has those angled cleavage planes and the gray interference colors, because you're looking",
+  "words": [
+   {
+    "start": 41.88,
+    "end": 41.96,
+    "text": "It"
+   },
+   {
+    "start": 41.96,
+    "end": 42.2,
+    "text": "has"
+   },
+   {
+    "start": 42.2,
+    "end": 42.52,
+    "text": "those"
+   },
+   {
+    "start": 42.52,
+    "end": 43.64,
+    "text": "angled"
+   },
+   {
+    "start": 43.64,
+    "end": 44.42,
+    "text": "cleavage"
+   },
+   {
+    "start": 44.42,
+    "end": 44.84,
+    "text": "planes"
+   },
+   {
+    "start": 44.84,
+    "end": 46.5,
+    "text": "and"
+   },
+   {
+    "start": 46.5,
+    "end": 46.92,
+    "text": "the"
+   },
+   {
+    "start": 46.92,
+    "end": 47.66,
+    "text": "gray"
+   },
+   {
+    "start": 47.66,
+    "end": 48.74,
+    "text": "interference"
+   },
+   {
+    "start": 48.74,
+    "end": 49.26,
+    "text": "colors,"
+   },
+   {
+    "start": 49.34,
+    "end": 49.56,
+    "text": "because"
+   },
+   {
+    "start": 49.56,
+    "end": 49.76,
+    "text": "you're"
+   },
+   {
+    "start": 49.76,
+    "end": 49.96,
+    "text": "looking"
+   }
+  ]
+ },
+ {
+  "start": 49.96,
+  "end": 53.74,
+  "text": "down on the ends of these needles.",
+  "words": [
+   {
+    "start": 49.96,
+    "end": 50.42,
+    "text": "down"
+   },
+   {
+    "start": 50.42,
+    "end": 50.92,
+    "text": "on"
+   },
+   {
+    "start": 50.92,
+    "end": 51.38,
+    "text": "the"
+   },
+   {
+    "start": 51.38,
+    "end": 52.3,
+    "text": "ends"
+   },
+   {
+    "start": 52.3,
+    "end": 52.68,
+    "text": "of"
+   },
+   {
+    "start": 52.68,
+    "end": 53.4,
+    "text": "these"
+   },
+   {
+    "start": 53.4,
+    "end": 53.74,
+    "text": "needles."
+   }
+  ]
+ },
+ {
+  "start": 61.6,
+  "end": 65.54,
+  "text": "This is the other typical texture of silamonite that you see.",
+  "words": [
+   {
+    "start": 61.26,
+    "end": 61.64,
+    "text": "This"
+   },
+   {
+    "start": 61.64,
+    "end": 61.74,
+    "text": "is"
+   },
+   {
+    "start": 61.74,
+    "end": 61.88,
+    "text": "the"
+   },
+   {
+    "start": 61.88,
+    "end": 62.12,
+    "text": "other"
+   },
+   {
+    "start": 62.12,
+    "end": 62.66,
+    "text": "typical"
+   },
+   {
+    "start": 62.66,
+    "end": 63.74,
+    "text": "texture"
+   },
+   {
+    "start": 63.74,
+    "end": 64.34,
+    "text": "of"
+   },
+   {
+    "start": 64.34,
+    "end": 64.92,
+    "text": "silamonite"
+   },
+   {
+    "start": 64.92,
+    "end": 65.2,
+    "text": "that"
+   },
+   {
+    "start": 65.2,
+    "end": 65.38,
+    "text": "you"
+   },
+   {
+    "start": 65.38,
+    "end": 65.54,
+    "text": "see."
+   }
+  ]
+ },
+ {
+  "start": 65.62,
+  "end": 67.94,
+  "text": "This is called fibrillitic silamonite.",
+  "words": [
+   {
+    "start": 65.62,
+    "end": 65.7,
+    "text": "This"
+   },
+   {
+    "start": 65.7,
+    "end": 65.8,
+    "text": "is"
+   },
+   {
+    "start": 65.8,
+    "end": 65.98,
+    "text": "called"
+   },
+   {
+    "start": 65.98,
+    "end": 66.86,
+    "text": "fibrillitic"
+   },
+   {
+    "start": 66.86,
+    "end": 67.94,
+    "text": "silamonite."
+   }
+  ]
+ },
+ {
+  "start": 68.56,
+  "end": 76.84,
+  "text": "And it has this kind of wispy, fuzzy appearance, a little bit brown across the polars, and you",
+  "words": [
+   {
+    "start": 68.56,
+    "end": 69.1,
+    "text": "And"
+   },
+   {
+    "start": 69.1,
+    "end": 69.28,
+    "text": "it"
+   },
+   {
+    "start": 69.28,
+    "end": 69.54,
+    "text": "has"
+   },
+   {
+    "start": 69.54,
+    "end": 69.82,
+    "text": "this"
+   },
+   {
+    "start": 69.82,
+    "end": 70.06,
+    "text": "kind"
+   },
+   {
+    "start": 70.06,
+    "end": 70.16,
+    "text": "of"
+   },
+   {
+    "start": 70.16,
+    "end": 71.22,
+    "text": "wispy,"
+   },
+   {
+    "start": 71.22,
+    "end": 71.9,
+    "text": "fuzzy"
+   },
+   {
+    "start": 71.9,
+    "end": 72.74,
+    "text": "appearance,"
+   },
+   {
+    "start": 73.48,
+    "end": 74.02,
+    "text": "a"
+   },
+   {
+    "start": 74.02,
+    "end": 74.18,
+    "text": "little"
+   },
+   {
+    "start": 74.18,
+    "end": 74.34,
+    "text": "bit"
+   },
+   {
+    "start": 74.34,
+    "end": 74.78,
+    "text": "brown"
+   },
+   {
+    "start": 74.78,
+    "end": 75.9,
+    "text": "across"
+   },
+   {
+    "start": 75.9,
+    "end": 76.14,
+    "text": "the"
+   },
+   {
+    "start": 76.14,
+    "end": 76.52,
+    "text": "polars,"
+   },
+   {
+    "start": 76.6,
+    "end": 76.72,
+    "text": "and"
+   },
+   {
+    "start": 76.72,
+    "end": 76.84,
+    "text": "you"
+   }
+  ]
+ },
+ {
+  "start": 76.84,
+  "end": 78.88,
+  "text": "get these low interference colors.",
+  "words": [
+   {
+    "start": 76.84,
+    "end": 77.04,
+    "text": "get"
+   },
+   {
+    "start": 77.04,
+    "end": 77.34,
+    "text": "these"
+   },
+   {
+    "start": 77.34,
+    "end": 77.96,
+    "text": "low"
+   },
+   {
+    "start": 77.96,
+    "end": 78.5,
+    "text": "interference"
+   },
+   {
+    "start": 78.5,
+    "end": 78.88,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 78.88,
+  "end": 85.7,
+  "text": "It can get up into sort of purple and pink, but generally low in that fuzzy characteristic",
+  "words": [
+   {
+    "start": 78.88,
+    "end": 79.06,
+    "text": "It"
+   },
+   {
+    "start": 79.06,
+    "end": 79.18,
+    "text": "can"
+   },
+   {
+    "start": 79.18,
+    "end": 79.32,
+    "text": "get"
+   },
+   {
+    "start": 79.32,
+    "end": 79.52,
+    "text": "up"
+   },
+   {
+    "start": 79.52,
+    "end": 79.86,
+    "text": "into"
+   },
+   {
+    "start": 79.86,
+    "end": 80.26,
+    "text": "sort"
+   },
+   {
+    "start": 80.26,
+    "end": 80.38,
+    "text": "of"
+   },
+   {
+    "start": 80.38,
+    "end": 80.7,
+    "text": "purple"
+   },
+   {
+    "start": 80.7,
+    "end": 81.1,
+    "text": "and"
+   },
+   {
+    "start": 81.1,
+    "end": 81.5,
+    "text": "pink,"
+   },
+   {
+    "start": 82.02,
+    "end": 82.42,
+    "text": "but"
+   },
+   {
+    "start": 82.42,
+    "end": 82.84,
+    "text": "generally"
+   },
+   {
+    "start": 82.84,
+    "end": 83.64,
+    "text": "low"
+   },
+   {
+    "start": 83.64,
+    "end": 83.94,
+    "text": "in"
+   },
+   {
+    "start": 83.94,
+    "end": 84.3,
+    "text": "that"
+   },
+   {
+    "start": 84.3,
+    "end": 84.76,
+    "text": "fuzzy"
+   },
+   {
+    "start": 84.76,
+    "end": 85.7,
+    "text": "characteristic"
+   }
+  ]
+ },
+ {
+  "start": 85.7,
+  "end": 86.66,
+  "text": "texture.",
+  "words": [
+   {
+    "start": 85.7,
+    "end": 86.66,
+    "text": "texture."
+   }
+  ]
+ },
+ {
+  "start": 91.58,
+  "end": 98.88,
+  "text": "And then here is an example of prismatic silamonite on one side and fibrillitic silamonite on",
+  "words": [
+   {
+    "start": 91.58,
+    "end": 92.26,
+    "text": "And"
+   },
+   {
+    "start": 92.26,
+    "end": 92.38,
+    "text": "then"
+   },
+   {
+    "start": 92.38,
+    "end": 92.72,
+    "text": "here"
+   },
+   {
+    "start": 92.72,
+    "end": 93.22,
+    "text": "is"
+   },
+   {
+    "start": 93.22,
+    "end": 93.5,
+    "text": "an"
+   },
+   {
+    "start": 93.5,
+    "end": 93.9,
+    "text": "example"
+   },
+   {
+    "start": 93.9,
+    "end": 94.32,
+    "text": "of"
+   },
+   {
+    "start": 94.32,
+    "end": 94.74,
+    "text": "prismatic"
+   },
+   {
+    "start": 94.74,
+    "end": 95.62,
+    "text": "silamonite"
+   },
+   {
+    "start": 95.62,
+    "end": 95.92,
+    "text": "on"
+   },
+   {
+    "start": 95.92,
+    "end": 96.14,
+    "text": "one"
+   },
+   {
+    "start": 96.14,
+    "end": 96.62,
+    "text": "side"
+   },
+   {
+    "start": 96.62,
+    "end": 96.98,
+    "text": "and"
+   },
+   {
+    "start": 96.98,
+    "end": 97.62,
+    "text": "fibrillitic"
+   },
+   {
+    "start": 97.62,
+    "end": 98.3,
+    "text": "silamonite"
+   },
+   {
+    "start": 98.3,
+    "end": 98.88,
+    "text": "on"
+   }
+  ]
+ },
+ {
+  "start": 98.88,
+  "end": 99.72,
+  "text": "the other side.",
+  "words": [
+   {
+    "start": 98.88,
+    "end": 99.02,
+    "text": "the"
+   },
+   {
+    "start": 99.02,
+    "end": 99.2,
+    "text": "other"
+   },
+   {
+    "start": 99.2,
+    "end": 99.72,
+    "text": "side."
+   }
+  ]
+ },
+ {
+  "start": 100.28,
+  "end": 105.82,
+  "text": "So as it comes around and crosses the polars, the prismatic silamonite will be on the left",
+  "words": [
+   {
+    "start": 100.28,
+    "end": 100.46,
+    "text": "So"
+   },
+   {
+    "start": 100.46,
+    "end": 101.1,
+    "text": "as"
+   },
+   {
+    "start": 101.1,
+    "end": 101.2,
+    "text": "it"
+   },
+   {
+    "start": 101.2,
+    "end": 101.32,
+    "text": "comes"
+   },
+   {
+    "start": 101.32,
+    "end": 101.64,
+    "text": "around"
+   },
+   {
+    "start": 101.64,
+    "end": 101.94,
+    "text": "and"
+   },
+   {
+    "start": 101.94,
+    "end": 102.42,
+    "text": "crosses"
+   },
+   {
+    "start": 102.42,
+    "end": 102.68,
+    "text": "the"
+   },
+   {
+    "start": 102.68,
+    "end": 103.66,
+    "text": "polars,"
+   },
+   {
+    "start": 103.78,
+    "end": 103.82,
+    "text": "the"
+   },
+   {
+    "start": 103.82,
+    "end": 104.18,
+    "text": "prismatic"
+   },
+   {
+    "start": 104.18,
+    "end": 104.9,
+    "text": "silamonite"
+   },
+   {
+    "start": 104.9,
+    "end": 105.04,
+    "text": "will"
+   },
+   {
+    "start": 105.04,
+    "end": 105.18,
+    "text": "be"
+   },
+   {
+    "start": 105.18,
+    "end": 105.32,
+    "text": "on"
+   },
+   {
+    "start": 105.32,
+    "end": 105.46,
+    "text": "the"
+   },
+   {
+    "start": 105.46,
+    "end": 105.82,
+    "text": "left"
+   }
+  ]
+ },
+ {
+  "start": 105.82,
+  "end": 109.32,
+  "text": "with those orange interference colors.",
+  "words": [
+   {
+    "start": 105.82,
+    "end": 106.7,
+    "text": "with"
+   },
+   {
+    "start": 106.7,
+    "end": 107.3,
+    "text": "those"
+   },
+   {
+    "start": 107.3,
+    "end": 108.28,
+    "text": "orange"
+   },
+   {
+    "start": 108.28,
+    "end": 108.92,
+    "text": "interference"
+   },
+   {
+    "start": 108.92,
+    "end": 109.32,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 109.62,
+  "end": 115.52,
+  "text": "And the fibrillitic silamonite is, well, now it's vertical, and it's got that sort of fuzzy",
+  "words": [
+   {
+    "start": 109.62,
+    "end": 109.66,
+    "text": "And"
+   },
+   {
+    "start": 109.66,
+    "end": 109.82,
+    "text": "the"
+   },
+   {
+    "start": 109.82,
+    "end": 110.32,
+    "text": "fibrillitic"
+   },
+   {
+    "start": 110.32,
+    "end": 110.92,
+    "text": "silamonite"
+   },
+   {
+    "start": 110.92,
+    "end": 111.8,
+    "text": "is,"
+   },
+   {
+    "start": 112.08,
+    "end": 112.48,
+    "text": "well,"
+   },
+   {
+    "start": 112.52,
+    "end": 112.66,
+    "text": "now"
+   },
+   {
+    "start": 112.66,
+    "end": 112.78,
+    "text": "it's"
+   },
+   {
+    "start": 112.78,
+    "end": 113.1,
+    "text": "vertical,"
+   },
+   {
+    "start": 113.48,
+    "end": 114.46,
+    "text": "and"
+   },
+   {
+    "start": 114.46,
+    "end": 114.66,
+    "text": "it's"
+   },
+   {
+    "start": 114.66,
+    "end": 114.78,
+    "text": "got"
+   },
+   {
+    "start": 114.78,
+    "end": 114.98,
+    "text": "that"
+   },
+   {
+    "start": 114.98,
+    "end": 115.18,
+    "text": "sort"
+   },
+   {
+    "start": 115.18,
+    "end": 115.52,
+    "text": "of"
+   },
+   {
+    "start": 115.52,
+    "end": 115.52,
+    "text": "fuzzy"
+   }
+  ]
+ },
+ {
+  "start": 115.52,
+  "end": 115.96,
+  "text": "appearance.",
+  "words": [
+   {
+    "start": 115.52,
+    "end": 115.96,
+    "text": "appearance."
+   }
+  ]
+ },
+ {
+  "start": 122.04,
+  "end": 124.2,
+  "text": "This is a really interesting rock.",
+  "words": [
+   {
+    "start": 122.04,
+    "end": 122.64,
+    "text": "This"
+   },
+   {
+    "start": 122.64,
+    "end": 122.8,
+    "text": "is"
+   },
+   {
+    "start": 122.8,
+    "end": 122.88,
+    "text": "a"
+   },
+   {
+    "start": 122.88,
+    "end": 123.18,
+    "text": "really"
+   },
+   {
+    "start": 123.18,
+    "end": 123.7,
+    "text": "interesting"
+   },
+   {
+    "start": 123.7,
+    "end": 124.2,
+    "text": "rock."
+   }
+  ]
+ },
+ {
+  "start": 124.38,
+  "end": 130.5,
+  "text": "There's a clot of silamonite in the center of the field of view, moderate relief, moderate",
+  "words": [
+   {
+    "start": 124.38,
+    "end": 124.58,
+    "text": "There's"
+   },
+   {
+    "start": 124.58,
+    "end": 124.7,
+    "text": "a"
+   },
+   {
+    "start": 124.7,
+    "end": 125.04,
+    "text": "clot"
+   },
+   {
+    "start": 125.04,
+    "end": 125.48,
+    "text": "of"
+   },
+   {
+    "start": 125.48,
+    "end": 126.12,
+    "text": "silamonite"
+   },
+   {
+    "start": 126.12,
+    "end": 126.82,
+    "text": "in"
+   },
+   {
+    "start": 126.82,
+    "end": 127.0,
+    "text": "the"
+   },
+   {
+    "start": 127.0,
+    "end": 127.46,
+    "text": "center"
+   },
+   {
+    "start": 127.46,
+    "end": 127.68,
+    "text": "of"
+   },
+   {
+    "start": 127.68,
+    "end": 127.78,
+    "text": "the"
+   },
+   {
+    "start": 127.78,
+    "end": 127.98,
+    "text": "field"
+   },
+   {
+    "start": 127.98,
+    "end": 128.14,
+    "text": "of"
+   },
+   {
+    "start": 128.14,
+    "end": 128.36,
+    "text": "view,"
+   },
+   {
+    "start": 128.76,
+    "end": 129.4,
+    "text": "moderate"
+   },
+   {
+    "start": 129.4,
+    "end": 129.88,
+    "text": "relief,"
+   },
+   {
+    "start": 130.16,
+    "end": 130.5,
+    "text": "moderate"
+   }
+  ]
+ },
+ {
+  "start": 130.5,
+  "end": 131.12,
+  "text": "to high relief.",
+  "words": [
+   {
+    "start": 130.5,
+    "end": 130.7,
+    "text": "to"
+   },
+   {
+    "start": 130.7,
+    "end": 130.86,
+    "text": "high"
+   },
+   {
+    "start": 130.86,
+    "end": 131.12,
+    "text": "relief."
+   }
+  ]
+ },
+ {
+  "start": 131.76,
+  "end": 134.62,
+  "text": "When you cross the polars, you'll see there are multiple crystals there.",
+  "words": [
+   {
+    "start": 131.76,
+    "end": 132.12,
+    "text": "When"
+   },
+   {
+    "start": 132.12,
+    "end": 132.24,
+    "text": "you"
+   },
+   {
+    "start": 132.24,
+    "end": 132.44,
+    "text": "cross"
+   },
+   {
+    "start": 132.44,
+    "end": 132.62,
+    "text": "the"
+   },
+   {
+    "start": 132.62,
+    "end": 132.92,
+    "text": "polars,"
+   },
+   {
+    "start": 133.0,
+    "end": 133.14,
+    "text": "you'll"
+   },
+   {
+    "start": 133.14,
+    "end": 133.26,
+    "text": "see"
+   },
+   {
+    "start": 133.26,
+    "end": 133.4,
+    "text": "there"
+   },
+   {
+    "start": 133.4,
+    "end": 133.46,
+    "text": "are"
+   },
+   {
+    "start": 133.46,
+    "end": 133.76,
+    "text": "multiple"
+   },
+   {
+    "start": 133.76,
+    "end": 134.22,
+    "text": "crystals"
+   },
+   {
+    "start": 134.22,
+    "end": 134.62,
+    "text": "there."
+   }
+  ]
+ },
+ {
+  "start": 134.62,
+  "end": 139.7,
+  "text": "And the interference colors, those are about as high as I ever see with silamonite.",
+  "words": [
+   {
+    "start": 134.62,
+    "end": 134.94,
+    "text": "And"
+   },
+   {
+    "start": 134.94,
+    "end": 135.16,
+    "text": "the"
+   },
+   {
+    "start": 135.16,
+    "end": 135.64,
+    "text": "interference"
+   },
+   {
+    "start": 135.64,
+    "end": 136.04,
+    "text": "colors,"
+   },
+   {
+    "start": 136.18,
+    "end": 136.32,
+    "text": "those"
+   },
+   {
+    "start": 136.32,
+    "end": 136.44,
+    "text": "are"
+   },
+   {
+    "start": 136.44,
+    "end": 136.66,
+    "text": "about"
+   },
+   {
+    "start": 136.66,
+    "end": 136.82,
+    "text": "as"
+   },
+   {
+    "start": 136.82,
+    "end": 137.18,
+    "text": "high"
+   },
+   {
+    "start": 137.18,
+    "end": 137.8,
+    "text": "as"
+   },
+   {
+    "start": 137.8,
+    "end": 138.0,
+    "text": "I"
+   },
+   {
+    "start": 138.0,
+    "end": 138.22,
+    "text": "ever"
+   },
+   {
+    "start": 138.22,
+    "end": 138.58,
+    "text": "see"
+   },
+   {
+    "start": 138.58,
+    "end": 139.2,
+    "text": "with"
+   },
+   {
+    "start": 139.2,
+    "end": 139.7,
+    "text": "silamonite."
+   }
+  ]
+ },
+ {
+  "start": 140.04,
+  "end": 144.92,
+  "text": "This is interesting because it's surrounded by a corona of cordy rite, and then there's",
+  "words": [
+   {
+    "start": 140.04,
+    "end": 140.22,
+    "text": "This"
+   },
+   {
+    "start": 140.22,
+    "end": 140.32,
+    "text": "is"
+   },
+   {
+    "start": 140.32,
+    "end": 140.7,
+    "text": "interesting"
+   },
+   {
+    "start": 140.7,
+    "end": 140.98,
+    "text": "because"
+   },
+   {
+    "start": 140.98,
+    "end": 141.2,
+    "text": "it's"
+   },
+   {
+    "start": 141.2,
+    "end": 141.68,
+    "text": "surrounded"
+   },
+   {
+    "start": 141.68,
+    "end": 142.2,
+    "text": "by"
+   },
+   {
+    "start": 142.2,
+    "end": 142.58,
+    "text": "a"
+   },
+   {
+    "start": 142.58,
+    "end": 143.04,
+    "text": "corona"
+   },
+   {
+    "start": 143.04,
+    "end": 143.44,
+    "text": "of"
+   },
+   {
+    "start": 143.44,
+    "end": 143.82,
+    "text": "cordy"
+   },
+   {
+    "start": 143.82,
+    "end": 144.08,
+    "text": "rite,"
+   },
+   {
+    "start": 144.28,
+    "end": 144.62,
+    "text": "and"
+   },
+   {
+    "start": 144.62,
+    "end": 144.72,
+    "text": "then"
+   },
+   {
+    "start": 144.72,
+    "end": 144.92,
+    "text": "there's"
+   }
+  ]
+ },
+ {
+  "start": 144.92,
+  "end": 146.26,
+  "text": "biotite around that.",
+  "words": [
+   {
+    "start": 144.92,
+    "end": 145.48,
+    "text": "biotite"
+   },
+   {
+    "start": 145.48,
+    "end": 145.88,
+    "text": "around"
+   },
+   {
+    "start": 145.88,
+    "end": 146.26,
+    "text": "that."
+   }
+  ]
+ },
+ {
+  "start": 146.56,
+  "end": 149.7,
+  "text": "This might actually be silamonite that formed after andalusite.",
+  "words": [
+   {
+    "start": 146.56,
+    "end": 146.74,
+    "text": "This"
+   },
+   {
+    "start": 146.74,
+    "end": 146.94,
+    "text": "might"
+   },
+   {
+    "start": 146.94,
+    "end": 147.34,
+    "text": "actually"
+   },
+   {
+    "start": 147.34,
+    "end": 147.56,
+    "text": "be"
+   },
+   {
+    "start": 147.56,
+    "end": 148.1,
+    "text": "silamonite"
+   },
+   {
+    "start": 148.1,
+    "end": 148.3,
+    "text": "that"
+   },
+   {
+    "start": 148.3,
+    "end": 148.58,
+    "text": "formed"
+   },
+   {
+    "start": 148.58,
+    "end": 148.98,
+    "text": "after"
+   },
+   {
+    "start": 148.98,
+    "end": 149.7,
+    "text": "andalusite."
+   }
+  ]
+ },
+ {
+  "start": 153.26,
+  "end": 157.06,
+  "text": "Now this absolutely is silamonite that formed after andalusite.",
+  "words": [
+   {
+    "start": 153.0,
+    "end": 153.32,
+    "text": "Now"
+   },
+   {
+    "start": 153.32,
+    "end": 153.54,
+    "text": "this"
+   },
+   {
+    "start": 153.54,
+    "end": 154.32,
+    "text": "absolutely"
+   },
+   {
+    "start": 154.32,
+    "end": 154.86,
+    "text": "is"
+   },
+   {
+    "start": 154.86,
+    "end": 155.46,
+    "text": "silamonite"
+   },
+   {
+    "start": 155.46,
+    "end": 155.7,
+    "text": "that"
+   },
+   {
+    "start": 155.7,
+    "end": 156.02,
+    "text": "formed"
+   },
+   {
+    "start": 156.02,
+    "end": 156.44,
+    "text": "after"
+   },
+   {
+    "start": 156.44,
+    "end": 157.06,
+    "text": "andalusite."
+   }
+  ]
+ },
+ {
+  "start": 157.4,
+  "end": 162.44,
+  "text": "There's one big crystal here, but when the polars are crossed, you'll see that it's broken",
+  "words": [
+   {
+    "start": 157.4,
+    "end": 157.96,
+    "text": "There's"
+   },
+   {
+    "start": 157.96,
+    "end": 158.24,
+    "text": "one"
+   },
+   {
+    "start": 158.24,
+    "end": 158.7,
+    "text": "big"
+   },
+   {
+    "start": 158.7,
+    "end": 159.12,
+    "text": "crystal"
+   },
+   {
+    "start": 159.12,
+    "end": 159.48,
+    "text": "here,"
+   },
+   {
+    "start": 159.5,
+    "end": 159.76,
+    "text": "but"
+   },
+   {
+    "start": 159.76,
+    "end": 160.1,
+    "text": "when"
+   },
+   {
+    "start": 160.1,
+    "end": 160.24,
+    "text": "the"
+   },
+   {
+    "start": 160.24,
+    "end": 160.54,
+    "text": "polars"
+   },
+   {
+    "start": 160.54,
+    "end": 160.7,
+    "text": "are"
+   },
+   {
+    "start": 160.7,
+    "end": 160.98,
+    "text": "crossed,"
+   },
+   {
+    "start": 161.1,
+    "end": 161.24,
+    "text": "you'll"
+   },
+   {
+    "start": 161.24,
+    "end": 161.52,
+    "text": "see"
+   },
+   {
+    "start": 161.52,
+    "end": 161.94,
+    "text": "that"
+   },
+   {
+    "start": 161.94,
+    "end": 162.16,
+    "text": "it's"
+   },
+   {
+    "start": 162.16,
+    "end": 162.44,
+    "text": "broken"
+   }
+  ]
+ },
+ {
+  "start": 162.44,
+  "end": 166.88,
+  "text": "up into little subgrains, and there's almost a cross structure in there.",
+  "words": [
+   {
+    "start": 162.44,
+    "end": 162.76,
+    "text": "up"
+   },
+   {
+    "start": 162.76,
+    "end": 163.12,
+    "text": "into"
+   },
+   {
+    "start": 163.12,
+    "end": 163.4,
+    "text": "little"
+   },
+   {
+    "start": 163.4,
+    "end": 164.24,
+    "text": "subgrains,"
+   },
+   {
+    "start": 164.86,
+    "end": 165.04,
+    "text": "and"
+   },
+   {
+    "start": 165.04,
+    "end": 165.22,
+    "text": "there's"
+   },
+   {
+    "start": 165.22,
+    "end": 165.52,
+    "text": "almost"
+   },
+   {
+    "start": 165.52,
+    "end": 165.7,
+    "text": "a"
+   },
+   {
+    "start": 165.7,
+    "end": 165.98,
+    "text": "cross"
+   },
+   {
+    "start": 165.98,
+    "end": 166.52,
+    "text": "structure"
+   },
+   {
+    "start": 166.52,
+    "end": 166.74,
+    "text": "in"
+   },
+   {
+    "start": 166.74,
+    "end": 166.88,
+    "text": "there."
+   }
+  ]
+ },
+ {
+  "start": 167.08,
+  "end": 168.46,
+  "text": "Now you can really see the cross.",
+  "words": [
+   {
+    "start": 167.08,
+    "end": 167.36,
+    "text": "Now"
+   },
+   {
+    "start": 167.36,
+    "end": 167.48,
+    "text": "you"
+   },
+   {
+    "start": 167.48,
+    "end": 167.6,
+    "text": "can"
+   },
+   {
+    "start": 167.6,
+    "end": 167.8,
+    "text": "really"
+   },
+   {
+    "start": 167.8,
+    "end": 168.0,
+    "text": "see"
+   },
+   {
+    "start": 168.0,
+    "end": 168.14,
+    "text": "the"
+   },
+   {
+    "start": 168.14,
+    "end": 168.46,
+    "text": "cross."
+   }
+  ]
+ },
+ {
+  "start": 169.02,
+  "end": 174.36,
+  "text": "The idea is that this was chyastolite Andalusite, and the crystal structure is very similar",
+  "words": [
+   {
+    "start": 169.02,
+    "end": 169.2,
+    "text": "The"
+   },
+   {
+    "start": 169.2,
+    "end": 169.48,
+    "text": "idea"
+   },
+   {
+    "start": 169.48,
+    "end": 169.68,
+    "text": "is"
+   },
+   {
+    "start": 169.68,
+    "end": 169.86,
+    "text": "that"
+   },
+   {
+    "start": 169.86,
+    "end": 170.08,
+    "text": "this"
+   },
+   {
+    "start": 170.08,
+    "end": 170.26,
+    "text": "was"
+   },
+   {
+    "start": 170.26,
+    "end": 171.2,
+    "text": "chyastolite"
+   },
+   {
+    "start": 171.2,
+    "end": 172.1,
+    "text": "Andalusite,"
+   },
+   {
+    "start": 172.6,
+    "end": 172.98,
+    "text": "and"
+   },
+   {
+    "start": 172.98,
+    "end": 173.1,
+    "text": "the"
+   },
+   {
+    "start": 173.1,
+    "end": 173.28,
+    "text": "crystal"
+   },
+   {
+    "start": 173.28,
+    "end": 173.66,
+    "text": "structure"
+   },
+   {
+    "start": 173.66,
+    "end": 173.88,
+    "text": "is"
+   },
+   {
+    "start": 173.88,
+    "end": 174.06,
+    "text": "very"
+   },
+   {
+    "start": 174.06,
+    "end": 174.36,
+    "text": "similar"
+   }
+  ]
+ },
+ {
+  "start": 174.36,
+  "end": 175.08,
+  "text": "to silamonite.",
+  "words": [
+   {
+    "start": 174.36,
+    "end": 174.58,
+    "text": "to"
+   },
+   {
+    "start": 174.58,
+    "end": 175.08,
+    "text": "silamonite."
+   }
+  ]
+ },
+ {
+  "start": 175.3,
+  "end": 180.14,
+  "text": "So when it crossed into the silamonite stability field, a little bit of kinking of the Andalusite",
+  "words": [
+   {
+    "start": 175.3,
+    "end": 175.38,
+    "text": "So"
+   },
+   {
+    "start": 175.38,
+    "end": 175.6,
+    "text": "when"
+   },
+   {
+    "start": 175.6,
+    "end": 175.72,
+    "text": "it"
+   },
+   {
+    "start": 175.72,
+    "end": 176.04,
+    "text": "crossed"
+   },
+   {
+    "start": 176.04,
+    "end": 176.36,
+    "text": "into"
+   },
+   {
+    "start": 176.36,
+    "end": 176.52,
+    "text": "the"
+   },
+   {
+    "start": 176.52,
+    "end": 176.98,
+    "text": "silamonite"
+   },
+   {
+    "start": 176.98,
+    "end": 177.24,
+    "text": "stability"
+   },
+   {
+    "start": 177.24,
+    "end": 177.92,
+    "text": "field,"
+   },
+   {
+    "start": 178.4,
+    "end": 178.52,
+    "text": "a"
+   },
+   {
+    "start": 178.52,
+    "end": 178.68,
+    "text": "little"
+   },
+   {
+    "start": 178.68,
+    "end": 178.82,
+    "text": "bit"
+   },
+   {
+    "start": 178.82,
+    "end": 178.94,
+    "text": "of"
+   },
+   {
+    "start": 178.94,
+    "end": 179.28,
+    "text": "kinking"
+   },
+   {
+    "start": 179.28,
+    "end": 179.5,
+    "text": "of"
+   },
+   {
+    "start": 179.5,
+    "end": 179.6,
+    "text": "the"
+   },
+   {
+    "start": 179.6,
+    "end": 180.14,
+    "text": "Andalusite"
+   }
+  ]
+ },
+ {
+  "start": 180.14,
+  "end": 181.92,
+  "text": "structure turned it into silamonite.",
+  "words": [
+   {
+    "start": 180.14,
+    "end": 180.54,
+    "text": "structure"
+   },
+   {
+    "start": 180.54,
+    "end": 180.94,
+    "text": "turned"
+   },
+   {
+    "start": 180.94,
+    "end": 181.08,
+    "text": "it"
+   },
+   {
+    "start": 181.08,
+    "end": 181.26,
+    "text": "into"
+   },
+   {
+    "start": 181.26,
+    "end": 181.92,
+    "text": "silamonite."
+   }
+  ]
+ },
+ {
+  "start": 184.0,
+  "end": 189.62,
+  "text": "This image shows silamonite with two end-member interference colors.",
+  "words": [
+   {
+    "start": 183.76,
+    "end": 184.04,
+    "text": "This"
+   },
+   {
+    "start": 184.04,
+    "end": 184.28,
+    "text": "image"
+   },
+   {
+    "start": 184.28,
+    "end": 184.68,
+    "text": "shows"
+   },
+   {
+    "start": 184.68,
+    "end": 186.08,
+    "text": "silamonite"
+   },
+   {
+    "start": 186.08,
+    "end": 186.36,
+    "text": "with"
+   },
+   {
+    "start": 186.36,
+    "end": 186.96,
+    "text": "two"
+   },
+   {
+    "start": 186.96,
+    "end": 187.38,
+    "text": "end"
+   },
+   {
+    "start": 187.38,
+    "end": 187.84,
+    "text": "-member"
+   },
+   {
+    "start": 187.84,
+    "end": 189.08,
+    "text": "interference"
+   },
+   {
+    "start": 189.08,
+    "end": 189.62,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 189.62,
+  "end": 194.8,
+  "text": "There are the long, skinny crystals, and then there are the sort of diamond-shaped crystals.",
+  "words": [
+   {
+    "start": 189.62,
+    "end": 190.38,
+    "text": "There"
+   },
+   {
+    "start": 190.38,
+    "end": 190.52,
+    "text": "are"
+   },
+   {
+    "start": 190.52,
+    "end": 190.66,
+    "text": "the"
+   },
+   {
+    "start": 190.66,
+    "end": 191.0,
+    "text": "long,"
+   },
+   {
+    "start": 191.0,
+    "end": 191.32,
+    "text": "skinny"
+   },
+   {
+    "start": 191.32,
+    "end": 191.72,
+    "text": "crystals,"
+   },
+   {
+    "start": 192.04,
+    "end": 192.18,
+    "text": "and"
+   },
+   {
+    "start": 192.18,
+    "end": 192.32,
+    "text": "then"
+   },
+   {
+    "start": 192.32,
+    "end": 192.56,
+    "text": "there"
+   },
+   {
+    "start": 192.56,
+    "end": 192.92,
+    "text": "are"
+   },
+   {
+    "start": 192.92,
+    "end": 193.24,
+    "text": "the"
+   },
+   {
+    "start": 193.24,
+    "end": 193.46,
+    "text": "sort"
+   },
+   {
+    "start": 193.46,
+    "end": 193.6,
+    "text": "of"
+   },
+   {
+    "start": 193.6,
+    "end": 193.94,
+    "text": "diamond"
+   },
+   {
+    "start": 193.94,
+    "end": 194.22,
+    "text": "-shaped"
+   },
+   {
+    "start": 194.22,
+    "end": 194.8,
+    "text": "crystals."
+   }
+  ]
+ },
+ {
+  "start": 194.96,
+  "end": 197.1,
+  "text": "The diamond-shaped crystals, you're looking down on the needles.",
+  "words": [
+   {
+    "start": 194.96,
+    "end": 195.02,
+    "text": "The"
+   },
+   {
+    "start": 195.02,
+    "end": 195.24,
+    "text": "diamond"
+   },
+   {
+    "start": 195.24,
+    "end": 195.42,
+    "text": "-shaped"
+   },
+   {
+    "start": 195.42,
+    "end": 195.8,
+    "text": "crystals,"
+   },
+   {
+    "start": 195.84,
+    "end": 195.96,
+    "text": "you're"
+   },
+   {
+    "start": 195.96,
+    "end": 196.14,
+    "text": "looking"
+   },
+   {
+    "start": 196.14,
+    "end": 196.52,
+    "text": "down"
+   },
+   {
+    "start": 196.52,
+    "end": 196.72,
+    "text": "on"
+   },
+   {
+    "start": 196.72,
+    "end": 196.86,
+    "text": "the"
+   },
+   {
+    "start": 196.86,
+    "end": 197.1,
+    "text": "needles."
+   }
+  ]
+ },
+ {
+  "start": 197.76,
+  "end": 201.86,
+  "text": "So you cross the polars, and you see that the highest interference color that you'll",
+  "words": [
+   {
+    "start": 197.76,
+    "end": 197.98,
+    "text": "So"
+   },
+   {
+    "start": 197.98,
+    "end": 198.06,
+    "text": "you"
+   },
+   {
+    "start": 198.06,
+    "end": 198.24,
+    "text": "cross"
+   },
+   {
+    "start": 198.24,
+    "end": 198.46,
+    "text": "the"
+   },
+   {
+    "start": 198.46,
+    "end": 198.84,
+    "text": "polars,"
+   },
+   {
+    "start": 198.98,
+    "end": 199.08,
+    "text": "and"
+   },
+   {
+    "start": 199.08,
+    "end": 199.2,
+    "text": "you"
+   },
+   {
+    "start": 199.2,
+    "end": 199.48,
+    "text": "see"
+   },
+   {
+    "start": 199.48,
+    "end": 199.92,
+    "text": "that"
+   },
+   {
+    "start": 199.92,
+    "end": 200.26,
+    "text": "the"
+   },
+   {
+    "start": 200.26,
+    "end": 200.66,
+    "text": "highest"
+   },
+   {
+    "start": 200.66,
+    "end": 201.02,
+    "text": "interference"
+   },
+   {
+    "start": 201.02,
+    "end": 201.46,
+    "text": "color"
+   },
+   {
+    "start": 201.46,
+    "end": 201.64,
+    "text": "that"
+   },
+   {
+    "start": 201.64,
+    "end": 201.86,
+    "text": "you'll"
+   }
+  ]
+ },
+ {
+  "start": 201.86,
+  "end": 204.46,
+  "text": "see for silamonite, that blue color.",
+  "words": [
+   {
+    "start": 201.86,
+    "end": 202.24,
+    "text": "see"
+   },
+   {
+    "start": 202.24,
+    "end": 202.82,
+    "text": "for"
+   },
+   {
+    "start": 202.82,
+    "end": 203.54,
+    "text": "silamonite,"
+   },
+   {
+    "start": 203.62,
+    "end": 203.7,
+    "text": "that"
+   },
+   {
+    "start": 203.7,
+    "end": 204.06,
+    "text": "blue"
+   },
+   {
+    "start": 204.06,
+    "end": 204.46,
+    "text": "color."
+   }
+  ]
+ },
+ {
+  "start": 205.14,
+  "end": 209.98,
+  "text": "But looking down on the diamonds, you see the gray, and that's a special orientation",
+  "words": [
+   {
+    "start": 205.14,
+    "end": 205.62,
+    "text": "But"
+   },
+   {
+    "start": 205.62,
+    "end": 205.92,
+    "text": "looking"
+   },
+   {
+    "start": 205.92,
+    "end": 206.22,
+    "text": "down"
+   },
+   {
+    "start": 206.22,
+    "end": 206.4,
+    "text": "on"
+   },
+   {
+    "start": 206.4,
+    "end": 206.5,
+    "text": "the"
+   },
+   {
+    "start": 206.5,
+    "end": 206.84,
+    "text": "diamonds,"
+   },
+   {
+    "start": 207.02,
+    "end": 207.08,
+    "text": "you"
+   },
+   {
+    "start": 207.08,
+    "end": 207.34,
+    "text": "see"
+   },
+   {
+    "start": 207.34,
+    "end": 207.62,
+    "text": "the"
+   },
+   {
+    "start": 207.62,
+    "end": 208.22,
+    "text": "gray,"
+   },
+   {
+    "start": 208.62,
+    "end": 208.94,
+    "text": "and"
+   },
+   {
+    "start": 208.94,
+    "end": 209.14,
+    "text": "that's"
+   },
+   {
+    "start": 209.14,
+    "end": 209.22,
+    "text": "a"
+   },
+   {
+    "start": 209.22,
+    "end": 209.48,
+    "text": "special"
+   },
+   {
+    "start": 209.48,
+    "end": 209.98,
+    "text": "orientation"
+   }
+  ]
+ },
+ {
+  "start": 209.98,
+  "end": 212.22,
+  "text": "that we'll look at in just the next video.",
+  "words": [
+   {
+    "start": 209.98,
+    "end": 210.46,
+    "text": "that"
+   },
+   {
+    "start": 210.46,
+    "end": 210.66,
+    "text": "we'll"
+   },
+   {
+    "start": 210.66,
+    "end": 210.88,
+    "text": "look"
+   },
+   {
+    "start": 210.88,
+    "end": 211.08,
+    "text": "at"
+   },
+   {
+    "start": 211.08,
+    "end": 211.3,
+    "text": "in"
+   },
+   {
+    "start": 211.3,
+    "end": 211.54,
+    "text": "just"
+   },
+   {
+    "start": 211.54,
+    "end": 211.72,
+    "text": "the"
+   },
+   {
+    "start": 211.72,
+    "end": 211.88,
+    "text": "next"
+   },
+   {
+    "start": 211.88,
+    "end": 212.22,
+    "text": "video."
+   }
+  ]
+ },
+ {
+  "start": 213.92,
+  "end": 219.2,
+  "text": "Okay, so here we are looking down on those diamonds, and I'm going to cross the polars",
+  "words": [
+   {
+    "start": 213.92,
+    "end": 214.4,
+    "text": "Okay,"
+   },
+   {
+    "start": 214.46,
+    "end": 214.56,
+    "text": "so"
+   },
+   {
+    "start": 214.56,
+    "end": 214.72,
+    "text": "here"
+   },
+   {
+    "start": 214.72,
+    "end": 214.82,
+    "text": "we"
+   },
+   {
+    "start": 214.82,
+    "end": 214.96,
+    "text": "are"
+   },
+   {
+    "start": 214.96,
+    "end": 215.18,
+    "text": "looking"
+   },
+   {
+    "start": 215.18,
+    "end": 215.5,
+    "text": "down"
+   },
+   {
+    "start": 215.5,
+    "end": 215.7,
+    "text": "on"
+   },
+   {
+    "start": 215.7,
+    "end": 215.88,
+    "text": "those"
+   },
+   {
+    "start": 215.88,
+    "end": 216.32,
+    "text": "diamonds,"
+   },
+   {
+    "start": 216.66,
+    "end": 217.46,
+    "text": "and"
+   },
+   {
+    "start": 217.46,
+    "end": 218.02,
+    "text": "I'm"
+   },
+   {
+    "start": 218.02,
+    "end": 218.18,
+    "text": "going"
+   },
+   {
+    "start": 218.18,
+    "end": 218.32,
+    "text": "to"
+   },
+   {
+    "start": 218.32,
+    "end": 218.52,
+    "text": "cross"
+   },
+   {
+    "start": 218.52,
+    "end": 218.76,
+    "text": "the"
+   },
+   {
+    "start": 218.76,
+    "end": 219.2,
+    "text": "polars"
+   }
+  ]
+ },
+ {
+  "start": 220.88,
+  "end": 224.02,
+  "text": "and you can see that same interference, odd interference color.",
+  "words": [
+   {
+    "start": 220.88,
+    "end": 221.4,
+    "text": "and"
+   },
+   {
+    "start": 221.4,
+    "end": 221.5,
+    "text": "you"
+   },
+   {
+    "start": 221.5,
+    "end": 221.64,
+    "text": "can"
+   },
+   {
+    "start": 221.64,
+    "end": 221.8,
+    "text": "see"
+   },
+   {
+    "start": 221.8,
+    "end": 221.98,
+    "text": "that"
+   },
+   {
+    "start": 221.98,
+    "end": 222.3,
+    "text": "same"
+   },
+   {
+    "start": 222.3,
+    "end": 222.88,
+    "text": "interference,"
+   },
+   {
+    "start": 223.24,
+    "end": 223.42,
+    "text": "odd"
+   },
+   {
+    "start": 223.42,
+    "end": 223.74,
+    "text": "interference"
+   },
+   {
+    "start": 223.74,
+    "end": 224.02,
+    "text": "color."
+   }
+  ]
+ },
+ {
+  "start": 224.38,
+  "end": 229.18,
+  "text": "I'm going to go to higher magnification, and then I'm going to put in the substage condenser,",
+  "words": [
+   {
+    "start": 224.38,
+    "end": 224.5,
+    "text": "I'm"
+   },
+   {
+    "start": 224.5,
+    "end": 224.56,
+    "text": "going"
+   },
+   {
+    "start": 224.56,
+    "end": 224.66,
+    "text": "to"
+   },
+   {
+    "start": 224.66,
+    "end": 224.76,
+    "text": "go"
+   },
+   {
+    "start": 224.76,
+    "end": 224.84,
+    "text": "to"
+   },
+   {
+    "start": 224.84,
+    "end": 225.16,
+    "text": "higher"
+   },
+   {
+    "start": 225.16,
+    "end": 225.94,
+    "text": "magnification,"
+   },
+   {
+    "start": 226.38,
+    "end": 227.32,
+    "text": "and"
+   },
+   {
+    "start": 227.32,
+    "end": 227.48,
+    "text": "then"
+   },
+   {
+    "start": 227.48,
+    "end": 227.6,
+    "text": "I'm"
+   },
+   {
+    "start": 227.6,
+    "end": 227.66,
+    "text": "going"
+   },
+   {
+    "start": 227.66,
+    "end": 227.74,
+    "text": "to"
+   },
+   {
+    "start": 227.74,
+    "end": 227.88,
+    "text": "put"
+   },
+   {
+    "start": 227.88,
+    "end": 228.0,
+    "text": "in"
+   },
+   {
+    "start": 228.0,
+    "end": 228.14,
+    "text": "the"
+   },
+   {
+    "start": 228.14,
+    "end": 228.66,
+    "text": "substage"
+   },
+   {
+    "start": 228.66,
+    "end": 229.18,
+    "text": "condenser,"
+   }
+  ]
+ },
+ {
+  "start": 229.48,
+  "end": 231.58,
+  "text": "and then I'm going to put in the Bertrand lens.",
+  "words": [
+   {
+    "start": 229.48,
+    "end": 229.86,
+    "text": "and"
+   },
+   {
+    "start": 229.86,
+    "end": 229.98,
+    "text": "then"
+   },
+   {
+    "start": 229.98,
+    "end": 230.1,
+    "text": "I'm"
+   },
+   {
+    "start": 230.1,
+    "end": 230.16,
+    "text": "going"
+   },
+   {
+    "start": 230.16,
+    "end": 230.22,
+    "text": "to"
+   },
+   {
+    "start": 230.22,
+    "end": 230.4,
+    "text": "put"
+   },
+   {
+    "start": 230.4,
+    "end": 230.56,
+    "text": "in"
+   },
+   {
+    "start": 230.56,
+    "end": 230.66,
+    "text": "the"
+   },
+   {
+    "start": 230.66,
+    "end": 231.18,
+    "text": "Bertrand"
+   },
+   {
+    "start": 231.18,
+    "end": 231.58,
+    "text": "lens."
+   }
+  ]
+ },
+ {
+  "start": 232.3,
+  "end": 240.88,
+  "text": "So what you're looking at here is an acute bisectrix image, and if we put in the quarter-wave",
+  "words": [
+   {
+    "start": 232.3,
+    "end": 232.74,
+    "text": "So"
+   },
+   {
+    "start": 232.74,
+    "end": 232.84,
+    "text": "what"
+   },
+   {
+    "start": 232.84,
+    "end": 233.0,
+    "text": "you're"
+   },
+   {
+    "start": 233.0,
+    "end": 233.18,
+    "text": "looking"
+   },
+   {
+    "start": 233.18,
+    "end": 233.46,
+    "text": "at"
+   },
+   {
+    "start": 233.46,
+    "end": 233.74,
+    "text": "here"
+   },
+   {
+    "start": 233.74,
+    "end": 234.12,
+    "text": "is"
+   },
+   {
+    "start": 234.12,
+    "end": 234.4,
+    "text": "an"
+   },
+   {
+    "start": 234.4,
+    "end": 234.98,
+    "text": "acute"
+   },
+   {
+    "start": 234.98,
+    "end": 236.48,
+    "text": "bisectrix"
+   },
+   {
+    "start": 236.48,
+    "end": 237.36,
+    "text": "image,"
+   },
+   {
+    "start": 237.96,
+    "end": 238.86,
+    "text": "and"
+   },
+   {
+    "start": 238.86,
+    "end": 239.36,
+    "text": "if"
+   },
+   {
+    "start": 239.36,
+    "end": 239.7,
+    "text": "we"
+   },
+   {
+    "start": 239.7,
+    "end": 240.22,
+    "text": "put"
+   },
+   {
+    "start": 240.22,
+    "end": 240.34,
+    "text": "in"
+   },
+   {
+    "start": 240.34,
+    "end": 240.42,
+    "text": "the"
+   },
+   {
+    "start": 240.42,
+    "end": 240.6,
+    "text": "quarter"
+   },
+   {
+    "start": 240.6,
+    "end": 240.88,
+    "text": "-wave"
+   }
+  ]
+ },
+ {
+  "start": 240.88,
+  "end": 246.0,
+  "text": "plate, you'll see that it's blue in this orientation, and that means it's biaxial positive.",
+  "words": [
+   {
+    "start": 240.88,
+    "end": 241.26,
+    "text": "plate,"
+   },
+   {
+    "start": 241.4,
+    "end": 241.56,
+    "text": "you'll"
+   },
+   {
+    "start": 241.56,
+    "end": 241.78,
+    "text": "see"
+   },
+   {
+    "start": 241.78,
+    "end": 242.0,
+    "text": "that"
+   },
+   {
+    "start": 242.0,
+    "end": 242.26,
+    "text": "it's"
+   },
+   {
+    "start": 242.26,
+    "end": 242.72,
+    "text": "blue"
+   },
+   {
+    "start": 242.72,
+    "end": 243.28,
+    "text": "in"
+   },
+   {
+    "start": 243.28,
+    "end": 243.46,
+    "text": "this"
+   },
+   {
+    "start": 243.46,
+    "end": 243.98,
+    "text": "orientation,"
+   },
+   {
+    "start": 244.1,
+    "end": 244.22,
+    "text": "and"
+   },
+   {
+    "start": 244.22,
+    "end": 244.38,
+    "text": "that"
+   },
+   {
+    "start": 244.38,
+    "end": 244.58,
+    "text": "means"
+   },
+   {
+    "start": 244.58,
+    "end": 244.84,
+    "text": "it's"
+   },
+   {
+    "start": 244.84,
+    "end": 245.38,
+    "text": "biaxial"
+   },
+   {
+    "start": 245.38,
+    "end": 246.0,
+    "text": "positive."
+   }
+  ]
+ },
+ {
+  "start": 246.64,
+  "end": 250.64,
+  "text": "The fact that they're close together like this means it has a very low 2V.",
+  "words": [
+   {
+    "start": 246.64,
+    "end": 247.12,
+    "text": "The"
+   },
+   {
+    "start": 247.12,
+    "end": 247.36,
+    "text": "fact"
+   },
+   {
+    "start": 247.36,
+    "end": 247.56,
+    "text": "that"
+   },
+   {
+    "start": 247.56,
+    "end": 247.72,
+    "text": "they're"
+   },
+   {
+    "start": 247.72,
+    "end": 247.96,
+    "text": "close"
+   },
+   {
+    "start": 247.96,
+    "end": 248.22,
+    "text": "together"
+   },
+   {
+    "start": 248.22,
+    "end": 248.5,
+    "text": "like"
+   },
+   {
+    "start": 248.5,
+    "end": 248.74,
+    "text": "this"
+   },
+   {
+    "start": 248.74,
+    "end": 248.92,
+    "text": "means"
+   },
+   {
+    "start": 248.92,
+    "end": 249.1,
+    "text": "it"
+   },
+   {
+    "start": 249.1,
+    "end": 249.26,
+    "text": "has"
+   },
+   {
+    "start": 249.26,
+    "end": 249.38,
+    "text": "a"
+   },
+   {
+    "start": 249.38,
+    "end": 249.54,
+    "text": "very"
+   },
+   {
+    "start": 249.54,
+    "end": 249.92,
+    "text": "low"
+   },
+   {
+    "start": 249.92,
+    "end": 250.64,
+    "text": "2V."
+   }
+  ]
+ }
+]

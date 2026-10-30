@@ -1,0 +1,725 @@
+[
+ {
+  "start": 0.0,
+  "end": 3.46,
+  "text": "I have very few rocks with corundum. This is one of them.",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.4,
+    "text": "I"
+   },
+   {
+    "start": 0.4,
+    "end": 0.58,
+    "text": "have"
+   },
+   {
+    "start": 0.58,
+    "end": 0.88,
+    "text": "very"
+   },
+   {
+    "start": 0.88,
+    "end": 1.12,
+    "text": "few"
+   },
+   {
+    "start": 1.12,
+    "end": 1.42,
+    "text": "rocks"
+   },
+   {
+    "start": 1.42,
+    "end": 1.7,
+    "text": "with"
+   },
+   {
+    "start": 1.7,
+    "end": 2.28,
+    "text": "corundum."
+   },
+   {
+    "start": 2.58,
+    "end": 2.84,
+    "text": "This"
+   },
+   {
+    "start": 2.84,
+    "end": 2.98,
+    "text": "is"
+   },
+   {
+    "start": 2.98,
+    "end": 3.18,
+    "text": "one"
+   },
+   {
+    "start": 3.18,
+    "end": 3.3,
+    "text": "of"
+   },
+   {
+    "start": 3.3,
+    "end": 3.46,
+    "text": "them."
+   }
+  ]
+ },
+ {
+  "start": 3.88,
+  "end": 7.56,
+  "text": "This is an end section of corundum, shows a very high relief.",
+  "words": [
+   {
+    "start": 3.88,
+    "end": 4.06,
+    "text": "This"
+   },
+   {
+    "start": 4.06,
+    "end": 4.2,
+    "text": "is"
+   },
+   {
+    "start": 4.2,
+    "end": 4.34,
+    "text": "an"
+   },
+   {
+    "start": 4.34,
+    "end": 4.66,
+    "text": "end"
+   },
+   {
+    "start": 4.66,
+    "end": 5.08,
+    "text": "section"
+   },
+   {
+    "start": 5.08,
+    "end": 5.62,
+    "text": "of"
+   },
+   {
+    "start": 5.62,
+    "end": 6.24,
+    "text": "corundum,"
+   },
+   {
+    "start": 6.28,
+    "end": 6.46,
+    "text": "shows"
+   },
+   {
+    "start": 6.46,
+    "end": 6.66,
+    "text": "a"
+   },
+   {
+    "start": 6.66,
+    "end": 6.9,
+    "text": "very"
+   },
+   {
+    "start": 6.9,
+    "end": 7.18,
+    "text": "high"
+   },
+   {
+    "start": 7.18,
+    "end": 7.56,
+    "text": "relief."
+   }
+  ]
+ },
+ {
+  "start": 8.36,
+  "end": 13.4,
+  "text": "A couple of, I don't know if they're cleavages or fractures, but those are characteristic of end sections.",
+  "words": [
+   {
+    "start": 8.36,
+    "end": 8.72,
+    "text": "A"
+   },
+   {
+    "start": 8.72,
+    "end": 8.92,
+    "text": "couple"
+   },
+   {
+    "start": 8.92,
+    "end": 9.3,
+    "text": "of,"
+   },
+   {
+    "start": 9.44,
+    "end": 9.58,
+    "text": "I"
+   },
+   {
+    "start": 9.58,
+    "end": 9.62,
+    "text": "don't"
+   },
+   {
+    "start": 9.62,
+    "end": 9.76,
+    "text": "know"
+   },
+   {
+    "start": 9.76,
+    "end": 9.82,
+    "text": "if"
+   },
+   {
+    "start": 9.82,
+    "end": 9.94,
+    "text": "they're"
+   },
+   {
+    "start": 9.94,
+    "end": 10.38,
+    "text": "cleavages"
+   },
+   {
+    "start": 10.38,
+    "end": 10.64,
+    "text": "or"
+   },
+   {
+    "start": 10.64,
+    "end": 11.24,
+    "text": "fractures,"
+   },
+   {
+    "start": 11.36,
+    "end": 11.48,
+    "text": "but"
+   },
+   {
+    "start": 11.48,
+    "end": 11.86,
+    "text": "those"
+   },
+   {
+    "start": 11.86,
+    "end": 12.0,
+    "text": "are"
+   },
+   {
+    "start": 12.0,
+    "end": 12.52,
+    "text": "characteristic"
+   },
+   {
+    "start": 12.52,
+    "end": 12.82,
+    "text": "of"
+   },
+   {
+    "start": 12.82,
+    "end": 13.02,
+    "text": "end"
+   },
+   {
+    "start": 13.02,
+    "end": 13.4,
+    "text": "sections."
+   }
+  ]
+ },
+ {
+  "start": 14.26,
+  "end": 19.46,
+  "text": "When you cross the polars, it's low interference colors, just barely yellow.",
+  "words": [
+   {
+    "start": 14.26,
+    "end": 14.54,
+    "text": "When"
+   },
+   {
+    "start": 14.54,
+    "end": 14.62,
+    "text": "you"
+   },
+   {
+    "start": 14.62,
+    "end": 14.82,
+    "text": "cross"
+   },
+   {
+    "start": 14.82,
+    "end": 15.06,
+    "text": "the"
+   },
+   {
+    "start": 15.06,
+    "end": 15.38,
+    "text": "polars,"
+   },
+   {
+    "start": 15.52,
+    "end": 15.64,
+    "text": "it's"
+   },
+   {
+    "start": 15.64,
+    "end": 15.96,
+    "text": "low"
+   },
+   {
+    "start": 15.96,
+    "end": 16.54,
+    "text": "interference"
+   },
+   {
+    "start": 16.54,
+    "end": 17.06,
+    "text": "colors,"
+   },
+   {
+    "start": 17.94,
+    "end": 18.6,
+    "text": "just"
+   },
+   {
+    "start": 18.6,
+    "end": 19.02,
+    "text": "barely"
+   },
+   {
+    "start": 19.02,
+    "end": 19.46,
+    "text": "yellow."
+   }
+  ]
+ },
+ {
+  "start": 30.36,
+  "end": 38.5,
+  "text": "Here the crystal is elongate in the plane of the thin section, so you'll see higher order interference colors, but still it's very high relief.",
+  "words": [
+   {
+    "start": 30.36,
+    "end": 30.94,
+    "text": "Here"
+   },
+   {
+    "start": 30.94,
+    "end": 31.1,
+    "text": "the"
+   },
+   {
+    "start": 31.1,
+    "end": 31.44,
+    "text": "crystal"
+   },
+   {
+    "start": 31.44,
+    "end": 31.8,
+    "text": "is"
+   },
+   {
+    "start": 31.8,
+    "end": 32.44,
+    "text": "elongate"
+   },
+   {
+    "start": 32.44,
+    "end": 32.66,
+    "text": "in"
+   },
+   {
+    "start": 32.66,
+    "end": 32.8,
+    "text": "the"
+   },
+   {
+    "start": 32.8,
+    "end": 33.14,
+    "text": "plane"
+   },
+   {
+    "start": 33.14,
+    "end": 33.34,
+    "text": "of"
+   },
+   {
+    "start": 33.34,
+    "end": 33.48,
+    "text": "the"
+   },
+   {
+    "start": 33.48,
+    "end": 33.76,
+    "text": "thin"
+   },
+   {
+    "start": 33.76,
+    "end": 34.18,
+    "text": "section,"
+   },
+   {
+    "start": 34.18,
+    "end": 34.52,
+    "text": "so"
+   },
+   {
+    "start": 34.52,
+    "end": 34.72,
+    "text": "you'll"
+   },
+   {
+    "start": 34.72,
+    "end": 34.9,
+    "text": "see"
+   },
+   {
+    "start": 34.9,
+    "end": 35.24,
+    "text": "higher"
+   },
+   {
+    "start": 35.24,
+    "end": 35.56,
+    "text": "order"
+   },
+   {
+    "start": 35.56,
+    "end": 36.1,
+    "text": "interference"
+   },
+   {
+    "start": 36.1,
+    "end": 36.48,
+    "text": "colors,"
+   },
+   {
+    "start": 37.02,
+    "end": 37.16,
+    "text": "but"
+   },
+   {
+    "start": 37.16,
+    "end": 37.38,
+    "text": "still"
+   },
+   {
+    "start": 37.38,
+    "end": 37.56,
+    "text": "it's"
+   },
+   {
+    "start": 37.56,
+    "end": 37.8,
+    "text": "very"
+   },
+   {
+    "start": 37.8,
+    "end": 38.1,
+    "text": "high"
+   },
+   {
+    "start": 38.1,
+    "end": 38.5,
+    "text": "relief."
+   }
+  ]
+ },
+ {
+  "start": 43.3,
+  "end": 48.74,
+  "text": "You can see here that it has parallel extinction, although the interference colors are still pretty low.",
+  "words": [
+   {
+    "start": 43.3,
+    "end": 43.88,
+    "text": "You"
+   },
+   {
+    "start": 43.88,
+    "end": 44.04,
+    "text": "can"
+   },
+   {
+    "start": 44.04,
+    "end": 44.24,
+    "text": "see"
+   },
+   {
+    "start": 44.24,
+    "end": 44.5,
+    "text": "here"
+   },
+   {
+    "start": 44.5,
+    "end": 44.82,
+    "text": "that"
+   },
+   {
+    "start": 44.82,
+    "end": 44.94,
+    "text": "it"
+   },
+   {
+    "start": 44.94,
+    "end": 45.12,
+    "text": "has"
+   },
+   {
+    "start": 45.12,
+    "end": 45.54,
+    "text": "parallel"
+   },
+   {
+    "start": 45.54,
+    "end": 46.12,
+    "text": "extinction,"
+   },
+   {
+    "start": 46.5,
+    "end": 46.78,
+    "text": "although"
+   },
+   {
+    "start": 46.78,
+    "end": 47.06,
+    "text": "the"
+   },
+   {
+    "start": 47.06,
+    "end": 47.46,
+    "text": "interference"
+   },
+   {
+    "start": 47.46,
+    "end": 47.84,
+    "text": "colors"
+   },
+   {
+    "start": 47.84,
+    "end": 48.02,
+    "text": "are"
+   },
+   {
+    "start": 48.02,
+    "end": 48.2,
+    "text": "still"
+   },
+   {
+    "start": 48.2,
+    "end": 48.48,
+    "text": "pretty"
+   },
+   {
+    "start": 48.48,
+    "end": 48.74,
+    "text": "low."
+   }
+  ]
+ },
+ {
+  "start": 60.86,
+  "end": 63.3,
+  "text": "And this is sort of the same deal, high relief.",
+  "words": [
+   {
+    "start": 60.86,
+    "end": 61.42,
+    "text": "And"
+   },
+   {
+    "start": 61.42,
+    "end": 61.58,
+    "text": "this"
+   },
+   {
+    "start": 61.58,
+    "end": 61.7,
+    "text": "is"
+   },
+   {
+    "start": 61.7,
+    "end": 61.84,
+    "text": "sort"
+   },
+   {
+    "start": 61.84,
+    "end": 61.9,
+    "text": "of"
+   },
+   {
+    "start": 61.9,
+    "end": 61.98,
+    "text": "the"
+   },
+   {
+    "start": 61.98,
+    "end": 62.18,
+    "text": "same"
+   },
+   {
+    "start": 62.18,
+    "end": 62.46,
+    "text": "deal,"
+   },
+   {
+    "start": 62.78,
+    "end": 62.94,
+    "text": "high"
+   },
+   {
+    "start": 62.94,
+    "end": 63.3,
+    "text": "relief."
+   }
+  ]
+ },
+ {
+  "start": 64.28,
+  "end": 73.42,
+  "text": "When you cross the polars, you'll see that it also has parallel extinction, but the interference colors are kind of an orangey first order color.",
+  "words": [
+   {
+    "start": 64.28,
+    "end": 64.7,
+    "text": "When"
+   },
+   {
+    "start": 64.7,
+    "end": 64.92,
+    "text": "you"
+   },
+   {
+    "start": 64.92,
+    "end": 65.2,
+    "text": "cross"
+   },
+   {
+    "start": 65.2,
+    "end": 65.4,
+    "text": "the"
+   },
+   {
+    "start": 65.4,
+    "end": 65.78,
+    "text": "polars,"
+   },
+   {
+    "start": 65.92,
+    "end": 66.06,
+    "text": "you'll"
+   },
+   {
+    "start": 66.06,
+    "end": 66.36,
+    "text": "see"
+   },
+   {
+    "start": 66.36,
+    "end": 66.6,
+    "text": "that"
+   },
+   {
+    "start": 66.6,
+    "end": 66.78,
+    "text": "it"
+   },
+   {
+    "start": 66.78,
+    "end": 67.26,
+    "text": "also"
+   },
+   {
+    "start": 67.26,
+    "end": 67.54,
+    "text": "has"
+   },
+   {
+    "start": 67.54,
+    "end": 67.88,
+    "text": "parallel"
+   },
+   {
+    "start": 67.88,
+    "end": 68.42,
+    "text": "extinction,"
+   },
+   {
+    "start": 68.94,
+    "end": 69.26,
+    "text": "but"
+   },
+   {
+    "start": 69.26,
+    "end": 69.44,
+    "text": "the"
+   },
+   {
+    "start": 69.44,
+    "end": 69.84,
+    "text": "interference"
+   },
+   {
+    "start": 69.84,
+    "end": 70.22,
+    "text": "colors"
+   },
+   {
+    "start": 70.22,
+    "end": 70.44,
+    "text": "are"
+   },
+   {
+    "start": 70.44,
+    "end": 70.66,
+    "text": "kind"
+   },
+   {
+    "start": 70.66,
+    "end": 70.76,
+    "text": "of"
+   },
+   {
+    "start": 70.76,
+    "end": 70.98,
+    "text": "an"
+   },
+   {
+    "start": 70.98,
+    "end": 71.82,
+    "text": "orangey"
+   },
+   {
+    "start": 71.82,
+    "end": 72.74,
+    "text": "first"
+   },
+   {
+    "start": 72.74,
+    "end": 73.06,
+    "text": "order"
+   },
+   {
+    "start": 73.06,
+    "end": 73.42,
+    "text": "color."
+   }
+  ]
+ },
+ {
+  "start": 90.0,
+  "end": 91.26,
+  "text": "You",
+  "words": [
+   {
+    "start": 90.0,
+    "end": 91.26,
+    "text": "You"
+   }
+  ]
+ }
+]

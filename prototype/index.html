@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ffffff" id="themeColor">
+<title>Light Slides — prototype</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#viewer">Skip to viewer</a>
+<header class="bar">
+  <div>
+    <h1>Light Slides</h1>
+    <p class="sub">Thin sections under the microscope. Drag the slider to rotate the stage.</p>
+  </div>
+  <div class="bar-side">
+    <a class="playlist" href="https://www.youtube.com/playlist?list=PL8dDgAwuMuPTXCj0MPO_G6jTz4pzXVcZi">Matt Kohn's YouTube
+      playlist</a>
+    <input id="search" type="search" placeholder="Filter minerals…  ( / )" aria-label="Filter minerals" autocomplete="off">
+  </div>
+</header>
+
+<main class="layout">
+  <section class="viewer" id="viewer" aria-label="Focused viewer" tabindex="-1">
+    <p id="caption" class="caption" aria-live="polite">Choose a mineral to begin.</p>
+    <div class="stage">
+      <video id="video" playsinline preload="metadata" crossorigin="anonymous"></video>
+    </div>
+    <div class="controls">
+      <button id="play" aria-label="Play or pause"><span id="playIcon" aria-hidden="true">▶</span></button>
+      <input id="scrub" type="range" min="0" max="1000" value="0" step="1" aria-label="Stage rotation">
+      <span id="time" class="time">0.0 / 0.0s</span>
+    </div>
+    <details id="transcriptWrap">
+      <summary>Transcript</summary>
+      <ol id="transcript" class="transcript"></ol>
+    </details>
+  </section>
+
+  <section class="decks" aria-label="Decks">
+    <div id="decks"></div>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

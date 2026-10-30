@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# redesign prototype: generated media (reproduce via pipeline/)
+prototype/assets/vids/*.mp4
+prototype/raw/
+# scale-up: raw downloads and Release-hosted encodes stay out of git
+pipeline/raw/
+docs/assets/vids/*.mp4
+# bytecode caches
+__pycache__/
+*/__pycache__/
+# local verify harness deps (installed on first `make verify-local`)
+pipeline/node_modules/
+pipeline/package.json
+pipeline/package-lock.json

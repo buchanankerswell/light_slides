@@ -1,0 +1,2353 @@
+{
+ "groups": [
+  {
+   "id": "chain",
+   "label": "Chain silicates",
+   "slides": [
+    "actinolite-tremolite",
+    "anthophyllite-gedrite",
+    "clinopyroxene",
+    "cummingtonite",
+    "glaucophane",
+    "hornblende",
+    "orthopyroxene",
+    "wollastonite"
+   ]
+  },
+  {
+   "id": "framework",
+   "label": "Framework silicates",
+   "slides": [
+    "cancrinite",
+    "coesite-pseudomorph",
+    "k-feldspar",
+    "leucite",
+    "nepheline",
+    "plagioclase",
+    "quartz",
+    "scapolite",
+    "sodalite"
+   ]
+  },
+  {
+   "id": "island",
+   "label": "Island & pair silicates",
+   "slides": [
+    "andalusite",
+    "chloritoid",
+    "epidote-group",
+    "garnet",
+    "kyanite",
+    "lawsonite",
+    "olivine",
+    "sillimanite",
+    "staurolite",
+    "titanite",
+    "titanoclinohumite",
+    "vesuvianite",
+    "yoderite",
+    "zircon"
+   ]
+  },
+  {
+   "id": "accessories",
+   "label": "Oxides & accessories",
+   "slides": [
+    "apatite",
+    "brucite",
+    "carbonate",
+    "corundum",
+    "graphite",
+    "monazite",
+    "rutile",
+    "spinel"
+   ]
+  },
+  {
+   "id": "ring",
+   "label": "Ring silicates",
+   "slides": [
+    "cordierite",
+    "tourmaline"
+   ]
+  },
+  {
+   "id": "sheet",
+   "label": "Sheet silicates",
+   "slides": [
+    "biotite",
+    "chlorite",
+    "clintonite",
+    "margarite",
+    "muscovite",
+    "serpentine",
+    "talc"
+   ]
+  },
+  {
+   "id": "concepts",
+   "label": "Optical properties",
+   "slides": [
+    "amphibole-discrimination",
+    "birds-eye-extinction",
+    "cleavage",
+    "myrmekite",
+    "optical-petrography-video-how-to",
+    "pleochroism-and-color"
+   ]
+  }
+ ],
+ "slides": [
+  {
+   "id": "actinolite-tremolite",
+   "mineral": "Actinolite/tremolite",
+   "symbol": "Act",
+   "aliases": [
+    "act",
+    "tr",
+    "tremolite"
+   ],
+   "features": [
+    "fibrous habit",
+    "inclined extinction",
+    "green pleochroism",
+    "second order colors"
+   ],
+   "formula": "Ca2(Mg,Fe)5Si8O22(OH)2",
+   "occurrences": "Low-grade mafic metamorphic rocks, commonly with chlorite and epidote in greenschists; tremolite in marbles, calc-silicates, and metamorphosed ultramafic rocks.",
+   "associated": [
+    "chlorite",
+    "epidote",
+    "quartz",
+    "calcite",
+    "biotite",
+    "titanite"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a75.3-5.4",
+     "url": "https://optical.minpet.org/5-amphiboles/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/Ki1hhWmAn4k"
+    }
+   ],
+   "distinguishing": "Pale yellow-green to slightly blue-green pleochroism (tremolite is the colorless near-end-member of marbles and calc-silicates); moderate-to-high-relief prismatic to fibrous aggregates with amphibole cleavage; 2nd- to lower 3rd-order colors.",
+   "uses": null,
+   "minerals": null,
+   "group": "chain",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/actinolite-tremolite.mp4",
+   "poster": "assets/posters/actinolite-tremolite.jpg",
+   "cues": "assets/cues/actinolite-tremolite.json",
+   "yt": "https://youtu.be/Ki1hhWmAn4k",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "amphibole-discrimination",
+   "mineral": "Amphibole discrimination",
+   "symbol": null,
+   "aliases": [
+    "amphibole",
+    "discrimination"
+   ],
+   "features": [],
+   "formula": null,
+   "occurrences": null,
+   "associated": null,
+   "economic": null,
+   "resources": null,
+   "distinguishing": null,
+   "uses": null,
+   "minerals": [
+    "Actinolite/tremolite",
+    "Hornblende",
+    "Anthophyllite/gedrite",
+    "Cummingtonite",
+    "Glaucophane"
+   ],
+   "group": "concepts",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/amphibole-discrimination.mp4",
+   "poster": "assets/posters/amphibole-discrimination.jpg",
+   "cues": "assets/cues/amphibole-discrimination.json",
+   "yt": "https://youtu.be/bu6dAFUBg1Y",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "andalusite",
+   "mineral": "Andalusite",
+   "symbol": "And",
+   "aliases": [
+    "and"
+   ],
+   "features": [
+    "pink pleochroism",
+    "chiastolite",
+    "prismatic habit"
+   ],
+   "formula": "Al2SiO5",
+   "occurrences": "Mainly in low-pressure metamorphosed mudstones and rarely in granites derived from metasedimentary rocks.",
+   "associated": [
+    "quartz",
+    "muscovite",
+    "biotite",
+    "garnet",
+    "feldspar",
+    "sillimanite",
+    "graphite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a77.4",
+     "url": "https://optical.minpet.org/7-garnet-olivine-and-other-isolated-tetrahedral-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/eAE09Hb5lHo"
+    }
+   ],
+   "distinguishing": "Mostly colorless but often with pleochroic pink or rose-red cores, high relief, low-order colors, parallel extinction; euhedral crystals with square cross-sections; dark inclusions may form chiastolite crosses.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/andalusite.mp4",
+   "poster": "assets/posters/andalusite.jpg",
+   "cues": "assets/cues/andalusite.json",
+   "yt": "https://youtu.be/eAE09Hb5lHo",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "anthophyllite-gedrite",
+   "mineral": "Anthophyllite/gedrite",
+   "symbol": "Ath",
+   "aliases": [
+    "ath",
+    "ged",
+    "gedrite"
+   ],
+   "features": [
+    "parallel extinction",
+    "fibrous habit",
+    "prismatic habit"
+   ],
+   "formula": "(Mg,Fe)7Si8O22(OH)2 (anthophyllite); Na-rich aluminous equivalent (gedrite)",
+   "occurrences": "Low- to medium-grade Mg-rich metamorphic rocks; anthophyllite is also common in serpentinites.",
+   "associated": [
+    "plagioclase",
+    "garnet",
+    "rutile",
+    "quartz",
+    "cordierite",
+    "biotite",
+    "staurolite"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a75.1",
+     "url": "https://optical.minpet.org/5-amphiboles/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/DcYmmtgZA0Y"
+    }
+   ],
+   "distinguishing": "Colorless anthophyllite to gray-green-tan pleochroic gedrite; moderate-to-high-relief long prisms or fibers with parallel extinction; polysynthetic twins absent (unlike cummingtonite).",
+   "uses": null,
+   "minerals": null,
+   "group": "chain",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/anthophyllite-gedrite.mp4",
+   "poster": "assets/posters/anthophyllite-gedrite.jpg",
+   "cues": "assets/cues/anthophyllite-gedrite.json",
+   "yt": "https://youtu.be/DcYmmtgZA0Y",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "apatite",
+   "mineral": "Apatite",
+   "symbol": "Ap",
+   "aliases": [
+    "ap"
+   ],
+   "features": [
+    "very low birefringence",
+    "hexagonal prisms",
+    "no cleavage"
+   ],
+   "formula": "Ca5(PO4)3(OH,F)",
+   "occurrences": "Common accessory in many igneous and metamorphic rocks, often as small colorless grains; fine-grained collophane variety in some sedimentary rocks.",
+   "associated": [
+    "plagioclase",
+    "orthopyroxene",
+    "calcite",
+    "ilmenite",
+    "titanite",
+    "quartz",
+    "K-feldspar",
+    "magnetite",
+    "garnet"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a714.2",
+     "url": "https://optical.minpet.org/14-other-graphite-apatite-fluorite/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/jXwr9k36HUg"
+    }
+   ],
+   "distinguishing": "Mostly colorless with moderate relief, typically small stubby prisms with hexagonal cross-section and poor cleavages rarely seen; white to gray interference colors; graphite inclusions may give gray to black hues.",
+   "uses": "Phosphate fertilizer resource; Phosphoria Formation, Idaho; Cape Verde carbonatite",
+   "minerals": null,
+   "group": "accessories",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/apatite.mp4",
+   "poster": "assets/posters/apatite.jpg",
+   "cues": "assets/cues/apatite.json",
+   "yt": "https://youtu.be/jXwr9k36HUg",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "biotite",
+   "mineral": "Biotite",
+   "symbol": "Bt",
+   "aliases": [
+    "bt"
+   ],
+   "features": [
+    "brown pleochroism",
+    "strong pleochroism",
+    "micaceous habit",
+    "birdseye extinction"
+   ],
+   "formula": "K(Mg,Fe)3AlSi3O10(F,OH)2",
+   "occurrences": "Occurs in a wide variety of igneous and metamorphic rocks; quite rare in sedimentary rocks except in occasional immature sedimentary rocks.",
+   "associated": [
+    "muscovite",
+    "quartz",
+    "feldspar",
+    "cordierite",
+    "orthopyroxene"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a73.5",
+     "url": "https://optical.minpet.org/3-micas-and-other-sheet-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/dgh7NWuujgg"
+    }
+   ],
+   "distinguishing": "Typically brown to yellow pleochroic flakes with one excellent cleavage, commonly elongate rectangular; mottled bird's-eye extinction, may hold pleochroic halos around zircon or monazite.",
+   "uses": null,
+   "minerals": null,
+   "group": "sheet",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/biotite.mp4",
+   "poster": "assets/posters/biotite.jpg",
+   "cues": "assets/cues/biotite.json",
+   "yt": "https://youtu.be/dgh7NWuujgg",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "birds-eye-extinction",
+   "mineral": "Birds eye extinction",
+   "symbol": null,
+   "aliases": [
+    "birds eye",
+    "birdseye",
+    "extinction"
+   ],
+   "features": [],
+   "formula": null,
+   "occurrences": null,
+   "associated": null,
+   "economic": null,
+   "resources": null,
+   "distinguishing": null,
+   "uses": null,
+   "minerals": null,
+   "group": "concepts",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/birds-eye-extinction.mp4",
+   "poster": "assets/posters/birds-eye-extinction.jpg",
+   "cues": "assets/cues/birds-eye-extinction.json",
+   "yt": "https://youtu.be/1jGV_O2UwCc",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "brucite",
+   "mineral": "Brucite",
+   "symbol": "Brc",
+   "aliases": [
+    "brc"
+   ],
+   "features": [
+    "basal cleavage",
+    "low relief",
+    "micaceous habit"
+   ],
+   "formula": null,
+   "occurrences": null,
+   "associated": null,
+   "economic": null,
+   "resources": null,
+   "distinguishing": null,
+   "uses": null,
+   "minerals": null,
+   "group": "accessories",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/brucite.mp4",
+   "poster": "assets/posters/brucite.jpg",
+   "cues": "assets/cues/brucite.json",
+   "yt": "https://youtu.be/Ueo-Zy3a29Q",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "cancrinite",
+   "mineral": "Cancrinite",
+   "symbol": "Ccn",
+   "aliases": [
+    "ccn"
+   ],
+   "features": [
+    "low relief",
+    "uniaxial negative",
+    "prismatic habit"
+   ],
+   "formula": "Na6Ca2Al6Si6O24(CO3)2",
+   "occurrences": "Occurs with nepheline, sodalite, and microcline perthite in Si-poor alkali-rich syenite.",
+   "associated": [
+    "nepheline",
+    "sodalite",
+    "microcline",
+    "calcite"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a72.4",
+     "url": "https://optical.minpet.org/2-quartz-feldspars-and-other-framework-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/37pxMiiQX1k"
+    }
+   ],
+   "distinguishing": "Colorless (slightly clearer than associated nepheline/sodalite) with striking 2nd-order interference colors in XP, uniaxial (-) with lower refractive indices than scapolite.",
+   "uses": null,
+   "minerals": null,
+   "group": "framework",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/cancrinite.mp4",
+   "poster": "assets/posters/cancrinite.jpg",
+   "cues": "assets/cues/cancrinite.json",
+   "yt": "https://youtu.be/37pxMiiQX1k",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "carbonate",
+   "mineral": "Carbonate",
+   "symbol": null,
+   "aliases": [
+    "carbonate"
+   ],
+   "features": [
+    "twinkle",
+    "extreme birefringence",
+    "rhombohedral cleavage",
+    "lamellar twinning"
+   ],
+   "formula": "CaCO3",
+   "occurrences": "Limestones, dolomites, marbles, marls and calc-silicate rocks, hydrothermal veins, and rare carbonatites; also secondary in many rocks.",
+   "associated": [
+    "quartz",
+    "hematite",
+    "graphite",
+    "diopside",
+    "hornblende",
+    "epidote",
+    "chlorite",
+    "biotite",
+    "plagioclase"
+   ],
+   "economic": "maybe",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a79.1",
+     "url": "https://optical.minpet.org/9-carbonates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/m3nTUZQbISQ"
+    }
+   ],
+   "distinguishing": "Nearly colorless with variable low- to high-relief and perfect rhombohedral cleavage, often twinkling in PP light; almost always polysynthetically twinned with extreme birefringence giving very high-order pastel interference colors.",
+   "uses": "Limestone/marble building stone and cement; Spergen Limestone, Bedford, Indiana; Adirondack marbles, New York",
+   "minerals": null,
+   "group": "accessories",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/carbonate.mp4",
+   "poster": "assets/posters/carbonate.jpg",
+   "cues": "assets/cues/carbonate.json",
+   "yt": "https://youtu.be/m3nTUZQbISQ",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "chlorite",
+   "mineral": "Chlorite",
+   "symbol": "Chl",
+   "aliases": [
+    "chl"
+   ],
+   "features": [
+    "anomalous interference colors",
+    "berlin blue",
+    "very low birefringence",
+    "green pleochroism"
+   ],
+   "formula": "(Mg,Fe,Al)6(Si,Al)4O10(OH)8",
+   "occurrences": "Common in low- and medium-grade metamorphic rocks, both as a primary mineral and as a secondary mineral after biotite and other mafic silicates.",
+   "associated": [
+    "biotite",
+    "muscovite",
+    "epidote",
+    "garnet",
+    "glaucophane"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a73.8",
+     "url": "https://optical.minpet.org/3-micas-and-other-sheet-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/6gFZ42lCZWI"
+    }
+   ],
+   "distinguishing": "Light greenish to army-green, faintly pleochroic patches, flaky or scaly crystals with one excellent cleavage; low 1st-order or anomalous blue, green, purple or brown interference colors.",
+   "uses": null,
+   "minerals": null,
+   "group": "sheet",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/chlorite.mp4",
+   "poster": "assets/posters/chlorite.jpg",
+   "cues": "assets/cues/chlorite.json",
+   "yt": "https://youtu.be/6gFZ42lCZWI",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "chloritoid",
+   "mineral": "Chloritoid",
+   "symbol": "Ctd",
+   "aliases": [
+    "ctd"
+   ],
+   "features": [
+    "strong pleochroism",
+    "olive green pleochroism",
+    "anomalous interference colors",
+    "basal cleavage"
+   ],
+   "formula": "(Fe,Mg,Mn)2Al4Si2O10(OH)4",
+   "occurrences": "Common in low- and medium-grade Fe- and Al-rich schists and in high-pressure schists.",
+   "associated": [
+    "muscovite",
+    "quartz",
+    "garnet",
+    "biotite",
+    "chlorite",
+    "staurolite"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a77.7",
+     "url": "https://optical.minpet.org/7-garnet-olivine-and-other-isolated-tetrahedral-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/53DTJ0CXUjE"
+    }
+   ],
+   "distinguishing": "Distinctive blue, military green and gray colors in high-relief platy elongate or tabular crystals with pseudohexagonal cross-sections; middle- to upper-1st-order, sometimes anomalous pale-blue colors; polysynthetic twins common.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/chloritoid.mp4",
+   "poster": "assets/posters/chloritoid.jpg",
+   "cues": "assets/cues/chloritoid.json",
+   "yt": "https://youtu.be/53DTJ0CXUjE",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "cleavage",
+   "mineral": "Cleavage",
+   "symbol": null,
+   "aliases": [
+    "cleavage"
+   ],
+   "features": [],
+   "formula": null,
+   "occurrences": null,
+   "associated": null,
+   "economic": null,
+   "resources": null,
+   "distinguishing": null,
+   "uses": null,
+   "minerals": null,
+   "group": "concepts",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/cleavage.mp4",
+   "poster": "assets/posters/cleavage.jpg",
+   "cues": "assets/cues/cleavage.json",
+   "yt": "https://youtu.be/nzusnwKZQjs",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "clinopyroxene",
+   "mineral": "Clinopyroxene",
+   "symbol": "Cpx",
+   "aliases": [
+    "cpx"
+   ],
+   "features": [
+    "inclined extinction",
+    "high relief",
+    "second order colors",
+    "simple twinning",
+    "prismatic habit"
+   ],
+   "formula": "(Ca,Na)(Mg,Fe,Al)(Si,Al)2O6",
+   "occurrences": "Common in mafic and ultramafic igneous rocks and their high-grade metamorphic equivalents.",
+   "associated": [
+    "orthopyroxene",
+    "olivine",
+    "plagioclase",
+    "spinel",
+    "magnetite",
+    "hornblende"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a74.1",
+     "url": "https://optical.minpet.org/4-pyroxenes-and-pyroxenoids/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/FNysOq-M7Ro"
+    }
+   ],
+   "distinguishing": "High relief, colorless to pale-green or pale-brown with weak pleochroism and middle 2nd-order colors; short prisms with 4- or 8-sided sections, near-orthogonal cleavages, inclined extinction, common twinning.",
+   "uses": null,
+   "minerals": null,
+   "group": "chain",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/clinopyroxene.mp4",
+   "poster": "assets/posters/clinopyroxene.jpg",
+   "cues": "assets/cues/clinopyroxene.json",
+   "yt": "https://youtu.be/FNysOq-M7Ro",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "clintonite",
+   "mineral": "Clintonite",
+   "symbol": "Cln",
+   "aliases": [
+    "cln"
+   ],
+   "features": [
+    "high relief",
+    "anomalous interference colors",
+    "brittle mica"
+   ],
+   "formula": "Ca(Mg,Al)3(Al3SiO10)(OH)2",
+   "occurrences": "Rare brittle mica of contact-metamorphosed limestones and skarns.",
+   "associated": null,
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a7None",
+     "url": "https://optical.minpet.org/3-micas-and-other-sheet-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/lqB9SeWK6x4"
+    }
+   ],
+   "distinguishing": null,
+   "uses": null,
+   "minerals": null,
+   "group": "sheet",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/clintonite.mp4",
+   "poster": "assets/posters/clintonite.jpg",
+   "cues": "assets/cues/clintonite.json",
+   "yt": "https://youtu.be/lqB9SeWK6x4",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "coesite-pseudomorph",
+   "mineral": "Coesite (pseudomorph)",
+   "symbol": "Coe",
+   "aliases": [
+    "coe"
+   ],
+   "features": [
+    "high relief",
+    "pseudomorph",
+    "radial rims"
+   ],
+   "formula": null,
+   "occurrences": null,
+   "associated": null,
+   "economic": null,
+   "resources": null,
+   "distinguishing": null,
+   "uses": null,
+   "minerals": null,
+   "group": "framework",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/coesite-pseudomorph.mp4",
+   "poster": "assets/posters/coesite-pseudomorph.jpg",
+   "cues": "assets/cues/coesite-pseudomorph.json",
+   "yt": "https://youtu.be/tPd0JkOHV-c",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "cordierite",
+   "mineral": "Cordierite",
+   "symbol": "Crd",
+   "aliases": [
+    "crd"
+   ],
+   "features": [
+    "cyclic twinning",
+    "low relief",
+    "first order gray",
+    "pinite alteration"
+   ],
+   "formula": "(Mg,Fe)2Al3(Si5AlO18)",
+   "occurrences": "Mostly low-pressure medium- to high-grade regional metamorphism of aluminous rocks; rare in igneous rocks.",
+   "associated": [
+    "sillimanite",
+    "biotite",
+    "orthopyroxene",
+    "quartz",
+    "K-feldspar",
+    "garnet",
+    "muscovite"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a76.3",
+     "url": "https://optical.minpet.org/6-ring-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/Eo-FGyDXsRU"
+    }
+   ],
+   "distinguishing": "Normally colorless with 1st-order gray-white to light-yellow colors; irregular pinching-out polysynthetic twinning, and most distinctively yellow-orange pleochroic halos around zircon or monazite inclusions; common alteration to pinite.",
+   "uses": null,
+   "minerals": null,
+   "group": "ring",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/cordierite.mp4",
+   "poster": "assets/posters/cordierite.jpg",
+   "cues": "assets/cues/cordierite.json",
+   "yt": "https://youtu.be/Eo-FGyDXsRU",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "corundum",
+   "mineral": "Corundum",
+   "symbol": "Crn",
+   "aliases": [
+    "crn"
+   ],
+   "features": [
+    "high relief",
+    "parting",
+    "weak pleochroism"
+   ],
+   "formula": "Al2O3",
+   "occurrences": "Accessory in metamorphosed carbonates, highly aluminous metasediments, some Al-rich igneous rocks, and placers; massive corundum in skarns.",
+   "associated": [
+    "orthoclase",
+    "quartz",
+    "biotite",
+    "plagioclase",
+    "rutile",
+    "K-feldspar",
+    "sillimanite",
+    "muscovite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a711.3",
+     "url": "https://optical.minpet.org/11-non-metallic-oxides/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/NGi7uzPIibE"
+    }
+   ],
+   "distinguishing": "Generally colorless with very high relief and low first-order gray-yellow colors, small rounded grains or zoned hexagonal/tabular crystals; polysynthetic twinning and parting but no good cleavage; colored varieties include sapphire and ruby.",
+   "uses": "Abrasive and gemstone (ruby, sapphire); Bozeman Corundum Mine, Montana",
+   "minerals": null,
+   "group": "accessories",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/corundum.mp4",
+   "poster": "assets/posters/corundum.jpg",
+   "cues": "assets/cues/corundum.json",
+   "yt": "https://youtu.be/NGi7uzPIibE",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "cummingtonite",
+   "mineral": "Cummingtonite",
+   "symbol": "Cum",
+   "aliases": [
+    "cum",
+    "cumm"
+   ],
+   "features": [
+    "inclined extinction",
+    "polysynthetic twinning",
+    "prismatic habit"
+   ],
+   "formula": "(Mg,Fe)7Si8O22(OH)2",
+   "occurrences": "Some Si-rich volcanic rocks but mostly metamorphosed igneous rocks with hornblende; grunerite in metamorphosed Fe-rich sediments including banded iron formations.",
+   "associated": [
+    "hornblende",
+    "garnet",
+    "quartz",
+    "plagioclase",
+    "chlorite"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a75.2",
+     "url": "https://optical.minpet.org/5-amphiboles/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/0ozllSA17gI"
+    }
+   ],
+   "distinguishing": "Colorless to pale tan/gray moderate-to-high-relief prisms with inclined extinction and characteristic polysynthetic twinning; 2nd- to lower 3rd-order interference colors.",
+   "uses": null,
+   "minerals": null,
+   "group": "chain",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/cummingtonite.mp4",
+   "poster": "assets/posters/cummingtonite.jpg",
+   "cues": "assets/cues/cummingtonite.json",
+   "yt": "https://youtu.be/0ozllSA17gI",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "epidote-group",
+   "mineral": "Epidote group",
+   "symbol": "Ep",
+   "aliases": [
+    "ep",
+    "epidote"
+   ],
+   "features": [
+    "anomalous interference colors",
+    "high relief",
+    "yellow green pleochroism",
+    "prismatic habit"
+   ],
+   "formula": "Ca2Al3Si3O12(OH) (clinozoisite) - Ca2Al2FeSi3O12(OH) (epidote)",
+   "occurrences": "Common in low- and medium-grade greenschists, amphibolites and calc-silicate rocks, and in high-pressure blueschists and eclogites.",
+   "associated": [
+    "hornblende",
+    "glaucophane",
+    "quartz",
+    "plagioclase",
+    "chlorite"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a78.3",
+     "url": "https://optical.minpet.org/8-paired-tetrahedral-silicates-and-related-minerals/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/qmDQYdRB_dw"
+    }
+   ],
+   "distinguishing": "Faintly yellowish to pistachio-green epidote while clinozoisite and zoisite are normally colorless, all with high relief; epidote shows intense upper 2nd- to 3rd-order colors, clinozoisite 1st-order, zoisite often anomalous Berlin blue.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/epidote-group.mp4",
+   "poster": "assets/posters/epidote-group.jpg",
+   "cues": "assets/cues/epidote-group.json",
+   "yt": "https://youtu.be/qmDQYdRB_dw",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "garnet",
+   "mineral": "Garnet",
+   "symbol": "Grt",
+   "aliases": [
+    "grt",
+    "gar"
+   ],
+   "features": [
+    "isotropic",
+    "very high relief",
+    "euhedral",
+    "no cleavage"
+   ],
+   "formula": "(Fe,Ca,Mg,Mn)3(Fe,Al,Cr)2Si3O12",
+   "occurrences": "Wide variety of metamorphic rocks and some igneous rocks: pyrope in ultramafics, almandine in schists and gneisses, spessartine in granites and pegmatites, grossular/andradite in skarns and marbles.",
+   "associated": [
+    "quartz",
+    "muscovite",
+    "biotite",
+    "chloritoid",
+    "staurolite",
+    "omphacite",
+    "olivine",
+    "ilmenite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a77.1",
+     "url": "https://optical.minpet.org/7-garnet-olivine-and-other-isolated-tetrahedral-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/nqhKq_vuH9E"
+    }
+   ],
+   "distinguishing": "One of the few common isotropic minerals with high relief, no cleavage but typically fractured, usually very pale pink to tan and nearly always zoned with inclusions; irregular polygons or six-sided euhedral crystals.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/garnet.mp4",
+   "poster": "assets/posters/garnet.jpg",
+   "cues": "assets/cues/garnet.json",
+   "yt": "https://youtu.be/nqhKq_vuH9E",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "glaucophane",
+   "mineral": "Glaucophane",
+   "symbol": "Gln",
+   "aliases": [
+    "gln"
+   ],
+   "features": [
+    "blue violet pleochroism",
+    "strong pleochroism",
+    "inclined extinction"
+   ],
+   "formula": "Na2(Mg,Fe)3(Al,Fe3+)2Si8O22(OH)2",
+   "occurrences": "Almost exclusively high-pressure metamorphosed mafic rocks (blueschists and some eclogites); also retrograde alteration of pyroxenes in former eclogites.",
+   "associated": [
+    "muscovite",
+    "epidote",
+    "lawsonite",
+    "garnet",
+    "rutile",
+    "titanite",
+    "quartz",
+    "chlorite"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a75.6",
+     "url": "https://optical.minpet.org/5-amphiboles/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/_sIVPXcj5Mk"
+    }
+   ],
+   "distinguishing": "Unmistakable blue to lavender pleochroism at moderate-to-high relief; slender prisms with amphibole cleavage; 1st- to lower 2nd-order colors, often anomalous.",
+   "uses": null,
+   "minerals": null,
+   "group": "chain",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/glaucophane.mp4",
+   "poster": "assets/posters/glaucophane.jpg",
+   "cues": "assets/cues/glaucophane.json",
+   "yt": "https://youtu.be/_sIVPXcj5Mk",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "graphite",
+   "mineral": "Graphite",
+   "symbol": "Gr",
+   "aliases": [
+    "gr",
+    "graph"
+   ],
+   "features": [
+    "opaque",
+    "flaky habit"
+   ],
+   "formula": "C",
+   "occurrences": "Widespread accessory in schists, marbles, gneisses and other metamorphic rocks; rare in igneous rocks but known from some S-type granites.",
+   "associated": [
+    "biotite",
+    "sillimanite",
+    "quartz",
+    "K-feldspar",
+    "ilmenite",
+    "muscovite",
+    "chlorite",
+    "albite",
+    "epidote",
+    "titanite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a714.1",
+     "url": "https://optical.minpet.org/14-other-graphite-apatite-fluorite/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/C_VTQoOu-SM"
+    }
+   ],
+   "distinguishing": "Opaque black mineral with metallic luster, small flakes or specks, or sheets interlayered with micas/chlorite; one good cleavage rarely visible.",
+   "uses": "Industrial carbon (pencils, batteries, lubricants); Beartooth Mountains, Montana; Dutchess County, New York",
+   "minerals": null,
+   "group": "accessories",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/graphite.mp4",
+   "poster": "assets/posters/graphite.jpg",
+   "cues": "assets/cues/graphite.json",
+   "yt": "https://youtu.be/C_VTQoOu-SM",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "hornblende",
+   "mineral": "Hornblende",
+   "symbol": "Hbl",
+   "aliases": [
+    "hbl"
+   ],
+   "features": [
+    "strong pleochroism",
+    "green brown pleochroism",
+    "inclined extinction",
+    "120 degree cleavage"
+   ],
+   "formula": "(K,Na)0-1(Ca,Na,Mg)2(Mg,Fe,Al)5(Si,Al)8O22(OH)2",
+   "occurrences": "Found in a wide variety of igneous and metamorphic rocks.",
+   "associated": [
+    "plagioclase",
+    "pyroxene",
+    "biotite"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a75.5",
+     "url": "https://optical.minpet.org/5-amphiboles/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/_fvlPnNh0yM"
+    }
+   ],
+   "distinguishing": "Deep green or brown color with strong pleochroism at moderate-to-high relief; blocky to prismatic crystals with amphibole cleavage; interference colors often masked by the mineral color.",
+   "uses": null,
+   "minerals": null,
+   "group": "chain",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/hornblende.mp4",
+   "poster": "assets/posters/hornblende.jpg",
+   "cues": "assets/cues/hornblende.json",
+   "yt": "https://youtu.be/_fvlPnNh0yM",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "k-feldspar",
+   "mineral": "K-feldspar",
+   "symbol": "Kfs",
+   "aliases": [
+    "kfs",
+    "kspar"
+   ],
+   "features": [
+    "crosshatch twinning",
+    "tartan twinning",
+    "perthite",
+    "low birefringence",
+    "two cleavages"
+   ],
+   "formula": "KAlSi3O8",
+   "occurrences": "Common in many silicic igneous rocks and metamorphosed equivalents; orthoclase/microcline also in high-grade metamorphic rocks and arkoses; sanidine as phenocrysts in rhyolite and trachyte.",
+   "associated": [
+    "quartz",
+    "plagioclase",
+    "biotite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a72.2",
+     "url": "https://optical.minpet.org/2-quartz-feldspars-and-other-framework-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/qs3m7cKW_P8"
+    }
+   ],
+   "distinguishing": "Colorless to cloudy/pale-brown with 1st-order gray-white colors and one or two cleavages; orthoclase/sanidine show Carlsbad simple twins and perthite exsolution, microcline shows tartan cross-hatch twinning.",
+   "uses": "Major feldspar for pottery, porcelain, glass and enamel; mined worldwide, e.g. Turkey, India, Italy, USA (North Carolina, South Dakota)",
+   "minerals": null,
+   "group": "framework",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/k-feldspar.mp4",
+   "poster": "assets/posters/k-feldspar.jpg",
+   "cues": "assets/cues/k-feldspar.json",
+   "yt": "https://youtu.be/qs3m7cKW_P8",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "kyanite",
+   "mineral": "Kyanite",
+   "symbol": "Ky",
+   "aliases": [
+    "ky"
+   ],
+   "features": [
+    "bladed habit",
+    "two cleavages",
+    "inclined extinction"
+   ],
+   "formula": "Al2SiO5",
+   "occurrences": "Primarily in medium- to high-pressure mica schists and gneisses, occasionally in eclogites.",
+   "associated": [
+    "quartz",
+    "muscovite",
+    "biotite",
+    "plagioclase",
+    "garnet"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a77.3",
+     "url": "https://optical.minpet.org/7-garnet-olivine-and-other-isolated-tetrahedral-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/TN5mCmknrc4"
+    }
+   ],
+   "distinguishing": "Very high relief broad elongate tabs, laths or blades with one perfect and one good cleavage parallel to length; mostly colorless with upper 1st-order yellow interference colors.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/kyanite.mp4",
+   "poster": "assets/posters/kyanite.jpg",
+   "cues": "assets/cues/kyanite.json",
+   "yt": "https://youtu.be/TN5mCmknrc4",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "lawsonite",
+   "mineral": "Lawsonite",
+   "symbol": "Lws",
+   "aliases": [
+    "lws"
+   ],
+   "features": [
+    "high relief",
+    "tabular habit",
+    "polysynthetic twinning",
+    "parallel extinction"
+   ],
+   "formula": "CaAl2Si2O7(OH)2\u00b7H2O",
+   "occurrences": "Rare mineral found mainly in high-pressure blueschist-facies metamorphic rocks, less commonly in eclogites.",
+   "associated": [
+    "omphacite",
+    "glaucophane",
+    "garnet",
+    "titanite",
+    "phengite"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a78.1",
+     "url": "https://optical.minpet.org/8-paired-tetrahedral-silicates-and-related-minerals/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/doMHRgDRmqU"
+    }
+   ],
+   "distinguishing": "Colorless subhedral tabular crystals with moderately high relief, typically in blueschists; up to 2nd-order blue colors with rhombic cross-sections and common polysynthetic twins.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/lawsonite.mp4",
+   "poster": "assets/posters/lawsonite.jpg",
+   "cues": "assets/cues/lawsonite.json",
+   "yt": "https://youtu.be/doMHRgDRmqU",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "leucite",
+   "mineral": "Leucite",
+   "symbol": "Lct",
+   "aliases": [
+    "lct",
+    "leuc"
+   ],
+   "features": [
+    "very low relief",
+    "very low birefringence",
+    "nearly isotropic",
+    "euhedral",
+    "twinning zones"
+   ],
+   "formula": "KAlSi2O6",
+   "occurrences": "Rare mineral in Si-poor, K-rich igneous rocks, mainly as phenocrysts in lavas; never found with quartz.",
+   "associated": [
+    "plagioclase",
+    "augite",
+    "nepheline",
+    "sanidine"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a72.5",
+     "url": "https://optical.minpet.org/2-quartz-feldspars-and-other-framework-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/UA43kJX0Czw"
+    }
+   ],
+   "distinguishing": "Colorless phenocrysts, often 8-sided, with extremely low birefringence appearing almost isotropic, absent/very poor cleavage, and complex polysynthetic twinning in three directions.",
+   "uses": null,
+   "minerals": null,
+   "group": "framework",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/leucite.mp4",
+   "poster": "assets/posters/leucite.jpg",
+   "cues": "assets/cues/leucite.json",
+   "yt": "https://youtu.be/UA43kJX0Czw",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "margarite",
+   "mineral": "Margarite",
+   "symbol": "Mrg",
+   "aliases": [
+    "mrg"
+   ],
+   "features": [
+    "high relief",
+    "brittle mica",
+    "basal cleavage"
+   ],
+   "formula": "CaAl2(Al2Si2O10)(OH)2",
+   "occurrences": "Rare brittle mica of metamorphosed Ca-rich rocks; mentioned only in Sec. 3.6 as resembling muscovite.",
+   "associated": null,
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a73.6",
+     "url": "https://optical.minpet.org/3-micas-and-other-sheet-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/tu3ygA27u8w"
+    }
+   ],
+   "distinguishing": null,
+   "uses": null,
+   "minerals": null,
+   "group": "sheet",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/margarite.mp4",
+   "poster": "assets/posters/margarite.jpg",
+   "cues": "assets/cues/margarite.json",
+   "yt": "https://youtu.be/tu3ygA27u8w",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "monazite",
+   "mineral": "Monazite",
+   "symbol": "Mnz",
+   "aliases": [
+    "mnz"
+   ],
+   "features": [
+    "high relief",
+    "yellow color",
+    "radiation halos"
+   ],
+   "formula": "(Ce,La,Nd,Th)(PO4,SiO4)",
+   "occurrences": "Common accessory in many igneous and metamorphic rocks, often overlooked or mistaken for zircon or titanite.",
+   "associated": [
+    "biotite",
+    "quartz",
+    "garnet",
+    "plagioclase",
+    "andalusite",
+    "magnetite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a714.3",
+     "url": "https://optical.minpet.org/14-other-graphite-apatite-fluorite/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/_59kybWXO54"
+    }
+   ],
+   "distinguishing": "Small colorless to faintly yellowish grains with very high relief, tiny equant blobs or stubby prisms, very high-order interference colors; radioactive, producing brown halos in biotite/chlorite/hornblende.",
+   "uses": "Rare-earth and thorium phosphate; Great Smoky Mountains, North Carolina; New Mexico",
+   "minerals": null,
+   "group": "accessories",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/monazite.mp4",
+   "poster": "assets/posters/monazite.jpg",
+   "cues": "assets/cues/monazite.json",
+   "yt": "https://youtu.be/_59kybWXO54",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "muscovite",
+   "mineral": "Muscovite",
+   "symbol": "Ms",
+   "aliases": [
+    "ms",
+    "musc"
+   ],
+   "features": [
+    "micaceous habit",
+    "perfect cleavage",
+    "high birefringence",
+    "pastel interference colors",
+    "birdseye extinction"
+   ],
+   "formula": "KAl2(AlSi3O10)(F,OH)2",
+   "occurrences": "Found in felsic to intermediate igneous rocks, many metamorphic rocks, and less commonly immature sediments; fine sericite forms by alteration of feldspars.",
+   "associated": [
+    "biotite",
+    "quartz",
+    "feldspar",
+    "kyanite",
+    "garnet",
+    "chlorite"
+   ],
+   "economic": "maybe",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a73.6",
+     "url": "https://optical.minpet.org/3-micas-and-other-sheet-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/3JpzgSijB7M"
+    }
+   ],
+   "distinguishing": "Almost always colorless mica with moderate relief, tabular crystals or rectangular flakes with one excellent cleavage; up to 2nd-order yellow to red colors, commonly bird's-eye extinction.",
+   "uses": null,
+   "minerals": null,
+   "group": "sheet",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/muscovite.mp4",
+   "poster": "assets/posters/muscovite.jpg",
+   "cues": "assets/cues/muscovite.json",
+   "yt": "https://youtu.be/3JpzgSijB7M",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "myrmekite",
+   "mineral": "Myrmekite",
+   "symbol": null,
+   "aliases": [
+    "myrmekite"
+   ],
+   "features": [],
+   "formula": null,
+   "occurrences": null,
+   "associated": null,
+   "economic": null,
+   "resources": null,
+   "distinguishing": null,
+   "uses": null,
+   "minerals": null,
+   "group": "concepts",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/myrmekite.mp4",
+   "poster": "assets/posters/myrmekite.jpg",
+   "cues": "assets/cues/myrmekite.json",
+   "yt": "https://youtu.be/baJGFDF7l2M",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "nepheline",
+   "mineral": "Nepheline",
+   "symbol": "Ne",
+   "aliases": [
+    "ne",
+    "neph"
+   ],
+   "features": [
+    "low relief",
+    "low birefringence",
+    "uniaxial negative",
+    "no cleavage"
+   ],
+   "formula": "(Na,K)AlSiO4",
+   "occurrences": "Occurs in Si-poor igneous rocks including syenite (plutonic) and trachyte (volcanic); nepheline foidolites/foidites contain over 60% feldspathoid minerals.",
+   "associated": [
+    "plagioclase",
+    "K-feldspar",
+    "biotite",
+    "aegirine"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a72.4",
+     "url": "https://optical.minpet.org/2-quartz-feldspars-and-other-framework-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/6o9Jx7YEaIk"
+    }
+   ],
+   "distinguishing": "Colorless to cloudy with very low gray-white birefringence, very poor cleavage rarely seen, uniaxial (-); anhedral in plutonics, short prisms or phenocrysts in volcanics.",
+   "uses": "Nepheline syenite mined as feldspar alternative for glass, ceramics and alumina; Stjernoy, Norway; Kola Peninsula, Russia; Bancroft, Ontario",
+   "minerals": null,
+   "group": "framework",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/nepheline.mp4",
+   "poster": "assets/posters/nepheline.jpg",
+   "cues": "assets/cues/nepheline.json",
+   "yt": "https://youtu.be/6o9Jx7YEaIk",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "olivine",
+   "mineral": "Olivine",
+   "symbol": "Ol",
+   "aliases": [
+    "ol"
+   ],
+   "features": [
+    "high relief",
+    "high birefringence",
+    "fractured habit",
+    "no cleavage"
+   ],
+   "formula": "(Mg,Fe)2SiO4",
+   "occurrences": "Major mineral in many ultramafic and mafic igneous rocks; also in metamorphic mafic gneisses and some marbles and calc-silicates.",
+   "associated": [
+    "clinopyroxene",
+    "orthopyroxene",
+    "plagioclase",
+    "augite",
+    "magnetite",
+    "diopside",
+    "calcite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a77.2",
+     "url": "https://optical.minpet.org/7-garnet-olivine-and-other-isolated-tetrahedral-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/trAGVNlg1Bo"
+    }
+   ],
+   "distinguishing": "Very-high relief, generally colorless (Fe-rich may be faintly yellow pleochroic), typically equant anhedral grains with irregular curved fractures; 2nd-order pastel violet, blue or green colors.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/olivine.mp4",
+   "poster": "assets/posters/olivine.jpg",
+   "cues": "assets/cues/olivine.json",
+   "yt": "https://youtu.be/trAGVNlg1Bo",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "optical-petrography-video-how-to",
+   "mineral": "Optical petrography video how-to",
+   "symbol": null,
+   "aliases": [
+    "how-to",
+    "howto",
+    "intro"
+   ],
+   "features": [],
+   "formula": null,
+   "occurrences": null,
+   "associated": null,
+   "economic": null,
+   "resources": null,
+   "distinguishing": null,
+   "uses": null,
+   "minerals": null,
+   "group": "concepts",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/optical-petrography-video-how-to.mp4",
+   "poster": "assets/posters/optical-petrography-video-how-to.jpg",
+   "cues": "assets/cues/optical-petrography-video-how-to.json",
+   "yt": "https://youtu.be/yCGHRR7SagI",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "orthopyroxene",
+   "mineral": "Orthopyroxene",
+   "symbol": "Opx",
+   "aliases": [
+    "opx"
+   ],
+   "features": [
+    "parallel extinction",
+    "prismatic habit",
+    "exsolution lamellae",
+    "first order colors",
+    "high relief"
+   ],
+   "formula": "(Mg,Fe)2Si2O6",
+   "occurrences": "Mafic granulites and ultramafic rocks (orthopyroxenite, websterite) and high-grade metamorphic rocks including garnet amphibolite.",
+   "associated": [
+    "clinopyroxene",
+    "plagioclase",
+    "olivine",
+    "magnetite",
+    "cordierite",
+    "biotite",
+    "garnet",
+    "hornblende"
+   ],
+   "economic": "no",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a74.3",
+     "url": "https://optical.minpet.org/4-pyroxenes-and-pyroxenoids/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/jclNBBqqP4c"
+    }
+   ],
+   "distinguishing": "Normally pale with moderate to high relief; low mid- to upper-1st-order interference colors with light-green to pink pleochroism when present, parallel extinction, length-slow.",
+   "uses": null,
+   "minerals": null,
+   "group": "chain",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/orthopyroxene.mp4",
+   "poster": "assets/posters/orthopyroxene.jpg",
+   "cues": "assets/cues/orthopyroxene.json",
+   "yt": "https://youtu.be/jclNBBqqP4c",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "plagioclase",
+   "mineral": "Plagioclase",
+   "symbol": "Pl",
+   "aliases": [
+    "pl",
+    "plag"
+   ],
+   "features": [
+    "polysynthetic twinning",
+    "albite twins",
+    "low birefringence",
+    "inclined extinction",
+    "two cleavages"
+   ],
+   "formula": "NaAlSi3O8-CaAl2Si2O8",
+   "occurrences": "Found in a wide variety of igneous and metamorphic rocks and, to a lesser extent, in sedimentary rocks.",
+   "associated": [
+    "quartz",
+    "augite",
+    "hornblende",
+    "biotite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a72.3",
+     "url": "https://optical.minpet.org/2-quartz-feldspars-and-other-framework-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/RA97RYzAYz4"
+    }
+   ],
+   "distinguishing": "Colorless with gray-white interference colors; diagnostic sharp polysynthetic albite/pericline twins giving black-and-white zebra-striping in XP, plus concentric zoning.",
+   "uses": "Mined as feldspar for glass and ceramics; iridescent labradorite/moonstone as ornamental stone; widespread, e.g. USA, Canada (Labrador), Madagascar, Norway",
+   "minerals": null,
+   "group": "framework",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/plagioclase.mp4",
+   "poster": "assets/posters/plagioclase.jpg",
+   "cues": "assets/cues/plagioclase.json",
+   "yt": "https://youtu.be/RA97RYzAYz4",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "pleochroism-and-color",
+   "mineral": "Pleochroism and color",
+   "symbol": null,
+   "aliases": [
+    "pleochroism",
+    "pleochroic",
+    "color"
+   ],
+   "features": [],
+   "formula": null,
+   "occurrences": null,
+   "associated": null,
+   "economic": null,
+   "resources": null,
+   "distinguishing": null,
+   "uses": null,
+   "minerals": null,
+   "group": "concepts",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/pleochroism-and-color.mp4",
+   "poster": "assets/posters/pleochroism-and-color.jpg",
+   "cues": "assets/cues/pleochroism-and-color.json",
+   "yt": "https://youtu.be/Po93jmrE7ZQ",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "quartz",
+   "mineral": "Quartz",
+   "symbol": "Qz",
+   "aliases": [
+    "qz"
+   ],
+   "features": [
+    "low relief",
+    "low birefringence",
+    "first order gray",
+    "undulose extinction",
+    "no cleavage"
+   ],
+   "formula": "SiO2",
+   "occurrences": "Found in a wide range of igneous, metamorphic, and sedimentary rocks, including rhyolite, aplite/granite, gneiss, metapelite, veins, meta-chert, and quartz arenite.",
+   "associated": [
+    "plagioclase",
+    "K-feldspar",
+    "biotite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a72.1",
+     "url": "https://optical.minpet.org/2-quartz-feldspars-and-other-framework-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/3YjQibtwgEA"
+    }
+   ],
+   "distinguishing": "Colorless with 1st-order gray-white interference colors, no cleavage, no alteration or twinning, and commonly shows undulatory (wavy) extinction.",
+   "uses": "Major silica source for glass, foundry sand, ceramics, silicon metal/semiconductors and aggregate; abundant worldwide, e.g. Brazil, USA (Spruce Pine, North Carolina), Madagascar",
+   "minerals": null,
+   "group": "framework",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/quartz.mp4",
+   "poster": "assets/posters/quartz.jpg",
+   "cues": "assets/cues/quartz.json",
+   "yt": "https://youtu.be/3YjQibtwgEA",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "rutile",
+   "mineral": "Rutile",
+   "symbol": "Rt",
+   "aliases": [
+    "rt"
+   ],
+   "features": [
+    "extreme birefringence",
+    "red brown color",
+    "very high relief",
+    "acicular habit"
+   ],
+   "formula": "TiO2",
+   "occurrences": "Common accessory in metamorphic schists and gneisses and as small grains in intermediate to mafic igneous rocks; less common in veins, pegmatites, and some sediments.",
+   "associated": [
+    "gedrite",
+    "cordierite",
+    "quartz",
+    "muscovite",
+    "kyanite",
+    "titanite",
+    "zoisite",
+    "biotite",
+    "sillimanite",
+    "plagioclase",
+    "ilmenite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a711.1",
+     "url": "https://optical.minpet.org/11-non-metallic-oxides/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/E5KogGVF9lQ"
+    }
+   ],
+   "distinguishing": "Small prismatic to needle-like crystals with very-high relief and characteristic red to reddish-brown or amber color; extreme birefringence often masked by color, kinked twins in pegmatites.",
+   "uses": "Titanium ore; Dora Maira Massif, Italy; Beartooth Mountains, Montana; Syros, Greece",
+   "minerals": null,
+   "group": "accessories",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/rutile.mp4",
+   "poster": "assets/posters/rutile.jpg",
+   "cues": "assets/cues/rutile.json",
+   "yt": "https://youtu.be/E5KogGVF9lQ",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "scapolite",
+   "mineral": "Scapolite",
+   "symbol": "Scp",
+   "aliases": [
+    "scp",
+    "scap"
+   ],
+   "features": [
+    "moderate birefringence",
+    "second order colors",
+    "uniaxial negative",
+    "prismatic habit"
+   ],
+   "formula": "Na4Al3Si9O24Cl-Ca4Al6Si6O24CO3",
+   "occurrences": "Mostly metamorphic in marbles, mafic gneisses, and amphibolites, but can also form in alkaline igneous rocks.",
+   "associated": [
+    "quartz",
+    "calcite",
+    "clinopyroxene",
+    "hornblende"
+   ],
+   "economic": "maybe",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a72.8",
+     "url": "https://optical.minpet.org/2-quartz-feldspars-and-other-framework-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/0N9nWVMVbW0"
+    }
+   ],
+   "distinguishing": "Colorless to yellowish rectangular elongate crystals with parallel extinction, uniaxial (-), no twinning, up to 2nd-3rd-order blue interference colors, cleavages at 90 degrees in cross-section.",
+   "uses": null,
+   "minerals": null,
+   "group": "framework",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/scapolite.mp4",
+   "poster": "assets/posters/scapolite.jpg",
+   "cues": "assets/cues/scapolite.json",
+   "yt": "https://youtu.be/0N9nWVMVbW0",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "serpentine",
+   "mineral": "Serpentine",
+   "symbol": "Srp",
+   "aliases": [
+    "srp",
+    "serp"
+   ],
+   "features": [
+    "mesh texture",
+    "low birefringence",
+    "fibrous habit"
+   ],
+   "formula": "Mg3Si2O5(OH)4",
+   "occurrences": "Mostly secondary in mafic and ultramafic igneous rocks by alteration of olivine or pyroxene; also in marbles; forms replacements, aggregates, or veins.",
+   "associated": [
+    "magnetite",
+    "chromite",
+    "forsterite",
+    "dolomite",
+    "magnesite",
+    "talc",
+    "olivine",
+    "pyroxene"
+   ],
+   "economic": "maybe",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a73.1",
+     "url": "https://optical.minpet.org/3-micas-and-other-sheet-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/uVfV4WNmuwA"
+    }
+   ],
+   "distinguishing": "Colorless to green, slightly pleochroic aggregate of small anhedral crystals, often as pseudomorphs with coarse alligator-skin texture; low birefringence, 1st-order gray to yellow; chrysotile is fibrous in veins.",
+   "uses": null,
+   "minerals": null,
+   "group": "sheet",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/serpentine.mp4",
+   "poster": "assets/posters/serpentine.jpg",
+   "cues": "assets/cues/serpentine.json",
+   "yt": "https://youtu.be/uVfV4WNmuwA",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "sillimanite",
+   "mineral": "Sillimanite",
+   "symbol": "Sil",
+   "aliases": [
+    "sil",
+    "sill"
+   ],
+   "features": [
+    "fibrous habit",
+    "fibrolite",
+    "parallel extinction",
+    "second order colors"
+   ],
+   "formula": "Al2SiO5",
+   "occurrences": "High-grade aluminous schists and gneisses.",
+   "associated": [
+    "quartz",
+    "biotite",
+    "garnet",
+    "muscovite",
+    "cordierite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a77.5",
+     "url": "https://optical.minpet.org/7-garnet-olivine-and-other-isolated-tetrahedral-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/eIbi6YE6sWo"
+    }
+   ],
+   "distinguishing": "Colorless high-relief blades or needles with square cross-sections showing a distinctive diagonal cleavage; also fine-grained fibrous masses (fibrolite); up to 2nd-order blue colors.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/sillimanite.mp4",
+   "poster": "assets/posters/sillimanite.jpg",
+   "cues": "assets/cues/sillimanite.json",
+   "yt": "https://youtu.be/eIbi6YE6sWo",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "sodalite",
+   "mineral": "Sodalite",
+   "symbol": "Sdl",
+   "aliases": [
+    "sdl"
+   ],
+   "features": [
+    "isotropic",
+    "low relief",
+    "no cleavage"
+   ],
+   "formula": "Na3Al3Si3O12-NaCl",
+   "occurrences": "Occurs with nepheline, leucite, or cancrinite in Si-poor alkali-rich igneous rocks and with K-feldspar; especially common in syenites.",
+   "associated": [
+    "nepheline",
+    "leucite",
+    "cancrinite",
+    "K-feldspar"
+   ],
+   "economic": "maybe",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a72.7",
+     "url": "https://optical.minpet.org/2-quartz-feldspars-and-other-framework-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/oOMyg30XJGw"
+    }
+   ],
+   "distinguishing": "Isotropic, colorless to gray (rarely blue) with low relief; mostly anhedral, poor cleavage; darker borders may show cubic cleavage.",
+   "uses": "Ornamental stone, e.g. Azul Bahia sodalite syenite from Brazil; blue sodalite cut as gem, e.g. Bancroft, Ontario",
+   "minerals": null,
+   "group": "framework",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/sodalite.mp4",
+   "poster": "assets/posters/sodalite.jpg",
+   "cues": "assets/cues/sodalite.json",
+   "yt": "https://youtu.be/oOMyg30XJGw",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "spinel",
+   "mineral": "Spinel",
+   "symbol": "Spl",
+   "aliases": [
+    "spl"
+   ],
+   "features": [
+    "isotropic",
+    "octahedral habit",
+    "euhedral",
+    "high relief"
+   ],
+   "formula": "MgAl2O4",
+   "occurrences": "High-temperature mineral in marbles, metamorphosed marls, schists, or gneisses; also accessory in mafic and ultramafic igneous rocks.",
+   "associated": [
+    "augite",
+    "orthopyroxene",
+    "olivine",
+    "plagioclase",
+    "quartz",
+    "biotite",
+    "garnet"
+   ],
+   "economic": "maybe",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a711.4",
+     "url": "https://optical.minpet.org/11-non-metallic-oxides/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/_GPhEAuIRws"
+    }
+   ],
+   "distinguishing": "Cubic and isotropic with very high relief, no cleavage, commonly twinned equant octahedral grains; typically colorless to green, brown to reddish-brown, rarely pink or bluish.",
+   "uses": "Gemstone and refractory; Kilbourne Hole, New Mexico; Pyrenees lherzolite; Montana gneiss",
+   "minerals": null,
+   "group": "accessories",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/spinel.mp4",
+   "poster": "assets/posters/spinel.jpg",
+   "cues": "assets/cues/spinel.json",
+   "yt": "https://youtu.be/_GPhEAuIRws",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "staurolite",
+   "mineral": "Staurolite",
+   "symbol": "St",
+   "aliases": [
+    "st"
+   ],
+   "features": [
+    "yellow pleochroism",
+    "cruciform twinning",
+    "porphyroblast",
+    "high relief"
+   ],
+   "formula": "Fe2Al9Si4O23(OH)",
+   "occurrences": "Metamorphic mineral common in medium-grade pelitic schists.",
+   "associated": [
+    "quartz",
+    "muscovite",
+    "biotite",
+    "garnet",
+    "sillimanite",
+    "plagioclase",
+    "chloritoid",
+    "magnetite"
+   ],
+   "economic": "maybe",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a77.6",
+     "url": "https://optical.minpet.org/7-garnet-olivine-and-other-isolated-tetrahedral-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/nbCwPlzszuQ"
+    }
+   ],
+   "distinguishing": "High relief with diagnostic pale- to strong-yellow pleochroism, often poikiloblastic with many quartz inclusions (Swiss-cheese texture); euhedral short prisms, max 1st-order yellow to red colors.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/staurolite.mp4",
+   "poster": "assets/posters/staurolite.jpg",
+   "cues": "assets/cues/staurolite.json",
+   "yt": "https://youtu.be/nbCwPlzszuQ",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "talc",
+   "mineral": "Talc",
+   "symbol": "Tlc",
+   "aliases": [
+    "tlc"
+   ],
+   "features": [
+    "extreme birefringence",
+    "high order colors",
+    "micaceous habit",
+    "low relief"
+   ],
+   "formula": "Mg3Si4O10(OH)2",
+   "occurrences": "A major mineral in some low-grade metamorphic marbles and ultramafic rocks; secondary in altered mafic and ultramafic rocks where found with serpentine.",
+   "associated": [
+    "serpentine",
+    "chlorite",
+    "actinolite",
+    "tremolite",
+    "calcite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a73.4",
+     "url": "https://optical.minpet.org/3-micas-and-other-sheet-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/RAy9rIAKT_Q"
+    }
+   ],
+   "distinguishing": "Colorless sheets in platy masses or fibrous aggregates with subparallel alignment, bent fibers, one good cleavage; 3rd-order pastel patchy colors, diagnostic with marble or ultramafic association.",
+   "uses": null,
+   "minerals": null,
+   "group": "sheet",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/talc.mp4",
+   "poster": "assets/posters/talc.jpg",
+   "cues": "assets/cues/talc.json",
+   "yt": "https://youtu.be/RAy9rIAKT_Q",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "titanite",
+   "mineral": "Titanite",
+   "symbol": "Ttn",
+   "aliases": [
+    "ttn",
+    "sphene"
+   ],
+   "features": [
+    "wedge habit",
+    "very high relief",
+    "very high birefringence"
+   ],
+   "formula": "CaTiSiO5",
+   "occurrences": "Often overlooked accessory in many igneous and metamorphic rocks; also in a few sedimentary rocks.",
+   "associated": [
+    "biotite",
+    "quartz",
+    "plagioclase",
+    "K-feldspar",
+    "glaucophane",
+    "muscovite",
+    "epidote",
+    "omphacite",
+    "garnet"
+   ],
+   "economic": "maybe",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a77.8",
+     "url": "https://optical.minpet.org/7-garnet-olivine-and-other-isolated-tetrahedral-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/tgDnr476l1k"
+    }
+   ],
+   "distinguishing": "Small grains with very high relief and high-order off-the-chart interference colors; diagnostic diamond, wedge or lenticular euhedral crystals, nearly colorless to light-brown or greenish.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/titanite.mp4",
+   "poster": "assets/posters/titanite.jpg",
+   "cues": "assets/cues/titanite.json",
+   "yt": "https://youtu.be/tgDnr476l1k",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "titanoclinohumite",
+   "mineral": "Titanoclinohumite",
+   "symbol": "TiChu",
+   "aliases": [
+    "tichu"
+   ],
+   "features": [
+    "high relief",
+    "granular habit",
+    "first order colors"
+   ],
+   "formula": null,
+   "occurrences": null,
+   "associated": null,
+   "economic": null,
+   "resources": null,
+   "distinguishing": null,
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/titanoclinohumite.mp4",
+   "poster": "assets/posters/titanoclinohumite.jpg",
+   "cues": "assets/cues/titanoclinohumite.json",
+   "yt": "https://youtu.be/fItqJRikPSM",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "tourmaline",
+   "mineral": "Tourmaline",
+   "symbol": "Tur",
+   "aliases": [
+    "tur"
+   ],
+   "features": [
+    "triangular cross section",
+    "strong pleochroism",
+    "color zoning",
+    "parallel extinction"
+   ],
+   "formula": "Na(Mg,Fe,Li,Mn,Al)3Al6(BO3)3Si6O18(OH,F)4",
+   "occurrences": "Common accessory in granitic igneous rocks and many metamorphic rocks, especially mica schists; also major in some pegmatites and clastic sedimentary rocks.",
+   "associated": [
+    "quartz",
+    "muscovite",
+    "orthoclase",
+    "titanite",
+    "plagioclase",
+    "K-feldspar",
+    "biotite",
+    "chlorite",
+    "rutile"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a76.1",
+     "url": "https://optical.minpet.org/6-ring-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/yKESLea6CYM"
+    }
+   ],
+   "distinguishing": "Small strongly colored grains with moderate-to-high relief, stubby prisms with rounded triangular cross sections and no cleavage; brown, green or blue with marked pleochroism, color zoning, reverse absorption.",
+   "uses": null,
+   "minerals": null,
+   "group": "ring",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/tourmaline.mp4",
+   "poster": "assets/posters/tourmaline.jpg",
+   "cues": "assets/cues/tourmaline.json",
+   "yt": "https://youtu.be/yKESLea6CYM",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "vesuvianite",
+   "mineral": "Vesuvianite",
+   "symbol": "Ves",
+   "aliases": [
+    "ves",
+    "vesuvianite"
+   ],
+   "features": [
+    "anomalous interference colors",
+    "very low birefringence",
+    "zoning",
+    "prismatic habit"
+   ],
+   "formula": "Ca10Al4(Mg,Fe)2Si9O34(OH)4",
+   "occurrences": "Rare mineral found primarily in contact aureoles associated with impure limestone or dolomite.",
+   "associated": [
+    "augite",
+    "calcite",
+    "talc",
+    "chlorite"
+   ],
+   "economic": "maybe",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a78.2",
+     "url": "https://optical.minpet.org/8-paired-tetrahedral-silicates-and-related-minerals/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/r4v3hDjDjfY"
+    }
+   ],
+   "distinguishing": "High-relief colorless to light green short tetragonal prisms with rarely visible cleavage; no higher than 1st-order gray colors, commonly with anomalous deep indigo-blue tints.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/vesuvianite.mp4",
+   "poster": "assets/posters/vesuvianite.jpg",
+   "cues": "assets/cues/vesuvianite.json",
+   "yt": "https://youtu.be/r4v3hDjDjfY",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "wollastonite",
+   "mineral": "Wollastonite",
+   "symbol": "Wo",
+   "aliases": [
+    "wo",
+    "woll"
+   ],
+   "features": [
+    "bladed habit",
+    "parallel extinction",
+    "high birefringence"
+   ],
+   "formula": "CaSiO3",
+   "occurrences": "Found in high-grade siliceous marbles and related calcareous metamorphic rocks.",
+   "associated": [
+    "diopside",
+    "garnet",
+    "microcline",
+    "calcite",
+    "titanite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a74.6",
+     "url": "https://optical.minpet.org/4-pyroxenes-and-pyroxenoids/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/ElucfWSW0_Q"
+    }
+   ],
+   "distinguishing": "Colorless with high relief, commonly columnar or fibrous aggregates that fracture during thin-sectioning; two good cleavages near 90 degrees, near-parallel extinction, max interference about 1st-order orange.",
+   "uses": null,
+   "minerals": null,
+   "group": "chain",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/wollastonite.mp4",
+   "poster": "assets/posters/wollastonite.jpg",
+   "cues": "assets/cues/wollastonite.json",
+   "yt": "https://youtu.be/ElucfWSW0_Q",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "yoderite",
+   "mineral": "Yoderite",
+   "symbol": "Ydr",
+   "aliases": [
+    "ydr"
+   ],
+   "features": [
+    "strong pleochroism",
+    "blue pleochroism",
+    "prismatic habit"
+   ],
+   "formula": null,
+   "occurrences": null,
+   "associated": null,
+   "economic": null,
+   "resources": null,
+   "distinguishing": null,
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/yoderite.mp4",
+   "poster": "assets/posters/yoderite.jpg",
+   "cues": "assets/cues/yoderite.json",
+   "yt": "https://youtu.be/O0TOeUeLEss",
+   "audio": true,
+   "duration": 0
+  },
+  {
+   "id": "zircon",
+   "mineral": "Zircon",
+   "symbol": "Zrn",
+   "aliases": [
+    "zrn"
+   ],
+   "features": [
+    "very high relief",
+    "very high birefringence",
+    "euhedral",
+    "zoning"
+   ],
+   "formula": "ZrSiO4",
+   "occurrences": "Widespread accessory mineral in all rock types, generally as tiny grains.",
+   "associated": [
+    "biotite",
+    "quartz",
+    "plagioclase",
+    "apatite",
+    "cordierite",
+    "garnet",
+    "titanite"
+   ],
+   "economic": "yes",
+   "resources": [
+    {
+     "label": "Optical Mineralogy \u00a77.9",
+     "url": "https://optical.minpet.org/7-garnet-olivine-and-other-isolated-tetrahedral-silicates/"
+    },
+    {
+     "label": "YouTube tutorial",
+     "url": "https://youtu.be/ziKsKUo6krk"
+    }
+   ],
+   "distinguishing": "Typically very small uncolored prismatic crystals with pyramidal terminations and very-high relief, extreme birefringence to 4th-order colors; often noticed only by pleochroic halos when included in biotite or chlorite.",
+   "uses": null,
+   "minerals": null,
+   "group": "island",
+   "video": "https://github.com/buchanankerswell/light_slides/releases/download/tutorial-videos-v1/zircon.mp4",
+   "poster": "assets/posters/zircon.jpg",
+   "cues": "assets/cues/zircon.json",
+   "yt": "https://youtu.be/ziKsKUo6krk",
+   "audio": true,
+   "duration": 0
+  }
+ ]
+}

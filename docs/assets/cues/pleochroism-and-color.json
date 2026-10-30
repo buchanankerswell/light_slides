@@ -1,0 +1,4360 @@
+[
+ {
+  "start": 0.0,
+  "end": 4.14,
+  "text": "remember that the light that comes in through the bottom of the thin section",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.76,
+    "text": "remember"
+   },
+   {
+    "start": 0.76,
+    "end": 1.24,
+    "text": "that"
+   },
+   {
+    "start": 1.24,
+    "end": 1.42,
+    "text": "the"
+   },
+   {
+    "start": 1.42,
+    "end": 1.64,
+    "text": "light"
+   },
+   {
+    "start": 1.64,
+    "end": 1.82,
+    "text": "that"
+   },
+   {
+    "start": 1.82,
+    "end": 2.12,
+    "text": "comes"
+   },
+   {
+    "start": 2.12,
+    "end": 2.36,
+    "text": "in"
+   },
+   {
+    "start": 2.36,
+    "end": 2.64,
+    "text": "through"
+   },
+   {
+    "start": 2.64,
+    "end": 2.88,
+    "text": "the"
+   },
+   {
+    "start": 2.88,
+    "end": 3.18,
+    "text": "bottom"
+   },
+   {
+    "start": 3.18,
+    "end": 3.4,
+    "text": "of"
+   },
+   {
+    "start": 3.4,
+    "end": 3.56,
+    "text": "the"
+   },
+   {
+    "start": 3.56,
+    "end": 3.76,
+    "text": "thin"
+   },
+   {
+    "start": 3.76,
+    "end": 4.14,
+    "text": "section"
+   }
+  ]
+ },
+ {
+  "start": 4.14,
+  "end": 10.94,
+  "text": "is polarized in a particular direction, so exactly what you see depends on the",
+  "words": [
+   {
+    "start": 4.14,
+    "end": 4.5,
+    "text": "is"
+   },
+   {
+    "start": 4.5,
+    "end": 5.04,
+    "text": "polarized"
+   },
+   {
+    "start": 5.04,
+    "end": 5.54,
+    "text": "in"
+   },
+   {
+    "start": 5.54,
+    "end": 5.66,
+    "text": "a"
+   },
+   {
+    "start": 5.66,
+    "end": 5.92,
+    "text": "particular"
+   },
+   {
+    "start": 5.92,
+    "end": 6.54,
+    "text": "direction,"
+   },
+   {
+    "start": 6.54,
+    "end": 7.52,
+    "text": "so"
+   },
+   {
+    "start": 7.52,
+    "end": 8.08,
+    "text": "exactly"
+   },
+   {
+    "start": 8.08,
+    "end": 8.34,
+    "text": "what"
+   },
+   {
+    "start": 8.34,
+    "end": 8.58,
+    "text": "you"
+   },
+   {
+    "start": 8.58,
+    "end": 9.0,
+    "text": "see"
+   },
+   {
+    "start": 9.0,
+    "end": 9.86,
+    "text": "depends"
+   },
+   {
+    "start": 9.86,
+    "end": 10.48,
+    "text": "on"
+   },
+   {
+    "start": 10.48,
+    "end": 10.94,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 10.94,
+  "end": 14.94,
+  "text": "way that that light interacts with the lattice of whatever crystal is passing",
+  "words": [
+   {
+    "start": 10.94,
+    "end": 11.32,
+    "text": "way"
+   },
+   {
+    "start": 11.32,
+    "end": 11.52,
+    "text": "that"
+   },
+   {
+    "start": 11.52,
+    "end": 11.72,
+    "text": "that"
+   },
+   {
+    "start": 11.72,
+    "end": 11.96,
+    "text": "light"
+   },
+   {
+    "start": 11.96,
+    "end": 12.48,
+    "text": "interacts"
+   },
+   {
+    "start": 12.48,
+    "end": 12.82,
+    "text": "with"
+   },
+   {
+    "start": 12.82,
+    "end": 13.12,
+    "text": "the"
+   },
+   {
+    "start": 13.12,
+    "end": 13.46,
+    "text": "lattice"
+   },
+   {
+    "start": 13.46,
+    "end": 13.8,
+    "text": "of"
+   },
+   {
+    "start": 13.8,
+    "end": 14.04,
+    "text": "whatever"
+   },
+   {
+    "start": 14.04,
+    "end": 14.42,
+    "text": "crystal"
+   },
+   {
+    "start": 14.42,
+    "end": 14.62,
+    "text": "is"
+   },
+   {
+    "start": 14.62,
+    "end": 14.94,
+    "text": "passing"
+   }
+  ]
+ },
+ {
+  "start": 14.94,
+  "end": 21.8,
+  "text": "through. So as you rotate a crystal you're changing the orientation of the",
+  "words": [
+   {
+    "start": 14.94,
+    "end": 15.28,
+    "text": "through."
+   },
+   {
+    "start": 15.88,
+    "end": 16.24,
+    "text": "So"
+   },
+   {
+    "start": 16.24,
+    "end": 16.56,
+    "text": "as"
+   },
+   {
+    "start": 16.56,
+    "end": 16.7,
+    "text": "you"
+   },
+   {
+    "start": 16.7,
+    "end": 17.1,
+    "text": "rotate"
+   },
+   {
+    "start": 17.1,
+    "end": 17.26,
+    "text": "a"
+   },
+   {
+    "start": 17.26,
+    "end": 17.72,
+    "text": "crystal"
+   },
+   {
+    "start": 17.72,
+    "end": 18.52,
+    "text": "you're"
+   },
+   {
+    "start": 18.52,
+    "end": 19.12,
+    "text": "changing"
+   },
+   {
+    "start": 19.12,
+    "end": 19.9,
+    "text": "the"
+   },
+   {
+    "start": 19.9,
+    "end": 21.08,
+    "text": "orientation"
+   },
+   {
+    "start": 21.08,
+    "end": 21.62,
+    "text": "of"
+   },
+   {
+    "start": 21.62,
+    "end": 21.8,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 21.8,
+  "end": 27.1,
+  "text": "lattice with respect to that incoming light. Now the color that you see depends",
+  "words": [
+   {
+    "start": 21.8,
+    "end": 22.2,
+    "text": "lattice"
+   },
+   {
+    "start": 22.2,
+    "end": 23.0,
+    "text": "with"
+   },
+   {
+    "start": 23.0,
+    "end": 23.3,
+    "text": "respect"
+   },
+   {
+    "start": 23.3,
+    "end": 23.54,
+    "text": "to"
+   },
+   {
+    "start": 23.54,
+    "end": 23.72,
+    "text": "that"
+   },
+   {
+    "start": 23.72,
+    "end": 24.2,
+    "text": "incoming"
+   },
+   {
+    "start": 24.2,
+    "end": 24.68,
+    "text": "light."
+   },
+   {
+    "start": 25.18,
+    "end": 25.56,
+    "text": "Now"
+   },
+   {
+    "start": 25.56,
+    "end": 26.02,
+    "text": "the"
+   },
+   {
+    "start": 26.02,
+    "end": 26.26,
+    "text": "color"
+   },
+   {
+    "start": 26.26,
+    "end": 26.44,
+    "text": "that"
+   },
+   {
+    "start": 26.44,
+    "end": 26.62,
+    "text": "you"
+   },
+   {
+    "start": 26.62,
+    "end": 26.82,
+    "text": "see"
+   },
+   {
+    "start": 26.82,
+    "end": 27.1,
+    "text": "depends"
+   }
+  ]
+ },
+ {
+  "start": 27.1,
+  "end": 32.3,
+  "text": "on how that light interacts with the lattice. In one orientation the light",
+  "words": [
+   {
+    "start": 27.1,
+    "end": 27.38,
+    "text": "on"
+   },
+   {
+    "start": 27.38,
+    "end": 27.74,
+    "text": "how"
+   },
+   {
+    "start": 27.74,
+    "end": 28.08,
+    "text": "that"
+   },
+   {
+    "start": 28.08,
+    "end": 28.32,
+    "text": "light"
+   },
+   {
+    "start": 28.32,
+    "end": 28.86,
+    "text": "interacts"
+   },
+   {
+    "start": 28.86,
+    "end": 29.14,
+    "text": "with"
+   },
+   {
+    "start": 29.14,
+    "end": 29.34,
+    "text": "the"
+   },
+   {
+    "start": 29.34,
+    "end": 29.64,
+    "text": "lattice."
+   },
+   {
+    "start": 30.42,
+    "end": 30.98,
+    "text": "In"
+   },
+   {
+    "start": 30.98,
+    "end": 31.2,
+    "text": "one"
+   },
+   {
+    "start": 31.2,
+    "end": 31.68,
+    "text": "orientation"
+   },
+   {
+    "start": 31.68,
+    "end": 32.06,
+    "text": "the"
+   },
+   {
+    "start": 32.06,
+    "end": 32.3,
+    "text": "light"
+   }
+  ]
+ },
+ {
+  "start": 32.3,
+  "end": 36.6,
+  "text": "might interact with the crystal in one way and as you rotate the stage it might",
+  "words": [
+   {
+    "start": 32.3,
+    "end": 32.54,
+    "text": "might"
+   },
+   {
+    "start": 32.54,
+    "end": 33.08,
+    "text": "interact"
+   },
+   {
+    "start": 33.08,
+    "end": 33.3,
+    "text": "with"
+   },
+   {
+    "start": 33.3,
+    "end": 33.48,
+    "text": "the"
+   },
+   {
+    "start": 33.48,
+    "end": 33.74,
+    "text": "crystal"
+   },
+   {
+    "start": 33.74,
+    "end": 33.96,
+    "text": "in"
+   },
+   {
+    "start": 33.96,
+    "end": 34.16,
+    "text": "one"
+   },
+   {
+    "start": 34.16,
+    "end": 34.44,
+    "text": "way"
+   },
+   {
+    "start": 34.44,
+    "end": 35.08,
+    "text": "and"
+   },
+   {
+    "start": 35.08,
+    "end": 35.2,
+    "text": "as"
+   },
+   {
+    "start": 35.2,
+    "end": 35.3,
+    "text": "you"
+   },
+   {
+    "start": 35.3,
+    "end": 35.56,
+    "text": "rotate"
+   },
+   {
+    "start": 35.56,
+    "end": 35.78,
+    "text": "the"
+   },
+   {
+    "start": 35.78,
+    "end": 36.16,
+    "text": "stage"
+   },
+   {
+    "start": 36.16,
+    "end": 36.42,
+    "text": "it"
+   },
+   {
+    "start": 36.42,
+    "end": 36.6,
+    "text": "might"
+   }
+  ]
+ },
+ {
+  "start": 36.6,
+  "end": 40.66,
+  "text": "interact with the crystal in a different way. This could give rise to",
+  "words": [
+   {
+    "start": 36.6,
+    "end": 37.06,
+    "text": "interact"
+   },
+   {
+    "start": 37.06,
+    "end": 37.26,
+    "text": "with"
+   },
+   {
+    "start": 37.26,
+    "end": 37.38,
+    "text": "the"
+   },
+   {
+    "start": 37.38,
+    "end": 37.64,
+    "text": "crystal"
+   },
+   {
+    "start": 37.64,
+    "end": 37.82,
+    "text": "in"
+   },
+   {
+    "start": 37.82,
+    "end": 37.9,
+    "text": "a"
+   },
+   {
+    "start": 37.9,
+    "end": 38.14,
+    "text": "different"
+   },
+   {
+    "start": 38.14,
+    "end": 38.44,
+    "text": "way."
+   },
+   {
+    "start": 39.04,
+    "end": 39.26,
+    "text": "This"
+   },
+   {
+    "start": 39.26,
+    "end": 39.58,
+    "text": "could"
+   },
+   {
+    "start": 39.58,
+    "end": 39.84,
+    "text": "give"
+   },
+   {
+    "start": 39.84,
+    "end": 40.2,
+    "text": "rise"
+   },
+   {
+    "start": 40.2,
+    "end": 40.66,
+    "text": "to"
+   }
+  ]
+ },
+ {
+  "start": 40.66,
+  "end": 45.36,
+  "text": "different colors or different color intensities in different orientations",
+  "words": [
+   {
+    "start": 40.66,
+    "end": 41.2,
+    "text": "different"
+   },
+   {
+    "start": 41.2,
+    "end": 41.76,
+    "text": "colors"
+   },
+   {
+    "start": 41.76,
+    "end": 41.96,
+    "text": "or"
+   },
+   {
+    "start": 41.96,
+    "end": 42.26,
+    "text": "different"
+   },
+   {
+    "start": 42.26,
+    "end": 42.56,
+    "text": "color"
+   },
+   {
+    "start": 42.56,
+    "end": 43.44,
+    "text": "intensities"
+   },
+   {
+    "start": 43.44,
+    "end": 44.14,
+    "text": "in"
+   },
+   {
+    "start": 44.14,
+    "end": 44.44,
+    "text": "different"
+   },
+   {
+    "start": 44.44,
+    "end": 45.36,
+    "text": "orientations"
+   }
+  ]
+ },
+ {
+  "start": 45.36,
+  "end": 50.5,
+  "text": "and this is what we call pleochroism. The mineral we've been watching is called",
+  "words": [
+   {
+    "start": 45.36,
+    "end": 46.14,
+    "text": "and"
+   },
+   {
+    "start": 46.14,
+    "end": 46.34,
+    "text": "this"
+   },
+   {
+    "start": 46.34,
+    "end": 46.48,
+    "text": "is"
+   },
+   {
+    "start": 46.48,
+    "end": 46.66,
+    "text": "what"
+   },
+   {
+    "start": 46.66,
+    "end": 46.82,
+    "text": "we"
+   },
+   {
+    "start": 46.82,
+    "end": 47.08,
+    "text": "call"
+   },
+   {
+    "start": 47.08,
+    "end": 47.98,
+    "text": "pleochroism."
+   },
+   {
+    "start": 48.5,
+    "end": 48.7,
+    "text": "The"
+   },
+   {
+    "start": 48.7,
+    "end": 49.0,
+    "text": "mineral"
+   },
+   {
+    "start": 49.0,
+    "end": 49.42,
+    "text": "we've"
+   },
+   {
+    "start": 49.42,
+    "end": 49.54,
+    "text": "been"
+   },
+   {
+    "start": 49.54,
+    "end": 49.9,
+    "text": "watching"
+   },
+   {
+    "start": 49.9,
+    "end": 50.28,
+    "text": "is"
+   },
+   {
+    "start": 50.28,
+    "end": 50.5,
+    "text": "called"
+   }
+  ]
+ },
+ {
+  "start": 50.5,
+  "end": 56.0,
+  "text": "yoderite and it shows these changes in color and color intensity depending on",
+  "words": [
+   {
+    "start": 50.5,
+    "end": 51.16,
+    "text": "yoderite"
+   },
+   {
+    "start": 51.16,
+    "end": 51.56,
+    "text": "and"
+   },
+   {
+    "start": 51.56,
+    "end": 51.68,
+    "text": "it"
+   },
+   {
+    "start": 51.68,
+    "end": 51.96,
+    "text": "shows"
+   },
+   {
+    "start": 51.96,
+    "end": 52.22,
+    "text": "these"
+   },
+   {
+    "start": 52.22,
+    "end": 52.66,
+    "text": "changes"
+   },
+   {
+    "start": 52.66,
+    "end": 53.24,
+    "text": "in"
+   },
+   {
+    "start": 53.24,
+    "end": 53.78,
+    "text": "color"
+   },
+   {
+    "start": 53.78,
+    "end": 54.46,
+    "text": "and"
+   },
+   {
+    "start": 54.46,
+    "end": 54.76,
+    "text": "color"
+   },
+   {
+    "start": 54.76,
+    "end": 55.4,
+    "text": "intensity"
+   },
+   {
+    "start": 55.4,
+    "end": 55.76,
+    "text": "depending"
+   },
+   {
+    "start": 55.76,
+    "end": 56.0,
+    "text": "on"
+   }
+  ]
+ },
+ {
+  "start": 56.0,
+  "end": 63.94,
+  "text": "orientation, so it's one example of pleochroism. Pleochroism can be really",
+  "words": [
+   {
+    "start": 56.0,
+    "end": 56.5,
+    "text": "orientation,"
+   },
+   {
+    "start": 57.14,
+    "end": 57.34,
+    "text": "so"
+   },
+   {
+    "start": 57.34,
+    "end": 57.6,
+    "text": "it's"
+   },
+   {
+    "start": 57.6,
+    "end": 57.76,
+    "text": "one"
+   },
+   {
+    "start": 57.76,
+    "end": 58.2,
+    "text": "example"
+   },
+   {
+    "start": 58.2,
+    "end": 58.54,
+    "text": "of"
+   },
+   {
+    "start": 58.54,
+    "end": 59.26,
+    "text": "pleochroism."
+   },
+   {
+    "start": 62.6,
+    "end": 63.28,
+    "text": "Pleochroism"
+   },
+   {
+    "start": 63.28,
+    "end": 63.5,
+    "text": "can"
+   },
+   {
+    "start": 63.5,
+    "end": 63.66,
+    "text": "be"
+   },
+   {
+    "start": 63.66,
+    "end": 63.94,
+    "text": "really"
+   }
+  ]
+ },
+ {
+  "start": 63.94,
+  "end": 68.86,
+  "text": "intense. This is biotite light when the cleavage planes are running north-south,",
+  "words": [
+   {
+    "start": 63.94,
+    "end": 64.42,
+    "text": "intense."
+   },
+   {
+    "start": 64.8,
+    "end": 64.94,
+    "text": "This"
+   },
+   {
+    "start": 64.94,
+    "end": 65.08,
+    "text": "is"
+   },
+   {
+    "start": 65.08,
+    "end": 65.8,
+    "text": "biotite"
+   },
+   {
+    "start": 65.8,
+    "end": 66.32,
+    "text": "light"
+   },
+   {
+    "start": 66.32,
+    "end": 66.88,
+    "text": "when"
+   },
+   {
+    "start": 66.88,
+    "end": 67.1,
+    "text": "the"
+   },
+   {
+    "start": 67.1,
+    "end": 67.46,
+    "text": "cleavage"
+   },
+   {
+    "start": 67.46,
+    "end": 67.68,
+    "text": "planes"
+   },
+   {
+    "start": 67.68,
+    "end": 67.9,
+    "text": "are"
+   },
+   {
+    "start": 67.9,
+    "end": 68.12,
+    "text": "running"
+   },
+   {
+    "start": 68.12,
+    "end": 68.42,
+    "text": "north"
+   },
+   {
+    "start": 68.42,
+    "end": 68.86,
+    "text": "-south,"
+   }
+  ]
+ },
+ {
+  "start": 69.36,
+  "end": 73.62,
+  "text": "almost black when it's when they're running east-west. This is called normal",
+  "words": [
+   {
+    "start": 69.36,
+    "end": 69.88,
+    "text": "almost"
+   },
+   {
+    "start": 69.88,
+    "end": 70.28,
+    "text": "black"
+   },
+   {
+    "start": 70.28,
+    "end": 70.54,
+    "text": "when"
+   },
+   {
+    "start": 70.54,
+    "end": 70.74,
+    "text": "it's"
+   },
+   {
+    "start": 70.74,
+    "end": 70.96,
+    "text": "when"
+   },
+   {
+    "start": 70.96,
+    "end": 71.14,
+    "text": "they're"
+   },
+   {
+    "start": 71.14,
+    "end": 71.3,
+    "text": "running"
+   },
+   {
+    "start": 71.3,
+    "end": 71.62,
+    "text": "east"
+   },
+   {
+    "start": 71.62,
+    "end": 71.94,
+    "text": "-west."
+   },
+   {
+    "start": 72.56,
+    "end": 72.72,
+    "text": "This"
+   },
+   {
+    "start": 72.72,
+    "end": 72.84,
+    "text": "is"
+   },
+   {
+    "start": 72.84,
+    "end": 73.1,
+    "text": "called"
+   },
+   {
+    "start": 73.1,
+    "end": 73.62,
+    "text": "normal"
+   }
+  ]
+ },
+ {
+  "start": 73.62,
+  "end": 80.04,
+  "text": "pleochroism when the orientation of the cleavage planes is parallel to the",
+  "words": [
+   {
+    "start": 73.62,
+    "end": 74.7,
+    "text": "pleochroism"
+   },
+   {
+    "start": 74.7,
+    "end": 75.16,
+    "text": "when"
+   },
+   {
+    "start": 75.16,
+    "end": 75.9,
+    "text": "the"
+   },
+   {
+    "start": 75.9,
+    "end": 76.9,
+    "text": "orientation"
+   },
+   {
+    "start": 76.9,
+    "end": 77.66,
+    "text": "of"
+   },
+   {
+    "start": 77.66,
+    "end": 77.82,
+    "text": "the"
+   },
+   {
+    "start": 77.82,
+    "end": 78.18,
+    "text": "cleavage"
+   },
+   {
+    "start": 78.18,
+    "end": 78.52,
+    "text": "planes"
+   },
+   {
+    "start": 78.52,
+    "end": 78.8,
+    "text": "is"
+   },
+   {
+    "start": 78.8,
+    "end": 79.28,
+    "text": "parallel"
+   },
+   {
+    "start": 79.28,
+    "end": 79.8,
+    "text": "to"
+   },
+   {
+    "start": 79.8,
+    "end": 80.04,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 80.04,
+  "end": 86.66,
+  "text": "lower polarization. Pleochroism can be one of the few ways that we can identify",
+  "words": [
+   {
+    "start": 80.04,
+    "end": 80.28,
+    "text": "lower"
+   },
+   {
+    "start": 80.28,
+    "end": 81.22,
+    "text": "polarization."
+   },
+   {
+    "start": 83.18,
+    "end": 83.96,
+    "text": "Pleochroism"
+   },
+   {
+    "start": 83.96,
+    "end": 84.18,
+    "text": "can"
+   },
+   {
+    "start": 84.18,
+    "end": 84.44,
+    "text": "be"
+   },
+   {
+    "start": 84.44,
+    "end": 84.84,
+    "text": "one"
+   },
+   {
+    "start": 84.84,
+    "end": 84.98,
+    "text": "of"
+   },
+   {
+    "start": 84.98,
+    "end": 85.16,
+    "text": "the"
+   },
+   {
+    "start": 85.16,
+    "end": 85.38,
+    "text": "few"
+   },
+   {
+    "start": 85.38,
+    "end": 85.68,
+    "text": "ways"
+   },
+   {
+    "start": 85.68,
+    "end": 85.9,
+    "text": "that"
+   },
+   {
+    "start": 85.9,
+    "end": 86.02,
+    "text": "we"
+   },
+   {
+    "start": 86.02,
+    "end": 86.22,
+    "text": "can"
+   },
+   {
+    "start": 86.22,
+    "end": 86.66,
+    "text": "identify"
+   }
+  ]
+ },
+ {
+  "start": 86.66,
+  "end": 92.58,
+  "text": "some minerals. This very fine-grained blue to purple to maybe yellowish-green",
+  "words": [
+   {
+    "start": 86.66,
+    "end": 87.0,
+    "text": "some"
+   },
+   {
+    "start": 87.0,
+    "end": 87.34,
+    "text": "minerals."
+   },
+   {
+    "start": 88.0,
+    "end": 88.16,
+    "text": "This"
+   },
+   {
+    "start": 88.16,
+    "end": 88.72,
+    "text": "very"
+   },
+   {
+    "start": 88.72,
+    "end": 89.16,
+    "text": "fine"
+   },
+   {
+    "start": 89.16,
+    "end": 89.6,
+    "text": "-grained"
+   },
+   {
+    "start": 89.6,
+    "end": 90.04,
+    "text": "blue"
+   },
+   {
+    "start": 90.04,
+    "end": 90.46,
+    "text": "to"
+   },
+   {
+    "start": 90.46,
+    "end": 90.9,
+    "text": "purple"
+   },
+   {
+    "start": 90.9,
+    "end": 91.36,
+    "text": "to"
+   },
+   {
+    "start": 91.36,
+    "end": 91.76,
+    "text": "maybe"
+   },
+   {
+    "start": 91.76,
+    "end": 92.28,
+    "text": "yellowish"
+   },
+   {
+    "start": 92.28,
+    "end": 92.58,
+    "text": "-green"
+   }
+  ]
+ },
+ {
+  "start": 92.58,
+  "end": 97.28,
+  "text": "mineral is almost certainly glaucofane because that's about the only mineral",
+  "words": [
+   {
+    "start": 92.58,
+    "end": 93.16,
+    "text": "mineral"
+   },
+   {
+    "start": 93.16,
+    "end": 93.74,
+    "text": "is"
+   },
+   {
+    "start": 93.74,
+    "end": 94.0,
+    "text": "almost"
+   },
+   {
+    "start": 94.0,
+    "end": 94.58,
+    "text": "certainly"
+   },
+   {
+    "start": 94.58,
+    "end": 95.42,
+    "text": "glaucofane"
+   },
+   {
+    "start": 95.42,
+    "end": 95.76,
+    "text": "because"
+   },
+   {
+    "start": 95.76,
+    "end": 96.16,
+    "text": "that's"
+   },
+   {
+    "start": 96.16,
+    "end": 96.5,
+    "text": "about"
+   },
+   {
+    "start": 96.5,
+    "end": 96.72,
+    "text": "the"
+   },
+   {
+    "start": 96.72,
+    "end": 96.92,
+    "text": "only"
+   },
+   {
+    "start": 96.92,
+    "end": 97.28,
+    "text": "mineral"
+   }
+  ]
+ },
+ {
+  "start": 97.28,
+  "end": 98.86,
+  "text": "that has that pleochroism.",
+  "words": [
+   {
+    "start": 97.28,
+    "end": 97.54,
+    "text": "that"
+   },
+   {
+    "start": 97.54,
+    "end": 97.82,
+    "text": "has"
+   },
+   {
+    "start": 97.82,
+    "end": 98.02,
+    "text": "that"
+   },
+   {
+    "start": 98.02,
+    "end": 98.86,
+    "text": "pleochroism."
+   }
+  ]
+ },
+ {
+  "start": 103.18,
+  "end": 109.56,
+  "text": "A certain composition and leucite has distinctive pink pleochroism commonly",
+  "words": [
+   {
+    "start": 103.18,
+    "end": 104.02,
+    "text": "A"
+   },
+   {
+    "start": 104.02,
+    "end": 104.36,
+    "text": "certain"
+   },
+   {
+    "start": 104.36,
+    "end": 105.08,
+    "text": "composition"
+   },
+   {
+    "start": 105.08,
+    "end": 105.58,
+    "text": "and"
+   },
+   {
+    "start": 105.58,
+    "end": 106.18,
+    "text": "leucite"
+   },
+   {
+    "start": 106.18,
+    "end": 106.66,
+    "text": "has"
+   },
+   {
+    "start": 106.66,
+    "end": 107.22,
+    "text": "distinctive"
+   },
+   {
+    "start": 107.22,
+    "end": 107.68,
+    "text": "pink"
+   },
+   {
+    "start": 107.68,
+    "end": 108.82,
+    "text": "pleochroism"
+   },
+   {
+    "start": 108.82,
+    "end": 109.56,
+    "text": "commonly"
+   }
+  ]
+ },
+ {
+  "start": 109.56,
+  "end": 115.12,
+  "text": "developed in Andalusite cores rather than rims, so I interpret this as an",
+  "words": [
+   {
+    "start": 109.56,
+    "end": 110.06,
+    "text": "developed"
+   },
+   {
+    "start": 110.06,
+    "end": 110.36,
+    "text": "in"
+   },
+   {
+    "start": 110.36,
+    "end": 111.1,
+    "text": "Andalusite"
+   },
+   {
+    "start": 111.1,
+    "end": 111.56,
+    "text": "cores"
+   },
+   {
+    "start": 111.56,
+    "end": 111.94,
+    "text": "rather"
+   },
+   {
+    "start": 111.94,
+    "end": 112.2,
+    "text": "than"
+   },
+   {
+    "start": 112.2,
+    "end": 112.76,
+    "text": "rims,"
+   },
+   {
+    "start": 112.86,
+    "end": 113.52,
+    "text": "so"
+   },
+   {
+    "start": 113.52,
+    "end": 113.88,
+    "text": "I"
+   },
+   {
+    "start": 113.88,
+    "end": 114.26,
+    "text": "interpret"
+   },
+   {
+    "start": 114.26,
+    "end": 114.6,
+    "text": "this"
+   },
+   {
+    "start": 114.6,
+    "end": 114.98,
+    "text": "as"
+   },
+   {
+    "start": 114.98,
+    "end": 115.12,
+    "text": "an"
+   }
+  ]
+ },
+ {
+  "start": 115.12,
+  "end": 120.7,
+  "text": "Andalusite crystal largely because the cores have this pink pleochroism.",
+  "words": [
+   {
+    "start": 115.12,
+    "end": 115.82,
+    "text": "Andalusite"
+   },
+   {
+    "start": 115.82,
+    "end": 116.3,
+    "text": "crystal"
+   },
+   {
+    "start": 116.3,
+    "end": 117.18,
+    "text": "largely"
+   },
+   {
+    "start": 117.18,
+    "end": 117.92,
+    "text": "because"
+   },
+   {
+    "start": 117.92,
+    "end": 118.52,
+    "text": "the"
+   },
+   {
+    "start": 118.52,
+    "end": 118.96,
+    "text": "cores"
+   },
+   {
+    "start": 118.96,
+    "end": 119.34,
+    "text": "have"
+   },
+   {
+    "start": 119.34,
+    "end": 119.56,
+    "text": "this"
+   },
+   {
+    "start": 119.56,
+    "end": 119.86,
+    "text": "pink"
+   },
+   {
+    "start": 119.86,
+    "end": 120.7,
+    "text": "pleochroism."
+   }
+  ]
+ },
+ {
+  "start": 124.58,
+  "end": 130.74,
+  "text": "Pleochroism can be pretty subtle. This clintonite crystal, basically a calcium",
+  "words": [
+   {
+    "start": 124.58,
+    "end": 125.34,
+    "text": "Pleochroism"
+   },
+   {
+    "start": 125.34,
+    "end": 125.56,
+    "text": "can"
+   },
+   {
+    "start": 125.56,
+    "end": 125.76,
+    "text": "be"
+   },
+   {
+    "start": 125.76,
+    "end": 126.36,
+    "text": "pretty"
+   },
+   {
+    "start": 126.36,
+    "end": 126.82,
+    "text": "subtle."
+   },
+   {
+    "start": 127.68,
+    "end": 127.9,
+    "text": "This"
+   },
+   {
+    "start": 127.9,
+    "end": 128.82,
+    "text": "clintonite"
+   },
+   {
+    "start": 128.82,
+    "end": 129.58,
+    "text": "crystal,"
+   },
+   {
+    "start": 129.72,
+    "end": 130.06,
+    "text": "basically"
+   },
+   {
+    "start": 130.06,
+    "end": 130.3,
+    "text": "a"
+   },
+   {
+    "start": 130.3,
+    "end": 130.74,
+    "text": "calcium"
+   }
+  ]
+ },
+ {
+  "start": 130.74,
+  "end": 135.6,
+  "text": "biotite, is sort of pinkish when it's when the cleavage planes are running",
+  "words": [
+   {
+    "start": 130.74,
+    "end": 132.12,
+    "text": "biotite,"
+   },
+   {
+    "start": 132.58,
+    "end": 132.84,
+    "text": "is"
+   },
+   {
+    "start": 132.84,
+    "end": 133.22,
+    "text": "sort"
+   },
+   {
+    "start": 133.22,
+    "end": 133.38,
+    "text": "of"
+   },
+   {
+    "start": 133.38,
+    "end": 133.92,
+    "text": "pinkish"
+   },
+   {
+    "start": 133.92,
+    "end": 134.12,
+    "text": "when"
+   },
+   {
+    "start": 134.12,
+    "end": 134.36,
+    "text": "it's"
+   },
+   {
+    "start": 134.36,
+    "end": 134.56,
+    "text": "when"
+   },
+   {
+    "start": 134.56,
+    "end": 134.7,
+    "text": "the"
+   },
+   {
+    "start": 134.7,
+    "end": 134.96,
+    "text": "cleavage"
+   },
+   {
+    "start": 134.96,
+    "end": 135.22,
+    "text": "planes"
+   },
+   {
+    "start": 135.22,
+    "end": 135.4,
+    "text": "are"
+   },
+   {
+    "start": 135.4,
+    "end": 135.6,
+    "text": "running"
+   }
+  ]
+ },
+ {
+  "start": 135.6,
+  "end": 139.14,
+  "text": "north-south and a little more greenish when they're running east-west.",
+  "words": [
+   {
+    "start": 135.6,
+    "end": 135.84,
+    "text": "north"
+   },
+   {
+    "start": 135.84,
+    "end": 136.24,
+    "text": "-south"
+   },
+   {
+    "start": 136.24,
+    "end": 136.9,
+    "text": "and"
+   },
+   {
+    "start": 136.9,
+    "end": 137.0,
+    "text": "a"
+   },
+   {
+    "start": 137.0,
+    "end": 137.12,
+    "text": "little"
+   },
+   {
+    "start": 137.12,
+    "end": 137.3,
+    "text": "more"
+   },
+   {
+    "start": 137.3,
+    "end": 137.84,
+    "text": "greenish"
+   },
+   {
+    "start": 137.84,
+    "end": 138.04,
+    "text": "when"
+   },
+   {
+    "start": 138.04,
+    "end": 138.2,
+    "text": "they're"
+   },
+   {
+    "start": 138.2,
+    "end": 138.42,
+    "text": "running"
+   },
+   {
+    "start": 138.42,
+    "end": 138.8,
+    "text": "east"
+   },
+   {
+    "start": 138.8,
+    "end": 139.14,
+    "text": "-west."
+   }
+  ]
+ },
+ {
+  "start": 144.92,
+  "end": 150.58,
+  "text": "This kind of pink-green pleochroism is important for identifying orthopyroxene.",
+  "words": [
+   {
+    "start": 144.92,
+    "end": 145.56,
+    "text": "This"
+   },
+   {
+    "start": 145.56,
+    "end": 145.82,
+    "text": "kind"
+   },
+   {
+    "start": 145.82,
+    "end": 145.96,
+    "text": "of"
+   },
+   {
+    "start": 145.96,
+    "end": 146.24,
+    "text": "pink"
+   },
+   {
+    "start": 146.24,
+    "end": 146.74,
+    "text": "-green"
+   },
+   {
+    "start": 146.74,
+    "end": 147.62,
+    "text": "pleochroism"
+   },
+   {
+    "start": 147.62,
+    "end": 148.0,
+    "text": "is"
+   },
+   {
+    "start": 148.0,
+    "end": 148.5,
+    "text": "important"
+   },
+   {
+    "start": 148.5,
+    "end": 148.78,
+    "text": "for"
+   },
+   {
+    "start": 148.78,
+    "end": 149.5,
+    "text": "identifying"
+   },
+   {
+    "start": 149.5,
+    "end": 150.58,
+    "text": "orthopyroxene."
+   }
+  ]
+ },
+ {
+  "start": 151.28,
+  "end": 156.58,
+  "text": "Here it is more or less green when it runs east-west and pink when it runs",
+  "words": [
+   {
+    "start": 151.28,
+    "end": 151.64,
+    "text": "Here"
+   },
+   {
+    "start": 151.64,
+    "end": 152.06,
+    "text": "it"
+   },
+   {
+    "start": 152.06,
+    "end": 152.28,
+    "text": "is"
+   },
+   {
+    "start": 152.28,
+    "end": 152.64,
+    "text": "more"
+   },
+   {
+    "start": 152.64,
+    "end": 152.78,
+    "text": "or"
+   },
+   {
+    "start": 152.78,
+    "end": 153.0,
+    "text": "less"
+   },
+   {
+    "start": 153.0,
+    "end": 153.56,
+    "text": "green"
+   },
+   {
+    "start": 153.56,
+    "end": 154.02,
+    "text": "when"
+   },
+   {
+    "start": 154.02,
+    "end": 154.14,
+    "text": "it"
+   },
+   {
+    "start": 154.14,
+    "end": 154.36,
+    "text": "runs"
+   },
+   {
+    "start": 154.36,
+    "end": 154.6,
+    "text": "east"
+   },
+   {
+    "start": 154.6,
+    "end": 154.92,
+    "text": "-west"
+   },
+   {
+    "start": 154.92,
+    "end": 155.68,
+    "text": "and"
+   },
+   {
+    "start": 155.68,
+    "end": 155.98,
+    "text": "pink"
+   },
+   {
+    "start": 155.98,
+    "end": 156.26,
+    "text": "when"
+   },
+   {
+    "start": 156.26,
+    "end": 156.38,
+    "text": "it"
+   },
+   {
+    "start": 156.38,
+    "end": 156.58,
+    "text": "runs"
+   }
+  ]
+ },
+ {
+  "start": 156.58,
+  "end": 157.32,
+  "text": "north-south.",
+  "words": [
+   {
+    "start": 156.58,
+    "end": 156.88,
+    "text": "north"
+   },
+   {
+    "start": 156.88,
+    "end": 157.32,
+    "text": "-south."
+   }
+  ]
+ },
+ {
+  "start": 165.6,
+  "end": 170.94,
+  "text": "I use pleochroism all the time to identify metamorphic minerals. Here I can",
+  "words": [
+   {
+    "start": 165.6,
+    "end": 166.22,
+    "text": "I"
+   },
+   {
+    "start": 166.22,
+    "end": 166.44,
+    "text": "use"
+   },
+   {
+    "start": 166.44,
+    "end": 167.12,
+    "text": "pleochroism"
+   },
+   {
+    "start": 167.12,
+    "end": 167.44,
+    "text": "all"
+   },
+   {
+    "start": 167.44,
+    "end": 167.58,
+    "text": "the"
+   },
+   {
+    "start": 167.58,
+    "end": 167.86,
+    "text": "time"
+   },
+   {
+    "start": 167.86,
+    "end": 168.04,
+    "text": "to"
+   },
+   {
+    "start": 168.04,
+    "end": 168.48,
+    "text": "identify"
+   },
+   {
+    "start": 168.48,
+    "end": 169.14,
+    "text": "metamorphic"
+   },
+   {
+    "start": 169.14,
+    "end": 169.48,
+    "text": "minerals."
+   },
+   {
+    "start": 170.16,
+    "end": 170.38,
+    "text": "Here"
+   },
+   {
+    "start": 170.38,
+    "end": 170.7,
+    "text": "I"
+   },
+   {
+    "start": 170.7,
+    "end": 170.94,
+    "text": "can"
+   }
+  ]
+ },
+ {
+  "start": 170.94,
+  "end": 177.14,
+  "text": "clearly see three different minerals. One is blue, one is green, and the other is",
+  "words": [
+   {
+    "start": 170.94,
+    "end": 171.52,
+    "text": "clearly"
+   },
+   {
+    "start": 171.52,
+    "end": 172.02,
+    "text": "see"
+   },
+   {
+    "start": 172.02,
+    "end": 172.6,
+    "text": "three"
+   },
+   {
+    "start": 172.6,
+    "end": 173.86,
+    "text": "different"
+   },
+   {
+    "start": 173.86,
+    "end": 174.32,
+    "text": "minerals."
+   },
+   {
+    "start": 174.54,
+    "end": 174.64,
+    "text": "One"
+   },
+   {
+    "start": 174.64,
+    "end": 174.8,
+    "text": "is"
+   },
+   {
+    "start": 174.8,
+    "end": 175.18,
+    "text": "blue,"
+   },
+   {
+    "start": 175.62,
+    "end": 175.7,
+    "text": "one"
+   },
+   {
+    "start": 175.7,
+    "end": 175.88,
+    "text": "is"
+   },
+   {
+    "start": 175.88,
+    "end": 176.24,
+    "text": "green,"
+   },
+   {
+    "start": 176.42,
+    "end": 176.64,
+    "text": "and"
+   },
+   {
+    "start": 176.64,
+    "end": 176.78,
+    "text": "the"
+   },
+   {
+    "start": 176.78,
+    "end": 176.94,
+    "text": "other"
+   },
+   {
+    "start": 176.94,
+    "end": 177.14,
+    "text": "is"
+   }
+  ]
+ },
+ {
+  "start": 177.14,
+  "end": 182.22,
+  "text": "yellow, and from those colors and pleochroism I can identify what they are.",
+  "words": [
+   {
+    "start": 177.14,
+    "end": 177.54,
+    "text": "yellow,"
+   },
+   {
+    "start": 177.54,
+    "end": 178.3,
+    "text": "and"
+   },
+   {
+    "start": 178.3,
+    "end": 178.62,
+    "text": "from"
+   },
+   {
+    "start": 178.62,
+    "end": 178.96,
+    "text": "those"
+   },
+   {
+    "start": 178.96,
+    "end": 179.4,
+    "text": "colors"
+   },
+   {
+    "start": 179.4,
+    "end": 179.68,
+    "text": "and"
+   },
+   {
+    "start": 179.68,
+    "end": 180.46,
+    "text": "pleochroism"
+   },
+   {
+    "start": 180.46,
+    "end": 180.76,
+    "text": "I"
+   },
+   {
+    "start": 180.76,
+    "end": 180.9,
+    "text": "can"
+   },
+   {
+    "start": 180.9,
+    "end": 181.38,
+    "text": "identify"
+   },
+   {
+    "start": 181.38,
+    "end": 181.7,
+    "text": "what"
+   },
+   {
+    "start": 181.7,
+    "end": 181.92,
+    "text": "they"
+   },
+   {
+    "start": 181.92,
+    "end": 182.22,
+    "text": "are."
+   }
+  ]
+ },
+ {
+  "start": 186.26,
+  "end": 191.18,
+  "text": "Pleochroism can distinguish among different similar minerals. Here the",
+  "words": [
+   {
+    "start": 186.26,
+    "end": 186.9,
+    "text": "Pleochroism"
+   },
+   {
+    "start": 186.9,
+    "end": 187.22,
+    "text": "can"
+   },
+   {
+    "start": 187.22,
+    "end": 188.02,
+    "text": "distinguish"
+   },
+   {
+    "start": 188.02,
+    "end": 188.54,
+    "text": "among"
+   },
+   {
+    "start": 188.54,
+    "end": 189.12,
+    "text": "different"
+   },
+   {
+    "start": 189.12,
+    "end": 189.64,
+    "text": "similar"
+   },
+   {
+    "start": 189.64,
+    "end": 190.2,
+    "text": "minerals."
+   },
+   {
+    "start": 190.76,
+    "end": 190.98,
+    "text": "Here"
+   },
+   {
+    "start": 190.98,
+    "end": 191.18,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 191.18,
+  "end": 194.64,
+  "text": "cores of these minerals are very light green pleochroic. Those are",
+  "words": [
+   {
+    "start": 191.18,
+    "end": 191.58,
+    "text": "cores"
+   },
+   {
+    "start": 191.58,
+    "end": 191.86,
+    "text": "of"
+   },
+   {
+    "start": 191.86,
+    "end": 192.0,
+    "text": "these"
+   },
+   {
+    "start": 192.0,
+    "end": 192.38,
+    "text": "minerals"
+   },
+   {
+    "start": 192.38,
+    "end": 192.58,
+    "text": "are"
+   },
+   {
+    "start": 192.58,
+    "end": 192.86,
+    "text": "very"
+   },
+   {
+    "start": 192.86,
+    "end": 193.16,
+    "text": "light"
+   },
+   {
+    "start": 193.16,
+    "end": 193.42,
+    "text": "green"
+   },
+   {
+    "start": 193.42,
+    "end": 194.24,
+    "text": "pleochroic."
+   },
+   {
+    "start": 194.36,
+    "end": 194.46,
+    "text": "Those"
+   },
+   {
+    "start": 194.46,
+    "end": 194.64,
+    "text": "are"
+   }
+  ]
+ },
+ {
+  "start": 194.64,
+  "end": 198.86,
+  "text": "actinolite, and then there's a darker green rim, which is hornblende.",
+  "words": [
+   {
+    "start": 194.64,
+    "end": 195.4,
+    "text": "actinolite,"
+   },
+   {
+    "start": 195.92,
+    "end": 196.08,
+    "text": "and"
+   },
+   {
+    "start": 196.08,
+    "end": 196.18,
+    "text": "then"
+   },
+   {
+    "start": 196.18,
+    "end": 196.4,
+    "text": "there's"
+   },
+   {
+    "start": 196.4,
+    "end": 196.52,
+    "text": "a"
+   },
+   {
+    "start": 196.52,
+    "end": 196.8,
+    "text": "darker"
+   },
+   {
+    "start": 196.8,
+    "end": 197.16,
+    "text": "green"
+   },
+   {
+    "start": 197.16,
+    "end": 197.54,
+    "text": "rim,"
+   },
+   {
+    "start": 197.7,
+    "end": 198.02,
+    "text": "which"
+   },
+   {
+    "start": 198.02,
+    "end": 198.2,
+    "text": "is"
+   },
+   {
+    "start": 198.2,
+    "end": 198.86,
+    "text": "hornblende."
+   }
+  ]
+ },
+ {
+  "start": 206.76,
+  "end": 213.16,
+  "text": "Radiation damage in some minerals also causes pleochroic halos. The light dots",
+  "words": [
+   {
+    "start": 206.76,
+    "end": 207.44,
+    "text": "Radiation"
+   },
+   {
+    "start": 207.44,
+    "end": 208.0,
+    "text": "damage"
+   },
+   {
+    "start": 208.0,
+    "end": 208.5,
+    "text": "in"
+   },
+   {
+    "start": 208.5,
+    "end": 208.76,
+    "text": "some"
+   },
+   {
+    "start": 208.76,
+    "end": 209.14,
+    "text": "minerals"
+   },
+   {
+    "start": 209.14,
+    "end": 209.66,
+    "text": "also"
+   },
+   {
+    "start": 209.66,
+    "end": 210.18,
+    "text": "causes"
+   },
+   {
+    "start": 210.18,
+    "end": 210.84,
+    "text": "pleochroic"
+   },
+   {
+    "start": 210.84,
+    "end": 211.3,
+    "text": "halos."
+   },
+   {
+    "start": 211.88,
+    "end": 212.0,
+    "text": "The"
+   },
+   {
+    "start": 212.0,
+    "end": 212.34,
+    "text": "light"
+   },
+   {
+    "start": 212.34,
+    "end": 213.16,
+    "text": "dots"
+   }
+  ]
+ },
+ {
+  "start": 213.16,
+  "end": 218.28,
+  "text": "in there are radioactive minerals. The darker halos around them are the",
+  "words": [
+   {
+    "start": 213.16,
+    "end": 213.52,
+    "text": "in"
+   },
+   {
+    "start": 213.52,
+    "end": 213.78,
+    "text": "there"
+   },
+   {
+    "start": 213.78,
+    "end": 214.18,
+    "text": "are"
+   },
+   {
+    "start": 214.18,
+    "end": 214.7,
+    "text": "radioactive"
+   },
+   {
+    "start": 214.7,
+    "end": 215.38,
+    "text": "minerals."
+   },
+   {
+    "start": 216.08,
+    "end": 216.24,
+    "text": "The"
+   },
+   {
+    "start": 216.24,
+    "end": 216.58,
+    "text": "darker"
+   },
+   {
+    "start": 216.58,
+    "end": 217.2,
+    "text": "halos"
+   },
+   {
+    "start": 217.2,
+    "end": 217.54,
+    "text": "around"
+   },
+   {
+    "start": 217.54,
+    "end": 217.86,
+    "text": "them"
+   },
+   {
+    "start": 217.86,
+    "end": 218.12,
+    "text": "are"
+   },
+   {
+    "start": 218.12,
+    "end": 218.28,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 218.28,
+  "end": 223.18,
+  "text": "radiation damage, and you can see that they are pleochroic as well. They vary in",
+  "words": [
+   {
+    "start": 218.28,
+    "end": 218.8,
+    "text": "radiation"
+   },
+   {
+    "start": 218.8,
+    "end": 219.28,
+    "text": "damage,"
+   },
+   {
+    "start": 219.64,
+    "end": 219.94,
+    "text": "and"
+   },
+   {
+    "start": 219.94,
+    "end": 220.06,
+    "text": "you"
+   },
+   {
+    "start": 220.06,
+    "end": 220.2,
+    "text": "can"
+   },
+   {
+    "start": 220.2,
+    "end": 220.38,
+    "text": "see"
+   },
+   {
+    "start": 220.38,
+    "end": 220.56,
+    "text": "that"
+   },
+   {
+    "start": 220.56,
+    "end": 220.74,
+    "text": "they"
+   },
+   {
+    "start": 220.74,
+    "end": 220.84,
+    "text": "are"
+   },
+   {
+    "start": 220.84,
+    "end": 221.58,
+    "text": "pleochroic"
+   },
+   {
+    "start": 221.58,
+    "end": 221.72,
+    "text": "as"
+   },
+   {
+    "start": 221.72,
+    "end": 221.98,
+    "text": "well."
+   },
+   {
+    "start": 222.26,
+    "end": 222.4,
+    "text": "They"
+   },
+   {
+    "start": 222.4,
+    "end": 222.78,
+    "text": "vary"
+   },
+   {
+    "start": 222.78,
+    "end": 223.18,
+    "text": "in"
+   }
+  ]
+ },
+ {
+  "start": 223.18,
+  "end": 232.86,
+  "text": "intensity. These radiation damage halos around radioactive inclusions in",
+  "words": [
+   {
+    "start": 223.18,
+    "end": 223.78,
+    "text": "intensity."
+   },
+   {
+    "start": 227.28,
+    "end": 227.86,
+    "text": "These"
+   },
+   {
+    "start": 227.86,
+    "end": 228.56,
+    "text": "radiation"
+   },
+   {
+    "start": 228.56,
+    "end": 229.04,
+    "text": "damage"
+   },
+   {
+    "start": 229.04,
+    "end": 229.88,
+    "text": "halos"
+   },
+   {
+    "start": 229.88,
+    "end": 230.46,
+    "text": "around"
+   },
+   {
+    "start": 230.46,
+    "end": 231.9,
+    "text": "radioactive"
+   },
+   {
+    "start": 231.9,
+    "end": 232.7,
+    "text": "inclusions"
+   },
+   {
+    "start": 232.7,
+    "end": 232.86,
+    "text": "in"
+   }
+  ]
+ },
+ {
+  "start": 232.86,
+  "end": 237.7,
+  "text": "cordierite are one of the main ways that I identify this mineral. These yellow",
+  "words": [
+   {
+    "start": 232.86,
+    "end": 233.46,
+    "text": "cordierite"
+   },
+   {
+    "start": 233.46,
+    "end": 234.08,
+    "text": "are"
+   },
+   {
+    "start": 234.08,
+    "end": 234.24,
+    "text": "one"
+   },
+   {
+    "start": 234.24,
+    "end": 234.38,
+    "text": "of"
+   },
+   {
+    "start": 234.38,
+    "end": 234.48,
+    "text": "the"
+   },
+   {
+    "start": 234.48,
+    "end": 234.76,
+    "text": "main"
+   },
+   {
+    "start": 234.76,
+    "end": 235.1,
+    "text": "ways"
+   },
+   {
+    "start": 235.1,
+    "end": 235.32,
+    "text": "that"
+   },
+   {
+    "start": 235.32,
+    "end": 235.48,
+    "text": "I"
+   },
+   {
+    "start": 235.48,
+    "end": 235.92,
+    "text": "identify"
+   },
+   {
+    "start": 235.92,
+    "end": 236.22,
+    "text": "this"
+   },
+   {
+    "start": 236.22,
+    "end": 236.56,
+    "text": "mineral."
+   },
+   {
+    "start": 237.18,
+    "end": 237.32,
+    "text": "These"
+   },
+   {
+    "start": 237.32,
+    "end": 237.7,
+    "text": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 237.7,
+  "end": 240.7,
+  "text": "pleochroic halos are especially distinctive.",
+  "words": [
+   {
+    "start": 237.7,
+    "end": 238.46,
+    "text": "pleochroic"
+   },
+   {
+    "start": 238.46,
+    "end": 239.06,
+    "text": "halos"
+   },
+   {
+    "start": 239.06,
+    "end": 239.4,
+    "text": "are"
+   },
+   {
+    "start": 239.4,
+    "end": 240.06,
+    "text": "especially"
+   },
+   {
+    "start": 240.06,
+    "end": 240.7,
+    "text": "distinctive."
+   }
+  ]
+ },
+ {
+  "start": 247.76,
+  "end": 252.46,
+  "text": "Biotite has what we call normal pleochroism. This is when the cleavage",
+  "words": [
+   {
+    "start": 247.76,
+    "end": 248.36,
+    "text": "Biotite"
+   },
+   {
+    "start": 248.36,
+    "end": 248.72,
+    "text": "has"
+   },
+   {
+    "start": 248.72,
+    "end": 249.16,
+    "text": "what"
+   },
+   {
+    "start": 249.16,
+    "end": 249.36,
+    "text": "we"
+   },
+   {
+    "start": 249.36,
+    "end": 249.64,
+    "text": "call"
+   },
+   {
+    "start": 249.64,
+    "end": 250.12,
+    "text": "normal"
+   },
+   {
+    "start": 250.12,
+    "end": 251.14,
+    "text": "pleochroism."
+   },
+   {
+    "start": 251.38,
+    "end": 251.5,
+    "text": "This"
+   },
+   {
+    "start": 251.5,
+    "end": 251.66,
+    "text": "is"
+   },
+   {
+    "start": 251.66,
+    "end": 251.88,
+    "text": "when"
+   },
+   {
+    "start": 251.88,
+    "end": 252.04,
+    "text": "the"
+   },
+   {
+    "start": 252.04,
+    "end": 252.46,
+    "text": "cleavage"
+   }
+  ]
+ },
+ {
+  "start": 252.46,
+  "end": 258.52,
+  "text": "planes are parallel to the lower polarizer, the mineral is darkest. So",
+  "words": [
+   {
+    "start": 252.46,
+    "end": 252.82,
+    "text": "planes"
+   },
+   {
+    "start": 252.82,
+    "end": 253.66,
+    "text": "are"
+   },
+   {
+    "start": 253.66,
+    "end": 254.2,
+    "text": "parallel"
+   },
+   {
+    "start": 254.2,
+    "end": 254.54,
+    "text": "to"
+   },
+   {
+    "start": 254.54,
+    "end": 254.66,
+    "text": "the"
+   },
+   {
+    "start": 254.66,
+    "end": 254.86,
+    "text": "lower"
+   },
+   {
+    "start": 254.86,
+    "end": 255.68,
+    "text": "polarizer,"
+   },
+   {
+    "start": 256.14,
+    "end": 256.3,
+    "text": "the"
+   },
+   {
+    "start": 256.3,
+    "end": 256.6,
+    "text": "mineral"
+   },
+   {
+    "start": 256.6,
+    "end": 256.98,
+    "text": "is"
+   },
+   {
+    "start": 256.98,
+    "end": 257.56,
+    "text": "darkest."
+   },
+   {
+    "start": 258.32,
+    "end": 258.52,
+    "text": "So"
+   }
+  ]
+ },
+ {
+  "start": 258.52,
+  "end": 262.04,
+  "text": "here when we see it runs east-west, the biotite is darkest.",
+  "words": [
+   {
+    "start": 258.52,
+    "end": 258.8,
+    "text": "here"
+   },
+   {
+    "start": 258.8,
+    "end": 258.92,
+    "text": "when"
+   },
+   {
+    "start": 258.92,
+    "end": 259.08,
+    "text": "we"
+   },
+   {
+    "start": 259.08,
+    "end": 259.2,
+    "text": "see"
+   },
+   {
+    "start": 259.2,
+    "end": 259.32,
+    "text": "it"
+   },
+   {
+    "start": 259.32,
+    "end": 259.6,
+    "text": "runs"
+   },
+   {
+    "start": 259.6,
+    "end": 259.98,
+    "text": "east"
+   },
+   {
+    "start": 259.98,
+    "end": 260.46,
+    "text": "-west,"
+   },
+   {
+    "start": 260.74,
+    "end": 260.8,
+    "text": "the"
+   },
+   {
+    "start": 260.8,
+    "end": 261.36,
+    "text": "biotite"
+   },
+   {
+    "start": 261.36,
+    "end": 261.66,
+    "text": "is"
+   },
+   {
+    "start": 261.66,
+    "end": 262.04,
+    "text": "darkest."
+   }
+  ]
+ },
+ {
+  "start": 267.9,
+  "end": 273.74,
+  "text": "That's different from tourmaline, which has reverse pleochroism. So when the",
+  "words": [
+   {
+    "start": 267.9,
+    "end": 268.5,
+    "text": "That's"
+   },
+   {
+    "start": 268.5,
+    "end": 268.84,
+    "text": "different"
+   },
+   {
+    "start": 268.84,
+    "end": 269.3,
+    "text": "from"
+   },
+   {
+    "start": 269.3,
+    "end": 270.26,
+    "text": "tourmaline,"
+   },
+   {
+    "start": 270.38,
+    "end": 270.52,
+    "text": "which"
+   },
+   {
+    "start": 270.52,
+    "end": 270.82,
+    "text": "has"
+   },
+   {
+    "start": 270.82,
+    "end": 271.34,
+    "text": "reverse"
+   },
+   {
+    "start": 271.34,
+    "end": 272.24,
+    "text": "pleochroism."
+   },
+   {
+    "start": 272.98,
+    "end": 273.02,
+    "text": "So"
+   },
+   {
+    "start": 273.02,
+    "end": 273.32,
+    "text": "when"
+   },
+   {
+    "start": 273.32,
+    "end": 273.74,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 274.38,
+  "end": 279.34,
+  "text": "long axis of the grains are running east-west, biotite is darkest, but when",
+  "words": [
+   {
+    "start": 274.38,
+    "end": 274.98,
+    "text": "long"
+   },
+   {
+    "start": 274.98,
+    "end": 275.42,
+    "text": "axis"
+   },
+   {
+    "start": 275.42,
+    "end": 275.66,
+    "text": "of"
+   },
+   {
+    "start": 275.66,
+    "end": 275.78,
+    "text": "the"
+   },
+   {
+    "start": 275.78,
+    "end": 275.98,
+    "text": "grains"
+   },
+   {
+    "start": 275.98,
+    "end": 276.2,
+    "text": "are"
+   },
+   {
+    "start": 276.2,
+    "end": 276.36,
+    "text": "running"
+   },
+   {
+    "start": 276.36,
+    "end": 276.68,
+    "text": "east"
+   },
+   {
+    "start": 276.68,
+    "end": 276.92,
+    "text": "-west,"
+   },
+   {
+    "start": 277.26,
+    "end": 277.58,
+    "text": "biotite"
+   },
+   {
+    "start": 277.58,
+    "end": 277.78,
+    "text": "is"
+   },
+   {
+    "start": 277.78,
+    "end": 278.24,
+    "text": "darkest,"
+   },
+   {
+    "start": 278.8,
+    "end": 279.16,
+    "text": "but"
+   },
+   {
+    "start": 279.16,
+    "end": 279.34,
+    "text": "when"
+   }
+  ]
+ },
+ {
+  "start": 279.34,
+  "end": 283.76,
+  "text": "tourmaline, the long axis of the grain is running north-south, it is darkest.",
+  "words": [
+   {
+    "start": 279.34,
+    "end": 280.02,
+    "text": "tourmaline,"
+   },
+   {
+    "start": 280.12,
+    "end": 280.2,
+    "text": "the"
+   },
+   {
+    "start": 280.2,
+    "end": 280.44,
+    "text": "long"
+   },
+   {
+    "start": 280.44,
+    "end": 280.8,
+    "text": "axis"
+   },
+   {
+    "start": 280.8,
+    "end": 281.08,
+    "text": "of"
+   },
+   {
+    "start": 281.08,
+    "end": 281.2,
+    "text": "the"
+   },
+   {
+    "start": 281.2,
+    "end": 281.42,
+    "text": "grain"
+   },
+   {
+    "start": 281.42,
+    "end": 281.72,
+    "text": "is"
+   },
+   {
+    "start": 281.72,
+    "end": 281.96,
+    "text": "running"
+   },
+   {
+    "start": 281.96,
+    "end": 282.28,
+    "text": "north"
+   },
+   {
+    "start": 282.28,
+    "end": 282.72,
+    "text": "-south,"
+   },
+   {
+    "start": 283.0,
+    "end": 283.12,
+    "text": "it"
+   },
+   {
+    "start": 283.12,
+    "end": 283.4,
+    "text": "is"
+   },
+   {
+    "start": 283.4,
+    "end": 283.76,
+    "text": "darkest."
+   }
+  ]
+ },
+ {
+  "start": 284.22,
+  "end": 290.34,
+  "text": "It's the reverse of biotite, so we call it reverse pleochroism. This zircon has",
+  "words": [
+   {
+    "start": 284.22,
+    "end": 284.54,
+    "text": "It's"
+   },
+   {
+    "start": 284.54,
+    "end": 284.66,
+    "text": "the"
+   },
+   {
+    "start": 284.66,
+    "end": 284.98,
+    "text": "reverse"
+   },
+   {
+    "start": 284.98,
+    "end": 285.18,
+    "text": "of"
+   },
+   {
+    "start": 285.18,
+    "end": 285.68,
+    "text": "biotite,"
+   },
+   {
+    "start": 285.76,
+    "end": 285.92,
+    "text": "so"
+   },
+   {
+    "start": 285.92,
+    "end": 286.06,
+    "text": "we"
+   },
+   {
+    "start": 286.06,
+    "end": 286.3,
+    "text": "call"
+   },
+   {
+    "start": 286.3,
+    "end": 286.42,
+    "text": "it"
+   },
+   {
+    "start": 286.42,
+    "end": 286.72,
+    "text": "reverse"
+   },
+   {
+    "start": 286.72,
+    "end": 287.6,
+    "text": "pleochroism."
+   },
+   {
+    "start": 288.6,
+    "end": 289.18,
+    "text": "This"
+   },
+   {
+    "start": 289.18,
+    "end": 289.76,
+    "text": "zircon"
+   },
+   {
+    "start": 289.76,
+    "end": 290.34,
+    "text": "has"
+   }
+  ]
+ },
+ {
+  "start": 290.34,
+  "end": 296.8,
+  "text": "an inherited core, which is a little more intensely pink than the remainder of",
+  "words": [
+   {
+    "start": 290.34,
+    "end": 290.66,
+    "text": "an"
+   },
+   {
+    "start": 290.66,
+    "end": 291.06,
+    "text": "inherited"
+   },
+   {
+    "start": 291.06,
+    "end": 291.54,
+    "text": "core,"
+   },
+   {
+    "start": 291.74,
+    "end": 291.86,
+    "text": "which"
+   },
+   {
+    "start": 291.86,
+    "end": 292.1,
+    "text": "is"
+   },
+   {
+    "start": 292.1,
+    "end": 292.36,
+    "text": "a"
+   },
+   {
+    "start": 292.36,
+    "end": 292.52,
+    "text": "little"
+   },
+   {
+    "start": 292.52,
+    "end": 292.84,
+    "text": "more"
+   },
+   {
+    "start": 292.84,
+    "end": 293.6,
+    "text": "intensely"
+   },
+   {
+    "start": 293.6,
+    "end": 294.1,
+    "text": "pink"
+   },
+   {
+    "start": 294.1,
+    "end": 295.0,
+    "text": "than"
+   },
+   {
+    "start": 295.0,
+    "end": 295.38,
+    "text": "the"
+   },
+   {
+    "start": 295.38,
+    "end": 296.16,
+    "text": "remainder"
+   },
+   {
+    "start": 296.16,
+    "end": 296.8,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 296.8,
+  "end": 303.68,
+  "text": "the zircon. This helps me identify inherited cores versus metamorphic or",
+  "words": [
+   {
+    "start": 296.8,
+    "end": 297.12,
+    "text": "the"
+   },
+   {
+    "start": 297.12,
+    "end": 297.72,
+    "text": "zircon."
+   },
+   {
+    "start": 298.44,
+    "end": 298.9,
+    "text": "This"
+   },
+   {
+    "start": 298.9,
+    "end": 299.2,
+    "text": "helps"
+   },
+   {
+    "start": 299.2,
+    "end": 299.44,
+    "text": "me"
+   },
+   {
+    "start": 299.44,
+    "end": 300.02,
+    "text": "identify"
+   },
+   {
+    "start": 300.02,
+    "end": 300.8,
+    "text": "inherited"
+   },
+   {
+    "start": 300.8,
+    "end": 301.36,
+    "text": "cores"
+   },
+   {
+    "start": 301.36,
+    "end": 302.06,
+    "text": "versus"
+   },
+   {
+    "start": 302.06,
+    "end": 303.5,
+    "text": "metamorphic"
+   },
+   {
+    "start": 303.5,
+    "end": 303.68,
+    "text": "or"
+   }
+  ]
+ },
+ {
+  "start": 303.68,
+  "end": 313.76,
+  "text": "igneous rims. This is a garnet with some color zoning to it. I don't know, you",
+  "words": [
+   {
+    "start": 303.68,
+    "end": 304.22,
+    "text": "igneous"
+   },
+   {
+    "start": 304.22,
+    "end": 304.94,
+    "text": "rims."
+   },
+   {
+    "start": 308.78,
+    "end": 309.42,
+    "text": "This"
+   },
+   {
+    "start": 309.42,
+    "end": 309.58,
+    "text": "is"
+   },
+   {
+    "start": 309.58,
+    "end": 309.7,
+    "text": "a"
+   },
+   {
+    "start": 309.7,
+    "end": 310.2,
+    "text": "garnet"
+   },
+   {
+    "start": 310.2,
+    "end": 310.44,
+    "text": "with"
+   },
+   {
+    "start": 310.44,
+    "end": 310.86,
+    "text": "some"
+   },
+   {
+    "start": 310.86,
+    "end": 311.62,
+    "text": "color"
+   },
+   {
+    "start": 311.62,
+    "end": 312.02,
+    "text": "zoning"
+   },
+   {
+    "start": 312.02,
+    "end": 312.3,
+    "text": "to"
+   },
+   {
+    "start": 312.3,
+    "end": 312.52,
+    "text": "it."
+   },
+   {
+    "start": 313.1,
+    "end": 313.22,
+    "text": "I"
+   },
+   {
+    "start": 313.22,
+    "end": 313.3,
+    "text": "don't"
+   },
+   {
+    "start": 313.3,
+    "end": 313.44,
+    "text": "know,"
+   },
+   {
+    "start": 313.58,
+    "end": 313.76,
+    "text": "you"
+   }
+  ]
+ },
+ {
+  "start": 313.76,
+  "end": 318.56,
+  "text": "can see it's completely garnet. Could you see that color zoning, though? It was",
+  "words": [
+   {
+    "start": 313.76,
+    "end": 313.9,
+    "text": "can"
+   },
+   {
+    "start": 313.9,
+    "end": 314.1,
+    "text": "see"
+   },
+   {
+    "start": 314.1,
+    "end": 314.38,
+    "text": "it's"
+   },
+   {
+    "start": 314.38,
+    "end": 314.84,
+    "text": "completely"
+   },
+   {
+    "start": 314.84,
+    "end": 315.38,
+    "text": "garnet."
+   },
+   {
+    "start": 315.94,
+    "end": 316.5,
+    "text": "Could"
+   },
+   {
+    "start": 316.5,
+    "end": 316.66,
+    "text": "you"
+   },
+   {
+    "start": 316.66,
+    "end": 316.86,
+    "text": "see"
+   },
+   {
+    "start": 316.86,
+    "end": 317.08,
+    "text": "that"
+   },
+   {
+    "start": 317.08,
+    "end": 317.38,
+    "text": "color"
+   },
+   {
+    "start": 317.38,
+    "end": 317.72,
+    "text": "zoning,"
+   },
+   {
+    "start": 317.76,
+    "end": 318.0,
+    "text": "though?"
+   },
+   {
+    "start": 318.3,
+    "end": 318.44,
+    "text": "It"
+   },
+   {
+    "start": 318.44,
+    "end": 318.56,
+    "text": "was"
+   }
+  ]
+ },
+ {
+  "start": 318.56,
+  "end": 323.52,
+  "text": "pretty subtle. The core is a little bit pinker than the rim. However, if I put in",
+  "words": [
+   {
+    "start": 318.56,
+    "end": 318.8,
+    "text": "pretty"
+   },
+   {
+    "start": 318.8,
+    "end": 319.2,
+    "text": "subtle."
+   },
+   {
+    "start": 319.46,
+    "end": 319.56,
+    "text": "The"
+   },
+   {
+    "start": 319.56,
+    "end": 319.84,
+    "text": "core"
+   },
+   {
+    "start": 319.84,
+    "end": 320.04,
+    "text": "is"
+   },
+   {
+    "start": 320.04,
+    "end": 320.16,
+    "text": "a"
+   },
+   {
+    "start": 320.16,
+    "end": 320.28,
+    "text": "little"
+   },
+   {
+    "start": 320.28,
+    "end": 320.46,
+    "text": "bit"
+   },
+   {
+    "start": 320.46,
+    "end": 320.96,
+    "text": "pinker"
+   },
+   {
+    "start": 320.96,
+    "end": 321.18,
+    "text": "than"
+   },
+   {
+    "start": 321.18,
+    "end": 321.38,
+    "text": "the"
+   },
+   {
+    "start": 321.38,
+    "end": 321.62,
+    "text": "rim."
+   },
+   {
+    "start": 322.48,
+    "end": 322.84,
+    "text": "However,"
+   },
+   {
+    "start": 322.94,
+    "end": 323.12,
+    "text": "if"
+   },
+   {
+    "start": 323.12,
+    "end": 323.22,
+    "text": "I"
+   },
+   {
+    "start": 323.22,
+    "end": 323.42,
+    "text": "put"
+   },
+   {
+    "start": 323.42,
+    "end": 323.52,
+    "text": "in"
+   }
+  ]
+ },
+ {
+  "start": 323.52,
+  "end": 330.18,
+  "text": "the substage condenser, then the core is much more distinctly pink than the rim.",
+  "words": [
+   {
+    "start": 323.52,
+    "end": 323.64,
+    "text": "the"
+   },
+   {
+    "start": 323.64,
+    "end": 324.16,
+    "text": "substage"
+   },
+   {
+    "start": 324.16,
+    "end": 324.88,
+    "text": "condenser,"
+   },
+   {
+    "start": 325.26,
+    "end": 326.26,
+    "text": "then"
+   },
+   {
+    "start": 326.26,
+    "end": 326.66,
+    "text": "the"
+   },
+   {
+    "start": 326.66,
+    "end": 327.1,
+    "text": "core"
+   },
+   {
+    "start": 327.1,
+    "end": 327.46,
+    "text": "is"
+   },
+   {
+    "start": 327.46,
+    "end": 327.68,
+    "text": "much"
+   },
+   {
+    "start": 327.68,
+    "end": 327.86,
+    "text": "more"
+   },
+   {
+    "start": 327.86,
+    "end": 328.62,
+    "text": "distinctly"
+   },
+   {
+    "start": 328.62,
+    "end": 328.98,
+    "text": "pink"
+   },
+   {
+    "start": 328.98,
+    "end": 329.76,
+    "text": "than"
+   },
+   {
+    "start": 329.76,
+    "end": 329.96,
+    "text": "the"
+   },
+   {
+    "start": 329.96,
+    "end": 330.18,
+    "text": "rim."
+   }
+  ]
+ },
+ {
+  "start": 331.42,
+  "end": 337.46,
+  "text": "I can show you some little boundaries here to make that clearer, but in normal",
+  "words": [
+   {
+    "start": 331.42,
+    "end": 331.78,
+    "text": "I"
+   },
+   {
+    "start": 331.78,
+    "end": 331.92,
+    "text": "can"
+   },
+   {
+    "start": 331.92,
+    "end": 332.1,
+    "text": "show"
+   },
+   {
+    "start": 332.1,
+    "end": 332.28,
+    "text": "you"
+   },
+   {
+    "start": 332.28,
+    "end": 332.64,
+    "text": "some"
+   },
+   {
+    "start": 332.64,
+    "end": 333.02,
+    "text": "little"
+   },
+   {
+    "start": 333.02,
+    "end": 333.48,
+    "text": "boundaries"
+   },
+   {
+    "start": 333.48,
+    "end": 333.98,
+    "text": "here"
+   },
+   {
+    "start": 333.98,
+    "end": 335.08,
+    "text": "to"
+   },
+   {
+    "start": 335.08,
+    "end": 335.26,
+    "text": "make"
+   },
+   {
+    "start": 335.26,
+    "end": 335.46,
+    "text": "that"
+   },
+   {
+    "start": 335.46,
+    "end": 335.86,
+    "text": "clearer,"
+   },
+   {
+    "start": 336.12,
+    "end": 336.4,
+    "text": "but"
+   },
+   {
+    "start": 336.4,
+    "end": 336.9,
+    "text": "in"
+   },
+   {
+    "start": 336.9,
+    "end": 337.46,
+    "text": "normal"
+   }
+  ]
+ },
+ {
+  "start": 337.46,
+  "end": 341.82,
+  "text": "polarized light, it's very hard to see this. The substage condenser makes a big",
+  "words": [
+   {
+    "start": 337.46,
+    "end": 338.06,
+    "text": "polarized"
+   },
+   {
+    "start": 338.06,
+    "end": 338.44,
+    "text": "light,"
+   },
+   {
+    "start": 338.5,
+    "end": 338.64,
+    "text": "it's"
+   },
+   {
+    "start": 338.64,
+    "end": 338.84,
+    "text": "very"
+   },
+   {
+    "start": 338.84,
+    "end": 339.06,
+    "text": "hard"
+   },
+   {
+    "start": 339.06,
+    "end": 339.24,
+    "text": "to"
+   },
+   {
+    "start": 339.24,
+    "end": 339.4,
+    "text": "see"
+   },
+   {
+    "start": 339.4,
+    "end": 339.62,
+    "text": "this."
+   },
+   {
+    "start": 340.12,
+    "end": 340.28,
+    "text": "The"
+   },
+   {
+    "start": 340.28,
+    "end": 340.76,
+    "text": "substage"
+   },
+   {
+    "start": 340.76,
+    "end": 341.24,
+    "text": "condenser"
+   },
+   {
+    "start": 341.24,
+    "end": 341.48,
+    "text": "makes"
+   },
+   {
+    "start": 341.48,
+    "end": 341.66,
+    "text": "a"
+   },
+   {
+    "start": 341.66,
+    "end": 341.82,
+    "text": "big"
+   }
+  ]
+ },
+ {
+  "start": 341.82,
+  "end": 346.9,
+  "text": "difference. This reflects chemical zoning, but in exactly which elements you",
+  "words": [
+   {
+    "start": 341.82,
+    "end": 342.28,
+    "text": "difference."
+   },
+   {
+    "start": 342.78,
+    "end": 343.28,
+    "text": "This"
+   },
+   {
+    "start": 343.28,
+    "end": 343.64,
+    "text": "reflects"
+   },
+   {
+    "start": 343.64,
+    "end": 344.04,
+    "text": "chemical"
+   },
+   {
+    "start": 344.04,
+    "end": 344.52,
+    "text": "zoning,"
+   },
+   {
+    "start": 344.52,
+    "end": 345.02,
+    "text": "but"
+   },
+   {
+    "start": 345.02,
+    "end": 345.46,
+    "text": "in"
+   },
+   {
+    "start": 345.46,
+    "end": 345.94,
+    "text": "exactly"
+   },
+   {
+    "start": 345.94,
+    "end": 346.22,
+    "text": "which"
+   },
+   {
+    "start": 346.22,
+    "end": 346.64,
+    "text": "elements"
+   },
+   {
+    "start": 346.64,
+    "end": 346.9,
+    "text": "you"
+   }
+  ]
+ },
+ {
+  "start": 346.9,
+  "end": 352.86,
+  "text": "need an electron probe to figure that out. It's important to distinguish color",
+  "words": [
+   {
+    "start": 346.9,
+    "end": 347.18,
+    "text": "need"
+   },
+   {
+    "start": 347.18,
+    "end": 347.36,
+    "text": "an"
+   },
+   {
+    "start": 347.36,
+    "end": 347.72,
+    "text": "electron"
+   },
+   {
+    "start": 347.72,
+    "end": 348.16,
+    "text": "probe"
+   },
+   {
+    "start": 348.16,
+    "end": 348.4,
+    "text": "to"
+   },
+   {
+    "start": 348.4,
+    "end": 348.66,
+    "text": "figure"
+   },
+   {
+    "start": 348.66,
+    "end": 348.86,
+    "text": "that"
+   },
+   {
+    "start": 348.86,
+    "end": 349.08,
+    "text": "out."
+   },
+   {
+    "start": 350.34,
+    "end": 350.8,
+    "text": "It's"
+   },
+   {
+    "start": 350.8,
+    "end": 351.2,
+    "text": "important"
+   },
+   {
+    "start": 351.2,
+    "end": 351.48,
+    "text": "to"
+   },
+   {
+    "start": 351.48,
+    "end": 351.98,
+    "text": "distinguish"
+   },
+   {
+    "start": 351.98,
+    "end": 352.86,
+    "text": "color"
+   }
+  ]
+ },
+ {
+  "start": 352.86,
+  "end": 358.02,
+  "text": "zoning from textural zoning. Here's a garnet that has more inclusions in the",
+  "words": [
+   {
+    "start": 352.86,
+    "end": 353.34,
+    "text": "zoning"
+   },
+   {
+    "start": 353.34,
+    "end": 354.24,
+    "text": "from"
+   },
+   {
+    "start": 354.24,
+    "end": 354.8,
+    "text": "textural"
+   },
+   {
+    "start": 354.8,
+    "end": 355.24,
+    "text": "zoning."
+   },
+   {
+    "start": 355.76,
+    "end": 356.06,
+    "text": "Here's"
+   },
+   {
+    "start": 356.06,
+    "end": 356.16,
+    "text": "a"
+   },
+   {
+    "start": 356.16,
+    "end": 356.42,
+    "text": "garnet"
+   },
+   {
+    "start": 356.42,
+    "end": 356.58,
+    "text": "that"
+   },
+   {
+    "start": 356.58,
+    "end": 356.8,
+    "text": "has"
+   },
+   {
+    "start": 356.8,
+    "end": 357.04,
+    "text": "more"
+   },
+   {
+    "start": 357.04,
+    "end": 357.7,
+    "text": "inclusions"
+   },
+   {
+    "start": 357.7,
+    "end": 357.9,
+    "text": "in"
+   },
+   {
+    "start": 357.9,
+    "end": 358.02,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 358.02,
+  "end": 363.02,
+  "text": "core than on the rim. That doesn't mean it's chemically zoned. It could be, but",
+  "words": [
+   {
+    "start": 358.02,
+    "end": 358.24,
+    "text": "core"
+   },
+   {
+    "start": 358.24,
+    "end": 358.46,
+    "text": "than"
+   },
+   {
+    "start": 358.46,
+    "end": 358.66,
+    "text": "on"
+   },
+   {
+    "start": 358.66,
+    "end": 358.84,
+    "text": "the"
+   },
+   {
+    "start": 358.84,
+    "end": 359.04,
+    "text": "rim."
+   },
+   {
+    "start": 359.54,
+    "end": 359.66,
+    "text": "That"
+   },
+   {
+    "start": 359.66,
+    "end": 359.9,
+    "text": "doesn't"
+   },
+   {
+    "start": 359.9,
+    "end": 360.12,
+    "text": "mean"
+   },
+   {
+    "start": 360.12,
+    "end": 360.32,
+    "text": "it's"
+   },
+   {
+    "start": 360.32,
+    "end": 360.74,
+    "text": "chemically"
+   },
+   {
+    "start": 360.74,
+    "end": 361.08,
+    "text": "zoned."
+   },
+   {
+    "start": 361.46,
+    "end": 361.54,
+    "text": "It"
+   },
+   {
+    "start": 361.54,
+    "end": 361.78,
+    "text": "could"
+   },
+   {
+    "start": 361.78,
+    "end": 362.06,
+    "text": "be,"
+   },
+   {
+    "start": 362.58,
+    "end": 363.02,
+    "text": "but"
+   }
+  ]
+ },
+ {
+  "start": 363.02,
+  "end": 367.14,
+  "text": "mostly what you're seeing is a textural zonation, not a color or chemical",
+  "words": [
+   {
+    "start": 363.02,
+    "end": 363.76,
+    "text": "mostly"
+   },
+   {
+    "start": 363.76,
+    "end": 363.96,
+    "text": "what"
+   },
+   {
+    "start": 363.96,
+    "end": 364.1,
+    "text": "you're"
+   },
+   {
+    "start": 364.1,
+    "end": 364.28,
+    "text": "seeing"
+   },
+   {
+    "start": 364.28,
+    "end": 364.48,
+    "text": "is"
+   },
+   {
+    "start": 364.48,
+    "end": 364.58,
+    "text": "a"
+   },
+   {
+    "start": 364.58,
+    "end": 365.12,
+    "text": "textural"
+   },
+   {
+    "start": 365.12,
+    "end": 365.66,
+    "text": "zonation,"
+   },
+   {
+    "start": 365.66,
+    "end": 366.02,
+    "text": "not"
+   },
+   {
+    "start": 366.02,
+    "end": 366.26,
+    "text": "a"
+   },
+   {
+    "start": 366.26,
+    "end": 366.54,
+    "text": "color"
+   },
+   {
+    "start": 366.54,
+    "end": 366.8,
+    "text": "or"
+   },
+   {
+    "start": 366.8,
+    "end": 367.14,
+    "text": "chemical"
+   }
+  ]
+ },
+ {
+  "start": 367.14,
+  "end": 376.16,
+  "text": "zonation. One last example of color zoning. This is epidote group minerals. The",
+  "words": [
+   {
+    "start": 367.14,
+    "end": 367.82,
+    "text": "zonation."
+   },
+   {
+    "start": 370.66,
+    "end": 371.22,
+    "text": "One"
+   },
+   {
+    "start": 371.22,
+    "end": 371.62,
+    "text": "last"
+   },
+   {
+    "start": 371.62,
+    "end": 372.16,
+    "text": "example"
+   },
+   {
+    "start": 372.16,
+    "end": 372.74,
+    "text": "of"
+   },
+   {
+    "start": 372.74,
+    "end": 373.22,
+    "text": "color"
+   },
+   {
+    "start": 373.22,
+    "end": 373.92,
+    "text": "zoning."
+   },
+   {
+    "start": 374.14,
+    "end": 374.18,
+    "text": "This"
+   },
+   {
+    "start": 374.18,
+    "end": 374.42,
+    "text": "is"
+   },
+   {
+    "start": 374.42,
+    "end": 375.28,
+    "text": "epidote"
+   },
+   {
+    "start": 375.28,
+    "end": 375.52,
+    "text": "group"
+   },
+   {
+    "start": 375.52,
+    "end": 375.88,
+    "text": "minerals."
+   },
+   {
+    "start": 376.12,
+    "end": 376.16,
+    "text": "The"
+   }
+  ]
+ },
+ {
+  "start": 376.16,
+  "end": 382.36,
+  "text": "core has low manganese. The rims that are distinctly pink and orange have high",
+  "words": [
+   {
+    "start": 376.16,
+    "end": 376.64,
+    "text": "core"
+   },
+   {
+    "start": 376.64,
+    "end": 377.08,
+    "text": "has"
+   },
+   {
+    "start": 377.08,
+    "end": 377.44,
+    "text": "low"
+   },
+   {
+    "start": 377.44,
+    "end": 378.12,
+    "text": "manganese."
+   },
+   {
+    "start": 378.66,
+    "end": 378.72,
+    "text": "The"
+   },
+   {
+    "start": 378.72,
+    "end": 379.14,
+    "text": "rims"
+   },
+   {
+    "start": 379.14,
+    "end": 379.26,
+    "text": "that"
+   },
+   {
+    "start": 379.26,
+    "end": 379.38,
+    "text": "are"
+   },
+   {
+    "start": 379.38,
+    "end": 379.92,
+    "text": "distinctly"
+   },
+   {
+    "start": 379.92,
+    "end": 380.24,
+    "text": "pink"
+   },
+   {
+    "start": 380.24,
+    "end": 380.5,
+    "text": "and"
+   },
+   {
+    "start": 380.5,
+    "end": 381.0,
+    "text": "orange"
+   },
+   {
+    "start": 381.0,
+    "end": 381.88,
+    "text": "have"
+   },
+   {
+    "start": 381.88,
+    "end": 382.36,
+    "text": "high"
+   }
+  ]
+ },
+ {
+  "start": 382.36,
+  "end": 388.48,
+  "text": "manganese. That's a chemical zoning that manifests itself as pleochroic",
+  "words": [
+   {
+    "start": 382.36,
+    "end": 383.02,
+    "text": "manganese."
+   },
+   {
+    "start": 383.24,
+    "end": 383.76,
+    "text": "That's"
+   },
+   {
+    "start": 383.76,
+    "end": 383.86,
+    "text": "a"
+   },
+   {
+    "start": 383.86,
+    "end": 384.2,
+    "text": "chemical"
+   },
+   {
+    "start": 384.2,
+    "end": 384.64,
+    "text": "zoning"
+   },
+   {
+    "start": 384.64,
+    "end": 385.46,
+    "text": "that"
+   },
+   {
+    "start": 385.46,
+    "end": 386.4,
+    "text": "manifests"
+   },
+   {
+    "start": 386.4,
+    "end": 386.98,
+    "text": "itself"
+   },
+   {
+    "start": 386.98,
+    "end": 387.6,
+    "text": "as"
+   },
+   {
+    "start": 387.6,
+    "end": 388.48,
+    "text": "pleochroic"
+   }
+  ]
+ },
+ {
+  "start": 388.48,
+  "end": 389.1,
+  "text": "differences.",
+  "words": [
+   {
+    "start": 388.48,
+    "end": 389.1,
+    "text": "differences."
+   }
+  ]
+ }
+]

@@ -1,0 +1,1136 @@
+[
+ {
+  "start": 0.0,
+  "end": 6.0,
+  "text": "This is a graphite marble. Graphite is all the super fine-grained black stuff in",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.82,
+    "text": "This"
+   },
+   {
+    "start": 0.82,
+    "end": 0.94,
+    "text": "is"
+   },
+   {
+    "start": 0.94,
+    "end": 1.04,
+    "text": "a"
+   },
+   {
+    "start": 1.04,
+    "end": 1.64,
+    "text": "graphite"
+   },
+   {
+    "start": 1.64,
+    "end": 2.0,
+    "text": "marble."
+   },
+   {
+    "start": 2.34,
+    "end": 2.66,
+    "text": "Graphite"
+   },
+   {
+    "start": 2.66,
+    "end": 2.94,
+    "text": "is"
+   },
+   {
+    "start": 2.94,
+    "end": 3.12,
+    "text": "all"
+   },
+   {
+    "start": 3.12,
+    "end": 3.32,
+    "text": "the"
+   },
+   {
+    "start": 3.32,
+    "end": 3.72,
+    "text": "super"
+   },
+   {
+    "start": 3.72,
+    "end": 3.98,
+    "text": "fine"
+   },
+   {
+    "start": 3.98,
+    "end": 4.32,
+    "text": "-grained"
+   },
+   {
+    "start": 4.32,
+    "end": 4.66,
+    "text": "black"
+   },
+   {
+    "start": 4.66,
+    "end": 5.6,
+    "text": "stuff"
+   },
+   {
+    "start": 5.6,
+    "end": 6.0,
+    "text": "in"
+   }
+  ]
+ },
+ {
+  "start": 6.0,
+  "end": 10.4,
+  "text": "there. And that's typically what graphite looks like. It's just fine-grained, forms",
+  "words": [
+   {
+    "start": 6.0,
+    "end": 6.22,
+    "text": "there."
+   },
+   {
+    "start": 6.74,
+    "end": 7.08,
+    "text": "And"
+   },
+   {
+    "start": 7.08,
+    "end": 7.32,
+    "text": "that's"
+   },
+   {
+    "start": 7.32,
+    "end": 7.54,
+    "text": "typically"
+   },
+   {
+    "start": 7.54,
+    "end": 7.84,
+    "text": "what"
+   },
+   {
+    "start": 7.84,
+    "end": 8.36,
+    "text": "graphite"
+   },
+   {
+    "start": 8.36,
+    "end": 8.56,
+    "text": "looks"
+   },
+   {
+    "start": 8.56,
+    "end": 8.82,
+    "text": "like."
+   },
+   {
+    "start": 8.84,
+    "end": 8.94,
+    "text": "It's"
+   },
+   {
+    "start": 8.94,
+    "end": 9.06,
+    "text": "just"
+   },
+   {
+    "start": 9.06,
+    "end": 9.32,
+    "text": "fine"
+   },
+   {
+    "start": 9.32,
+    "end": 9.76,
+    "text": "-grained,"
+   },
+   {
+    "start": 10.06,
+    "end": 10.4,
+    "text": "forms"
+   }
+  ]
+ },
+ {
+  "start": 10.4,
+  "end": 15.9,
+  "text": "these little bands. A lot of times they reflect original sedimentary bedding. Here",
+  "words": [
+   {
+    "start": 10.4,
+    "end": 10.58,
+    "text": "these"
+   },
+   {
+    "start": 10.58,
+    "end": 10.8,
+    "text": "little"
+   },
+   {
+    "start": 10.8,
+    "end": 11.28,
+    "text": "bands."
+   },
+   {
+    "start": 11.62,
+    "end": 11.74,
+    "text": "A"
+   },
+   {
+    "start": 11.74,
+    "end": 11.92,
+    "text": "lot"
+   },
+   {
+    "start": 11.92,
+    "end": 12.04,
+    "text": "of"
+   },
+   {
+    "start": 12.04,
+    "end": 12.34,
+    "text": "times"
+   },
+   {
+    "start": 12.34,
+    "end": 12.6,
+    "text": "they"
+   },
+   {
+    "start": 12.6,
+    "end": 13.24,
+    "text": "reflect"
+   },
+   {
+    "start": 13.24,
+    "end": 14.2,
+    "text": "original"
+   },
+   {
+    "start": 14.2,
+    "end": 14.98,
+    "text": "sedimentary"
+   },
+   {
+    "start": 14.98,
+    "end": 15.38,
+    "text": "bedding."
+   },
+   {
+    "start": 15.72,
+    "end": 15.9,
+    "text": "Here"
+   }
+  ]
+ },
+ {
+  "start": 15.9,
+  "end": 19.84,
+  "text": "you can see the nice interference colors of the calcite.",
+  "words": [
+   {
+    "start": 15.9,
+    "end": 16.04,
+    "text": "you"
+   },
+   {
+    "start": 16.04,
+    "end": 16.18,
+    "text": "can"
+   },
+   {
+    "start": 16.18,
+    "end": 16.34,
+    "text": "see"
+   },
+   {
+    "start": 16.34,
+    "end": 16.56,
+    "text": "the"
+   },
+   {
+    "start": 16.56,
+    "end": 17.0,
+    "text": "nice"
+   },
+   {
+    "start": 17.0,
+    "end": 17.54,
+    "text": "interference"
+   },
+   {
+    "start": 17.54,
+    "end": 17.92,
+    "text": "colors"
+   },
+   {
+    "start": 17.92,
+    "end": 18.94,
+    "text": "of"
+   },
+   {
+    "start": 18.94,
+    "end": 19.18,
+    "text": "the"
+   },
+   {
+    "start": 19.18,
+    "end": 19.84,
+    "text": "calcite."
+   }
+  ]
+ },
+ {
+  "start": 30.74,
+  "end": 38.3,
+  "text": "More graphite rich layers that are essentially black with some clay rich",
+  "words": [
+   {
+    "start": 30.74,
+    "end": 31.78,
+    "text": "More"
+   },
+   {
+    "start": 31.78,
+    "end": 32.48,
+    "text": "graphite"
+   },
+   {
+    "start": 32.48,
+    "end": 32.76,
+    "text": "rich"
+   },
+   {
+    "start": 32.76,
+    "end": 33.36,
+    "text": "layers"
+   },
+   {
+    "start": 33.36,
+    "end": 33.72,
+    "text": "that"
+   },
+   {
+    "start": 33.72,
+    "end": 33.92,
+    "text": "are"
+   },
+   {
+    "start": 33.92,
+    "end": 34.34,
+    "text": "essentially"
+   },
+   {
+    "start": 34.34,
+    "end": 34.82,
+    "text": "black"
+   },
+   {
+    "start": 34.82,
+    "end": 36.2,
+    "text": "with"
+   },
+   {
+    "start": 36.2,
+    "end": 36.8,
+    "text": "some"
+   },
+   {
+    "start": 36.8,
+    "end": 37.74,
+    "text": "clay"
+   },
+   {
+    "start": 37.74,
+    "end": 38.3,
+    "text": "rich"
+   }
+  ]
+ },
+ {
+  "start": 38.3,
+  "end": 44.14,
+  "text": "now muscovite rich bands that interspers with the graphite rich layers.",
+  "words": [
+   {
+    "start": 38.3,
+    "end": 38.98,
+    "text": "now"
+   },
+   {
+    "start": 38.98,
+    "end": 39.8,
+    "text": "muscovite"
+   },
+   {
+    "start": 39.8,
+    "end": 40.46,
+    "text": "rich"
+   },
+   {
+    "start": 40.46,
+    "end": 41.44,
+    "text": "bands"
+   },
+   {
+    "start": 41.44,
+    "end": 41.9,
+    "text": "that"
+   },
+   {
+    "start": 41.9,
+    "end": 42.56,
+    "text": "interspers"
+   },
+   {
+    "start": 42.56,
+    "end": 42.84,
+    "text": "with"
+   },
+   {
+    "start": 42.84,
+    "end": 43.14,
+    "text": "the"
+   },
+   {
+    "start": 43.14,
+    "end": 43.6,
+    "text": "graphite"
+   },
+   {
+    "start": 43.6,
+    "end": 43.78,
+    "text": "rich"
+   },
+   {
+    "start": 43.78,
+    "end": 44.14,
+    "text": "layers."
+   }
+  ]
+ },
+ {
+  "start": 61.82,
+  "end": 66.9,
+  "text": "This is an interesting one. In the center of the field of view is muscovite that",
+  "words": [
+   {
+    "start": 61.82,
+    "end": 62.3,
+    "text": "This"
+   },
+   {
+    "start": 62.3,
+    "end": 62.44,
+    "text": "is"
+   },
+   {
+    "start": 62.44,
+    "end": 62.58,
+    "text": "an"
+   },
+   {
+    "start": 62.58,
+    "end": 62.96,
+    "text": "interesting"
+   },
+   {
+    "start": 62.96,
+    "end": 63.3,
+    "text": "one."
+   },
+   {
+    "start": 63.88,
+    "end": 64.04,
+    "text": "In"
+   },
+   {
+    "start": 64.04,
+    "end": 64.18,
+    "text": "the"
+   },
+   {
+    "start": 64.18,
+    "end": 64.48,
+    "text": "center"
+   },
+   {
+    "start": 64.48,
+    "end": 64.9,
+    "text": "of"
+   },
+   {
+    "start": 64.9,
+    "end": 65.02,
+    "text": "the"
+   },
+   {
+    "start": 65.02,
+    "end": 65.2,
+    "text": "field"
+   },
+   {
+    "start": 65.2,
+    "end": 65.38,
+    "text": "of"
+   },
+   {
+    "start": 65.38,
+    "end": 65.56,
+    "text": "view"
+   },
+   {
+    "start": 65.56,
+    "end": 65.84,
+    "text": "is"
+   },
+   {
+    "start": 65.84,
+    "end": 66.58,
+    "text": "muscovite"
+   },
+   {
+    "start": 66.58,
+    "end": 66.9,
+    "text": "that"
+   }
+  ]
+ },
+ {
+  "start": 66.9,
+  "end": 71.06,
+  "text": "has a bunch of graphite inclusions in it. But there's also garnet, which is the",
+  "words": [
+   {
+    "start": 66.9,
+    "end": 67.1,
+    "text": "has"
+   },
+   {
+    "start": 67.1,
+    "end": 67.18,
+    "text": "a"
+   },
+   {
+    "start": 67.18,
+    "end": 67.32,
+    "text": "bunch"
+   },
+   {
+    "start": 67.32,
+    "end": 67.42,
+    "text": "of"
+   },
+   {
+    "start": 67.42,
+    "end": 67.78,
+    "text": "graphite"
+   },
+   {
+    "start": 67.78,
+    "end": 68.34,
+    "text": "inclusions"
+   },
+   {
+    "start": 68.34,
+    "end": 68.48,
+    "text": "in"
+   },
+   {
+    "start": 68.48,
+    "end": 68.7,
+    "text": "it."
+   },
+   {
+    "start": 68.92,
+    "end": 69.22,
+    "text": "But"
+   },
+   {
+    "start": 69.22,
+    "end": 69.42,
+    "text": "there's"
+   },
+   {
+    "start": 69.42,
+    "end": 69.84,
+    "text": "also"
+   },
+   {
+    "start": 69.84,
+    "end": 70.52,
+    "text": "garnet,"
+   },
+   {
+    "start": 70.6,
+    "end": 70.76,
+    "text": "which"
+   },
+   {
+    "start": 70.76,
+    "end": 70.9,
+    "text": "is"
+   },
+   {
+    "start": 70.9,
+    "end": 71.06,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 71.06,
+  "end": 77.78,
+  "text": "high-relief crystal that is now just to the right at the edge, that also has a",
+  "words": [
+   {
+    "start": 71.06,
+    "end": 71.38,
+    "text": "high"
+   },
+   {
+    "start": 71.38,
+    "end": 71.76,
+    "text": "-relief"
+   },
+   {
+    "start": 71.76,
+    "end": 72.2,
+    "text": "crystal"
+   },
+   {
+    "start": 72.2,
+    "end": 72.9,
+    "text": "that"
+   },
+   {
+    "start": 72.9,
+    "end": 73.04,
+    "text": "is"
+   },
+   {
+    "start": 73.04,
+    "end": 73.28,
+    "text": "now"
+   },
+   {
+    "start": 73.28,
+    "end": 73.54,
+    "text": "just"
+   },
+   {
+    "start": 73.54,
+    "end": 73.7,
+    "text": "to"
+   },
+   {
+    "start": 73.7,
+    "end": 73.92,
+    "text": "the"
+   },
+   {
+    "start": 73.92,
+    "end": 74.1,
+    "text": "right"
+   },
+   {
+    "start": 74.1,
+    "end": 75.56,
+    "text": "at"
+   },
+   {
+    "start": 75.56,
+    "end": 75.72,
+    "text": "the"
+   },
+   {
+    "start": 75.72,
+    "end": 76.04,
+    "text": "edge,"
+   },
+   {
+    "start": 76.28,
+    "end": 77.04,
+    "text": "that"
+   },
+   {
+    "start": 77.04,
+    "end": 77.42,
+    "text": "also"
+   },
+   {
+    "start": 77.42,
+    "end": 77.66,
+    "text": "has"
+   },
+   {
+    "start": 77.66,
+    "end": 77.78,
+    "text": "a"
+   }
+  ]
+ },
+ {
+  "start": 77.78,
+  "end": 82.56,
+  "text": "bunch of graphite inclusions in it. So you can see the muscovite is bent and it",
+  "words": [
+   {
+    "start": 77.78,
+    "end": 77.9,
+    "text": "bunch"
+   },
+   {
+    "start": 77.9,
+    "end": 78.02,
+    "text": "of"
+   },
+   {
+    "start": 78.02,
+    "end": 78.44,
+    "text": "graphite"
+   },
+   {
+    "start": 78.44,
+    "end": 79.14,
+    "text": "inclusions"
+   },
+   {
+    "start": 79.14,
+    "end": 79.34,
+    "text": "in"
+   },
+   {
+    "start": 79.34,
+    "end": 79.52,
+    "text": "it."
+   },
+   {
+    "start": 80.02,
+    "end": 80.44,
+    "text": "So"
+   },
+   {
+    "start": 80.44,
+    "end": 80.6,
+    "text": "you"
+   },
+   {
+    "start": 80.6,
+    "end": 80.74,
+    "text": "can"
+   },
+   {
+    "start": 80.74,
+    "end": 80.98,
+    "text": "see"
+   },
+   {
+    "start": 80.98,
+    "end": 81.2,
+    "text": "the"
+   },
+   {
+    "start": 81.2,
+    "end": 81.76,
+    "text": "muscovite"
+   },
+   {
+    "start": 81.76,
+    "end": 81.92,
+    "text": "is"
+   },
+   {
+    "start": 81.92,
+    "end": 82.16,
+    "text": "bent"
+   },
+   {
+    "start": 82.16,
+    "end": 82.38,
+    "text": "and"
+   },
+   {
+    "start": 82.38,
+    "end": 82.56,
+    "text": "it"
+   }
+  ]
+ },
+ {
+  "start": 82.56,
+  "end": 88.06,
+  "text": "has that ungulus extinction. But that's really typical is to see this fine-grained",
+  "words": [
+   {
+    "start": 82.56,
+    "end": 82.74,
+    "text": "has"
+   },
+   {
+    "start": 82.74,
+    "end": 83.04,
+    "text": "that"
+   },
+   {
+    "start": 83.04,
+    "end": 83.46,
+    "text": "ungulus"
+   },
+   {
+    "start": 83.46,
+    "end": 84.08,
+    "text": "extinction."
+   },
+   {
+    "start": 84.9,
+    "end": 85.18,
+    "text": "But"
+   },
+   {
+    "start": 85.18,
+    "end": 85.4,
+    "text": "that's"
+   },
+   {
+    "start": 85.4,
+    "end": 85.56,
+    "text": "really"
+   },
+   {
+    "start": 85.56,
+    "end": 85.86,
+    "text": "typical"
+   },
+   {
+    "start": 85.86,
+    "end": 86.14,
+    "text": "is"
+   },
+   {
+    "start": 86.14,
+    "end": 86.28,
+    "text": "to"
+   },
+   {
+    "start": 86.28,
+    "end": 86.48,
+    "text": "see"
+   },
+   {
+    "start": 86.48,
+    "end": 86.72,
+    "text": "this"
+   },
+   {
+    "start": 86.72,
+    "end": 87.42,
+    "text": "fine"
+   },
+   {
+    "start": 87.42,
+    "end": 88.06,
+    "text": "-grained"
+   }
+  ]
+ },
+ {
+  "start": 88.06,
+  "end": 97.44,
+  "text": "layering in muscovite and in garnet. And then just one more graphite rich layers",
+  "words": [
+   {
+    "start": 88.06,
+    "end": 88.64,
+    "text": "layering"
+   },
+   {
+    "start": 88.64,
+    "end": 89.14,
+    "text": "in"
+   },
+   {
+    "start": 89.14,
+    "end": 90.28,
+    "text": "muscovite"
+   },
+   {
+    "start": 90.28,
+    "end": 90.64,
+    "text": "and"
+   },
+   {
+    "start": 90.64,
+    "end": 90.88,
+    "text": "in"
+   },
+   {
+    "start": 90.88,
+    "end": 91.38,
+    "text": "garnet."
+   },
+   {
+    "start": 94.02,
+    "end": 94.74,
+    "text": "And"
+   },
+   {
+    "start": 94.74,
+    "end": 95.0,
+    "text": "then"
+   },
+   {
+    "start": 95.0,
+    "end": 95.22,
+    "text": "just"
+   },
+   {
+    "start": 95.22,
+    "end": 95.5,
+    "text": "one"
+   },
+   {
+    "start": 95.5,
+    "end": 95.86,
+    "text": "more"
+   },
+   {
+    "start": 95.86,
+    "end": 96.86,
+    "text": "graphite"
+   },
+   {
+    "start": 96.86,
+    "end": 97.06,
+    "text": "rich"
+   },
+   {
+    "start": 97.06,
+    "end": 97.44,
+    "text": "layers"
+   }
+  ]
+ },
+ {
+  "start": 97.44,
+  "end": 103.86,
+  "text": "interspersed with actually quartz rich non-graphitic layers. So this is at low",
+  "words": [
+   {
+    "start": 97.44,
+    "end": 98.16,
+    "text": "interspersed"
+   },
+   {
+    "start": 98.16,
+    "end": 98.32,
+    "text": "with"
+   },
+   {
+    "start": 98.32,
+    "end": 99.08,
+    "text": "actually"
+   },
+   {
+    "start": 99.08,
+    "end": 99.4,
+    "text": "quartz"
+   },
+   {
+    "start": 99.4,
+    "end": 99.8,
+    "text": "rich"
+   },
+   {
+    "start": 99.8,
+    "end": 100.54,
+    "text": "non"
+   },
+   {
+    "start": 100.54,
+    "end": 100.98,
+    "text": "-graphitic"
+   },
+   {
+    "start": 100.98,
+    "end": 101.36,
+    "text": "layers."
+   },
+   {
+    "start": 102.26,
+    "end": 102.58,
+    "text": "So"
+   },
+   {
+    "start": 102.58,
+    "end": 102.76,
+    "text": "this"
+   },
+   {
+    "start": 102.76,
+    "end": 102.94,
+    "text": "is"
+   },
+   {
+    "start": 102.94,
+    "end": 103.24,
+    "text": "at"
+   },
+   {
+    "start": 103.24,
+    "end": 103.86,
+    "text": "low"
+   }
+  ]
+ },
+ {
+  "start": 103.86,
+  "end": 108.12,
+  "text": "magnification and then I'll go across the polars and then I'll go to higher",
+  "words": [
+   {
+    "start": 103.86,
+    "end": 104.48,
+    "text": "magnification"
+   },
+   {
+    "start": 104.48,
+    "end": 105.1,
+    "text": "and"
+   },
+   {
+    "start": 105.1,
+    "end": 105.26,
+    "text": "then"
+   },
+   {
+    "start": 105.26,
+    "end": 105.42,
+    "text": "I'll"
+   },
+   {
+    "start": 105.42,
+    "end": 105.6,
+    "text": "go"
+   },
+   {
+    "start": 105.6,
+    "end": 106.26,
+    "text": "across"
+   },
+   {
+    "start": 106.26,
+    "end": 106.44,
+    "text": "the"
+   },
+   {
+    "start": 106.44,
+    "end": 106.76,
+    "text": "polars"
+   },
+   {
+    "start": 106.76,
+    "end": 107.08,
+    "text": "and"
+   },
+   {
+    "start": 107.08,
+    "end": 107.62,
+    "text": "then"
+   },
+   {
+    "start": 107.62,
+    "end": 107.74,
+    "text": "I'll"
+   },
+   {
+    "start": 107.74,
+    "end": 107.84,
+    "text": "go"
+   },
+   {
+    "start": 107.84,
+    "end": 107.88,
+    "text": "to"
+   },
+   {
+    "start": 107.88,
+    "end": 108.12,
+    "text": "higher"
+   }
+  ]
+ },
+ {
+  "start": 108.12,
+  "end": 111.0,
+  "text": "magnification. You can see those granulations really nicely.",
+  "words": [
+   {
+    "start": 108.12,
+    "end": 108.8,
+    "text": "magnification."
+   },
+   {
+    "start": 108.98,
+    "end": 109.06,
+    "text": "You"
+   },
+   {
+    "start": 109.06,
+    "end": 109.18,
+    "text": "can"
+   },
+   {
+    "start": 109.18,
+    "end": 109.38,
+    "text": "see"
+   },
+   {
+    "start": 109.38,
+    "end": 109.66,
+    "text": "those"
+   },
+   {
+    "start": 109.66,
+    "end": 110.26,
+    "text": "granulations"
+   },
+   {
+    "start": 110.26,
+    "end": 110.64,
+    "text": "really"
+   },
+   {
+    "start": 110.64,
+    "end": 111.0,
+    "text": "nicely."
+   }
+  ]
+ },
+ {
+  "start": 139.48,
+  "end": 140.88,
+  "text": "you",
+  "words": [
+   {
+    "start": 139.48,
+    "end": 140.88,
+    "text": "you"
+   }
+  ]
+ },
+ {
+  "start": 162.58,
+  "end": 163.98,
+  "text": "you",
+  "words": [
+   {
+    "start": 162.58,
+    "end": 163.98,
+    "text": "you"
+   }
+  ]
+ }
+]

@@ -1,0 +1,406 @@
+/* Light Slides prototype — aligned with rxndb/pkft docs style.
+   Inter, flat hairline cards, light default + dark toggle. */
+
+:root {
+  --hue: 215;
+  --sat: 6%;
+  --bg: #fff;
+  --panel: #fafafa;
+  --ink: #1a1a1a;
+  --muted: #5c5c5c;
+  --link: #3b5cf6;
+  --link-hover: #3250df;
+  --hairline: rgb(0 0 0 / 0.08);
+  --hairline-strong: rgb(0 0 0 / 0.2);
+  --radius: 6px;
+  --stage: #000;
+  color-scheme: light;
+}
+
+.dark-mode {
+  --bg: hsl(var(--hue), var(--sat), 14%);
+  --panel: hsl(var(--hue), var(--sat), 17%);
+  --ink: hsl(var(--hue), var(--sat), 94%);
+  --muted: hsl(var(--hue), var(--sat), 62%);
+  --link: #7698fd;
+  --link-hover: #9db4fe;
+  --hairline: rgb(255 255 255 / 0.08);
+  --hairline-strong: rgb(255 255 255 / 0.2);
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family:
+    Inter,
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  font-variant-numeric: tabular-nums;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 530;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+a {
+  color: var(--link);
+}
+a:hover {
+  color: var(--link-hover);
+}
+
+:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 2px;
+}
+
+.skip {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: var(--panel);
+  color: var(--ink);
+  padding: 0.5rem 1rem;
+  z-index: 1001;
+  border-radius: 0 0 var(--radius) 0;
+}
+
+.skip:focus-visible {
+  left: 0;
+}
+
+.bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 1rem;
+  padding: 1.25rem 1.5rem;
+  box-shadow: inset 0 -0.5px 0 var(--hairline-strong);
+  flex-wrap: wrap;
+}
+
+.bar-side {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.playlist {
+  font-size: 0.85rem;
+  color: var(--ink);
+  text-decoration: none;
+  background: var(--panel);
+  box-shadow: inset 0 0 0 0.5px var(--hairline-strong);
+  border-radius: var(--radius);
+  padding: 0.45rem 0.9rem;
+  white-space: nowrap;
+}
+
+.playlist:hover {
+  color: var(--link);
+}
+
+.bar h1 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+.sub {
+  margin: 0.15rem 0 0;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+#search {
+  background: var(--panel);
+  color: var(--ink);
+  border: none;
+  box-shadow: inset 0 0 0 0.5px var(--hairline-strong);
+  border-radius: var(--radius);
+  padding: 0.45rem 0.9rem;
+  min-width: 200px;
+  font: inherit;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(320px, 560px) 1fr;
+  gap: 2rem;
+  padding: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.viewer {
+  position: sticky;
+  top: 1rem;
+  align-self: start;
+}
+
+.stage {
+  background: var(--stage);
+  border-radius: 50%;
+  box-shadow:
+    inset 0 0 0 0.5px var(--hairline-strong),
+    0 0 0 10px var(--panel),
+    0 0 0 10.5px var(--hairline);
+  overflow: hidden;
+  aspect-ratio: 1;
+  margin: 10.5px;
+}
+
+.stage video {
+  width: 100%;
+  height: 100%;
+  display: block;
+  background: var(--stage);
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+#play {
+  background: var(--panel);
+  color: var(--ink);
+  border: none;
+  box-shadow: inset 0 0 0 0.5px var(--hairline-strong);
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  cursor: pointer;
+  font-size: 1rem;
+  touch-action: manipulation;
+}
+
+#scrub {
+  flex: 1;
+  accent-color: var(--link);
+  cursor: ew-resize;
+  touch-action: manipulation;
+}
+.time {
+  color: var(--muted);
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+.empty {
+  color: var(--muted);
+  padding: 1rem 0;
+}
+
+.caption {
+  min-height: 4.4em;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 1.05rem;
+  background: var(--panel);
+  box-shadow: inset 0 0 0 0.5px var(--hairline);
+  border-radius: var(--radius);
+  padding: 0.7rem 1rem;
+  margin: 0 0 1.4rem;
+  text-wrap: balance;
+}
+
+.caption .w {
+  color: var(--muted);
+  margin-right: 0.3em;
+}
+
+.caption .w:last-child {
+  margin-right: 0;
+}
+
+.caption .w.said {
+  color: var(--ink);
+}
+
+#transcriptWrap {
+  margin-top: 0.9rem;
+}
+
+.transcript {
+  max-height: 220px;
+  overflow: auto;
+  margin: 0.5rem 0 0;
+  padding-left: 0;
+  list-style: none;
+  background: var(--panel);
+  border-radius: var(--radius);
+  box-shadow: inset 0 0 0 0.5px var(--hairline);
+}
+
+.transcript li {
+  padding: 0.35rem 0.7rem;
+  cursor: pointer;
+  box-shadow: inset 0 -0.5px 0 var(--hairline);
+  color: var(--muted);
+}
+
+.transcript li:last-child {
+  box-shadow: none;
+}
+.transcript li.active {
+  color: var(--ink);
+}
+.transcript li:hover {
+  color: var(--ink);
+}
+
+.decks {
+  min-width: 0;
+}
+
+.deck h2 {
+  font-size: 0.8125rem;
+  font-weight: 500;
+  margin: 1.2rem 0 0.5rem;
+  color: var(--muted);
+  text-transform: none;
+}
+
+.deck h2:first-child {
+  margin-top: 0;
+}
+
+.row {
+  display: flex;
+  gap: 0.9rem;
+  overflow-x: auto;
+  padding: 0.9rem 0.2rem 1.1rem 0.6rem;
+  scroll-snap-type: x mandatory;
+}
+
+.card {
+  scroll-snap-align: start;
+  flex: 0 0 132px;
+  background: var(--panel);
+  border: none;
+  box-shadow: inset 0 0 0 0.5px var(--hairline-strong);
+  border-radius: var(--radius);
+  transition: transform 0.15s ease;
+  touch-action: manipulation;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+}
+.card[aria-current="true"] {
+  box-shadow: inset 0 0 0 1.5px var(--link);
+}
+
+.card-poster {
+  display: block;
+  width: 100%;
+  background: var(--stage);
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  border-radius: var(--radius) var(--radius) 0 0;
+  overflow: hidden;
+}
+
+.card-poster img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  display: block;
+  background: var(--stage);
+}
+
+.card-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.45rem 0.4rem 0.6rem 0.6rem;
+}
+
+.card-name {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  font-size: 0.85rem;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+  overflow-wrap: break-word;
+}
+
+.card-name:hover {
+  color: var(--link);
+}
+
+.card-yt {
+  flex: none;
+  display: flex;
+  padding: 0.35rem;
+  border-radius: 50%;
+  color: var(--muted);
+}
+
+.card-yt:hover {
+  color: var(--link);
+}
+
+.card-yt svg {
+  display: block;
+}
+
+.theme-toggle {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  padding: 5px 10px;
+  border: none;
+  box-shadow: inset 0 0 0 0.5px var(--hairline-strong);
+  border-radius: var(--radius);
+  background: var(--panel);
+  color: var(--ink);
+  cursor: pointer;
+  z-index: 1000;
+  font: inherit;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 860px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+  .viewer {
+    position: static;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card,
+  .card:hover {
+    transform: none;
+    transition: none;
+  }
+}

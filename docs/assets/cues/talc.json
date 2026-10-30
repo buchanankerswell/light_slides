@@ -1,0 +1,2044 @@
+[
+ {
+  "start": 0.0,
+  "end": 3.48,
+  "text": "Talc is a tricky one because it looks just like muscovite.",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.9,
+    "text": "Talc"
+   },
+   {
+    "start": 0.9,
+    "end": 1.02,
+    "text": "is"
+   },
+   {
+    "start": 1.02,
+    "end": 1.12,
+    "text": "a"
+   },
+   {
+    "start": 1.12,
+    "end": 1.32,
+    "text": "tricky"
+   },
+   {
+    "start": 1.32,
+    "end": 1.62,
+    "text": "one"
+   },
+   {
+    "start": 1.62,
+    "end": 1.92,
+    "text": "because"
+   },
+   {
+    "start": 1.92,
+    "end": 2.14,
+    "text": "it"
+   },
+   {
+    "start": 2.14,
+    "end": 2.34,
+    "text": "looks"
+   },
+   {
+    "start": 2.34,
+    "end": 2.68,
+    "text": "just"
+   },
+   {
+    "start": 2.68,
+    "end": 2.9,
+    "text": "like"
+   },
+   {
+    "start": 2.9,
+    "end": 3.48,
+    "text": "muscovite."
+   }
+  ]
+ },
+ {
+  "start": 3.88,
+  "end": 8.26,
+  "text": "The grain in the middle with the really good cleavage clear is talc.",
+  "words": [
+   {
+    "start": 3.88,
+    "end": 4.08,
+    "text": "The"
+   },
+   {
+    "start": 4.08,
+    "end": 4.26,
+    "text": "grain"
+   },
+   {
+    "start": 4.26,
+    "end": 4.42,
+    "text": "in"
+   },
+   {
+    "start": 4.42,
+    "end": 4.5,
+    "text": "the"
+   },
+   {
+    "start": 4.5,
+    "end": 4.7,
+    "text": "middle"
+   },
+   {
+    "start": 4.7,
+    "end": 4.9,
+    "text": "with"
+   },
+   {
+    "start": 4.9,
+    "end": 5.04,
+    "text": "the"
+   },
+   {
+    "start": 5.04,
+    "end": 5.22,
+    "text": "really"
+   },
+   {
+    "start": 5.22,
+    "end": 5.42,
+    "text": "good"
+   },
+   {
+    "start": 5.42,
+    "end": 6.0,
+    "text": "cleavage"
+   },
+   {
+    "start": 6.0,
+    "end": 6.62,
+    "text": "clear"
+   },
+   {
+    "start": 6.62,
+    "end": 7.6,
+    "text": "is"
+   },
+   {
+    "start": 7.6,
+    "end": 8.26,
+    "text": "talc."
+   }
+  ]
+ },
+ {
+  "start": 8.86,
+  "end": 10.12,
+  "text": "Looks just like muscovite.",
+  "words": [
+   {
+    "start": 8.86,
+    "end": 9.12,
+    "text": "Looks"
+   },
+   {
+    "start": 9.12,
+    "end": 9.4,
+    "text": "just"
+   },
+   {
+    "start": 9.4,
+    "end": 9.58,
+    "text": "like"
+   },
+   {
+    "start": 9.58,
+    "end": 10.12,
+    "text": "muscovite."
+   }
+  ]
+ },
+ {
+  "start": 10.84,
+  "end": 14.1,
+  "text": "When I cross the polars, you'll see it looks just like muscovite.",
+  "words": [
+   {
+    "start": 10.84,
+    "end": 10.98,
+    "text": "When"
+   },
+   {
+    "start": 10.98,
+    "end": 11.08,
+    "text": "I"
+   },
+   {
+    "start": 11.08,
+    "end": 11.24,
+    "text": "cross"
+   },
+   {
+    "start": 11.24,
+    "end": 11.46,
+    "text": "the"
+   },
+   {
+    "start": 11.46,
+    "end": 11.74,
+    "text": "polars,"
+   },
+   {
+    "start": 11.88,
+    "end": 11.98,
+    "text": "you'll"
+   },
+   {
+    "start": 11.98,
+    "end": 12.18,
+    "text": "see"
+   },
+   {
+    "start": 12.18,
+    "end": 12.5,
+    "text": "it"
+   },
+   {
+    "start": 12.5,
+    "end": 12.76,
+    "text": "looks"
+   },
+   {
+    "start": 12.76,
+    "end": 13.24,
+    "text": "just"
+   },
+   {
+    "start": 13.24,
+    "end": 13.5,
+    "text": "like"
+   },
+   {
+    "start": 13.5,
+    "end": 14.1,
+    "text": "muscovite."
+   }
+  ]
+ },
+ {
+  "start": 14.52,
+  "end": 17.46,
+  "text": "High order interference colors and bird's eye extinction.",
+  "words": [
+   {
+    "start": 14.52,
+    "end": 14.74,
+    "text": "High"
+   },
+   {
+    "start": 14.74,
+    "end": 15.0,
+    "text": "order"
+   },
+   {
+    "start": 15.0,
+    "end": 15.48,
+    "text": "interference"
+   },
+   {
+    "start": 15.48,
+    "end": 15.9,
+    "text": "colors"
+   },
+   {
+    "start": 15.9,
+    "end": 16.48,
+    "text": "and"
+   },
+   {
+    "start": 16.48,
+    "end": 16.96,
+    "text": "bird's"
+   },
+   {
+    "start": 16.96,
+    "end": 17.06,
+    "text": "eye"
+   },
+   {
+    "start": 17.06,
+    "end": 17.46,
+    "text": "extinction."
+   }
+  ]
+ },
+ {
+  "start": 18.2,
+  "end": 19.22,
+  "text": "So how do you tell the difference?",
+  "words": [
+   {
+    "start": 18.2,
+    "end": 18.32,
+    "text": "So"
+   },
+   {
+    "start": 18.32,
+    "end": 18.46,
+    "text": "how"
+   },
+   {
+    "start": 18.46,
+    "end": 18.54,
+    "text": "do"
+   },
+   {
+    "start": 18.54,
+    "end": 18.62,
+    "text": "you"
+   },
+   {
+    "start": 18.62,
+    "end": 18.8,
+    "text": "tell"
+   },
+   {
+    "start": 18.8,
+    "end": 18.94,
+    "text": "the"
+   },
+   {
+    "start": 18.94,
+    "end": 19.22,
+    "text": "difference?"
+   }
+  ]
+ },
+ {
+  "start": 19.48,
+  "end": 21.66,
+  "text": "It's really mostly about association.",
+  "words": [
+   {
+    "start": 19.48,
+    "end": 19.64,
+    "text": "It's"
+   },
+   {
+    "start": 19.64,
+    "end": 19.98,
+    "text": "really"
+   },
+   {
+    "start": 19.98,
+    "end": 20.64,
+    "text": "mostly"
+   },
+   {
+    "start": 20.64,
+    "end": 21.02,
+    "text": "about"
+   },
+   {
+    "start": 21.02,
+    "end": 21.66,
+    "text": "association."
+   }
+  ]
+ },
+ {
+  "start": 22.36,
+  "end": 27.14,
+  "text": "This rock is loaded with actinolite and actinolite talc associations are pretty common.",
+  "words": [
+   {
+    "start": 22.36,
+    "end": 22.56,
+    "text": "This"
+   },
+   {
+    "start": 22.56,
+    "end": 22.8,
+    "text": "rock"
+   },
+   {
+    "start": 22.8,
+    "end": 23.04,
+    "text": "is"
+   },
+   {
+    "start": 23.04,
+    "end": 23.38,
+    "text": "loaded"
+   },
+   {
+    "start": 23.38,
+    "end": 23.64,
+    "text": "with"
+   },
+   {
+    "start": 23.64,
+    "end": 24.26,
+    "text": "actinolite"
+   },
+   {
+    "start": 24.26,
+    "end": 24.64,
+    "text": "and"
+   },
+   {
+    "start": 24.64,
+    "end": 25.4,
+    "text": "actinolite"
+   },
+   {
+    "start": 25.4,
+    "end": 25.74,
+    "text": "talc"
+   },
+   {
+    "start": 25.74,
+    "end": 26.22,
+    "text": "associations"
+   },
+   {
+    "start": 26.22,
+    "end": 26.62,
+    "text": "are"
+   },
+   {
+    "start": 26.62,
+    "end": 26.84,
+    "text": "pretty"
+   },
+   {
+    "start": 26.84,
+    "end": 27.14,
+    "text": "common."
+   }
+  ]
+ },
+ {
+  "start": 30.84,
+  "end": 35.38,
+  "text": "Same rock, more talc in the middle, actinolite around the outside.",
+  "words": [
+   {
+    "start": 30.84,
+    "end": 31.48,
+    "text": "Same"
+   },
+   {
+    "start": 31.48,
+    "end": 31.76,
+    "text": "rock,"
+   },
+   {
+    "start": 32.04,
+    "end": 32.26,
+    "text": "more"
+   },
+   {
+    "start": 32.26,
+    "end": 32.7,
+    "text": "talc"
+   },
+   {
+    "start": 32.7,
+    "end": 32.9,
+    "text": "in"
+   },
+   {
+    "start": 32.9,
+    "end": 33.0,
+    "text": "the"
+   },
+   {
+    "start": 33.0,
+    "end": 33.24,
+    "text": "middle,"
+   },
+   {
+    "start": 33.96,
+    "end": 34.52,
+    "text": "actinolite"
+   },
+   {
+    "start": 34.52,
+    "end": 34.84,
+    "text": "around"
+   },
+   {
+    "start": 34.84,
+    "end": 35.02,
+    "text": "the"
+   },
+   {
+    "start": 35.02,
+    "end": 35.38,
+    "text": "outside."
+   }
+  ]
+ },
+ {
+  "start": 35.54,
+  "end": 38.5,
+  "text": "Maybe it looks more like an amphibole here because it's elongate.",
+  "words": [
+   {
+    "start": 35.54,
+    "end": 35.7,
+    "text": "Maybe"
+   },
+   {
+    "start": 35.7,
+    "end": 35.82,
+    "text": "it"
+   },
+   {
+    "start": 35.82,
+    "end": 35.96,
+    "text": "looks"
+   },
+   {
+    "start": 35.96,
+    "end": 36.16,
+    "text": "more"
+   },
+   {
+    "start": 36.16,
+    "end": 36.36,
+    "text": "like"
+   },
+   {
+    "start": 36.36,
+    "end": 36.48,
+    "text": "an"
+   },
+   {
+    "start": 36.48,
+    "end": 36.84,
+    "text": "amphibole"
+   },
+   {
+    "start": 36.84,
+    "end": 37.14,
+    "text": "here"
+   },
+   {
+    "start": 37.14,
+    "end": 37.5,
+    "text": "because"
+   },
+   {
+    "start": 37.5,
+    "end": 37.86,
+    "text": "it's"
+   },
+   {
+    "start": 37.86,
+    "end": 38.5,
+    "text": "elongate."
+   }
+  ]
+ },
+ {
+  "start": 38.88,
+  "end": 41.16,
+  "text": "And you can see some amphibole cleavages.",
+  "words": [
+   {
+    "start": 38.88,
+    "end": 39.14,
+    "text": "And"
+   },
+   {
+    "start": 39.14,
+    "end": 39.26,
+    "text": "you"
+   },
+   {
+    "start": 39.26,
+    "end": 39.42,
+    "text": "can"
+   },
+   {
+    "start": 39.42,
+    "end": 39.62,
+    "text": "see"
+   },
+   {
+    "start": 39.62,
+    "end": 39.82,
+    "text": "some"
+   },
+   {
+    "start": 39.82,
+    "end": 40.52,
+    "text": "amphibole"
+   },
+   {
+    "start": 40.52,
+    "end": 41.16,
+    "text": "cleavages."
+   }
+  ]
+ },
+ {
+  "start": 43.56,
+  "end": 49.98,
+  "text": "Cross the polars and you'll see the high order interference colors and bird's eye extinction again.",
+  "words": [
+   {
+    "start": 43.56,
+    "end": 44.2,
+    "text": "Cross"
+   },
+   {
+    "start": 44.2,
+    "end": 44.4,
+    "text": "the"
+   },
+   {
+    "start": 44.4,
+    "end": 44.72,
+    "text": "polars"
+   },
+   {
+    "start": 44.72,
+    "end": 45.2,
+    "text": "and"
+   },
+   {
+    "start": 45.2,
+    "end": 45.4,
+    "text": "you'll"
+   },
+   {
+    "start": 45.4,
+    "end": 45.76,
+    "text": "see"
+   },
+   {
+    "start": 45.76,
+    "end": 46.76,
+    "text": "the"
+   },
+   {
+    "start": 46.76,
+    "end": 47.34,
+    "text": "high"
+   },
+   {
+    "start": 47.34,
+    "end": 47.6,
+    "text": "order"
+   },
+   {
+    "start": 47.6,
+    "end": 48.06,
+    "text": "interference"
+   },
+   {
+    "start": 48.06,
+    "end": 48.5,
+    "text": "colors"
+   },
+   {
+    "start": 48.5,
+    "end": 48.92,
+    "text": "and"
+   },
+   {
+    "start": 48.92,
+    "end": 49.26,
+    "text": "bird's"
+   },
+   {
+    "start": 49.26,
+    "end": 49.32,
+    "text": "eye"
+   },
+   {
+    "start": 49.32,
+    "end": 49.62,
+    "text": "extinction"
+   },
+   {
+    "start": 49.62,
+    "end": 49.98,
+    "text": "again."
+   }
+  ]
+ },
+ {
+  "start": 61.88,
+  "end": 64.42,
+  "text": "This field of view is all talc.",
+  "words": [
+   {
+    "start": 61.88,
+    "end": 62.48,
+    "text": "This"
+   },
+   {
+    "start": 62.48,
+    "end": 62.8,
+    "text": "field"
+   },
+   {
+    "start": 62.8,
+    "end": 62.96,
+    "text": "of"
+   },
+   {
+    "start": 62.96,
+    "end": 63.24,
+    "text": "view"
+   },
+   {
+    "start": 63.24,
+    "end": 63.62,
+    "text": "is"
+   },
+   {
+    "start": 63.62,
+    "end": 63.98,
+    "text": "all"
+   },
+   {
+    "start": 63.98,
+    "end": 64.42,
+    "text": "talc."
+   }
+  ]
+ },
+ {
+  "start": 64.5,
+  "end": 66.32,
+  "text": "There are lots of different crystals and different orientations.",
+  "words": [
+   {
+    "start": 64.5,
+    "end": 64.56,
+    "text": "There"
+   },
+   {
+    "start": 64.56,
+    "end": 64.66,
+    "text": "are"
+   },
+   {
+    "start": 64.66,
+    "end": 64.9,
+    "text": "lots"
+   },
+   {
+    "start": 64.9,
+    "end": 65.04,
+    "text": "of"
+   },
+   {
+    "start": 65.04,
+    "end": 65.3,
+    "text": "different"
+   },
+   {
+    "start": 65.3,
+    "end": 65.64,
+    "text": "crystals"
+   },
+   {
+    "start": 65.64,
+    "end": 65.9,
+    "text": "and"
+   },
+   {
+    "start": 65.9,
+    "end": 66.12,
+    "text": "different"
+   },
+   {
+    "start": 66.12,
+    "end": 66.42,
+    "text": "orientations."
+   }
+  ]
+ },
+ {
+  "start": 67.44,
+  "end": 70.7,
+  "text": "In plain polarized light, it doesn't look like much of anything.",
+  "words": [
+   {
+    "start": 67.44,
+    "end": 67.9,
+    "text": "In"
+   },
+   {
+    "start": 67.9,
+    "end": 68.1,
+    "text": "plain"
+   },
+   {
+    "start": 68.1,
+    "end": 68.44,
+    "text": "polarized"
+   },
+   {
+    "start": 68.44,
+    "end": 68.8,
+    "text": "light,"
+   },
+   {
+    "start": 68.88,
+    "end": 68.94,
+    "text": "it"
+   },
+   {
+    "start": 68.94,
+    "end": 69.28,
+    "text": "doesn't"
+   },
+   {
+    "start": 69.28,
+    "end": 69.66,
+    "text": "look"
+   },
+   {
+    "start": 69.66,
+    "end": 69.94,
+    "text": "like"
+   },
+   {
+    "start": 69.94,
+    "end": 70.28,
+    "text": "much"
+   },
+   {
+    "start": 70.28,
+    "end": 70.38,
+    "text": "of"
+   },
+   {
+    "start": 70.38,
+    "end": 70.7,
+    "text": "anything."
+   }
+  ]
+ },
+ {
+  "start": 71.14,
+  "end": 75.68,
+  "text": "But when I cross the polars, you'll see there are different domains with different interference colors.",
+  "words": [
+   {
+    "start": 71.14,
+    "end": 71.36,
+    "text": "But"
+   },
+   {
+    "start": 71.36,
+    "end": 71.5,
+    "text": "when"
+   },
+   {
+    "start": 71.5,
+    "end": 71.64,
+    "text": "I"
+   },
+   {
+    "start": 71.64,
+    "end": 71.8,
+    "text": "cross"
+   },
+   {
+    "start": 71.8,
+    "end": 72.02,
+    "text": "the"
+   },
+   {
+    "start": 72.02,
+    "end": 72.3,
+    "text": "polars,"
+   },
+   {
+    "start": 72.44,
+    "end": 72.6,
+    "text": "you'll"
+   },
+   {
+    "start": 72.6,
+    "end": 72.86,
+    "text": "see"
+   },
+   {
+    "start": 72.86,
+    "end": 73.16,
+    "text": "there"
+   },
+   {
+    "start": 73.16,
+    "end": 73.28,
+    "text": "are"
+   },
+   {
+    "start": 73.28,
+    "end": 73.56,
+    "text": "different"
+   },
+   {
+    "start": 73.56,
+    "end": 74.04,
+    "text": "domains"
+   },
+   {
+    "start": 74.04,
+    "end": 74.44,
+    "text": "with"
+   },
+   {
+    "start": 74.44,
+    "end": 74.78,
+    "text": "different"
+   },
+   {
+    "start": 74.78,
+    "end": 75.28,
+    "text": "interference"
+   },
+   {
+    "start": 75.28,
+    "end": 75.68,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 76.26,
+  "end": 82.48,
+  "text": "Some of them are pretty low, so the talc plates are almost parallel to the plane of the thin section.",
+  "words": [
+   {
+    "start": 76.26,
+    "end": 76.5,
+    "text": "Some"
+   },
+   {
+    "start": 76.5,
+    "end": 76.62,
+    "text": "of"
+   },
+   {
+    "start": 76.62,
+    "end": 76.76,
+    "text": "them"
+   },
+   {
+    "start": 76.76,
+    "end": 76.9,
+    "text": "are"
+   },
+   {
+    "start": 76.9,
+    "end": 77.16,
+    "text": "pretty"
+   },
+   {
+    "start": 77.16,
+    "end": 77.54,
+    "text": "low,"
+   },
+   {
+    "start": 77.68,
+    "end": 77.98,
+    "text": "so"
+   },
+   {
+    "start": 77.98,
+    "end": 78.14,
+    "text": "the"
+   },
+   {
+    "start": 78.14,
+    "end": 78.56,
+    "text": "talc"
+   },
+   {
+    "start": 78.56,
+    "end": 79.04,
+    "text": "plates"
+   },
+   {
+    "start": 79.04,
+    "end": 79.44,
+    "text": "are"
+   },
+   {
+    "start": 79.44,
+    "end": 79.84,
+    "text": "almost"
+   },
+   {
+    "start": 79.84,
+    "end": 80.28,
+    "text": "parallel"
+   },
+   {
+    "start": 80.28,
+    "end": 80.78,
+    "text": "to"
+   },
+   {
+    "start": 80.78,
+    "end": 81.52,
+    "text": "the"
+   },
+   {
+    "start": 81.52,
+    "end": 81.72,
+    "text": "plane"
+   },
+   {
+    "start": 81.72,
+    "end": 81.86,
+    "text": "of"
+   },
+   {
+    "start": 81.86,
+    "end": 81.94,
+    "text": "the"
+   },
+   {
+    "start": 81.94,
+    "end": 82.12,
+    "text": "thin"
+   },
+   {
+    "start": 82.12,
+    "end": 82.48,
+    "text": "section."
+   }
+  ]
+ },
+ {
+  "start": 82.96,
+  "end": 89.98,
+  "text": "And others have higher order interference colors where the plane of the cleavage is perpendicular to the plane.",
+  "words": [
+   {
+    "start": 82.96,
+    "end": 83.14,
+    "text": "And"
+   },
+   {
+    "start": 83.14,
+    "end": 83.38,
+    "text": "others"
+   },
+   {
+    "start": 83.38,
+    "end": 83.62,
+    "text": "have"
+   },
+   {
+    "start": 83.62,
+    "end": 83.96,
+    "text": "higher"
+   },
+   {
+    "start": 83.96,
+    "end": 84.2,
+    "text": "order"
+   },
+   {
+    "start": 84.2,
+    "end": 84.76,
+    "text": "interference"
+   },
+   {
+    "start": 84.76,
+    "end": 85.42,
+    "text": "colors"
+   },
+   {
+    "start": 85.42,
+    "end": 85.74,
+    "text": "where"
+   },
+   {
+    "start": 85.74,
+    "end": 86.08,
+    "text": "the"
+   },
+   {
+    "start": 86.08,
+    "end": 86.66,
+    "text": "plane"
+   },
+   {
+    "start": 86.66,
+    "end": 87.06,
+    "text": "of"
+   },
+   {
+    "start": 87.06,
+    "end": 87.4,
+    "text": "the"
+   },
+   {
+    "start": 87.4,
+    "end": 88.3,
+    "text": "cleavage"
+   },
+   {
+    "start": 88.3,
+    "end": 88.74,
+    "text": "is"
+   },
+   {
+    "start": 88.74,
+    "end": 89.08,
+    "text": "perpendicular"
+   },
+   {
+    "start": 89.08,
+    "end": 89.6,
+    "text": "to"
+   },
+   {
+    "start": 89.6,
+    "end": 89.8,
+    "text": "the"
+   },
+   {
+    "start": 89.8,
+    "end": 89.98,
+    "text": "plane."
+   }
+  ]
+ },
+ {
+  "start": 91.86,
+  "end": 99.82,
+  "text": "This is a pretty common association of talc with olivine in an altered ultramafic rock.",
+  "words": [
+   {
+    "start": 91.86,
+    "end": 92.6,
+    "text": "This"
+   },
+   {
+    "start": 92.6,
+    "end": 93.22,
+    "text": "is"
+   },
+   {
+    "start": 93.22,
+    "end": 93.32,
+    "text": "a"
+   },
+   {
+    "start": 93.32,
+    "end": 93.58,
+    "text": "pretty"
+   },
+   {
+    "start": 93.58,
+    "end": 94.16,
+    "text": "common"
+   },
+   {
+    "start": 94.16,
+    "end": 94.92,
+    "text": "association"
+   },
+   {
+    "start": 94.92,
+    "end": 95.7,
+    "text": "of"
+   },
+   {
+    "start": 95.7,
+    "end": 96.28,
+    "text": "talc"
+   },
+   {
+    "start": 96.28,
+    "end": 96.96,
+    "text": "with"
+   },
+   {
+    "start": 96.96,
+    "end": 97.68,
+    "text": "olivine"
+   },
+   {
+    "start": 97.68,
+    "end": 98.04,
+    "text": "in"
+   },
+   {
+    "start": 98.04,
+    "end": 98.2,
+    "text": "an"
+   },
+   {
+    "start": 98.2,
+    "end": 98.66,
+    "text": "altered"
+   },
+   {
+    "start": 98.66,
+    "end": 99.52,
+    "text": "ultramafic"
+   },
+   {
+    "start": 99.52,
+    "end": 99.82,
+    "text": "rock."
+   }
+  ]
+ },
+ {
+  "start": 100.74,
+  "end": 106.88,
+  "text": "Alteration at lower temperatures, hydrous alteration, typically produces talc at the expense of olivine.",
+  "words": [
+   {
+    "start": 100.74,
+    "end": 101.48,
+    "text": "Alteration"
+   },
+   {
+    "start": 101.48,
+    "end": 101.66,
+    "text": "at"
+   },
+   {
+    "start": 101.66,
+    "end": 101.88,
+    "text": "lower"
+   },
+   {
+    "start": 101.88,
+    "end": 102.46,
+    "text": "temperatures,"
+   },
+   {
+    "start": 102.66,
+    "end": 102.98,
+    "text": "hydrous"
+   },
+   {
+    "start": 102.98,
+    "end": 103.68,
+    "text": "alteration,"
+   },
+   {
+    "start": 103.96,
+    "end": 104.58,
+    "text": "typically"
+   },
+   {
+    "start": 104.58,
+    "end": 105.04,
+    "text": "produces"
+   },
+   {
+    "start": 105.04,
+    "end": 105.56,
+    "text": "talc"
+   },
+   {
+    "start": 105.56,
+    "end": 105.78,
+    "text": "at"
+   },
+   {
+    "start": 105.78,
+    "end": 105.88,
+    "text": "the"
+   },
+   {
+    "start": 105.88,
+    "end": 106.16,
+    "text": "expense"
+   },
+   {
+    "start": 106.16,
+    "end": 106.4,
+    "text": "of"
+   },
+   {
+    "start": 106.4,
+    "end": 106.88,
+    "text": "olivine."
+   }
+  ]
+ },
+ {
+  "start": 107.48,
+  "end": 111.96,
+  "text": "Here you can see the high order interference colors and the bird's eye extinction.",
+  "words": [
+   {
+    "start": 107.48,
+    "end": 107.78,
+    "text": "Here"
+   },
+   {
+    "start": 107.78,
+    "end": 107.98,
+    "text": "you"
+   },
+   {
+    "start": 107.98,
+    "end": 108.12,
+    "text": "can"
+   },
+   {
+    "start": 108.12,
+    "end": 108.4,
+    "text": "see"
+   },
+   {
+    "start": 108.4,
+    "end": 108.74,
+    "text": "the"
+   },
+   {
+    "start": 108.74,
+    "end": 109.12,
+    "text": "high"
+   },
+   {
+    "start": 109.12,
+    "end": 109.88,
+    "text": "order"
+   },
+   {
+    "start": 109.88,
+    "end": 110.42,
+    "text": "interference"
+   },
+   {
+    "start": 110.42,
+    "end": 110.82,
+    "text": "colors"
+   },
+   {
+    "start": 110.82,
+    "end": 111.06,
+    "text": "and"
+   },
+   {
+    "start": 111.06,
+    "end": 111.2,
+    "text": "the"
+   },
+   {
+    "start": 111.2,
+    "end": 111.48,
+    "text": "bird's"
+   },
+   {
+    "start": 111.48,
+    "end": 111.6,
+    "text": "eye"
+   },
+   {
+    "start": 111.6,
+    "end": 111.96,
+    "text": "extinction."
+   }
+  ]
+ },
+ {
+  "start": 123.3,
+  "end": 126.2,
+  "text": "This is another example from the same rock.",
+  "words": [
+   {
+    "start": 123.3,
+    "end": 123.9,
+    "text": "This"
+   },
+   {
+    "start": 123.9,
+    "end": 124.06,
+    "text": "is"
+   },
+   {
+    "start": 124.06,
+    "end": 124.28,
+    "text": "another"
+   },
+   {
+    "start": 124.28,
+    "end": 124.94,
+    "text": "example"
+   },
+   {
+    "start": 124.94,
+    "end": 125.34,
+    "text": "from"
+   },
+   {
+    "start": 125.34,
+    "end": 125.66,
+    "text": "the"
+   },
+   {
+    "start": 125.66,
+    "end": 125.9,
+    "text": "same"
+   },
+   {
+    "start": 125.9,
+    "end": 126.2,
+    "text": "rock."
+   }
+  ]
+ },
+ {
+  "start": 126.92,
+  "end": 132.02,
+  "text": "The long skinny lines running through the crystals are the cleavage planes.",
+  "words": [
+   {
+    "start": 126.92,
+    "end": 127.04,
+    "text": "The"
+   },
+   {
+    "start": 127.04,
+    "end": 127.64,
+    "text": "long"
+   },
+   {
+    "start": 127.64,
+    "end": 127.92,
+    "text": "skinny"
+   },
+   {
+    "start": 127.92,
+    "end": 128.38,
+    "text": "lines"
+   },
+   {
+    "start": 128.38,
+    "end": 128.78,
+    "text": "running"
+   },
+   {
+    "start": 128.78,
+    "end": 129.7,
+    "text": "through"
+   },
+   {
+    "start": 129.7,
+    "end": 130.1,
+    "text": "the"
+   },
+   {
+    "start": 130.1,
+    "end": 130.6,
+    "text": "crystals"
+   },
+   {
+    "start": 130.6,
+    "end": 131.08,
+    "text": "are"
+   },
+   {
+    "start": 131.08,
+    "end": 131.28,
+    "text": "the"
+   },
+   {
+    "start": 131.28,
+    "end": 131.72,
+    "text": "cleavage"
+   },
+   {
+    "start": 131.72,
+    "end": 132.02,
+    "text": "planes."
+   }
+  ]
+ },
+ {
+  "start": 132.54,
+  "end": 135.92,
+  "text": "So this must be cut almost perpendicular to the cleavage planes.",
+  "words": [
+   {
+    "start": 132.54,
+    "end": 132.62,
+    "text": "So"
+   },
+   {
+    "start": 132.62,
+    "end": 132.84,
+    "text": "this"
+   },
+   {
+    "start": 132.84,
+    "end": 133.04,
+    "text": "must"
+   },
+   {
+    "start": 133.04,
+    "end": 133.24,
+    "text": "be"
+   },
+   {
+    "start": 133.24,
+    "end": 133.5,
+    "text": "cut"
+   },
+   {
+    "start": 133.5,
+    "end": 134.12,
+    "text": "almost"
+   },
+   {
+    "start": 134.12,
+    "end": 134.58,
+    "text": "perpendicular"
+   },
+   {
+    "start": 134.58,
+    "end": 134.98,
+    "text": "to"
+   },
+   {
+    "start": 134.98,
+    "end": 135.14,
+    "text": "the"
+   },
+   {
+    "start": 135.14,
+    "end": 135.54,
+    "text": "cleavage"
+   },
+   {
+    "start": 135.54,
+    "end": 135.92,
+    "text": "planes."
+   }
+  ]
+ },
+ {
+  "start": 136.24,
+  "end": 140.28,
+  "text": "If so, the interference colors should be high and in fact they're very high.",
+  "words": [
+   {
+    "start": 136.24,
+    "end": 136.5,
+    "text": "If"
+   },
+   {
+    "start": 136.5,
+    "end": 136.72,
+    "text": "so,"
+   },
+   {
+    "start": 136.78,
+    "end": 136.88,
+    "text": "the"
+   },
+   {
+    "start": 136.88,
+    "end": 137.22,
+    "text": "interference"
+   },
+   {
+    "start": 137.22,
+    "end": 137.54,
+    "text": "colors"
+   },
+   {
+    "start": 137.54,
+    "end": 137.82,
+    "text": "should"
+   },
+   {
+    "start": 137.82,
+    "end": 138.0,
+    "text": "be"
+   },
+   {
+    "start": 138.0,
+    "end": 138.26,
+    "text": "high"
+   },
+   {
+    "start": 138.26,
+    "end": 139.24,
+    "text": "and"
+   },
+   {
+    "start": 139.24,
+    "end": 139.36,
+    "text": "in"
+   },
+   {
+    "start": 139.36,
+    "end": 139.54,
+    "text": "fact"
+   },
+   {
+    "start": 139.54,
+    "end": 139.74,
+    "text": "they're"
+   },
+   {
+    "start": 139.74,
+    "end": 139.98,
+    "text": "very"
+   },
+   {
+    "start": 139.98,
+    "end": 140.28,
+    "text": "high."
+   }
+  ]
+ },
+ {
+  "start": 153.92,
+  "end": 161.54,
+  "text": "And last, this is talc that has grown in a reaction rind around magnesium-rich garnet.",
+  "words": [
+   {
+    "start": 153.92,
+    "end": 154.52,
+    "text": "And"
+   },
+   {
+    "start": 154.52,
+    "end": 154.8,
+    "text": "last,"
+   },
+   {
+    "start": 155.0,
+    "end": 155.12,
+    "text": "this"
+   },
+   {
+    "start": 155.12,
+    "end": 155.4,
+    "text": "is"
+   },
+   {
+    "start": 155.4,
+    "end": 155.92,
+    "text": "talc"
+   },
+   {
+    "start": 155.92,
+    "end": 156.26,
+    "text": "that"
+   },
+   {
+    "start": 156.26,
+    "end": 156.58,
+    "text": "has"
+   },
+   {
+    "start": 156.58,
+    "end": 156.92,
+    "text": "grown"
+   },
+   {
+    "start": 156.92,
+    "end": 157.34,
+    "text": "in"
+   },
+   {
+    "start": 157.34,
+    "end": 157.54,
+    "text": "a"
+   },
+   {
+    "start": 157.54,
+    "end": 158.2,
+    "text": "reaction"
+   },
+   {
+    "start": 158.2,
+    "end": 158.84,
+    "text": "rind"
+   },
+   {
+    "start": 158.84,
+    "end": 159.54,
+    "text": "around"
+   },
+   {
+    "start": 159.54,
+    "end": 160.4,
+    "text": "magnesium"
+   },
+   {
+    "start": 160.4,
+    "end": 160.86,
+    "text": "-rich"
+   },
+   {
+    "start": 160.86,
+    "end": 161.54,
+    "text": "garnet."
+   }
+  ]
+ },
+ {
+  "start": 162.18,
+  "end": 165.68,
+  "text": "The high relief crystals in there, and when I cross the polars, will be black.",
+  "words": [
+   {
+    "start": 162.18,
+    "end": 162.36,
+    "text": "The"
+   },
+   {
+    "start": 162.36,
+    "end": 162.58,
+    "text": "high"
+   },
+   {
+    "start": 162.58,
+    "end": 162.9,
+    "text": "relief"
+   },
+   {
+    "start": 162.9,
+    "end": 163.38,
+    "text": "crystals"
+   },
+   {
+    "start": 163.38,
+    "end": 163.64,
+    "text": "in"
+   },
+   {
+    "start": 163.64,
+    "end": 163.84,
+    "text": "there,"
+   },
+   {
+    "start": 163.98,
+    "end": 164.14,
+    "text": "and"
+   },
+   {
+    "start": 164.14,
+    "end": 164.22,
+    "text": "when"
+   },
+   {
+    "start": 164.22,
+    "end": 164.36,
+    "text": "I"
+   },
+   {
+    "start": 164.36,
+    "end": 164.46,
+    "text": "cross"
+   },
+   {
+    "start": 164.46,
+    "end": 164.66,
+    "text": "the"
+   },
+   {
+    "start": 164.66,
+    "end": 164.96,
+    "text": "polars,"
+   },
+   {
+    "start": 165.04,
+    "end": 165.16,
+    "text": "will"
+   },
+   {
+    "start": 165.16,
+    "end": 165.32,
+    "text": "be"
+   },
+   {
+    "start": 165.32,
+    "end": 165.68,
+    "text": "black."
+   }
+  ]
+ },
+ {
+  "start": 165.86,
+  "end": 166.76,
+  "text": "So those are the garnets.",
+  "words": [
+   {
+    "start": 165.86,
+    "end": 165.94,
+    "text": "So"
+   },
+   {
+    "start": 165.94,
+    "end": 166.1,
+    "text": "those"
+   },
+   {
+    "start": 166.1,
+    "end": 166.22,
+    "text": "are"
+   },
+   {
+    "start": 166.22,
+    "end": 166.3,
+    "text": "the"
+   },
+   {
+    "start": 166.3,
+    "end": 166.76,
+    "text": "garnets."
+   }
+  ]
+ },
+ {
+  "start": 167.58,
+  "end": 174.66,
+  "text": "Talc makes up much of the remaining field of view, except that there's also flogopite in there.",
+  "words": [
+   {
+    "start": 167.58,
+    "end": 168.14,
+    "text": "Talc"
+   },
+   {
+    "start": 168.14,
+    "end": 168.36,
+    "text": "makes"
+   },
+   {
+    "start": 168.36,
+    "end": 168.66,
+    "text": "up"
+   },
+   {
+    "start": 168.66,
+    "end": 169.18,
+    "text": "much"
+   },
+   {
+    "start": 169.18,
+    "end": 169.42,
+    "text": "of"
+   },
+   {
+    "start": 169.42,
+    "end": 169.78,
+    "text": "the"
+   },
+   {
+    "start": 169.78,
+    "end": 170.44,
+    "text": "remaining"
+   },
+   {
+    "start": 170.44,
+    "end": 171.2,
+    "text": "field"
+   },
+   {
+    "start": 171.2,
+    "end": 171.42,
+    "text": "of"
+   },
+   {
+    "start": 171.42,
+    "end": 171.74,
+    "text": "view,"
+   },
+   {
+    "start": 171.88,
+    "end": 172.58,
+    "text": "except"
+   },
+   {
+    "start": 172.58,
+    "end": 172.88,
+    "text": "that"
+   },
+   {
+    "start": 172.88,
+    "end": 173.16,
+    "text": "there's"
+   },
+   {
+    "start": 173.16,
+    "end": 173.46,
+    "text": "also"
+   },
+   {
+    "start": 173.46,
+    "end": 174.1,
+    "text": "flogopite"
+   },
+   {
+    "start": 174.1,
+    "end": 174.48,
+    "text": "in"
+   },
+   {
+    "start": 174.48,
+    "end": 174.66,
+    "text": "there."
+   }
+  ]
+ },
+ {
+  "start": 174.66,
+  "end": 180.14,
+  "text": "Flogopite is a magnesium N-member biotite, and it has almost no pleochroism to it.",
+  "words": [
+   {
+    "start": 174.66,
+    "end": 175.34,
+    "text": "Flogopite"
+   },
+   {
+    "start": 175.34,
+    "end": 175.62,
+    "text": "is"
+   },
+   {
+    "start": 175.62,
+    "end": 175.74,
+    "text": "a"
+   },
+   {
+    "start": 175.74,
+    "end": 176.22,
+    "text": "magnesium"
+   },
+   {
+    "start": 176.22,
+    "end": 176.62,
+    "text": "N"
+   },
+   {
+    "start": 176.62,
+    "end": 176.9,
+    "text": "-member"
+   },
+   {
+    "start": 176.9,
+    "end": 177.58,
+    "text": "biotite,"
+   },
+   {
+    "start": 177.96,
+    "end": 178.22,
+    "text": "and"
+   },
+   {
+    "start": 178.22,
+    "end": 178.34,
+    "text": "it"
+   },
+   {
+    "start": 178.34,
+    "end": 178.52,
+    "text": "has"
+   },
+   {
+    "start": 178.52,
+    "end": 178.84,
+    "text": "almost"
+   },
+   {
+    "start": 178.84,
+    "end": 179.02,
+    "text": "no"
+   },
+   {
+    "start": 179.02,
+    "end": 179.72,
+    "text": "pleochroism"
+   },
+   {
+    "start": 179.72,
+    "end": 179.96,
+    "text": "to"
+   },
+   {
+    "start": 179.96,
+    "end": 180.14,
+    "text": "it."
+   }
+  ]
+ },
+ {
+  "start": 180.68,
+  "end": 183.64,
+  "text": "So here, flogopite and talc really can't tell the difference.",
+  "words": [
+   {
+    "start": 180.68,
+    "end": 180.82,
+    "text": "So"
+   },
+   {
+    "start": 180.82,
+    "end": 181.1,
+    "text": "here,"
+   },
+   {
+    "start": 181.42,
+    "end": 181.9,
+    "text": "flogopite"
+   },
+   {
+    "start": 181.9,
+    "end": 182.08,
+    "text": "and"
+   },
+   {
+    "start": 182.08,
+    "end": 182.48,
+    "text": "talc"
+   },
+   {
+    "start": 182.48,
+    "end": 182.8,
+    "text": "really"
+   },
+   {
+    "start": 182.8,
+    "end": 183.14,
+    "text": "can't"
+   },
+   {
+    "start": 183.14,
+    "end": 183.26,
+    "text": "tell"
+   },
+   {
+    "start": 183.26,
+    "end": 183.4,
+    "text": "the"
+   },
+   {
+    "start": 183.4,
+    "end": 183.64,
+    "text": "difference."
+   }
+  ]
+ }
+]

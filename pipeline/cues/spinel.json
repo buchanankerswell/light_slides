@@ -1,0 +1,1354 @@
+[
+ {
+  "start": 0.0,
+  "end": 5.64,
+  "text": "What's distinctive about spinel is it's highly colored and it's isotropic.",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.76,
+    "text": "What's"
+   },
+   {
+    "start": 0.76,
+    "end": 1.2,
+    "text": "distinctive"
+   },
+   {
+    "start": 1.2,
+    "end": 1.56,
+    "text": "about"
+   },
+   {
+    "start": 1.56,
+    "end": 2.2,
+    "text": "spinel"
+   },
+   {
+    "start": 2.2,
+    "end": 2.76,
+    "text": "is"
+   },
+   {
+    "start": 2.76,
+    "end": 3.4,
+    "text": "it's"
+   },
+   {
+    "start": 3.4,
+    "end": 3.6,
+    "text": "highly"
+   },
+   {
+    "start": 3.6,
+    "end": 3.98,
+    "text": "colored"
+   },
+   {
+    "start": 3.98,
+    "end": 4.76,
+    "text": "and"
+   },
+   {
+    "start": 4.76,
+    "end": 4.98,
+    "text": "it's"
+   },
+   {
+    "start": 4.98,
+    "end": 5.64,
+    "text": "isotropic."
+   }
+  ]
+ },
+ {
+  "start": 5.84,
+  "end": 9.42,
+  "text": "So when I cross the polars, you'll see that it is black and just stays black.",
+  "words": [
+   {
+    "start": 5.84,
+    "end": 5.92,
+    "text": "So"
+   },
+   {
+    "start": 5.92,
+    "end": 6.06,
+    "text": "when"
+   },
+   {
+    "start": 6.06,
+    "end": 6.16,
+    "text": "I"
+   },
+   {
+    "start": 6.16,
+    "end": 6.34,
+    "text": "cross"
+   },
+   {
+    "start": 6.34,
+    "end": 6.58,
+    "text": "the"
+   },
+   {
+    "start": 6.58,
+    "end": 6.88,
+    "text": "polars,"
+   },
+   {
+    "start": 6.96,
+    "end": 7.12,
+    "text": "you'll"
+   },
+   {
+    "start": 7.12,
+    "end": 7.36,
+    "text": "see"
+   },
+   {
+    "start": 7.36,
+    "end": 7.6,
+    "text": "that"
+   },
+   {
+    "start": 7.6,
+    "end": 7.76,
+    "text": "it"
+   },
+   {
+    "start": 7.76,
+    "end": 8.1,
+    "text": "is"
+   },
+   {
+    "start": 8.1,
+    "end": 8.4,
+    "text": "black"
+   },
+   {
+    "start": 8.4,
+    "end": 8.64,
+    "text": "and"
+   },
+   {
+    "start": 8.64,
+    "end": 8.8,
+    "text": "just"
+   },
+   {
+    "start": 8.8,
+    "end": 9.06,
+    "text": "stays"
+   },
+   {
+    "start": 9.06,
+    "end": 9.42,
+    "text": "black."
+   }
+  ]
+ },
+ {
+  "start": 10.16,
+  "end": 15.24,
+  "text": "It has high relief and it occurs in certain special rock types.",
+  "words": [
+   {
+    "start": 10.16,
+    "end": 10.64,
+    "text": "It"
+   },
+   {
+    "start": 10.64,
+    "end": 10.82,
+    "text": "has"
+   },
+   {
+    "start": 10.82,
+    "end": 11.0,
+    "text": "high"
+   },
+   {
+    "start": 11.0,
+    "end": 11.28,
+    "text": "relief"
+   },
+   {
+    "start": 11.28,
+    "end": 12.34,
+    "text": "and"
+   },
+   {
+    "start": 12.34,
+    "end": 12.46,
+    "text": "it"
+   },
+   {
+    "start": 12.46,
+    "end": 12.84,
+    "text": "occurs"
+   },
+   {
+    "start": 12.84,
+    "end": 13.5,
+    "text": "in"
+   },
+   {
+    "start": 13.5,
+    "end": 14.08,
+    "text": "certain"
+   },
+   {
+    "start": 14.08,
+    "end": 14.68,
+    "text": "special"
+   },
+   {
+    "start": 14.68,
+    "end": 14.98,
+    "text": "rock"
+   },
+   {
+    "start": 14.98,
+    "end": 15.24,
+    "text": "types."
+   }
+  ]
+ },
+ {
+  "start": 15.5,
+  "end": 17.74,
+  "text": "This one happens to be a calc silicate.",
+  "words": [
+   {
+    "start": 15.5,
+    "end": 15.62,
+    "text": "This"
+   },
+   {
+    "start": 15.62,
+    "end": 15.9,
+    "text": "one"
+   },
+   {
+    "start": 15.9,
+    "end": 16.3,
+    "text": "happens"
+   },
+   {
+    "start": 16.3,
+    "end": 16.56,
+    "text": "to"
+   },
+   {
+    "start": 16.56,
+    "end": 16.78,
+    "text": "be"
+   },
+   {
+    "start": 16.78,
+    "end": 17.08,
+    "text": "a"
+   },
+   {
+    "start": 17.08,
+    "end": 17.3,
+    "text": "calc"
+   },
+   {
+    "start": 17.3,
+    "end": 17.74,
+    "text": "silicate."
+   }
+  ]
+ },
+ {
+  "start": 18.3,
+  "end": 22.02,
+  "text": "It also occurs in ultramafic rocks and peridotites.",
+  "words": [
+   {
+    "start": 18.3,
+    "end": 18.4,
+    "text": "It"
+   },
+   {
+    "start": 18.4,
+    "end": 18.58,
+    "text": "also"
+   },
+   {
+    "start": 18.58,
+    "end": 18.98,
+    "text": "occurs"
+   },
+   {
+    "start": 18.98,
+    "end": 19.44,
+    "text": "in"
+   },
+   {
+    "start": 19.44,
+    "end": 20.1,
+    "text": "ultramafic"
+   },
+   {
+    "start": 20.1,
+    "end": 20.48,
+    "text": "rocks"
+   },
+   {
+    "start": 20.48,
+    "end": 21.12,
+    "text": "and"
+   },
+   {
+    "start": 21.12,
+    "end": 22.02,
+    "text": "peridotites."
+   }
+  ]
+ },
+ {
+  "start": 31.36,
+  "end": 34.72,
+  "text": "Here's more of that green spinel from the calc silicate.",
+  "words": [
+   {
+    "start": 31.36,
+    "end": 31.84,
+    "text": "Here's"
+   },
+   {
+    "start": 31.84,
+    "end": 32.04,
+    "text": "more"
+   },
+   {
+    "start": 32.04,
+    "end": 32.22,
+    "text": "of"
+   },
+   {
+    "start": 32.22,
+    "end": 32.4,
+    "text": "that"
+   },
+   {
+    "start": 32.4,
+    "end": 32.8,
+    "text": "green"
+   },
+   {
+    "start": 32.8,
+    "end": 33.44,
+    "text": "spinel"
+   },
+   {
+    "start": 33.44,
+    "end": 33.68,
+    "text": "from"
+   },
+   {
+    "start": 33.68,
+    "end": 33.9,
+    "text": "the"
+   },
+   {
+    "start": 33.9,
+    "end": 34.3,
+    "text": "calc"
+   },
+   {
+    "start": 34.3,
+    "end": 34.72,
+    "text": "silicate."
+   }
+  ]
+ },
+ {
+  "start": 35.26,
+  "end": 40.88,
+  "text": "The material around it is actually Clintonite, which is an unusual calcium mica.",
+  "words": [
+   {
+    "start": 35.26,
+    "end": 35.38,
+    "text": "The"
+   },
+   {
+    "start": 35.38,
+    "end": 35.78,
+    "text": "material"
+   },
+   {
+    "start": 35.78,
+    "end": 36.14,
+    "text": "around"
+   },
+   {
+    "start": 36.14,
+    "end": 36.38,
+    "text": "it"
+   },
+   {
+    "start": 36.38,
+    "end": 36.86,
+    "text": "is"
+   },
+   {
+    "start": 36.86,
+    "end": 37.4,
+    "text": "actually"
+   },
+   {
+    "start": 37.4,
+    "end": 38.06,
+    "text": "Clintonite,"
+   },
+   {
+    "start": 38.14,
+    "end": 38.3,
+    "text": "which"
+   },
+   {
+    "start": 38.3,
+    "end": 38.44,
+    "text": "is"
+   },
+   {
+    "start": 38.44,
+    "end": 38.56,
+    "text": "an"
+   },
+   {
+    "start": 38.56,
+    "end": 38.94,
+    "text": "unusual"
+   },
+   {
+    "start": 38.94,
+    "end": 40.14,
+    "text": "calcium"
+   },
+   {
+    "start": 40.14,
+    "end": 40.88,
+    "text": "mica."
+   }
+  ]
+ },
+ {
+  "start": 41.7,
+  "end": 46.92,
+  "text": "But this is a nice example of a whole bunch of different crystals across the polars.",
+  "words": [
+   {
+    "start": 41.7,
+    "end": 41.92,
+    "text": "But"
+   },
+   {
+    "start": 41.92,
+    "end": 42.32,
+    "text": "this"
+   },
+   {
+    "start": 42.32,
+    "end": 42.5,
+    "text": "is"
+   },
+   {
+    "start": 42.5,
+    "end": 42.64,
+    "text": "a"
+   },
+   {
+    "start": 42.64,
+    "end": 42.8,
+    "text": "nice"
+   },
+   {
+    "start": 42.8,
+    "end": 43.32,
+    "text": "example"
+   },
+   {
+    "start": 43.32,
+    "end": 43.98,
+    "text": "of"
+   },
+   {
+    "start": 43.98,
+    "end": 44.62,
+    "text": "a"
+   },
+   {
+    "start": 44.62,
+    "end": 44.76,
+    "text": "whole"
+   },
+   {
+    "start": 44.76,
+    "end": 44.92,
+    "text": "bunch"
+   },
+   {
+    "start": 44.92,
+    "end": 45.04,
+    "text": "of"
+   },
+   {
+    "start": 45.04,
+    "end": 45.24,
+    "text": "different"
+   },
+   {
+    "start": 45.24,
+    "end": 45.64,
+    "text": "crystals"
+   },
+   {
+    "start": 45.64,
+    "end": 46.34,
+    "text": "across"
+   },
+   {
+    "start": 46.34,
+    "end": 46.58,
+    "text": "the"
+   },
+   {
+    "start": 46.58,
+    "end": 46.92,
+    "text": "polars."
+   }
+  ]
+ },
+ {
+  "start": 47.08,
+  "end": 48.88,
+  "text": "They're all black and they just stay black.",
+  "words": [
+   {
+    "start": 47.08,
+    "end": 47.22,
+    "text": "They're"
+   },
+   {
+    "start": 47.22,
+    "end": 47.42,
+    "text": "all"
+   },
+   {
+    "start": 47.42,
+    "end": 47.74,
+    "text": "black"
+   },
+   {
+    "start": 47.74,
+    "end": 48.1,
+    "text": "and"
+   },
+   {
+    "start": 48.1,
+    "end": 48.24,
+    "text": "they"
+   },
+   {
+    "start": 48.24,
+    "end": 48.42,
+    "text": "just"
+   },
+   {
+    "start": 48.42,
+    "end": 48.64,
+    "text": "stay"
+   },
+   {
+    "start": 48.64,
+    "end": 48.88,
+    "text": "black."
+   }
+  ]
+ },
+ {
+  "start": 61.94,
+  "end": 68.04,
+  "text": "This shows a cluster of spinel crystals, paler green than the ones that we saw before.",
+  "words": [
+   {
+    "start": 61.94,
+    "end": 62.46,
+    "text": "This"
+   },
+   {
+    "start": 62.46,
+    "end": 62.82,
+    "text": "shows"
+   },
+   {
+    "start": 62.82,
+    "end": 63.24,
+    "text": "a"
+   },
+   {
+    "start": 63.24,
+    "end": 63.76,
+    "text": "cluster"
+   },
+   {
+    "start": 63.76,
+    "end": 64.16,
+    "text": "of"
+   },
+   {
+    "start": 64.16,
+    "end": 64.54,
+    "text": "spinel"
+   },
+   {
+    "start": 64.54,
+    "end": 64.92,
+    "text": "crystals,"
+   },
+   {
+    "start": 65.7,
+    "end": 66.1,
+    "text": "paler"
+   },
+   {
+    "start": 66.1,
+    "end": 66.4,
+    "text": "green"
+   },
+   {
+    "start": 66.4,
+    "end": 66.7,
+    "text": "than"
+   },
+   {
+    "start": 66.7,
+    "end": 66.9,
+    "text": "the"
+   },
+   {
+    "start": 66.9,
+    "end": 67.12,
+    "text": "ones"
+   },
+   {
+    "start": 67.12,
+    "end": 67.32,
+    "text": "that"
+   },
+   {
+    "start": 67.32,
+    "end": 67.46,
+    "text": "we"
+   },
+   {
+    "start": 67.46,
+    "end": 67.68,
+    "text": "saw"
+   },
+   {
+    "start": 67.68,
+    "end": 68.04,
+    "text": "before."
+   }
+  ]
+ },
+ {
+  "start": 68.3,
+  "end": 72.12,
+  "text": "But again, when I cross the polars, you'll see they just are black.",
+  "words": [
+   {
+    "start": 68.3,
+    "end": 68.42,
+    "text": "But"
+   },
+   {
+    "start": 68.42,
+    "end": 68.86,
+    "text": "again,"
+   },
+   {
+    "start": 69.06,
+    "end": 69.3,
+    "text": "when"
+   },
+   {
+    "start": 69.3,
+    "end": 69.42,
+    "text": "I"
+   },
+   {
+    "start": 69.42,
+    "end": 69.62,
+    "text": "cross"
+   },
+   {
+    "start": 69.62,
+    "end": 69.86,
+    "text": "the"
+   },
+   {
+    "start": 69.86,
+    "end": 70.32,
+    "text": "polars,"
+   },
+   {
+    "start": 70.52,
+    "end": 71.06,
+    "text": "you'll"
+   },
+   {
+    "start": 71.06,
+    "end": 71.22,
+    "text": "see"
+   },
+   {
+    "start": 71.22,
+    "end": 71.38,
+    "text": "they"
+   },
+   {
+    "start": 71.38,
+    "end": 71.6,
+    "text": "just"
+   },
+   {
+    "start": 71.6,
+    "end": 71.86,
+    "text": "are"
+   },
+   {
+    "start": 71.86,
+    "end": 72.12,
+    "text": "black."
+   }
+  ]
+ },
+ {
+  "start": 92.68,
+  "end": 98.26,
+  "text": "Now, this is a spinel peridotite, so those brown grains are spinel.",
+  "words": [
+   {
+    "start": 92.68,
+    "end": 93.14,
+    "text": "Now,"
+   },
+   {
+    "start": 93.16,
+    "end": 93.52,
+    "text": "this"
+   },
+   {
+    "start": 93.52,
+    "end": 93.68,
+    "text": "is"
+   },
+   {
+    "start": 93.68,
+    "end": 93.82,
+    "text": "a"
+   },
+   {
+    "start": 93.82,
+    "end": 94.32,
+    "text": "spinel"
+   },
+   {
+    "start": 94.32,
+    "end": 94.98,
+    "text": "peridotite,"
+   },
+   {
+    "start": 95.16,
+    "end": 95.34,
+    "text": "so"
+   },
+   {
+    "start": 95.34,
+    "end": 95.56,
+    "text": "those"
+   },
+   {
+    "start": 95.56,
+    "end": 95.96,
+    "text": "brown"
+   },
+   {
+    "start": 95.96,
+    "end": 96.4,
+    "text": "grains"
+   },
+   {
+    "start": 96.4,
+    "end": 97.64,
+    "text": "are"
+   },
+   {
+    "start": 97.64,
+    "end": 98.26,
+    "text": "spinel."
+   }
+  ]
+ },
+ {
+  "start": 99.68,
+  "end": 105.32,
+  "text": "You will be able to see that when I cross the polars, all of the other minerals in there are birefringent,",
+  "words": [
+   {
+    "start": 99.68,
+    "end": 99.96,
+    "text": "You"
+   },
+   {
+    "start": 99.96,
+    "end": 100.24,
+    "text": "will"
+   },
+   {
+    "start": 100.24,
+    "end": 100.44,
+    "text": "be"
+   },
+   {
+    "start": 100.44,
+    "end": 100.64,
+    "text": "able"
+   },
+   {
+    "start": 100.64,
+    "end": 100.74,
+    "text": "to"
+   },
+   {
+    "start": 100.74,
+    "end": 100.94,
+    "text": "see"
+   },
+   {
+    "start": 100.94,
+    "end": 101.16,
+    "text": "that"
+   },
+   {
+    "start": 101.16,
+    "end": 101.8,
+    "text": "when"
+   },
+   {
+    "start": 101.8,
+    "end": 101.96,
+    "text": "I"
+   },
+   {
+    "start": 101.96,
+    "end": 102.12,
+    "text": "cross"
+   },
+   {
+    "start": 102.12,
+    "end": 102.34,
+    "text": "the"
+   },
+   {
+    "start": 102.34,
+    "end": 102.76,
+    "text": "polars,"
+   },
+   {
+    "start": 103.22,
+    "end": 103.42,
+    "text": "all"
+   },
+   {
+    "start": 103.42,
+    "end": 103.54,
+    "text": "of"
+   },
+   {
+    "start": 103.54,
+    "end": 103.64,
+    "text": "the"
+   },
+   {
+    "start": 103.64,
+    "end": 103.82,
+    "text": "other"
+   },
+   {
+    "start": 103.82,
+    "end": 104.22,
+    "text": "minerals"
+   },
+   {
+    "start": 104.22,
+    "end": 104.4,
+    "text": "in"
+   },
+   {
+    "start": 104.4,
+    "end": 104.52,
+    "text": "there"
+   },
+   {
+    "start": 104.52,
+    "end": 104.66,
+    "text": "are"
+   },
+   {
+    "start": 104.66,
+    "end": 105.32,
+    "text": "birefringent,"
+   }
+  ]
+ },
+ {
+  "start": 105.4,
+  "end": 108.62,
+  "text": "but those brown grains are now black and they stay black.",
+  "words": [
+   {
+    "start": 105.4,
+    "end": 105.64,
+    "text": "but"
+   },
+   {
+    "start": 105.64,
+    "end": 106.02,
+    "text": "those"
+   },
+   {
+    "start": 106.02,
+    "end": 106.58,
+    "text": "brown"
+   },
+   {
+    "start": 106.58,
+    "end": 106.9,
+    "text": "grains"
+   },
+   {
+    "start": 106.9,
+    "end": 107.08,
+    "text": "are"
+   },
+   {
+    "start": 107.08,
+    "end": 107.24,
+    "text": "now"
+   },
+   {
+    "start": 107.24,
+    "end": 107.56,
+    "text": "black"
+   },
+   {
+    "start": 107.56,
+    "end": 107.92,
+    "text": "and"
+   },
+   {
+    "start": 107.92,
+    "end": 108.06,
+    "text": "they"
+   },
+   {
+    "start": 108.06,
+    "end": 108.3,
+    "text": "stay"
+   },
+   {
+    "start": 108.3,
+    "end": 108.62,
+    "text": "black."
+   }
+  ]
+ },
+ {
+  "start": 123.18,
+  "end": 129.66,
+  "text": "And finally, one really big spinel crystal in the spinel peridotite.",
+  "words": [
+   {
+    "start": 123.18,
+    "end": 124.02,
+    "text": "And"
+   },
+   {
+    "start": 124.02,
+    "end": 124.52,
+    "text": "finally,"
+   },
+   {
+    "start": 124.82,
+    "end": 125.08,
+    "text": "one"
+   },
+   {
+    "start": 125.08,
+    "end": 125.82,
+    "text": "really"
+   },
+   {
+    "start": 125.82,
+    "end": 126.24,
+    "text": "big"
+   },
+   {
+    "start": 126.24,
+    "end": 126.78,
+    "text": "spinel"
+   },
+   {
+    "start": 126.78,
+    "end": 127.26,
+    "text": "crystal"
+   },
+   {
+    "start": 127.26,
+    "end": 128.12,
+    "text": "in"
+   },
+   {
+    "start": 128.12,
+    "end": 128.54,
+    "text": "the"
+   },
+   {
+    "start": 128.54,
+    "end": 129.12,
+    "text": "spinel"
+   },
+   {
+    "start": 129.12,
+    "end": 129.66,
+    "text": "peridotite."
+   }
+  ]
+ },
+ {
+  "start": 130.64,
+  "end": 135.2,
+  "text": "Remember that peridotites typically have only one alumina mineral.",
+  "words": [
+   {
+    "start": 130.64,
+    "end": 131.12,
+    "text": "Remember"
+   },
+   {
+    "start": 131.12,
+    "end": 131.42,
+    "text": "that"
+   },
+   {
+    "start": 131.42,
+    "end": 132.14,
+    "text": "peridotites"
+   },
+   {
+    "start": 132.14,
+    "end": 132.58,
+    "text": "typically"
+   },
+   {
+    "start": 132.58,
+    "end": 133.06,
+    "text": "have"
+   },
+   {
+    "start": 133.06,
+    "end": 133.44,
+    "text": "only"
+   },
+   {
+    "start": 133.44,
+    "end": 133.82,
+    "text": "one"
+   },
+   {
+    "start": 133.82,
+    "end": 134.6,
+    "text": "alumina"
+   },
+   {
+    "start": 134.6,
+    "end": 135.2,
+    "text": "mineral."
+   }
+  ]
+ },
+ {
+  "start": 135.78,
+  "end": 139.64,
+  "text": "At shallow depths, it would be plagioclase, although plagioclase peridotites are rare.",
+  "words": [
+   {
+    "start": 135.78,
+    "end": 135.96,
+    "text": "At"
+   },
+   {
+    "start": 135.96,
+    "end": 136.3,
+    "text": "shallow"
+   },
+   {
+    "start": 136.3,
+    "end": 136.62,
+    "text": "depths,"
+   },
+   {
+    "start": 136.76,
+    "end": 136.78,
+    "text": "it"
+   },
+   {
+    "start": 136.78,
+    "end": 136.9,
+    "text": "would"
+   },
+   {
+    "start": 136.9,
+    "end": 137.06,
+    "text": "be"
+   },
+   {
+    "start": 137.06,
+    "end": 137.7,
+    "text": "plagioclase,"
+   },
+   {
+    "start": 137.76,
+    "end": 137.98,
+    "text": "although"
+   },
+   {
+    "start": 137.98,
+    "end": 138.62,
+    "text": "plagioclase"
+   },
+   {
+    "start": 138.62,
+    "end": 139.26,
+    "text": "peridotites"
+   },
+   {
+    "start": 139.26,
+    "end": 139.44,
+    "text": "are"
+   },
+   {
+    "start": 139.44,
+    "end": 139.64,
+    "text": "rare."
+   }
+  ]
+ },
+ {
+  "start": 140.2,
+  "end": 143.02,
+  "text": "Spinel peridotites form at intermediate depths.",
+  "words": [
+   {
+    "start": 140.2,
+    "end": 140.66,
+    "text": "Spinel"
+   },
+   {
+    "start": 140.66,
+    "end": 141.32,
+    "text": "peridotites"
+   },
+   {
+    "start": 141.32,
+    "end": 141.72,
+    "text": "form"
+   },
+   {
+    "start": 141.72,
+    "end": 142.04,
+    "text": "at"
+   },
+   {
+    "start": 142.04,
+    "end": 142.44,
+    "text": "intermediate"
+   },
+   {
+    "start": 142.44,
+    "end": 143.02,
+    "text": "depths."
+   }
+  ]
+ },
+ {
+  "start": 143.2,
+  "end": 143.88,
+  "text": "They're pretty common.",
+  "words": [
+   {
+    "start": 143.2,
+    "end": 143.32,
+    "text": "They're"
+   },
+   {
+    "start": 143.32,
+    "end": 143.5,
+    "text": "pretty"
+   },
+   {
+    "start": 143.5,
+    "end": 143.88,
+    "text": "common."
+   }
+  ]
+ },
+ {
+  "start": 144.52,
+  "end": 146.86,
+  "text": "And garnet peridotites form at greater depth.",
+  "words": [
+   {
+    "start": 144.52,
+    "end": 144.78,
+    "text": "And"
+   },
+   {
+    "start": 144.78,
+    "end": 145.14,
+    "text": "garnet"
+   },
+   {
+    "start": 145.14,
+    "end": 145.72,
+    "text": "peridotites"
+   },
+   {
+    "start": 145.72,
+    "end": 146.04,
+    "text": "form"
+   },
+   {
+    "start": 146.04,
+    "end": 146.22,
+    "text": "at"
+   },
+   {
+    "start": 146.22,
+    "end": 146.44,
+    "text": "greater"
+   },
+   {
+    "start": 146.44,
+    "end": 146.86,
+    "text": "depth."
+   }
+  ]
+ },
+ {
+  "start": 147.34,
+  "end": 152.02,
+  "text": "Garnet is also isotropic and also high relief, but it would be colorless in a rock like this.",
+  "words": [
+   {
+    "start": 147.34,
+    "end": 147.78,
+    "text": "Garnet"
+   },
+   {
+    "start": 147.78,
+    "end": 147.94,
+    "text": "is"
+   },
+   {
+    "start": 147.94,
+    "end": 148.18,
+    "text": "also"
+   },
+   {
+    "start": 148.18,
+    "end": 148.88,
+    "text": "isotropic"
+   },
+   {
+    "start": 148.88,
+    "end": 149.18,
+    "text": "and"
+   },
+   {
+    "start": 149.18,
+    "end": 149.4,
+    "text": "also"
+   },
+   {
+    "start": 149.4,
+    "end": 149.68,
+    "text": "high"
+   },
+   {
+    "start": 149.68,
+    "end": 149.96,
+    "text": "relief,"
+   },
+   {
+    "start": 150.1,
+    "end": 150.18,
+    "text": "but"
+   },
+   {
+    "start": 150.18,
+    "end": 150.28,
+    "text": "it"
+   },
+   {
+    "start": 150.28,
+    "end": 150.42,
+    "text": "would"
+   },
+   {
+    "start": 150.42,
+    "end": 150.56,
+    "text": "be"
+   },
+   {
+    "start": 150.56,
+    "end": 151.1,
+    "text": "colorless"
+   },
+   {
+    "start": 151.1,
+    "end": 151.26,
+    "text": "in"
+   },
+   {
+    "start": 151.26,
+    "end": 151.34,
+    "text": "a"
+   },
+   {
+    "start": 151.34,
+    "end": 151.56,
+    "text": "rock"
+   },
+   {
+    "start": 151.56,
+    "end": 151.72,
+    "text": "like"
+   },
+   {
+    "start": 151.72,
+    "end": 152.02,
+    "text": "this."
+   }
+  ]
+ }
+]

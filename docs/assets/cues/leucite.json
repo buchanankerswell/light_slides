@@ -1,0 +1,362 @@
+[
+ {
+  "start": 0.0,
+  "end": 5.02,
+  "text": "I have just one sample with leucite in it. leucite is that very large",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.66,
+    "text": "I"
+   },
+   {
+    "start": 0.66,
+    "end": 0.88,
+    "text": "have"
+   },
+   {
+    "start": 0.88,
+    "end": 1.08,
+    "text": "just"
+   },
+   {
+    "start": 1.08,
+    "end": 1.36,
+    "text": "one"
+   },
+   {
+    "start": 1.36,
+    "end": 1.76,
+    "text": "sample"
+   },
+   {
+    "start": 1.76,
+    "end": 2.16,
+    "text": "with"
+   },
+   {
+    "start": 2.16,
+    "end": 2.82,
+    "text": "leucite"
+   },
+   {
+    "start": 2.82,
+    "end": 3.12,
+    "text": "in"
+   },
+   {
+    "start": 3.12,
+    "end": 3.26,
+    "text": "it."
+   },
+   {
+    "start": 3.44,
+    "end": 3.64,
+    "text": "leucite"
+   },
+   {
+    "start": 3.64,
+    "end": 3.8,
+    "text": "is"
+   },
+   {
+    "start": 3.8,
+    "end": 3.98,
+    "text": "that"
+   },
+   {
+    "start": 3.98,
+    "end": 4.42,
+    "text": "very"
+   },
+   {
+    "start": 4.42,
+    "end": 5.02,
+    "text": "large"
+   }
+  ]
+ },
+ {
+  "start": 5.64,
+  "end": 10.6,
+  "text": "euhedral crystal in the middle. You can see some little inclusions of melt in",
+  "words": [
+   {
+    "start": 5.64,
+    "end": 6.22,
+    "text": "euhedral"
+   },
+   {
+    "start": 6.22,
+    "end": 6.8,
+    "text": "crystal"
+   },
+   {
+    "start": 6.8,
+    "end": 7.54,
+    "text": "in"
+   },
+   {
+    "start": 7.54,
+    "end": 7.64,
+    "text": "the"
+   },
+   {
+    "start": 7.64,
+    "end": 7.82,
+    "text": "middle."
+   },
+   {
+    "start": 7.96,
+    "end": 8.0,
+    "text": "You"
+   },
+   {
+    "start": 8.0,
+    "end": 8.12,
+    "text": "can"
+   },
+   {
+    "start": 8.12,
+    "end": 8.28,
+    "text": "see"
+   },
+   {
+    "start": 8.28,
+    "end": 8.44,
+    "text": "some"
+   },
+   {
+    "start": 8.44,
+    "end": 8.64,
+    "text": "little"
+   },
+   {
+    "start": 8.64,
+    "end": 9.32,
+    "text": "inclusions"
+   },
+   {
+    "start": 9.32,
+    "end": 9.7,
+    "text": "of"
+   },
+   {
+    "start": 9.7,
+    "end": 10.34,
+    "text": "melt"
+   },
+   {
+    "start": 10.34,
+    "end": 10.6,
+    "text": "in"
+   }
+  ]
+ },
+ {
+  "start": 10.6,
+  "end": 16.8,
+  "text": "there. Very low relief. And when you cross the pollers, you'll see it has very,",
+  "words": [
+   {
+    "start": 10.6,
+    "end": 10.76,
+    "text": "there."
+   },
+   {
+    "start": 11.0,
+    "end": 11.34,
+    "text": "Very"
+   },
+   {
+    "start": 11.34,
+    "end": 11.7,
+    "text": "low"
+   },
+   {
+    "start": 11.7,
+    "end": 12.1,
+    "text": "relief."
+   },
+   {
+    "start": 13.0,
+    "end": 13.58,
+    "text": "And"
+   },
+   {
+    "start": 13.58,
+    "end": 13.72,
+    "text": "when"
+   },
+   {
+    "start": 13.72,
+    "end": 13.84,
+    "text": "you"
+   },
+   {
+    "start": 13.84,
+    "end": 13.94,
+    "text": "cross"
+   },
+   {
+    "start": 13.94,
+    "end": 14.16,
+    "text": "the"
+   },
+   {
+    "start": 14.16,
+    "end": 14.64,
+    "text": "pollers,"
+   },
+   {
+    "start": 14.9,
+    "end": 15.08,
+    "text": "you'll"
+   },
+   {
+    "start": 15.08,
+    "end": 15.42,
+    "text": "see"
+   },
+   {
+    "start": 15.42,
+    "end": 15.92,
+    "text": "it"
+   },
+   {
+    "start": 15.92,
+    "end": 16.24,
+    "text": "has"
+   },
+   {
+    "start": 16.24,
+    "end": 16.8,
+    "text": "very,"
+   }
+  ]
+ },
+ {
+  "start": 16.86,
+  "end": 23.28,
+  "text": "very low interference colors. Just barely pick those out. It has this kind of",
+  "words": [
+   {
+    "start": 16.86,
+    "end": 17.34,
+    "text": "very"
+   },
+   {
+    "start": 17.34,
+    "end": 17.92,
+    "text": "low"
+   },
+   {
+    "start": 17.92,
+    "end": 18.9,
+    "text": "interference"
+   },
+   {
+    "start": 18.9,
+    "end": 19.4,
+    "text": "colors."
+   },
+   {
+    "start": 19.52,
+    "end": 19.64,
+    "text": "Just"
+   },
+   {
+    "start": 19.64,
+    "end": 20.38,
+    "text": "barely"
+   },
+   {
+    "start": 20.38,
+    "end": 21.06,
+    "text": "pick"
+   },
+   {
+    "start": 21.06,
+    "end": 21.28,
+    "text": "those"
+   },
+   {
+    "start": 21.28,
+    "end": 21.62,
+    "text": "out."
+   },
+   {
+    "start": 22.24,
+    "end": 22.46,
+    "text": "It"
+   },
+   {
+    "start": 22.46,
+    "end": 22.66,
+    "text": "has"
+   },
+   {
+    "start": 22.66,
+    "end": 22.8,
+    "text": "this"
+   },
+   {
+    "start": 22.8,
+    "end": 23.02,
+    "text": "kind"
+   },
+   {
+    "start": 23.02,
+    "end": 23.28,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 23.28,
+  "end": 27.76,
+  "text": "zones that are optically distinct from each other.",
+  "words": [
+   {
+    "start": 23.28,
+    "end": 23.96,
+    "text": "zones"
+   },
+   {
+    "start": 23.96,
+    "end": 24.34,
+    "text": "that"
+   },
+   {
+    "start": 24.34,
+    "end": 24.6,
+    "text": "are"
+   },
+   {
+    "start": 24.6,
+    "end": 26.06,
+    "text": "optically"
+   },
+   {
+    "start": 26.06,
+    "end": 27.0,
+    "text": "distinct"
+   },
+   {
+    "start": 27.0,
+    "end": 27.36,
+    "text": "from"
+   },
+   {
+    "start": 27.36,
+    "end": 27.56,
+    "text": "each"
+   },
+   {
+    "start": 27.56,
+    "end": 27.76,
+    "text": "other."
+   }
+  ]
+ }
+]

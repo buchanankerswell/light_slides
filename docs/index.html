@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffffff" id="themeColor" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='7' fill='%23000'/%3E%3Ccircle cx='8' cy='8' r='4.5' fill='none' stroke='%23fff' stroke-width='1'/%3E%3C/svg%3E"
+    />
+    <title>Light Slides</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#viewer">Skip to viewer</a>
+    <header class="bar">
+      <div class="bar-inner">
+        <div>
+          <h1>Light Slides</h1>
+          <p class="sub">Interactive index of <cite>Optical Mineralogy</cite> by Perkins, Kohn, and Brady</p>
+        </div>
+        <div class="bar-side">
+          <input
+            id="search"
+            type="search"
+            placeholder="/ to filter minerals... (⌘K library · ? help)"
+            aria-label="Filter minerals, symbols, and features"
+            title="Try a symbol (opx), a feature (twinkle), or a color (blue). Prefix with - to exclude."
+            autocomplete="off"
+          />
+          <a class="pill" href="https://optical.minpet.org">Textbook</a>
+        </div>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="viewer" id="viewer" aria-label="Focused viewer" tabindex="-1">
+        <p id="caption" class="caption" aria-live="polite">Choose a mineral to begin.</p>
+        <div class="stage">
+          <video id="video" playsinline preload="metadata"></video>
+          <p id="video-fallback" class="video-fallback" hidden></p>
+        </div>
+        <div class="controls">
+          <button id="play" aria-label="Play or pause"><span id="playIcon" aria-hidden="true">▶</span></button>
+          <input id="scrub" type="range" min="0" max="1000" value="0" step="1" aria-label="Stage rotation" />
+          <span id="time" class="time">0.0 / 0.0s</span>
+        </div>
+      </section>
+
+      <section class="decks" aria-label="Decks">
+        <div id="decks"></div>
+      </section>
+    </main>
+
+    <div id="library" class="library" hidden role="dialog" aria-label="Mineral and properties library">
+      <div class="lib-head">
+        <div class="lib-seg" aria-label="Library collection">
+          <button id="libSegMinerals" aria-pressed="true">Minerals</button>
+          <button id="libSegProps" aria-pressed="false">Properties</button>
+        </div>
+        <input id="libSearch" type="search" placeholder="Filter…" aria-label="Filter library entries" autocomplete="off" />
+        <span class="lib-hint">Enter loads slide · ↑↓ browse · ←/→ switch</span>
+      </div>
+      <div class="lib-main">
+        <div class="lib-tabs" id="libTabs" role="tablist" aria-label="Library entries"></div>
+        <div class="lib-body" id="libBody"></div>
+      </div>
+    </div>
+
+    <div id="help" class="help" hidden role="dialog" aria-modal="true" aria-label="Keyboard shortcuts and help">
+      <div class="help-card" tabindex="-1">
+        <h2>Shortcuts</h2>
+        <dl class="help-list">
+          <div>
+            <dt><kbd>⌘K</kbd> / <kbd>Ctrl K</kbd></dt>
+            <dd>Toggle the library</dd>
+          </div>
+          <div>
+            <dt><kbd>Space</kbd></dt>
+            <dd>Play / pause</dd>
+          </div>
+          <div>
+            <dt><kbd>Enter</kbd></dt>
+            <dd>Select the highlighted library entry</dd>
+          </div>
+          <div>
+            <dt><kbd>←</kbd> <kbd>→</kbd></dt>
+            <dd>Seek ±2 s · switch collection in the library</dd>
+          </div>
+          <div>
+            <dt><kbd>↑</kbd> <kbd>↓</kbd></dt>
+            <dd>Browse library entries</dd>
+          </div>
+          <div>
+            <dt><kbd>type</kbd></dt>
+            <dd>Filter the open library</dd>
+          </div>
+          <div>
+            <dt><kbd>/</kbd></dt>
+            <dd>Jump to search</dd>
+          </div>
+          <div>
+            <dt><kbd>?</kbd></dt>
+            <dd>Toggle this help</dd>
+          </div>
+          <div>
+            <dt><kbd>Esc</kbd></dt>
+            <dd>Close</dd>
+          </div>
+        </dl>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

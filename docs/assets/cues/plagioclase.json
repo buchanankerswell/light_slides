@@ -1,0 +1,3570 @@
+[
+ {
+  "start": 0.6,
+  "end": 5.56,
+  "text": "Okay, so in here there are going to be two relatively large plagioclase grains",
+  "words": [
+   {
+    "start": 0.6,
+    "end": 1.12,
+    "text": "Okay,"
+   },
+   {
+    "start": 1.26,
+    "end": 1.46,
+    "text": "so"
+   },
+   {
+    "start": 1.46,
+    "end": 2.5,
+    "text": "in"
+   },
+   {
+    "start": 2.5,
+    "end": 2.78,
+    "text": "here"
+   },
+   {
+    "start": 2.78,
+    "end": 2.92,
+    "text": "there"
+   },
+   {
+    "start": 2.92,
+    "end": 3.0,
+    "text": "are"
+   },
+   {
+    "start": 3.0,
+    "end": 3.1,
+    "text": "going"
+   },
+   {
+    "start": 3.1,
+    "end": 3.2,
+    "text": "to"
+   },
+   {
+    "start": 3.2,
+    "end": 3.3,
+    "text": "be"
+   },
+   {
+    "start": 3.3,
+    "end": 3.62,
+    "text": "two"
+   },
+   {
+    "start": 3.62,
+    "end": 4.36,
+    "text": "relatively"
+   },
+   {
+    "start": 4.36,
+    "end": 4.66,
+    "text": "large"
+   },
+   {
+    "start": 4.66,
+    "end": 5.24,
+    "text": "plagioclase"
+   },
+   {
+    "start": 5.24,
+    "end": 5.56,
+    "text": "grains"
+   }
+  ]
+ },
+ {
+  "start": 5.56,
+  "end": 11.52,
+  "text": "towards the center of the field of view. They're low relief, clear, no pleochroism,",
+  "words": [
+   {
+    "start": 5.56,
+    "end": 6.4,
+    "text": "towards"
+   },
+   {
+    "start": 6.4,
+    "end": 6.72,
+    "text": "the"
+   },
+   {
+    "start": 6.72,
+    "end": 7.06,
+    "text": "center"
+   },
+   {
+    "start": 7.06,
+    "end": 7.36,
+    "text": "of"
+   },
+   {
+    "start": 7.36,
+    "end": 7.48,
+    "text": "the"
+   },
+   {
+    "start": 7.48,
+    "end": 7.66,
+    "text": "field"
+   },
+   {
+    "start": 7.66,
+    "end": 7.8,
+    "text": "of"
+   },
+   {
+    "start": 7.8,
+    "end": 7.98,
+    "text": "view."
+   },
+   {
+    "start": 8.26,
+    "end": 8.64,
+    "text": "They're"
+   },
+   {
+    "start": 8.64,
+    "end": 9.16,
+    "text": "low"
+   },
+   {
+    "start": 9.16,
+    "end": 9.54,
+    "text": "relief,"
+   },
+   {
+    "start": 9.72,
+    "end": 10.14,
+    "text": "clear,"
+   },
+   {
+    "start": 10.44,
+    "end": 10.7,
+    "text": "no"
+   },
+   {
+    "start": 10.7,
+    "end": 11.52,
+    "text": "pleochroism,"
+   }
+  ]
+ },
+ {
+  "start": 12.16,
+  "end": 15.4,
+  "text": "but when the polars are crossed you'll see one of them has some nice twinning,",
+  "words": [
+   {
+    "start": 12.16,
+    "end": 12.46,
+    "text": "but"
+   },
+   {
+    "start": 12.46,
+    "end": 12.68,
+    "text": "when"
+   },
+   {
+    "start": 12.68,
+    "end": 12.84,
+    "text": "the"
+   },
+   {
+    "start": 12.84,
+    "end": 13.12,
+    "text": "polars"
+   },
+   {
+    "start": 13.12,
+    "end": 13.28,
+    "text": "are"
+   },
+   {
+    "start": 13.28,
+    "end": 13.54,
+    "text": "crossed"
+   },
+   {
+    "start": 13.54,
+    "end": 13.74,
+    "text": "you'll"
+   },
+   {
+    "start": 13.74,
+    "end": 13.86,
+    "text": "see"
+   },
+   {
+    "start": 13.86,
+    "end": 14.04,
+    "text": "one"
+   },
+   {
+    "start": 14.04,
+    "end": 14.14,
+    "text": "of"
+   },
+   {
+    "start": 14.14,
+    "end": 14.24,
+    "text": "them"
+   },
+   {
+    "start": 14.24,
+    "end": 14.42,
+    "text": "has"
+   },
+   {
+    "start": 14.42,
+    "end": 14.64,
+    "text": "some"
+   },
+   {
+    "start": 14.64,
+    "end": 14.8,
+    "text": "nice"
+   },
+   {
+    "start": 14.8,
+    "end": 15.4,
+    "text": "twinning,"
+   }
+  ]
+ },
+ {
+  "start": 15.66,
+  "end": 19.8,
+  "text": "albite twinning, and the other one does not. That's the characteristic of",
+  "words": [
+   {
+    "start": 15.66,
+    "end": 15.9,
+    "text": "albite"
+   },
+   {
+    "start": 15.9,
+    "end": 16.34,
+    "text": "twinning,"
+   },
+   {
+    "start": 16.66,
+    "end": 16.96,
+    "text": "and"
+   },
+   {
+    "start": 16.96,
+    "end": 17.08,
+    "text": "the"
+   },
+   {
+    "start": 17.08,
+    "end": 17.26,
+    "text": "other"
+   },
+   {
+    "start": 17.26,
+    "end": 17.4,
+    "text": "one"
+   },
+   {
+    "start": 17.4,
+    "end": 17.54,
+    "text": "does"
+   },
+   {
+    "start": 17.54,
+    "end": 17.76,
+    "text": "not."
+   },
+   {
+    "start": 18.08,
+    "end": 18.52,
+    "text": "That's"
+   },
+   {
+    "start": 18.52,
+    "end": 18.74,
+    "text": "the"
+   },
+   {
+    "start": 18.74,
+    "end": 19.18,
+    "text": "characteristic"
+   },
+   {
+    "start": 19.18,
+    "end": 19.8,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 19.8,
+  "end": 22.54,
+  "text": "plagioclase. Sometimes it has twinning and sometimes it doesn't.",
+  "words": [
+   {
+    "start": 19.8,
+    "end": 20.44,
+    "text": "plagioclase."
+   },
+   {
+    "start": 20.6,
+    "end": 20.78,
+    "text": "Sometimes"
+   },
+   {
+    "start": 20.78,
+    "end": 21.02,
+    "text": "it"
+   },
+   {
+    "start": 21.02,
+    "end": 21.18,
+    "text": "has"
+   },
+   {
+    "start": 21.18,
+    "end": 21.52,
+    "text": "twinning"
+   },
+   {
+    "start": 21.52,
+    "end": 21.62,
+    "text": "and"
+   },
+   {
+    "start": 21.62,
+    "end": 21.98,
+    "text": "sometimes"
+   },
+   {
+    "start": 21.98,
+    "end": 22.22,
+    "text": "it"
+   },
+   {
+    "start": 22.22,
+    "end": 22.54,
+    "text": "doesn't."
+   }
+  ]
+ },
+ {
+  "start": 30.68,
+  "end": 38.56,
+  "text": "Now this is a single large plagioclase crystal and again low relief, clear, kind",
+  "words": [
+   {
+    "start": 30.68,
+    "end": 31.3,
+    "text": "Now"
+   },
+   {
+    "start": 31.3,
+    "end": 31.46,
+    "text": "this"
+   },
+   {
+    "start": 31.46,
+    "end": 31.6,
+    "text": "is"
+   },
+   {
+    "start": 31.6,
+    "end": 31.7,
+    "text": "a"
+   },
+   {
+    "start": 31.7,
+    "end": 31.96,
+    "text": "single"
+   },
+   {
+    "start": 31.96,
+    "end": 32.44,
+    "text": "large"
+   },
+   {
+    "start": 32.44,
+    "end": 33.26,
+    "text": "plagioclase"
+   },
+   {
+    "start": 33.26,
+    "end": 33.76,
+    "text": "crystal"
+   },
+   {
+    "start": 33.76,
+    "end": 35.02,
+    "text": "and"
+   },
+   {
+    "start": 35.02,
+    "end": 35.7,
+    "text": "again"
+   },
+   {
+    "start": 35.7,
+    "end": 36.54,
+    "text": "low"
+   },
+   {
+    "start": 36.54,
+    "end": 36.92,
+    "text": "relief,"
+   },
+   {
+    "start": 37.28,
+    "end": 37.74,
+    "text": "clear,"
+   },
+   {
+    "start": 38.36,
+    "end": 38.56,
+    "text": "kind"
+   }
+  ]
+ },
+ {
+  "start": 38.56,
+  "end": 43.12,
+  "text": "of looks like quartz in plain polarized light, but when you cross the polars",
+  "words": [
+   {
+    "start": 38.56,
+    "end": 38.64,
+    "text": "of"
+   },
+   {
+    "start": 38.64,
+    "end": 38.76,
+    "text": "looks"
+   },
+   {
+    "start": 38.76,
+    "end": 39.0,
+    "text": "like"
+   },
+   {
+    "start": 39.0,
+    "end": 39.58,
+    "text": "quartz"
+   },
+   {
+    "start": 39.58,
+    "end": 40.36,
+    "text": "in"
+   },
+   {
+    "start": 40.36,
+    "end": 40.6,
+    "text": "plain"
+   },
+   {
+    "start": 40.6,
+    "end": 40.88,
+    "text": "polarized"
+   },
+   {
+    "start": 40.88,
+    "end": 41.4,
+    "text": "light,"
+   },
+   {
+    "start": 41.94,
+    "end": 42.18,
+    "text": "but"
+   },
+   {
+    "start": 42.18,
+    "end": 42.26,
+    "text": "when"
+   },
+   {
+    "start": 42.26,
+    "end": 42.34,
+    "text": "you"
+   },
+   {
+    "start": 42.34,
+    "end": 42.56,
+    "text": "cross"
+   },
+   {
+    "start": 42.56,
+    "end": 42.78,
+    "text": "the"
+   },
+   {
+    "start": 42.78,
+    "end": 43.12,
+    "text": "polars"
+   }
+  ]
+ },
+ {
+  "start": 43.12,
+  "end": 47.56,
+  "text": "then you'll see there is a little bit of twinning on the outer edges but it's",
+  "words": [
+   {
+    "start": 43.12,
+    "end": 43.48,
+    "text": "then"
+   },
+   {
+    "start": 43.48,
+    "end": 43.78,
+    "text": "you'll"
+   },
+   {
+    "start": 43.78,
+    "end": 44.06,
+    "text": "see"
+   },
+   {
+    "start": 44.06,
+    "end": 44.64,
+    "text": "there"
+   },
+   {
+    "start": 44.64,
+    "end": 44.76,
+    "text": "is"
+   },
+   {
+    "start": 44.76,
+    "end": 44.88,
+    "text": "a"
+   },
+   {
+    "start": 44.88,
+    "end": 45.02,
+    "text": "little"
+   },
+   {
+    "start": 45.02,
+    "end": 45.18,
+    "text": "bit"
+   },
+   {
+    "start": 45.18,
+    "end": 45.3,
+    "text": "of"
+   },
+   {
+    "start": 45.3,
+    "end": 45.62,
+    "text": "twinning"
+   },
+   {
+    "start": 45.62,
+    "end": 45.82,
+    "text": "on"
+   },
+   {
+    "start": 45.82,
+    "end": 46.0,
+    "text": "the"
+   },
+   {
+    "start": 46.0,
+    "end": 46.2,
+    "text": "outer"
+   },
+   {
+    "start": 46.2,
+    "end": 46.72,
+    "text": "edges"
+   },
+   {
+    "start": 46.72,
+    "end": 47.34,
+    "text": "but"
+   },
+   {
+    "start": 47.34,
+    "end": 47.56,
+    "text": "it's"
+   }
+  ]
+ },
+ {
+  "start": 47.56,
+  "end": 54.34,
+  "text": "also chemically zoned and so it has this extinction that sweeps from the",
+  "words": [
+   {
+    "start": 47.56,
+    "end": 47.88,
+    "text": "also"
+   },
+   {
+    "start": 47.88,
+    "end": 48.48,
+    "text": "chemically"
+   },
+   {
+    "start": 48.48,
+    "end": 49.0,
+    "text": "zoned"
+   },
+   {
+    "start": 49.0,
+    "end": 49.6,
+    "text": "and"
+   },
+   {
+    "start": 49.6,
+    "end": 49.9,
+    "text": "so"
+   },
+   {
+    "start": 49.9,
+    "end": 50.24,
+    "text": "it"
+   },
+   {
+    "start": 50.24,
+    "end": 50.54,
+    "text": "has"
+   },
+   {
+    "start": 50.54,
+    "end": 51.02,
+    "text": "this"
+   },
+   {
+    "start": 51.02,
+    "end": 52.96,
+    "text": "extinction"
+   },
+   {
+    "start": 52.96,
+    "end": 53.4,
+    "text": "that"
+   },
+   {
+    "start": 53.4,
+    "end": 53.9,
+    "text": "sweeps"
+   },
+   {
+    "start": 53.9,
+    "end": 54.16,
+    "text": "from"
+   },
+   {
+    "start": 54.16,
+    "end": 54.34,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 54.34,
+  "end": 63.42,
+  "text": "interior to the exterior and vice versa. Another example of plagioclase, there's",
+  "words": [
+   {
+    "start": 54.34,
+    "end": 54.92,
+    "text": "interior"
+   },
+   {
+    "start": 54.92,
+    "end": 55.16,
+    "text": "to"
+   },
+   {
+    "start": 55.16,
+    "end": 55.34,
+    "text": "the"
+   },
+   {
+    "start": 55.34,
+    "end": 56.02,
+    "text": "exterior"
+   },
+   {
+    "start": 56.02,
+    "end": 56.5,
+    "text": "and"
+   },
+   {
+    "start": 56.5,
+    "end": 56.9,
+    "text": "vice"
+   },
+   {
+    "start": 56.9,
+    "end": 57.28,
+    "text": "versa."
+   },
+   {
+    "start": 60.44,
+    "end": 60.96,
+    "text": "Another"
+   },
+   {
+    "start": 60.96,
+    "end": 61.4,
+    "text": "example"
+   },
+   {
+    "start": 61.4,
+    "end": 61.6,
+    "text": "of"
+   },
+   {
+    "start": 61.6,
+    "end": 62.3,
+    "text": "plagioclase,"
+   },
+   {
+    "start": 62.64,
+    "end": 63.42,
+    "text": "there's"
+   }
+  ]
+ },
+ {
+  "start": 63.42,
+  "end": 67.04,
+  "text": "a single large grain. Again, you can't see it because it's got such low relief",
+  "words": [
+   {
+    "start": 63.42,
+    "end": 63.62,
+    "text": "a"
+   },
+   {
+    "start": 63.62,
+    "end": 63.88,
+    "text": "single"
+   },
+   {
+    "start": 63.88,
+    "end": 64.2,
+    "text": "large"
+   },
+   {
+    "start": 64.2,
+    "end": 64.56,
+    "text": "grain."
+   },
+   {
+    "start": 64.9,
+    "end": 65.04,
+    "text": "Again,"
+   },
+   {
+    "start": 65.1,
+    "end": 65.18,
+    "text": "you"
+   },
+   {
+    "start": 65.18,
+    "end": 65.48,
+    "text": "can't"
+   },
+   {
+    "start": 65.48,
+    "end": 65.6,
+    "text": "see"
+   },
+   {
+    "start": 65.6,
+    "end": 65.74,
+    "text": "it"
+   },
+   {
+    "start": 65.74,
+    "end": 65.92,
+    "text": "because"
+   },
+   {
+    "start": 65.92,
+    "end": 66.12,
+    "text": "it's"
+   },
+   {
+    "start": 66.12,
+    "end": 66.26,
+    "text": "got"
+   },
+   {
+    "start": 66.26,
+    "end": 66.48,
+    "text": "such"
+   },
+   {
+    "start": 66.48,
+    "end": 66.72,
+    "text": "low"
+   },
+   {
+    "start": 66.72,
+    "end": 67.04,
+    "text": "relief"
+   }
+  ]
+ },
+ {
+  "start": 67.04,
+  "end": 71.94,
+  "text": "and no pleochroism. When you cross the polars you'll see that part of this",
+  "words": [
+   {
+    "start": 67.04,
+    "end": 68.08,
+    "text": "and"
+   },
+   {
+    "start": 68.08,
+    "end": 68.38,
+    "text": "no"
+   },
+   {
+    "start": 68.38,
+    "end": 69.0,
+    "text": "pleochroism."
+   },
+   {
+    "start": 69.68,
+    "end": 70.02,
+    "text": "When"
+   },
+   {
+    "start": 70.02,
+    "end": 70.14,
+    "text": "you"
+   },
+   {
+    "start": 70.14,
+    "end": 70.28,
+    "text": "cross"
+   },
+   {
+    "start": 70.28,
+    "end": 70.48,
+    "text": "the"
+   },
+   {
+    "start": 70.48,
+    "end": 70.72,
+    "text": "polars"
+   },
+   {
+    "start": 70.72,
+    "end": 70.94,
+    "text": "you'll"
+   },
+   {
+    "start": 70.94,
+    "end": 71.1,
+    "text": "see"
+   },
+   {
+    "start": 71.1,
+    "end": 71.28,
+    "text": "that"
+   },
+   {
+    "start": 71.28,
+    "end": 71.6,
+    "text": "part"
+   },
+   {
+    "start": 71.6,
+    "end": 71.74,
+    "text": "of"
+   },
+   {
+    "start": 71.74,
+    "end": 71.94,
+    "text": "this"
+   }
+  ]
+ },
+ {
+  "start": 71.94,
+  "end": 77.2,
+  "text": "crystal is has lots of twins through it and part of the crystal does not have",
+  "words": [
+   {
+    "start": 71.94,
+    "end": 72.42,
+    "text": "crystal"
+   },
+   {
+    "start": 72.42,
+    "end": 73.26,
+    "text": "is"
+   },
+   {
+    "start": 73.26,
+    "end": 74.18,
+    "text": "has"
+   },
+   {
+    "start": 74.18,
+    "end": 74.44,
+    "text": "lots"
+   },
+   {
+    "start": 74.44,
+    "end": 74.62,
+    "text": "of"
+   },
+   {
+    "start": 74.62,
+    "end": 74.8,
+    "text": "twins"
+   },
+   {
+    "start": 74.8,
+    "end": 75.12,
+    "text": "through"
+   },
+   {
+    "start": 75.12,
+    "end": 75.3,
+    "text": "it"
+   },
+   {
+    "start": 75.3,
+    "end": 75.62,
+    "text": "and"
+   },
+   {
+    "start": 75.62,
+    "end": 75.88,
+    "text": "part"
+   },
+   {
+    "start": 75.88,
+    "end": 75.98,
+    "text": "of"
+   },
+   {
+    "start": 75.98,
+    "end": 76.04,
+    "text": "the"
+   },
+   {
+    "start": 76.04,
+    "end": 76.3,
+    "text": "crystal"
+   },
+   {
+    "start": 76.3,
+    "end": 76.58,
+    "text": "does"
+   },
+   {
+    "start": 76.58,
+    "end": 76.84,
+    "text": "not"
+   },
+   {
+    "start": 76.84,
+    "end": 77.2,
+    "text": "have"
+   }
+  ]
+ },
+ {
+  "start": 77.2,
+  "end": 82.38,
+  "text": "twins in it. The inclusions there are quartz and biotite.",
+  "words": [
+   {
+    "start": 77.2,
+    "end": 77.66,
+    "text": "twins"
+   },
+   {
+    "start": 77.66,
+    "end": 78.2,
+    "text": "in"
+   },
+   {
+    "start": 78.2,
+    "end": 78.34,
+    "text": "it."
+   },
+   {
+    "start": 79.06,
+    "end": 79.26,
+    "text": "The"
+   },
+   {
+    "start": 79.26,
+    "end": 79.72,
+    "text": "inclusions"
+   },
+   {
+    "start": 79.72,
+    "end": 79.96,
+    "text": "there"
+   },
+   {
+    "start": 79.96,
+    "end": 80.22,
+    "text": "are"
+   },
+   {
+    "start": 80.22,
+    "end": 80.6,
+    "text": "quartz"
+   },
+   {
+    "start": 80.6,
+    "end": 81.34,
+    "text": "and"
+   },
+   {
+    "start": 81.34,
+    "end": 82.38,
+    "text": "biotite."
+   }
+  ]
+ },
+ {
+  "start": 89.92,
+  "end": 96.66,
+  "text": "Now this one will trick you. So again low relief, no pleochroism. When I cross the",
+  "words": [
+   {
+    "start": 89.92,
+    "end": 90.44,
+    "text": "Now"
+   },
+   {
+    "start": 90.44,
+    "end": 90.64,
+    "text": "this"
+   },
+   {
+    "start": 90.64,
+    "end": 90.78,
+    "text": "one"
+   },
+   {
+    "start": 90.78,
+    "end": 90.86,
+    "text": "will"
+   },
+   {
+    "start": 90.86,
+    "end": 91.06,
+    "text": "trick"
+   },
+   {
+    "start": 91.06,
+    "end": 91.18,
+    "text": "you."
+   },
+   {
+    "start": 91.34,
+    "end": 91.48,
+    "text": "So"
+   },
+   {
+    "start": 91.48,
+    "end": 91.84,
+    "text": "again"
+   },
+   {
+    "start": 91.84,
+    "end": 92.4,
+    "text": "low"
+   },
+   {
+    "start": 92.4,
+    "end": 92.76,
+    "text": "relief,"
+   },
+   {
+    "start": 93.22,
+    "end": 93.92,
+    "text": "no"
+   },
+   {
+    "start": 93.92,
+    "end": 94.56,
+    "text": "pleochroism."
+   },
+   {
+    "start": 95.54,
+    "end": 96.06,
+    "text": "When"
+   },
+   {
+    "start": 96.06,
+    "end": 96.28,
+    "text": "I"
+   },
+   {
+    "start": 96.28,
+    "end": 96.44,
+    "text": "cross"
+   },
+   {
+    "start": 96.44,
+    "end": 96.66,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 96.66,
+  "end": 101.64,
+  "text": "polars you're going to say that looks like quartz and the fact is that that",
+  "words": [
+   {
+    "start": 96.66,
+    "end": 97.08,
+    "text": "polars"
+   },
+   {
+    "start": 97.08,
+    "end": 98.24,
+    "text": "you're"
+   },
+   {
+    "start": 98.24,
+    "end": 98.32,
+    "text": "going"
+   },
+   {
+    "start": 98.32,
+    "end": 98.38,
+    "text": "to"
+   },
+   {
+    "start": 98.38,
+    "end": 98.52,
+    "text": "say"
+   },
+   {
+    "start": 98.52,
+    "end": 99.06,
+    "text": "that"
+   },
+   {
+    "start": 99.06,
+    "end": 99.26,
+    "text": "looks"
+   },
+   {
+    "start": 99.26,
+    "end": 99.48,
+    "text": "like"
+   },
+   {
+    "start": 99.48,
+    "end": 99.82,
+    "text": "quartz"
+   },
+   {
+    "start": 99.82,
+    "end": 100.32,
+    "text": "and"
+   },
+   {
+    "start": 100.32,
+    "end": 100.54,
+    "text": "the"
+   },
+   {
+    "start": 100.54,
+    "end": 100.92,
+    "text": "fact"
+   },
+   {
+    "start": 100.92,
+    "end": 101.22,
+    "text": "is"
+   },
+   {
+    "start": 101.22,
+    "end": 101.42,
+    "text": "that"
+   },
+   {
+    "start": 101.42,
+    "end": 101.64,
+    "text": "that"
+   }
+  ]
+ },
+ {
+  "start": 101.64,
+  "end": 105.9,
+  "text": "plagioclase grain in the center does look like quartz. It doesn't seem to have",
+  "words": [
+   {
+    "start": 101.64,
+    "end": 102.26,
+    "text": "plagioclase"
+   },
+   {
+    "start": 102.26,
+    "end": 102.52,
+    "text": "grain"
+   },
+   {
+    "start": 102.52,
+    "end": 102.7,
+    "text": "in"
+   },
+   {
+    "start": 102.7,
+    "end": 102.82,
+    "text": "the"
+   },
+   {
+    "start": 102.82,
+    "end": 103.1,
+    "text": "center"
+   },
+   {
+    "start": 103.1,
+    "end": 103.88,
+    "text": "does"
+   },
+   {
+    "start": 103.88,
+    "end": 104.16,
+    "text": "look"
+   },
+   {
+    "start": 104.16,
+    "end": 104.34,
+    "text": "like"
+   },
+   {
+    "start": 104.34,
+    "end": 104.68,
+    "text": "quartz."
+   },
+   {
+    "start": 104.9,
+    "end": 105.02,
+    "text": "It"
+   },
+   {
+    "start": 105.02,
+    "end": 105.3,
+    "text": "doesn't"
+   },
+   {
+    "start": 105.3,
+    "end": 105.54,
+    "text": "seem"
+   },
+   {
+    "start": 105.54,
+    "end": 105.7,
+    "text": "to"
+   },
+   {
+    "start": 105.7,
+    "end": 105.9,
+    "text": "have"
+   }
+  ]
+ },
+ {
+  "start": 105.9,
+  "end": 110.78,
+  "text": "any twinning, doesn't seem to have any zoning and yet it is plagioclase and I",
+  "words": [
+   {
+    "start": 105.9,
+    "end": 106.1,
+    "text": "any"
+   },
+   {
+    "start": 106.1,
+    "end": 106.52,
+    "text": "twinning,"
+   },
+   {
+    "start": 106.58,
+    "end": 106.8,
+    "text": "doesn't"
+   },
+   {
+    "start": 106.8,
+    "end": 106.96,
+    "text": "seem"
+   },
+   {
+    "start": 106.96,
+    "end": 107.1,
+    "text": "to"
+   },
+   {
+    "start": 107.1,
+    "end": 107.26,
+    "text": "have"
+   },
+   {
+    "start": 107.26,
+    "end": 107.46,
+    "text": "any"
+   },
+   {
+    "start": 107.46,
+    "end": 107.78,
+    "text": "zoning"
+   },
+   {
+    "start": 107.78,
+    "end": 109.1,
+    "text": "and"
+   },
+   {
+    "start": 109.1,
+    "end": 109.3,
+    "text": "yet"
+   },
+   {
+    "start": 109.3,
+    "end": 109.52,
+    "text": "it"
+   },
+   {
+    "start": 109.52,
+    "end": 109.72,
+    "text": "is"
+   },
+   {
+    "start": 109.72,
+    "end": 110.38,
+    "text": "plagioclase"
+   },
+   {
+    "start": 110.38,
+    "end": 110.68,
+    "text": "and"
+   },
+   {
+    "start": 110.68,
+    "end": 110.78,
+    "text": "I"
+   }
+  ]
+ },
+ {
+  "start": 110.78,
+  "end": 114.5,
+  "text": "know it's plagioclase because I spent three hours on an electron probe looking",
+  "words": [
+   {
+    "start": 110.78,
+    "end": 110.92,
+    "text": "know"
+   },
+   {
+    "start": 110.92,
+    "end": 111.04,
+    "text": "it's"
+   },
+   {
+    "start": 111.04,
+    "end": 111.6,
+    "text": "plagioclase"
+   },
+   {
+    "start": 111.6,
+    "end": 111.86,
+    "text": "because"
+   },
+   {
+    "start": 111.86,
+    "end": 112.02,
+    "text": "I"
+   },
+   {
+    "start": 112.02,
+    "end": 112.24,
+    "text": "spent"
+   },
+   {
+    "start": 112.24,
+    "end": 112.7,
+    "text": "three"
+   },
+   {
+    "start": 112.7,
+    "end": 112.98,
+    "text": "hours"
+   },
+   {
+    "start": 112.98,
+    "end": 113.26,
+    "text": "on"
+   },
+   {
+    "start": 113.26,
+    "end": 113.38,
+    "text": "an"
+   },
+   {
+    "start": 113.38,
+    "end": 113.68,
+    "text": "electron"
+   },
+   {
+    "start": 113.68,
+    "end": 114.1,
+    "text": "probe"
+   },
+   {
+    "start": 114.1,
+    "end": 114.5,
+    "text": "looking"
+   }
+  ]
+ },
+ {
+  "start": 114.5,
+  "end": 123.44,
+  "text": "for quartz in this sample unsuccessfully. This is another example of a large",
+  "words": [
+   {
+    "start": 114.5,
+    "end": 114.76,
+    "text": "for"
+   },
+   {
+    "start": 114.76,
+    "end": 115.04,
+    "text": "quartz"
+   },
+   {
+    "start": 115.04,
+    "end": 115.26,
+    "text": "in"
+   },
+   {
+    "start": 115.26,
+    "end": 115.44,
+    "text": "this"
+   },
+   {
+    "start": 115.44,
+    "end": 115.86,
+    "text": "sample"
+   },
+   {
+    "start": 115.86,
+    "end": 117.4,
+    "text": "unsuccessfully."
+   },
+   {
+    "start": 120.68,
+    "end": 121.24,
+    "text": "This"
+   },
+   {
+    "start": 121.24,
+    "end": 121.36,
+    "text": "is"
+   },
+   {
+    "start": 121.36,
+    "end": 121.58,
+    "text": "another"
+   },
+   {
+    "start": 121.58,
+    "end": 122.12,
+    "text": "example"
+   },
+   {
+    "start": 122.12,
+    "end": 122.58,
+    "text": "of"
+   },
+   {
+    "start": 122.58,
+    "end": 122.84,
+    "text": "a"
+   },
+   {
+    "start": 122.84,
+    "end": 123.44,
+    "text": "large"
+   }
+  ]
+ },
+ {
+  "start": 123.44,
+  "end": 129.58,
+  "text": "crystal that has both twinning and zoning so after the polars are crossed you'll",
+  "words": [
+   {
+    "start": 123.44,
+    "end": 123.94,
+    "text": "crystal"
+   },
+   {
+    "start": 123.94,
+    "end": 124.52,
+    "text": "that"
+   },
+   {
+    "start": 124.52,
+    "end": 125.0,
+    "text": "has"
+   },
+   {
+    "start": 125.0,
+    "end": 125.5,
+    "text": "both"
+   },
+   {
+    "start": 125.5,
+    "end": 126.12,
+    "text": "twinning"
+   },
+   {
+    "start": 126.12,
+    "end": 126.46,
+    "text": "and"
+   },
+   {
+    "start": 126.46,
+    "end": 126.78,
+    "text": "zoning"
+   },
+   {
+    "start": 126.78,
+    "end": 127.66,
+    "text": "so"
+   },
+   {
+    "start": 127.66,
+    "end": 128.12,
+    "text": "after"
+   },
+   {
+    "start": 128.12,
+    "end": 128.4,
+    "text": "the"
+   },
+   {
+    "start": 128.4,
+    "end": 128.98,
+    "text": "polars"
+   },
+   {
+    "start": 128.98,
+    "end": 129.1,
+    "text": "are"
+   },
+   {
+    "start": 129.1,
+    "end": 129.36,
+    "text": "crossed"
+   },
+   {
+    "start": 129.36,
+    "end": 129.58,
+    "text": "you'll"
+   }
+  ]
+ },
+ {
+  "start": 129.58,
+  "end": 135.66,
+  "text": "see this kind of trapezoidal feature towards the middle of it with this",
+  "words": [
+   {
+    "start": 129.58,
+    "end": 129.72,
+    "text": "see"
+   },
+   {
+    "start": 129.72,
+    "end": 129.88,
+    "text": "this"
+   },
+   {
+    "start": 129.88,
+    "end": 130.06,
+    "text": "kind"
+   },
+   {
+    "start": 130.06,
+    "end": 130.18,
+    "text": "of"
+   },
+   {
+    "start": 130.18,
+    "end": 130.78,
+    "text": "trapezoidal"
+   },
+   {
+    "start": 130.78,
+    "end": 131.9,
+    "text": "feature"
+   },
+   {
+    "start": 131.9,
+    "end": 132.76,
+    "text": "towards"
+   },
+   {
+    "start": 132.76,
+    "end": 132.98,
+    "text": "the"
+   },
+   {
+    "start": 132.98,
+    "end": 133.1,
+    "text": "middle"
+   },
+   {
+    "start": 133.1,
+    "end": 133.34,
+    "text": "of"
+   },
+   {
+    "start": 133.34,
+    "end": 133.6,
+    "text": "it"
+   },
+   {
+    "start": 133.6,
+    "end": 134.5,
+    "text": "with"
+   },
+   {
+    "start": 134.5,
+    "end": 135.66,
+    "text": "this"
+   }
+  ]
+ },
+ {
+  "start": 135.66,
+  "end": 140.72,
+  "text": "sweeping extinction because of the chemical zoning but then there's also",
+  "words": [
+   {
+    "start": 135.66,
+    "end": 136.34,
+    "text": "sweeping"
+   },
+   {
+    "start": 136.34,
+    "end": 137.38,
+    "text": "extinction"
+   },
+   {
+    "start": 137.38,
+    "end": 137.9,
+    "text": "because"
+   },
+   {
+    "start": 137.9,
+    "end": 138.16,
+    "text": "of"
+   },
+   {
+    "start": 138.16,
+    "end": 138.36,
+    "text": "the"
+   },
+   {
+    "start": 138.36,
+    "end": 138.76,
+    "text": "chemical"
+   },
+   {
+    "start": 138.76,
+    "end": 139.18,
+    "text": "zoning"
+   },
+   {
+    "start": 139.18,
+    "end": 140.08,
+    "text": "but"
+   },
+   {
+    "start": 140.08,
+    "end": 140.22,
+    "text": "then"
+   },
+   {
+    "start": 140.22,
+    "end": 140.42,
+    "text": "there's"
+   },
+   {
+    "start": 140.42,
+    "end": 140.72,
+    "text": "also"
+   }
+  ]
+ },
+ {
+  "start": 140.72,
+  "end": 145.54,
+  "text": "lots of twinning in there. There's some K-Feldspar around the outside and also",
+  "words": [
+   {
+    "start": 140.72,
+    "end": 141.24,
+    "text": "lots"
+   },
+   {
+    "start": 141.24,
+    "end": 141.58,
+    "text": "of"
+   },
+   {
+    "start": 141.58,
+    "end": 142.18,
+    "text": "twinning"
+   },
+   {
+    "start": 142.18,
+    "end": 142.54,
+    "text": "in"
+   },
+   {
+    "start": 142.54,
+    "end": 142.7,
+    "text": "there."
+   },
+   {
+    "start": 142.88,
+    "end": 143.02,
+    "text": "There's"
+   },
+   {
+    "start": 143.02,
+    "end": 143.14,
+    "text": "some"
+   },
+   {
+    "start": 143.14,
+    "end": 143.22,
+    "text": "K"
+   },
+   {
+    "start": 143.22,
+    "end": 143.7,
+    "text": "-Feldspar"
+   },
+   {
+    "start": 143.7,
+    "end": 143.92,
+    "text": "around"
+   },
+   {
+    "start": 143.92,
+    "end": 144.16,
+    "text": "the"
+   },
+   {
+    "start": 144.16,
+    "end": 144.5,
+    "text": "outside"
+   },
+   {
+    "start": 144.5,
+    "end": 145.26,
+    "text": "and"
+   },
+   {
+    "start": 145.26,
+    "end": 145.54,
+    "text": "also"
+   }
+  ]
+ },
+ {
+  "start": 145.54,
+  "end": 155.52,
+  "text": "little quartz. This is plagioclase from a granite and you'll see once the polars",
+  "words": [
+   {
+    "start": 145.54,
+    "end": 145.72,
+    "text": "little"
+   },
+   {
+    "start": 145.72,
+    "end": 146.02,
+    "text": "quartz."
+   },
+   {
+    "start": 151.28,
+    "end": 151.88,
+    "text": "This"
+   },
+   {
+    "start": 151.88,
+    "end": 152.0,
+    "text": "is"
+   },
+   {
+    "start": 152.0,
+    "end": 152.54,
+    "text": "plagioclase"
+   },
+   {
+    "start": 152.54,
+    "end": 152.8,
+    "text": "from"
+   },
+   {
+    "start": 152.8,
+    "end": 152.96,
+    "text": "a"
+   },
+   {
+    "start": 152.96,
+    "end": 153.42,
+    "text": "granite"
+   },
+   {
+    "start": 153.42,
+    "end": 153.98,
+    "text": "and"
+   },
+   {
+    "start": 153.98,
+    "end": 154.54,
+    "text": "you'll"
+   },
+   {
+    "start": 154.54,
+    "end": 154.76,
+    "text": "see"
+   },
+   {
+    "start": 154.76,
+    "end": 155.06,
+    "text": "once"
+   },
+   {
+    "start": 155.06,
+    "end": 155.3,
+    "text": "the"
+   },
+   {
+    "start": 155.3,
+    "end": 155.52,
+    "text": "polars"
+   }
+  ]
+ },
+ {
+  "start": 155.52,
+  "end": 159.8,
+  "text": "are crossed that it just has lots and lots of twinning. It's really",
+  "words": [
+   {
+    "start": 155.52,
+    "end": 155.6,
+    "text": "are"
+   },
+   {
+    "start": 155.6,
+    "end": 155.96,
+    "text": "crossed"
+   },
+   {
+    "start": 155.96,
+    "end": 156.22,
+    "text": "that"
+   },
+   {
+    "start": 156.22,
+    "end": 156.76,
+    "text": "it"
+   },
+   {
+    "start": 156.76,
+    "end": 156.94,
+    "text": "just"
+   },
+   {
+    "start": 156.94,
+    "end": 157.14,
+    "text": "has"
+   },
+   {
+    "start": 157.14,
+    "end": 157.44,
+    "text": "lots"
+   },
+   {
+    "start": 157.44,
+    "end": 157.64,
+    "text": "and"
+   },
+   {
+    "start": 157.64,
+    "end": 157.82,
+    "text": "lots"
+   },
+   {
+    "start": 157.82,
+    "end": 158.0,
+    "text": "of"
+   },
+   {
+    "start": 158.0,
+    "end": 158.48,
+    "text": "twinning."
+   },
+   {
+    "start": 158.9,
+    "end": 159.5,
+    "text": "It's"
+   },
+   {
+    "start": 159.5,
+    "end": 159.8,
+    "text": "really"
+   }
+  ]
+ },
+ {
+  "start": 159.8,
+  "end": 165.94,
+  "text": "characteristic of plagioclase that you see in intrusive rocks. Yeah, there's",
+  "words": [
+   {
+    "start": 159.8,
+    "end": 160.46,
+    "text": "characteristic"
+   },
+   {
+    "start": 160.46,
+    "end": 161.16,
+    "text": "of"
+   },
+   {
+    "start": 161.16,
+    "end": 162.04,
+    "text": "plagioclase"
+   },
+   {
+    "start": 162.04,
+    "end": 162.24,
+    "text": "that"
+   },
+   {
+    "start": 162.24,
+    "end": 162.36,
+    "text": "you"
+   },
+   {
+    "start": 162.36,
+    "end": 162.62,
+    "text": "see"
+   },
+   {
+    "start": 162.62,
+    "end": 163.04,
+    "text": "in"
+   },
+   {
+    "start": 163.04,
+    "end": 164.14,
+    "text": "intrusive"
+   },
+   {
+    "start": 164.14,
+    "end": 164.4,
+    "text": "rocks."
+   },
+   {
+    "start": 165.56,
+    "end": 165.66,
+    "text": "Yeah,"
+   },
+   {
+    "start": 165.7,
+    "end": 165.94,
+    "text": "there's"
+   }
+  ]
+ },
+ {
+  "start": 165.94,
+  "end": 168.66,
+  "text": "some quartz on the edge and I think a little K-Feldspar too.",
+  "words": [
+   {
+    "start": 165.94,
+    "end": 166.06,
+    "text": "some"
+   },
+   {
+    "start": 166.06,
+    "end": 166.26,
+    "text": "quartz"
+   },
+   {
+    "start": 166.26,
+    "end": 166.5,
+    "text": "on"
+   },
+   {
+    "start": 166.5,
+    "end": 166.64,
+    "text": "the"
+   },
+   {
+    "start": 166.64,
+    "end": 166.98,
+    "text": "edge"
+   },
+   {
+    "start": 166.98,
+    "end": 167.14,
+    "text": "and"
+   },
+   {
+    "start": 167.14,
+    "end": 167.3,
+    "text": "I"
+   },
+   {
+    "start": 167.3,
+    "end": 167.5,
+    "text": "think"
+   },
+   {
+    "start": 167.5,
+    "end": 167.66,
+    "text": "a"
+   },
+   {
+    "start": 167.66,
+    "end": 167.78,
+    "text": "little"
+   },
+   {
+    "start": 167.78,
+    "end": 167.96,
+    "text": "K"
+   },
+   {
+    "start": 167.96,
+    "end": 168.42,
+    "text": "-Feldspar"
+   },
+   {
+    "start": 168.42,
+    "end": 168.66,
+    "text": "too."
+   }
+  ]
+ },
+ {
+  "start": 180.44,
+  "end": 184.72,
+  "text": "Now this is one of the most bizarre samples I've ever collected. I think this",
+  "words": [
+   {
+    "start": 180.44,
+    "end": 180.92,
+    "text": "Now"
+   },
+   {
+    "start": 180.92,
+    "end": 181.16,
+    "text": "this"
+   },
+   {
+    "start": 181.16,
+    "end": 181.28,
+    "text": "is"
+   },
+   {
+    "start": 181.28,
+    "end": 181.42,
+    "text": "one"
+   },
+   {
+    "start": 181.42,
+    "end": 181.52,
+    "text": "of"
+   },
+   {
+    "start": 181.52,
+    "end": 181.6,
+    "text": "the"
+   },
+   {
+    "start": 181.6,
+    "end": 181.86,
+    "text": "most"
+   },
+   {
+    "start": 181.86,
+    "end": 182.38,
+    "text": "bizarre"
+   },
+   {
+    "start": 182.38,
+    "end": 182.86,
+    "text": "samples"
+   },
+   {
+    "start": 182.86,
+    "end": 183.1,
+    "text": "I've"
+   },
+   {
+    "start": 183.1,
+    "end": 183.24,
+    "text": "ever"
+   },
+   {
+    "start": 183.24,
+    "end": 183.6,
+    "text": "collected."
+   },
+   {
+    "start": 184.02,
+    "end": 184.24,
+    "text": "I"
+   },
+   {
+    "start": 184.24,
+    "end": 184.48,
+    "text": "think"
+   },
+   {
+    "start": 184.48,
+    "end": 184.72,
+    "text": "this"
+   }
+  ]
+ },
+ {
+  "start": 184.72,
+  "end": 190.26,
+  "text": "was a vesicular basalt and the vesicles were filled with zeolites. Then it was",
+  "words": [
+   {
+    "start": 184.72,
+    "end": 184.86,
+    "text": "was"
+   },
+   {
+    "start": 184.86,
+    "end": 185.06,
+    "text": "a"
+   },
+   {
+    "start": 185.06,
+    "end": 185.58,
+    "text": "vesicular"
+   },
+   {
+    "start": 185.58,
+    "end": 186.2,
+    "text": "basalt"
+   },
+   {
+    "start": 186.2,
+    "end": 186.58,
+    "text": "and"
+   },
+   {
+    "start": 186.58,
+    "end": 186.74,
+    "text": "the"
+   },
+   {
+    "start": 186.74,
+    "end": 187.08,
+    "text": "vesicles"
+   },
+   {
+    "start": 187.08,
+    "end": 187.44,
+    "text": "were"
+   },
+   {
+    "start": 187.44,
+    "end": 187.9,
+    "text": "filled"
+   },
+   {
+    "start": 187.9,
+    "end": 188.42,
+    "text": "with"
+   },
+   {
+    "start": 188.42,
+    "end": 189.42,
+    "text": "zeolites."
+   },
+   {
+    "start": 189.94,
+    "end": 190.04,
+    "text": "Then"
+   },
+   {
+    "start": 190.04,
+    "end": 190.14,
+    "text": "it"
+   },
+   {
+    "start": 190.14,
+    "end": 190.26,
+    "text": "was"
+   }
+  ]
+ },
+ {
+  "start": 190.26,
+  "end": 194.38,
+  "text": "metamorphosed to amphibolite faces and all the zeolites in that circular",
+  "words": [
+   {
+    "start": 190.26,
+    "end": 191.12,
+    "text": "metamorphosed"
+   },
+   {
+    "start": 191.12,
+    "end": 191.28,
+    "text": "to"
+   },
+   {
+    "start": 191.28,
+    "end": 191.88,
+    "text": "amphibolite"
+   },
+   {
+    "start": 191.88,
+    "end": 192.22,
+    "text": "faces"
+   },
+   {
+    "start": 192.22,
+    "end": 192.64,
+    "text": "and"
+   },
+   {
+    "start": 192.64,
+    "end": 192.9,
+    "text": "all"
+   },
+   {
+    "start": 192.9,
+    "end": 193.06,
+    "text": "the"
+   },
+   {
+    "start": 193.06,
+    "end": 193.6,
+    "text": "zeolites"
+   },
+   {
+    "start": 193.6,
+    "end": 193.78,
+    "text": "in"
+   },
+   {
+    "start": 193.78,
+    "end": 193.94,
+    "text": "that"
+   },
+   {
+    "start": 193.94,
+    "end": 194.38,
+    "text": "circular"
+   }
+  ]
+ },
+ {
+  "start": 194.38,
+  "end": 199.64,
+  "text": "region have been metamorphosed to form plagioclase. Section's a tiny bit thick",
+  "words": [
+   {
+    "start": 194.38,
+    "end": 194.86,
+    "text": "region"
+   },
+   {
+    "start": 194.86,
+    "end": 195.32,
+    "text": "have"
+   },
+   {
+    "start": 195.32,
+    "end": 195.46,
+    "text": "been"
+   },
+   {
+    "start": 195.46,
+    "end": 196.34,
+    "text": "metamorphosed"
+   },
+   {
+    "start": 196.34,
+    "end": 196.62,
+    "text": "to"
+   },
+   {
+    "start": 196.62,
+    "end": 197.06,
+    "text": "form"
+   },
+   {
+    "start": 197.06,
+    "end": 197.9,
+    "text": "plagioclase."
+   },
+   {
+    "start": 198.42,
+    "end": 198.88,
+    "text": "Section's"
+   },
+   {
+    "start": 198.88,
+    "end": 198.96,
+    "text": "a"
+   },
+   {
+    "start": 198.96,
+    "end": 199.22,
+    "text": "tiny"
+   },
+   {
+    "start": 199.22,
+    "end": 199.38,
+    "text": "bit"
+   },
+   {
+    "start": 199.38,
+    "end": 199.64,
+    "text": "thick"
+   }
+  ]
+ },
+ {
+  "start": 199.64,
+  "end": 203.1,
+  "text": "so the plagioclase is a little bit yellow but I'm pretty sure that's the",
+  "words": [
+   {
+    "start": 199.64,
+    "end": 199.88,
+    "text": "so"
+   },
+   {
+    "start": 199.88,
+    "end": 199.98,
+    "text": "the"
+   },
+   {
+    "start": 199.98,
+    "end": 200.44,
+    "text": "plagioclase"
+   },
+   {
+    "start": 200.44,
+    "end": 200.6,
+    "text": "is"
+   },
+   {
+    "start": 200.6,
+    "end": 200.62,
+    "text": "a"
+   },
+   {
+    "start": 200.62,
+    "end": 200.7,
+    "text": "little"
+   },
+   {
+    "start": 200.7,
+    "end": 200.82,
+    "text": "bit"
+   },
+   {
+    "start": 200.82,
+    "end": 201.06,
+    "text": "yellow"
+   },
+   {
+    "start": 201.06,
+    "end": 201.56,
+    "text": "but"
+   },
+   {
+    "start": 201.56,
+    "end": 202.08,
+    "text": "I'm"
+   },
+   {
+    "start": 202.08,
+    "end": 202.38,
+    "text": "pretty"
+   },
+   {
+    "start": 202.38,
+    "end": 202.66,
+    "text": "sure"
+   },
+   {
+    "start": 202.66,
+    "end": 203.0,
+    "text": "that's"
+   },
+   {
+    "start": 203.0,
+    "end": 203.1,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 203.1,
+  "end": 205.56,
+  "text": "origin of this rather unusual texture.",
+  "words": [
+   {
+    "start": 203.1,
+    "end": 203.52,
+    "text": "origin"
+   },
+   {
+    "start": 203.52,
+    "end": 203.84,
+    "text": "of"
+   },
+   {
+    "start": 203.84,
+    "end": 204.24,
+    "text": "this"
+   },
+   {
+    "start": 204.24,
+    "end": 204.64,
+    "text": "rather"
+   },
+   {
+    "start": 204.64,
+    "end": 205.06,
+    "text": "unusual"
+   },
+   {
+    "start": 205.06,
+    "end": 205.56,
+    "text": "texture."
+   }
+  ]
+ },
+ {
+  "start": 210.94,
+  "end": 218.76,
+  "text": "Now this is plagioclase from a mafic igneous rock and when it's all of those",
+  "words": [
+   {
+    "start": 210.94,
+    "end": 211.62,
+    "text": "Now"
+   },
+   {
+    "start": 211.62,
+    "end": 212.3,
+    "text": "this"
+   },
+   {
+    "start": 212.3,
+    "end": 212.42,
+    "text": "is"
+   },
+   {
+    "start": 212.42,
+    "end": 213.12,
+    "text": "plagioclase"
+   },
+   {
+    "start": 213.12,
+    "end": 213.66,
+    "text": "from"
+   },
+   {
+    "start": 213.66,
+    "end": 214.14,
+    "text": "a"
+   },
+   {
+    "start": 214.14,
+    "end": 214.74,
+    "text": "mafic"
+   },
+   {
+    "start": 214.74,
+    "end": 215.46,
+    "text": "igneous"
+   },
+   {
+    "start": 215.46,
+    "end": 215.94,
+    "text": "rock"
+   },
+   {
+    "start": 215.94,
+    "end": 216.92,
+    "text": "and"
+   },
+   {
+    "start": 216.92,
+    "end": 217.36,
+    "text": "when"
+   },
+   {
+    "start": 217.36,
+    "end": 218.04,
+    "text": "it's"
+   },
+   {
+    "start": 218.04,
+    "end": 218.3,
+    "text": "all"
+   },
+   {
+    "start": 218.3,
+    "end": 218.48,
+    "text": "of"
+   },
+   {
+    "start": 218.48,
+    "end": 218.76,
+    "text": "those"
+   }
+  ]
+ },
+ {
+  "start": 218.76,
+  "end": 225.22,
+  "text": "light-colored laths or the sort of blocky crystals in there across the polars",
+  "words": [
+   {
+    "start": 218.76,
+    "end": 219.08,
+    "text": "light"
+   },
+   {
+    "start": 219.08,
+    "end": 219.46,
+    "text": "-colored"
+   },
+   {
+    "start": 219.46,
+    "end": 221.04,
+    "text": "laths"
+   },
+   {
+    "start": 221.04,
+    "end": 221.3,
+    "text": "or"
+   },
+   {
+    "start": 221.3,
+    "end": 221.78,
+    "text": "the"
+   },
+   {
+    "start": 221.78,
+    "end": 222.14,
+    "text": "sort"
+   },
+   {
+    "start": 222.14,
+    "end": 222.24,
+    "text": "of"
+   },
+   {
+    "start": 222.24,
+    "end": 222.72,
+    "text": "blocky"
+   },
+   {
+    "start": 222.72,
+    "end": 223.26,
+    "text": "crystals"
+   },
+   {
+    "start": 223.26,
+    "end": 223.54,
+    "text": "in"
+   },
+   {
+    "start": 223.54,
+    "end": 223.8,
+    "text": "there"
+   },
+   {
+    "start": 223.8,
+    "end": 224.6,
+    "text": "across"
+   },
+   {
+    "start": 224.6,
+    "end": 224.86,
+    "text": "the"
+   },
+   {
+    "start": 224.86,
+    "end": 225.22,
+    "text": "polars"
+   }
+  ]
+ },
+ {
+  "start": 225.22,
+  "end": 229.0,
+  "text": "and you'll see there's twinning, there's some zoning, nice zoning in one of those",
+  "words": [
+   {
+    "start": 225.22,
+    "end": 225.88,
+    "text": "and"
+   },
+   {
+    "start": 225.88,
+    "end": 226.04,
+    "text": "you'll"
+   },
+   {
+    "start": 226.04,
+    "end": 226.2,
+    "text": "see"
+   },
+   {
+    "start": 226.2,
+    "end": 226.44,
+    "text": "there's"
+   },
+   {
+    "start": 226.44,
+    "end": 226.92,
+    "text": "twinning,"
+   },
+   {
+    "start": 227.02,
+    "end": 227.32,
+    "text": "there's"
+   },
+   {
+    "start": 227.32,
+    "end": 227.44,
+    "text": "some"
+   },
+   {
+    "start": 227.44,
+    "end": 227.78,
+    "text": "zoning,"
+   },
+   {
+    "start": 227.96,
+    "end": 228.12,
+    "text": "nice"
+   },
+   {
+    "start": 228.12,
+    "end": 228.46,
+    "text": "zoning"
+   },
+   {
+    "start": 228.46,
+    "end": 228.64,
+    "text": "in"
+   },
+   {
+    "start": 228.64,
+    "end": 228.76,
+    "text": "one"
+   },
+   {
+    "start": 228.76,
+    "end": 228.84,
+    "text": "of"
+   },
+   {
+    "start": 228.84,
+    "end": 229.0,
+    "text": "those"
+   }
+  ]
+ },
+ {
+  "start": 229.0,
+  "end": 234.58,
+  "text": "crystals, but that kind of simple twinning is really common in volcanic",
+  "words": [
+   {
+    "start": 229.0,
+    "end": 229.38,
+    "text": "crystals,"
+   },
+   {
+    "start": 229.96,
+    "end": 230.3,
+    "text": "but"
+   },
+   {
+    "start": 230.3,
+    "end": 230.48,
+    "text": "that"
+   },
+   {
+    "start": 230.48,
+    "end": 230.78,
+    "text": "kind"
+   },
+   {
+    "start": 230.78,
+    "end": 231.06,
+    "text": "of"
+   },
+   {
+    "start": 231.06,
+    "end": 231.38,
+    "text": "simple"
+   },
+   {
+    "start": 231.38,
+    "end": 231.86,
+    "text": "twinning"
+   },
+   {
+    "start": 231.86,
+    "end": 232.14,
+    "text": "is"
+   },
+   {
+    "start": 232.14,
+    "end": 232.62,
+    "text": "really"
+   },
+   {
+    "start": 232.62,
+    "end": 233.44,
+    "text": "common"
+   },
+   {
+    "start": 233.44,
+    "end": 234.0,
+    "text": "in"
+   },
+   {
+    "start": 234.0,
+    "end": 234.58,
+    "text": "volcanic"
+   }
+  ]
+ },
+ {
+  "start": 235.46,
+  "end": 236.02,
+  "text": "plagioclase.",
+  "words": [
+   {
+    "start": 235.46,
+    "end": 236.02,
+    "text": "plagioclase."
+   }
+  ]
+ },
+ {
+  "start": 241.7,
+  "end": 247.2,
+  "text": "Now this is a really bizarre looking plagioclase. It's from an alkali basalt",
+  "words": [
+   {
+    "start": 241.7,
+    "end": 242.26,
+    "text": "Now"
+   },
+   {
+    "start": 242.26,
+    "end": 242.56,
+    "text": "this"
+   },
+   {
+    "start": 242.56,
+    "end": 242.7,
+    "text": "is"
+   },
+   {
+    "start": 242.7,
+    "end": 242.84,
+    "text": "a"
+   },
+   {
+    "start": 242.84,
+    "end": 243.34,
+    "text": "really"
+   },
+   {
+    "start": 243.34,
+    "end": 243.72,
+    "text": "bizarre"
+   },
+   {
+    "start": 243.72,
+    "end": 244.04,
+    "text": "looking"
+   },
+   {
+    "start": 244.04,
+    "end": 245.14,
+    "text": "plagioclase."
+   },
+   {
+    "start": 245.62,
+    "end": 245.9,
+    "text": "It's"
+   },
+   {
+    "start": 245.9,
+    "end": 246.28,
+    "text": "from"
+   },
+   {
+    "start": 246.28,
+    "end": 246.42,
+    "text": "an"
+   },
+   {
+    "start": 246.42,
+    "end": 246.74,
+    "text": "alkali"
+   },
+   {
+    "start": 246.74,
+    "end": 247.2,
+    "text": "basalt"
+   }
+  ]
+ },
+ {
+  "start": 247.2,
+  "end": 253.02,
+  "text": "and it has a lot of melt inclusions in them where they were melt now they're",
+  "words": [
+   {
+    "start": 247.2,
+    "end": 247.48,
+    "text": "and"
+   },
+   {
+    "start": 247.48,
+    "end": 247.64,
+    "text": "it"
+   },
+   {
+    "start": 247.64,
+    "end": 248.02,
+    "text": "has"
+   },
+   {
+    "start": 248.02,
+    "end": 248.3,
+    "text": "a"
+   },
+   {
+    "start": 248.3,
+    "end": 248.64,
+    "text": "lot"
+   },
+   {
+    "start": 248.64,
+    "end": 249.32,
+    "text": "of"
+   },
+   {
+    "start": 249.32,
+    "end": 251.04,
+    "text": "melt"
+   },
+   {
+    "start": 251.04,
+    "end": 251.64,
+    "text": "inclusions"
+   },
+   {
+    "start": 251.64,
+    "end": 251.8,
+    "text": "in"
+   },
+   {
+    "start": 251.8,
+    "end": 251.92,
+    "text": "them"
+   },
+   {
+    "start": 251.92,
+    "end": 252.06,
+    "text": "where"
+   },
+   {
+    "start": 252.06,
+    "end": 252.2,
+    "text": "they"
+   },
+   {
+    "start": 252.2,
+    "end": 252.38,
+    "text": "were"
+   },
+   {
+    "start": 252.38,
+    "end": 252.64,
+    "text": "melt"
+   },
+   {
+    "start": 252.64,
+    "end": 252.84,
+    "text": "now"
+   },
+   {
+    "start": 252.84,
+    "end": 253.02,
+    "text": "they're"
+   }
+  ]
+ },
+ {
+  "start": 253.02,
+  "end": 257.94,
+  "text": "glass so they're black and when you cross the polars they they stay black but",
+  "words": [
+   {
+    "start": 253.02,
+    "end": 253.32,
+    "text": "glass"
+   },
+   {
+    "start": 253.32,
+    "end": 254.26,
+    "text": "so"
+   },
+   {
+    "start": 254.26,
+    "end": 254.44,
+    "text": "they're"
+   },
+   {
+    "start": 254.44,
+    "end": 254.76,
+    "text": "black"
+   },
+   {
+    "start": 254.76,
+    "end": 255.08,
+    "text": "and"
+   },
+   {
+    "start": 255.08,
+    "end": 255.18,
+    "text": "when"
+   },
+   {
+    "start": 255.18,
+    "end": 255.28,
+    "text": "you"
+   },
+   {
+    "start": 255.28,
+    "end": 255.46,
+    "text": "cross"
+   },
+   {
+    "start": 255.46,
+    "end": 255.66,
+    "text": "the"
+   },
+   {
+    "start": 255.66,
+    "end": 255.94,
+    "text": "polars"
+   },
+   {
+    "start": 255.94,
+    "end": 256.22,
+    "text": "they"
+   },
+   {
+    "start": 256.22,
+    "end": 256.44,
+    "text": "they"
+   },
+   {
+    "start": 256.44,
+    "end": 256.7,
+    "text": "stay"
+   },
+   {
+    "start": 256.7,
+    "end": 257.08,
+    "text": "black"
+   },
+   {
+    "start": 257.08,
+    "end": 257.94,
+    "text": "but"
+   }
+  ]
+ },
+ {
+  "start": 257.94,
+  "end": 261.78,
+  "text": "again you can see the twinning that we see is so characteristic of plagioclase.",
+  "words": [
+   {
+    "start": 257.94,
+    "end": 258.16,
+    "text": "again"
+   },
+   {
+    "start": 258.16,
+    "end": 258.34,
+    "text": "you"
+   },
+   {
+    "start": 258.34,
+    "end": 258.46,
+    "text": "can"
+   },
+   {
+    "start": 258.46,
+    "end": 258.62,
+    "text": "see"
+   },
+   {
+    "start": 258.62,
+    "end": 258.74,
+    "text": "the"
+   },
+   {
+    "start": 258.74,
+    "end": 259.1,
+    "text": "twinning"
+   },
+   {
+    "start": 259.1,
+    "end": 259.3,
+    "text": "that"
+   },
+   {
+    "start": 259.3,
+    "end": 259.68,
+    "text": "we"
+   },
+   {
+    "start": 259.68,
+    "end": 260.1,
+    "text": "see"
+   },
+   {
+    "start": 260.1,
+    "end": 260.32,
+    "text": "is"
+   },
+   {
+    "start": 260.32,
+    "end": 260.46,
+    "text": "so"
+   },
+   {
+    "start": 260.46,
+    "end": 260.84,
+    "text": "characteristic"
+   },
+   {
+    "start": 260.84,
+    "end": 261.16,
+    "text": "of"
+   },
+   {
+    "start": 261.16,
+    "end": 261.78,
+    "text": "plagioclase."
+   }
+  ]
+ },
+ {
+  "start": 271.9,
+  "end": 275.6,
+  "text": "Now this last one is a little tricky when I cross the polars you'll see there are",
+  "words": [
+   {
+    "start": 271.9,
+    "end": 272.42,
+    "text": "Now"
+   },
+   {
+    "start": 272.42,
+    "end": 272.6,
+    "text": "this"
+   },
+   {
+    "start": 272.6,
+    "end": 272.86,
+    "text": "last"
+   },
+   {
+    "start": 272.86,
+    "end": 273.04,
+    "text": "one"
+   },
+   {
+    "start": 273.04,
+    "end": 273.16,
+    "text": "is"
+   },
+   {
+    "start": 273.16,
+    "end": 273.28,
+    "text": "a"
+   },
+   {
+    "start": 273.28,
+    "end": 273.42,
+    "text": "little"
+   },
+   {
+    "start": 273.42,
+    "end": 273.72,
+    "text": "tricky"
+   },
+   {
+    "start": 273.72,
+    "end": 274.06,
+    "text": "when"
+   },
+   {
+    "start": 274.06,
+    "end": 274.18,
+    "text": "I"
+   },
+   {
+    "start": 274.18,
+    "end": 274.32,
+    "text": "cross"
+   },
+   {
+    "start": 274.32,
+    "end": 274.54,
+    "text": "the"
+   },
+   {
+    "start": 274.54,
+    "end": 274.84,
+    "text": "polars"
+   },
+   {
+    "start": 274.84,
+    "end": 275.06,
+    "text": "you'll"
+   },
+   {
+    "start": 275.06,
+    "end": 275.26,
+    "text": "see"
+   },
+   {
+    "start": 275.26,
+    "end": 275.48,
+    "text": "there"
+   },
+   {
+    "start": 275.48,
+    "end": 275.6,
+    "text": "are"
+   }
+  ]
+ },
+ {
+  "start": 275.6,
+  "end": 280.02,
+  "text": "two sets of twins that intersect each other. Plagioclase has two different",
+  "words": [
+   {
+    "start": 275.6,
+    "end": 275.86,
+    "text": "two"
+   },
+   {
+    "start": 275.86,
+    "end": 276.14,
+    "text": "sets"
+   },
+   {
+    "start": 276.14,
+    "end": 276.32,
+    "text": "of"
+   },
+   {
+    "start": 276.32,
+    "end": 276.6,
+    "text": "twins"
+   },
+   {
+    "start": 276.6,
+    "end": 277.0,
+    "text": "that"
+   },
+   {
+    "start": 277.0,
+    "end": 277.38,
+    "text": "intersect"
+   },
+   {
+    "start": 277.38,
+    "end": 277.7,
+    "text": "each"
+   },
+   {
+    "start": 277.7,
+    "end": 277.94,
+    "text": "other."
+   },
+   {
+    "start": 278.4,
+    "end": 278.92,
+    "text": "Plagioclase"
+   },
+   {
+    "start": 278.92,
+    "end": 279.12,
+    "text": "has"
+   },
+   {
+    "start": 279.12,
+    "end": 279.54,
+    "text": "two"
+   },
+   {
+    "start": 279.54,
+    "end": 280.02,
+    "text": "different"
+   }
+  ]
+ },
+ {
+  "start": 280.02,
+  "end": 285.42,
+  "text": "twin laws that it follows albite twinning and pericline twinning and this",
+  "words": [
+   {
+    "start": 280.02,
+    "end": 280.76,
+    "text": "twin"
+   },
+   {
+    "start": 280.76,
+    "end": 281.46,
+    "text": "laws"
+   },
+   {
+    "start": 281.46,
+    "end": 281.78,
+    "text": "that"
+   },
+   {
+    "start": 281.78,
+    "end": 281.88,
+    "text": "it"
+   },
+   {
+    "start": 281.88,
+    "end": 282.14,
+    "text": "follows"
+   },
+   {
+    "start": 282.14,
+    "end": 282.84,
+    "text": "albite"
+   },
+   {
+    "start": 282.84,
+    "end": 283.36,
+    "text": "twinning"
+   },
+   {
+    "start": 283.36,
+    "end": 283.66,
+    "text": "and"
+   },
+   {
+    "start": 283.66,
+    "end": 284.22,
+    "text": "pericline"
+   },
+   {
+    "start": 284.22,
+    "end": 284.78,
+    "text": "twinning"
+   },
+   {
+    "start": 284.78,
+    "end": 285.24,
+    "text": "and"
+   },
+   {
+    "start": 285.24,
+    "end": 285.42,
+    "text": "this"
+   }
+  ]
+ },
+ {
+  "start": 285.42,
+  "end": 289.22,
+  "text": "crystal actually shows both of them. Now this is not the same twinning that you",
+  "words": [
+   {
+    "start": 285.42,
+    "end": 285.72,
+    "text": "crystal"
+   },
+   {
+    "start": 285.72,
+    "end": 286.04,
+    "text": "actually"
+   },
+   {
+    "start": 286.04,
+    "end": 286.36,
+    "text": "shows"
+   },
+   {
+    "start": 286.36,
+    "end": 286.66,
+    "text": "both"
+   },
+   {
+    "start": 286.66,
+    "end": 286.86,
+    "text": "of"
+   },
+   {
+    "start": 286.86,
+    "end": 287.06,
+    "text": "them."
+   },
+   {
+    "start": 287.5,
+    "end": 287.62,
+    "text": "Now"
+   },
+   {
+    "start": 287.62,
+    "end": 287.76,
+    "text": "this"
+   },
+   {
+    "start": 287.76,
+    "end": 287.88,
+    "text": "is"
+   },
+   {
+    "start": 287.88,
+    "end": 288.14,
+    "text": "not"
+   },
+   {
+    "start": 288.14,
+    "end": 288.36,
+    "text": "the"
+   },
+   {
+    "start": 288.36,
+    "end": 288.56,
+    "text": "same"
+   },
+   {
+    "start": 288.56,
+    "end": 288.94,
+    "text": "twinning"
+   },
+   {
+    "start": 288.94,
+    "end": 289.06,
+    "text": "that"
+   },
+   {
+    "start": 289.06,
+    "end": 289.22,
+    "text": "you"
+   }
+  ]
+ },
+ {
+  "start": 289.22,
+  "end": 295.98,
+  "text": "see in microcline, K-Feldspar, that has a much more noir kind of effect. These",
+  "words": [
+   {
+    "start": 289.22,
+    "end": 289.52,
+    "text": "see"
+   },
+   {
+    "start": 289.52,
+    "end": 289.94,
+    "text": "in"
+   },
+   {
+    "start": 289.94,
+    "end": 290.62,
+    "text": "microcline,"
+   },
+   {
+    "start": 290.74,
+    "end": 290.8,
+    "text": "K"
+   },
+   {
+    "start": 290.8,
+    "end": 291.4,
+    "text": "-Feldspar,"
+   },
+   {
+    "start": 291.76,
+    "end": 291.98,
+    "text": "that"
+   },
+   {
+    "start": 291.98,
+    "end": 292.22,
+    "text": "has"
+   },
+   {
+    "start": 292.22,
+    "end": 292.32,
+    "text": "a"
+   },
+   {
+    "start": 292.32,
+    "end": 292.54,
+    "text": "much"
+   },
+   {
+    "start": 292.54,
+    "end": 292.86,
+    "text": "more"
+   },
+   {
+    "start": 292.86,
+    "end": 294.14,
+    "text": "noir"
+   },
+   {
+    "start": 294.14,
+    "end": 294.64,
+    "text": "kind"
+   },
+   {
+    "start": 294.64,
+    "end": 294.86,
+    "text": "of"
+   },
+   {
+    "start": 294.86,
+    "end": 295.18,
+    "text": "effect."
+   },
+   {
+    "start": 295.76,
+    "end": 295.98,
+    "text": "These"
+   }
+  ]
+ },
+ {
+  "start": 295.98,
+  "end": 301.06,
+  "text": "intersect at sharp angles and so they're distinct from K-Feldspar.",
+  "words": [
+   {
+    "start": 295.98,
+    "end": 296.8,
+    "text": "intersect"
+   },
+   {
+    "start": 296.8,
+    "end": 297.36,
+    "text": "at"
+   },
+   {
+    "start": 297.36,
+    "end": 298.38,
+    "text": "sharp"
+   },
+   {
+    "start": 298.38,
+    "end": 298.84,
+    "text": "angles"
+   },
+   {
+    "start": 298.84,
+    "end": 299.58,
+    "text": "and"
+   },
+   {
+    "start": 299.58,
+    "end": 299.74,
+    "text": "so"
+   },
+   {
+    "start": 299.74,
+    "end": 299.9,
+    "text": "they're"
+   },
+   {
+    "start": 299.9,
+    "end": 300.22,
+    "text": "distinct"
+   },
+   {
+    "start": 300.22,
+    "end": 300.44,
+    "text": "from"
+   },
+   {
+    "start": 300.44,
+    "end": 300.62,
+    "text": "K"
+   },
+   {
+    "start": 300.62,
+    "end": 301.06,
+    "text": "-Feldspar."
+   }
+  ]
+ }
+]

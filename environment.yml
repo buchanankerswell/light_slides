@@ -1,0 +1,13 @@
+---
+name: light-slides
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - ffmpeg
+  - yt-dlp
+  - pip
+  - pip:
+      - faster-whisper
+      - "av>=12,<14"
+      - ruff

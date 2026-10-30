@@ -1,0 +1,4583 @@
+[
+ {
+  "start": 0.56,
+  "end": 3.27,
+  "text": "all the big crystals in here are olivine",
+  "words": [
+   {
+    "start": 0.56,
+    "end": 0.8,
+    "text": "all"
+   },
+   {
+    "start": 0.8,
+    "end": 0.88,
+    "text": "the"
+   },
+   {
+    "start": 0.88,
+    "end": 1.2,
+    "text": "big"
+   },
+   {
+    "start": 1.2,
+    "end": 1.68,
+    "text": "crystals"
+   },
+   {
+    "start": 1.68,
+    "end": 1.84,
+    "text": "in"
+   },
+   {
+    "start": 1.84,
+    "end": 2.24,
+    "text": "here"
+   },
+   {
+    "start": 2.24,
+    "end": 2.56,
+    "text": "are"
+   },
+   {
+    "start": 2.56,
+    "end": 3.27,
+    "text": "olivine"
+   }
+  ]
+ },
+ {
+  "start": 3.28,
+  "end": 5.27,
+  "text": "all the big crystals in here are olivine at least i think they are they're like",
+  "words": [
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "all"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "the"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "big"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "crystals"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "in"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "here"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "are"
+   },
+   {
+    "start": 3.28,
+    "end": 3.28,
+    "text": "olivine"
+   },
+   {
+    "start": 3.28,
+    "end": 3.36,
+    "text": "at"
+   },
+   {
+    "start": 3.36,
+    "end": 3.76,
+    "text": "least"
+   },
+   {
+    "start": 3.76,
+    "end": 3.84,
+    "text": "i"
+   },
+   {
+    "start": 3.84,
+    "end": 4.0,
+    "text": "think"
+   },
+   {
+    "start": 4.0,
+    "end": 4.24,
+    "text": "they"
+   },
+   {
+    "start": 4.24,
+    "end": 4.72,
+    "text": "are"
+   },
+   {
+    "start": 4.72,
+    "end": 5.04,
+    "text": "they're"
+   },
+   {
+    "start": 5.04,
+    "end": 5.27,
+    "text": "like"
+   }
+  ]
+ },
+ {
+  "start": 5.27,
+  "end": 5.28,
+  "text": "at least i think they are they're like",
+  "words": [
+   {
+    "start": 5.27,
+    "end": 5.27,
+    "text": "at"
+   },
+   {
+    "start": 5.27,
+    "end": 5.27,
+    "text": "least"
+   },
+   {
+    "start": 5.27,
+    "end": 5.27,
+    "text": "i"
+   },
+   {
+    "start": 5.27,
+    "end": 5.27,
+    "text": "think"
+   },
+   {
+    "start": 5.27,
+    "end": 5.27,
+    "text": "they"
+   },
+   {
+    "start": 5.27,
+    "end": 5.27,
+    "text": "are"
+   },
+   {
+    "start": 5.27,
+    "end": 5.27,
+    "text": "they're"
+   },
+   {
+    "start": 5.27,
+    "end": 5.28,
+    "text": "like"
+   }
+  ]
+ },
+ {
+  "start": 5.28,
+  "end": 7.03,
+  "text": "at least i think they are they're like three and a half crystals in the",
+  "words": [
+   {
+    "start": 5.28,
+    "end": 5.28,
+    "text": "at"
+   },
+   {
+    "start": 5.28,
+    "end": 5.28,
+    "text": "least"
+   },
+   {
+    "start": 5.28,
+    "end": 5.28,
+    "text": "i"
+   },
+   {
+    "start": 5.28,
+    "end": 5.28,
+    "text": "think"
+   },
+   {
+    "start": 5.28,
+    "end": 5.28,
+    "text": "they"
+   },
+   {
+    "start": 5.28,
+    "end": 5.28,
+    "text": "are"
+   },
+   {
+    "start": 5.28,
+    "end": 5.28,
+    "text": "they're"
+   },
+   {
+    "start": 5.28,
+    "end": 5.28,
+    "text": "like"
+   },
+   {
+    "start": 5.28,
+    "end": 5.52,
+    "text": "three"
+   },
+   {
+    "start": 5.52,
+    "end": 5.6,
+    "text": "and"
+   },
+   {
+    "start": 5.6,
+    "end": 5.68,
+    "text": "a"
+   },
+   {
+    "start": 5.68,
+    "end": 5.92,
+    "text": "half"
+   },
+   {
+    "start": 5.92,
+    "end": 6.48,
+    "text": "crystals"
+   },
+   {
+    "start": 6.48,
+    "end": 6.64,
+    "text": "in"
+   },
+   {
+    "start": 6.64,
+    "end": 7.03,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 7.03,
+  "end": 7.04,
+  "text": "three and a half crystals in the",
+  "words": [
+   {
+    "start": 7.03,
+    "end": 7.03,
+    "text": "three"
+   },
+   {
+    "start": 7.03,
+    "end": 7.03,
+    "text": "and"
+   },
+   {
+    "start": 7.03,
+    "end": 7.03,
+    "text": "a"
+   },
+   {
+    "start": 7.03,
+    "end": 7.03,
+    "text": "half"
+   },
+   {
+    "start": 7.03,
+    "end": 7.03,
+    "text": "crystals"
+   },
+   {
+    "start": 7.03,
+    "end": 7.03,
+    "text": "in"
+   },
+   {
+    "start": 7.03,
+    "end": 7.04,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 7.04,
+  "end": 9.75,
+  "text": "three and a half crystals in the in the central region they are all at",
+  "words": [
+   {
+    "start": 7.04,
+    "end": 7.04,
+    "text": "three"
+   },
+   {
+    "start": 7.04,
+    "end": 7.04,
+    "text": "and"
+   },
+   {
+    "start": 7.04,
+    "end": 7.04,
+    "text": "a"
+   },
+   {
+    "start": 7.04,
+    "end": 7.04,
+    "text": "half"
+   },
+   {
+    "start": 7.04,
+    "end": 7.04,
+    "text": "crystals"
+   },
+   {
+    "start": 7.04,
+    "end": 7.04,
+    "text": "in"
+   },
+   {
+    "start": 7.04,
+    "end": 7.04,
+    "text": "the"
+   },
+   {
+    "start": 7.04,
+    "end": 7.2,
+    "text": "in"
+   },
+   {
+    "start": 7.2,
+    "end": 7.36,
+    "text": "the"
+   },
+   {
+    "start": 7.36,
+    "end": 8.08,
+    "text": "central"
+   },
+   {
+    "start": 8.08,
+    "end": 8.96,
+    "text": "region"
+   },
+   {
+    "start": 8.96,
+    "end": 9.28,
+    "text": "they"
+   },
+   {
+    "start": 9.28,
+    "end": 9.52,
+    "text": "are"
+   },
+   {
+    "start": 9.52,
+    "end": 9.68,
+    "text": "all"
+   },
+   {
+    "start": 9.68,
+    "end": 9.75,
+    "text": "at"
+   }
+  ]
+ },
+ {
+  "start": 9.75,
+  "end": 9.76,
+  "text": "in the central region they are all at",
+  "words": [
+   {
+    "start": 9.75,
+    "end": 9.75,
+    "text": "in"
+   },
+   {
+    "start": 9.75,
+    "end": 9.75,
+    "text": "the"
+   },
+   {
+    "start": 9.75,
+    "end": 9.75,
+    "text": "central"
+   },
+   {
+    "start": 9.75,
+    "end": 9.75,
+    "text": "region"
+   },
+   {
+    "start": 9.75,
+    "end": 9.75,
+    "text": "they"
+   },
+   {
+    "start": 9.75,
+    "end": 9.75,
+    "text": "are"
+   },
+   {
+    "start": 9.75,
+    "end": 9.75,
+    "text": "all"
+   },
+   {
+    "start": 9.75,
+    "end": 9.76,
+    "text": "at"
+   }
+  ]
+ },
+ {
+  "start": 9.76,
+  "end": 11.19,
+  "text": "in the central region they are all at different orientations but what you'll",
+  "words": [
+   {
+    "start": 9.76,
+    "end": 9.76,
+    "text": "in"
+   },
+   {
+    "start": 9.76,
+    "end": 9.76,
+    "text": "the"
+   },
+   {
+    "start": 9.76,
+    "end": 9.76,
+    "text": "central"
+   },
+   {
+    "start": 9.76,
+    "end": 9.76,
+    "text": "region"
+   },
+   {
+    "start": 9.76,
+    "end": 9.76,
+    "text": "they"
+   },
+   {
+    "start": 9.76,
+    "end": 9.76,
+    "text": "are"
+   },
+   {
+    "start": 9.76,
+    "end": 9.76,
+    "text": "all"
+   },
+   {
+    "start": 9.76,
+    "end": 9.76,
+    "text": "at"
+   },
+   {
+    "start": 9.76,
+    "end": 10.0,
+    "text": "different"
+   },
+   {
+    "start": 10.0,
+    "end": 10.64,
+    "text": "orientations"
+   },
+   {
+    "start": 10.64,
+    "end": 10.8,
+    "text": "but"
+   },
+   {
+    "start": 10.8,
+    "end": 10.96,
+    "text": "what"
+   },
+   {
+    "start": 10.96,
+    "end": 11.19,
+    "text": "you'll"
+   }
+  ]
+ },
+ {
+  "start": 11.19,
+  "end": 11.2,
+  "text": "different orientations but what you'll",
+  "words": [
+   {
+    "start": 11.19,
+    "end": 11.19,
+    "text": "different"
+   },
+   {
+    "start": 11.19,
+    "end": 11.19,
+    "text": "orientations"
+   },
+   {
+    "start": 11.19,
+    "end": 11.19,
+    "text": "but"
+   },
+   {
+    "start": 11.19,
+    "end": 11.19,
+    "text": "what"
+   },
+   {
+    "start": 11.19,
+    "end": 11.2,
+    "text": "you'll"
+   }
+  ]
+ },
+ {
+  "start": 11.2,
+  "end": 12.15,
+  "text": "different orientations but what you'll see is they have",
+  "words": [
+   {
+    "start": 11.2,
+    "end": 11.2,
+    "text": "different"
+   },
+   {
+    "start": 11.2,
+    "end": 11.2,
+    "text": "orientations"
+   },
+   {
+    "start": 11.2,
+    "end": 11.2,
+    "text": "but"
+   },
+   {
+    "start": 11.2,
+    "end": 11.2,
+    "text": "what"
+   },
+   {
+    "start": 11.2,
+    "end": 11.2,
+    "text": "you'll"
+   },
+   {
+    "start": 11.2,
+    "end": 11.44,
+    "text": "see"
+   },
+   {
+    "start": 11.44,
+    "end": 11.6,
+    "text": "is"
+   },
+   {
+    "start": 11.6,
+    "end": 11.84,
+    "text": "they"
+   },
+   {
+    "start": 11.84,
+    "end": 12.15,
+    "text": "have"
+   }
+  ]
+ },
+ {
+  "start": 12.15,
+  "end": 12.16,
+  "text": "see is they have",
+  "words": [
+   {
+    "start": 12.15,
+    "end": 12.15,
+    "text": "see"
+   },
+   {
+    "start": 12.15,
+    "end": 12.15,
+    "text": "is"
+   },
+   {
+    "start": 12.15,
+    "end": 12.15,
+    "text": "they"
+   },
+   {
+    "start": 12.15,
+    "end": 12.16,
+    "text": "have"
+   }
+  ]
+ },
+ {
+  "start": 12.16,
+  "end": 15.35,
+  "text": "see is they have parallel extinction and a range of",
+  "words": [
+   {
+    "start": 12.16,
+    "end": 12.16,
+    "text": "see"
+   },
+   {
+    "start": 12.16,
+    "end": 12.16,
+    "text": "is"
+   },
+   {
+    "start": 12.16,
+    "end": 12.16,
+    "text": "they"
+   },
+   {
+    "start": 12.16,
+    "end": 12.16,
+    "text": "have"
+   },
+   {
+    "start": 12.16,
+    "end": 12.72,
+    "text": "parallel"
+   },
+   {
+    "start": 12.72,
+    "end": 14.08,
+    "text": "extinction"
+   },
+   {
+    "start": 14.08,
+    "end": 14.48,
+    "text": "and"
+   },
+   {
+    "start": 14.48,
+    "end": 14.64,
+    "text": "a"
+   },
+   {
+    "start": 14.64,
+    "end": 15.12,
+    "text": "range"
+   },
+   {
+    "start": 15.12,
+    "end": 15.35,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 15.35,
+  "end": 15.36,
+  "text": "parallel extinction and a range of",
+  "words": [
+   {
+    "start": 15.35,
+    "end": 15.35,
+    "text": "parallel"
+   },
+   {
+    "start": 15.35,
+    "end": 15.35,
+    "text": "extinction"
+   },
+   {
+    "start": 15.35,
+    "end": 15.35,
+    "text": "and"
+   },
+   {
+    "start": 15.35,
+    "end": 15.35,
+    "text": "a"
+   },
+   {
+    "start": 15.35,
+    "end": 15.35,
+    "text": "range"
+   },
+   {
+    "start": 15.35,
+    "end": 15.36,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 15.36,
+  "end": 17.59,
+  "text": "parallel extinction and a range of interference colors from fairly low",
+  "words": [
+   {
+    "start": 15.36,
+    "end": 15.36,
+    "text": "parallel"
+   },
+   {
+    "start": 15.36,
+    "end": 15.36,
+    "text": "extinction"
+   },
+   {
+    "start": 15.36,
+    "end": 15.36,
+    "text": "and"
+   },
+   {
+    "start": 15.36,
+    "end": 15.36,
+    "text": "a"
+   },
+   {
+    "start": 15.36,
+    "end": 15.36,
+    "text": "range"
+   },
+   {
+    "start": 15.36,
+    "end": 15.36,
+    "text": "of"
+   },
+   {
+    "start": 15.36,
+    "end": 16.0,
+    "text": "interference"
+   },
+   {
+    "start": 16.0,
+    "end": 16.48,
+    "text": "colors"
+   },
+   {
+    "start": 16.48,
+    "end": 16.8,
+    "text": "from"
+   },
+   {
+    "start": 16.8,
+    "end": 17.2,
+    "text": "fairly"
+   },
+   {
+    "start": 17.2,
+    "end": 17.59,
+    "text": "low"
+   }
+  ]
+ },
+ {
+  "start": 17.59,
+  "end": 17.6,
+  "text": "interference colors from fairly low",
+  "words": [
+   {
+    "start": 17.59,
+    "end": 17.59,
+    "text": "interference"
+   },
+   {
+    "start": 17.59,
+    "end": 17.59,
+    "text": "colors"
+   },
+   {
+    "start": 17.59,
+    "end": 17.59,
+    "text": "from"
+   },
+   {
+    "start": 17.59,
+    "end": 17.59,
+    "text": "fairly"
+   },
+   {
+    "start": 17.59,
+    "end": 17.6,
+    "text": "low"
+   }
+  ]
+ },
+ {
+  "start": 17.6,
+  "end": 20.55,
+  "text": "interference colors from fairly low to some pretty high ones um and it's",
+  "words": [
+   {
+    "start": 17.6,
+    "end": 17.6,
+    "text": "interference"
+   },
+   {
+    "start": 17.6,
+    "end": 17.6,
+    "text": "colors"
+   },
+   {
+    "start": 17.6,
+    "end": 17.6,
+    "text": "from"
+   },
+   {
+    "start": 17.6,
+    "end": 17.6,
+    "text": "fairly"
+   },
+   {
+    "start": 17.6,
+    "end": 17.6,
+    "text": "low"
+   },
+   {
+    "start": 17.6,
+    "end": 18.08,
+    "text": "to"
+   },
+   {
+    "start": 18.08,
+    "end": 18.72,
+    "text": "some"
+   },
+   {
+    "start": 18.72,
+    "end": 18.96,
+    "text": "pretty"
+   },
+   {
+    "start": 18.96,
+    "end": 19.2,
+    "text": "high"
+   },
+   {
+    "start": 19.2,
+    "end": 20.0,
+    "text": "ones"
+   },
+   {
+    "start": 20.0,
+    "end": 20.24,
+    "text": "um"
+   },
+   {
+    "start": 20.24,
+    "end": 20.4,
+    "text": "and"
+   },
+   {
+    "start": 20.4,
+    "end": 20.55,
+    "text": "it's"
+   }
+  ]
+ },
+ {
+  "start": 20.55,
+  "end": 20.56,
+  "text": "to some pretty high ones um and it's",
+  "words": [
+   {
+    "start": 20.55,
+    "end": 20.55,
+    "text": "to"
+   },
+   {
+    "start": 20.55,
+    "end": 20.55,
+    "text": "some"
+   },
+   {
+    "start": 20.55,
+    "end": 20.55,
+    "text": "pretty"
+   },
+   {
+    "start": 20.55,
+    "end": 20.55,
+    "text": "high"
+   },
+   {
+    "start": 20.55,
+    "end": 20.55,
+    "text": "ones"
+   },
+   {
+    "start": 20.55,
+    "end": 20.55,
+    "text": "um"
+   },
+   {
+    "start": 20.55,
+    "end": 20.55,
+    "text": "and"
+   },
+   {
+    "start": 20.55,
+    "end": 20.56,
+    "text": "it's"
+   }
+  ]
+ },
+ {
+  "start": 20.56,
+  "end": 21.35,
+  "text": "to some pretty high ones um and it's that high",
+  "words": [
+   {
+    "start": 20.56,
+    "end": 20.56,
+    "text": "to"
+   },
+   {
+    "start": 20.56,
+    "end": 20.56,
+    "text": "some"
+   },
+   {
+    "start": 20.56,
+    "end": 20.56,
+    "text": "pretty"
+   },
+   {
+    "start": 20.56,
+    "end": 20.56,
+    "text": "high"
+   },
+   {
+    "start": 20.56,
+    "end": 20.56,
+    "text": "ones"
+   },
+   {
+    "start": 20.56,
+    "end": 20.56,
+    "text": "um"
+   },
+   {
+    "start": 20.56,
+    "end": 20.56,
+    "text": "and"
+   },
+   {
+    "start": 20.56,
+    "end": 20.56,
+    "text": "it's"
+   },
+   {
+    "start": 20.56,
+    "end": 20.88,
+    "text": "that"
+   },
+   {
+    "start": 20.88,
+    "end": 21.35,
+    "text": "high"
+   }
+  ]
+ },
+ {
+  "start": 21.35,
+  "end": 21.36,
+  "text": "that high",
+  "words": [
+   {
+    "start": 21.35,
+    "end": 21.35,
+    "text": "that"
+   },
+   {
+    "start": 21.35,
+    "end": 21.36,
+    "text": "high"
+   }
+  ]
+ },
+ {
+  "start": 21.36,
+  "end": 22.95,
+  "text": "that high interference colors the parallel",
+  "words": [
+   {
+    "start": 21.36,
+    "end": 21.36,
+    "text": "that"
+   },
+   {
+    "start": 21.36,
+    "end": 21.36,
+    "text": "high"
+   },
+   {
+    "start": 21.36,
+    "end": 21.92,
+    "text": "interference"
+   },
+   {
+    "start": 21.92,
+    "end": 22.32,
+    "text": "colors"
+   },
+   {
+    "start": 22.32,
+    "end": 22.48,
+    "text": "the"
+   },
+   {
+    "start": 22.48,
+    "end": 22.95,
+    "text": "parallel"
+   }
+  ]
+ },
+ {
+  "start": 22.95,
+  "end": 22.96,
+  "text": "interference colors the parallel",
+  "words": [
+   {
+    "start": 22.95,
+    "end": 22.95,
+    "text": "interference"
+   },
+   {
+    "start": 22.95,
+    "end": 22.95,
+    "text": "colors"
+   },
+   {
+    "start": 22.95,
+    "end": 22.95,
+    "text": "the"
+   },
+   {
+    "start": 22.95,
+    "end": 22.96,
+    "text": "parallel"
+   }
+  ]
+ },
+ {
+  "start": 22.96,
+  "end": 25.35,
+  "text": "interference colors the parallel extinction also the relatively high",
+  "words": [
+   {
+    "start": 22.96,
+    "end": 22.96,
+    "text": "interference"
+   },
+   {
+    "start": 22.96,
+    "end": 22.96,
+    "text": "colors"
+   },
+   {
+    "start": 22.96,
+    "end": 22.96,
+    "text": "the"
+   },
+   {
+    "start": 22.96,
+    "end": 22.96,
+    "text": "parallel"
+   },
+   {
+    "start": 22.96,
+    "end": 24.08,
+    "text": "extinction"
+   },
+   {
+    "start": 24.08,
+    "end": 24.4,
+    "text": "also"
+   },
+   {
+    "start": 24.4,
+    "end": 24.64,
+    "text": "the"
+   },
+   {
+    "start": 24.64,
+    "end": 25.2,
+    "text": "relatively"
+   },
+   {
+    "start": 25.2,
+    "end": 25.35,
+    "text": "high"
+   }
+  ]
+ },
+ {
+  "start": 25.35,
+  "end": 25.36,
+  "text": "extinction also the relatively high",
+  "words": [
+   {
+    "start": 25.35,
+    "end": 25.35,
+    "text": "extinction"
+   },
+   {
+    "start": 25.35,
+    "end": 25.35,
+    "text": "also"
+   },
+   {
+    "start": 25.35,
+    "end": 25.35,
+    "text": "the"
+   },
+   {
+    "start": 25.35,
+    "end": 25.35,
+    "text": "relatively"
+   },
+   {
+    "start": 25.35,
+    "end": 25.36,
+    "text": "high"
+   }
+  ]
+ },
+ {
+  "start": 25.36,
+  "end": 26.55,
+  "text": "extinction also the relatively high relief that",
+  "words": [
+   {
+    "start": 25.36,
+    "end": 25.36,
+    "text": "extinction"
+   },
+   {
+    "start": 25.36,
+    "end": 25.36,
+    "text": "also"
+   },
+   {
+    "start": 25.36,
+    "end": 25.36,
+    "text": "the"
+   },
+   {
+    "start": 25.36,
+    "end": 25.36,
+    "text": "relatively"
+   },
+   {
+    "start": 25.36,
+    "end": 25.36,
+    "text": "high"
+   },
+   {
+    "start": 25.36,
+    "end": 25.84,
+    "text": "relief"
+   },
+   {
+    "start": 25.84,
+    "end": 26.55,
+    "text": "that"
+   }
+  ]
+ },
+ {
+  "start": 26.55,
+  "end": 26.56,
+  "text": "relief that",
+  "words": [
+   {
+    "start": 26.55,
+    "end": 26.55,
+    "text": "relief"
+   },
+   {
+    "start": 26.55,
+    "end": 26.56,
+    "text": "that"
+   }
+  ]
+ },
+ {
+  "start": 26.56,
+  "end": 31.11,
+  "text": "relief that helps identify these as olivine",
+  "words": [
+   {
+    "start": 26.56,
+    "end": 26.56,
+    "text": "relief"
+   },
+   {
+    "start": 26.56,
+    "end": 26.56,
+    "text": "that"
+   },
+   {
+    "start": 26.56,
+    "end": 26.88,
+    "text": "helps"
+   },
+   {
+    "start": 26.88,
+    "end": 27.44,
+    "text": "identify"
+   },
+   {
+    "start": 27.44,
+    "end": 27.84,
+    "text": "these"
+   },
+   {
+    "start": 27.84,
+    "end": 28.84,
+    "text": "as"
+   },
+   {
+    "start": 28.84,
+    "end": 31.11,
+    "text": "olivine"
+   }
+  ]
+ },
+ {
+  "start": 31.11,
+  "end": 31.12,
+  "text": "helps identify these as olivine",
+  "words": [
+   {
+    "start": 31.11,
+    "end": 31.11,
+    "text": "helps"
+   },
+   {
+    "start": 31.11,
+    "end": 31.11,
+    "text": "identify"
+   },
+   {
+    "start": 31.11,
+    "end": 31.11,
+    "text": "these"
+   },
+   {
+    "start": 31.11,
+    "end": 31.11,
+    "text": "as"
+   },
+   {
+    "start": 31.11,
+    "end": 31.12,
+    "text": "olivine"
+   }
+  ]
+ },
+ {
+  "start": 31.12,
+  "end": 34.39,
+  "text": "helps identify these as olivine this is a peridotite i i'm pretty sure",
+  "words": [
+   {
+    "start": 31.12,
+    "end": 31.12,
+    "text": "helps"
+   },
+   {
+    "start": 31.12,
+    "end": 31.12,
+    "text": "identify"
+   },
+   {
+    "start": 31.12,
+    "end": 31.12,
+    "text": "these"
+   },
+   {
+    "start": 31.12,
+    "end": 31.12,
+    "text": "as"
+   },
+   {
+    "start": 31.12,
+    "end": 31.12,
+    "text": "olivine"
+   },
+   {
+    "start": 31.12,
+    "end": 31.36,
+    "text": "this"
+   },
+   {
+    "start": 31.36,
+    "end": 31.52,
+    "text": "is"
+   },
+   {
+    "start": 31.52,
+    "end": 31.68,
+    "text": "a"
+   },
+   {
+    "start": 31.68,
+    "end": 33.04,
+    "text": "peridotite"
+   },
+   {
+    "start": 33.04,
+    "end": 33.52,
+    "text": "i"
+   },
+   {
+    "start": 33.52,
+    "end": 33.76,
+    "text": "i'm"
+   },
+   {
+    "start": 33.76,
+    "end": 34.08,
+    "text": "pretty"
+   },
+   {
+    "start": 34.08,
+    "end": 34.39,
+    "text": "sure"
+   }
+  ]
+ },
+ {
+  "start": 34.39,
+  "end": 34.4,
+  "text": "this is a peridotite i i'm pretty sure",
+  "words": [
+   {
+    "start": 34.39,
+    "end": 34.39,
+    "text": "this"
+   },
+   {
+    "start": 34.39,
+    "end": 34.39,
+    "text": "is"
+   },
+   {
+    "start": 34.39,
+    "end": 34.39,
+    "text": "a"
+   },
+   {
+    "start": 34.39,
+    "end": 34.39,
+    "text": "peridotite"
+   },
+   {
+    "start": 34.39,
+    "end": 34.39,
+    "text": "i"
+   },
+   {
+    "start": 34.39,
+    "end": 34.39,
+    "text": "i'm"
+   },
+   {
+    "start": 34.39,
+    "end": 34.39,
+    "text": "pretty"
+   },
+   {
+    "start": 34.39,
+    "end": 34.4,
+    "text": "sure"
+   }
+  ]
+ },
+ {
+  "start": 34.4,
+  "end": 36.47,
+  "text": "this is a peridotite i i'm pretty sure the entire field of view is made up of",
+  "words": [
+   {
+    "start": 34.4,
+    "end": 34.4,
+    "text": "this"
+   },
+   {
+    "start": 34.4,
+    "end": 34.4,
+    "text": "is"
+   },
+   {
+    "start": 34.4,
+    "end": 34.4,
+    "text": "a"
+   },
+   {
+    "start": 34.4,
+    "end": 34.4,
+    "text": "peridotite"
+   },
+   {
+    "start": 34.4,
+    "end": 34.4,
+    "text": "i"
+   },
+   {
+    "start": 34.4,
+    "end": 34.4,
+    "text": "i'm"
+   },
+   {
+    "start": 34.4,
+    "end": 34.4,
+    "text": "pretty"
+   },
+   {
+    "start": 34.4,
+    "end": 34.4,
+    "text": "sure"
+   },
+   {
+    "start": 34.4,
+    "end": 34.64,
+    "text": "the"
+   },
+   {
+    "start": 34.64,
+    "end": 34.96,
+    "text": "entire"
+   },
+   {
+    "start": 34.96,
+    "end": 35.2,
+    "text": "field"
+   },
+   {
+    "start": 35.2,
+    "end": 35.36,
+    "text": "of"
+   },
+   {
+    "start": 35.36,
+    "end": 35.76,
+    "text": "view"
+   },
+   {
+    "start": 35.76,
+    "end": 35.92,
+    "text": "is"
+   },
+   {
+    "start": 35.92,
+    "end": 36.16,
+    "text": "made"
+   },
+   {
+    "start": 36.16,
+    "end": 36.32,
+    "text": "up"
+   },
+   {
+    "start": 36.32,
+    "end": 36.47,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 36.47,
+  "end": 36.48,
+  "text": "the entire field of view is made up of",
+  "words": [
+   {
+    "start": 36.47,
+    "end": 36.47,
+    "text": "the"
+   },
+   {
+    "start": 36.47,
+    "end": 36.47,
+    "text": "entire"
+   },
+   {
+    "start": 36.47,
+    "end": 36.47,
+    "text": "field"
+   },
+   {
+    "start": 36.47,
+    "end": 36.47,
+    "text": "of"
+   },
+   {
+    "start": 36.47,
+    "end": 36.47,
+    "text": "view"
+   },
+   {
+    "start": 36.47,
+    "end": 36.47,
+    "text": "is"
+   },
+   {
+    "start": 36.47,
+    "end": 36.47,
+    "text": "made"
+   },
+   {
+    "start": 36.47,
+    "end": 36.47,
+    "text": "up"
+   },
+   {
+    "start": 36.47,
+    "end": 36.48,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 36.48,
+  "end": 38.07,
+  "text": "the entire field of view is made up of olivine crystals",
+  "words": [
+   {
+    "start": 36.48,
+    "end": 36.48,
+    "text": "the"
+   },
+   {
+    "start": 36.48,
+    "end": 36.48,
+    "text": "entire"
+   },
+   {
+    "start": 36.48,
+    "end": 36.48,
+    "text": "field"
+   },
+   {
+    "start": 36.48,
+    "end": 36.48,
+    "text": "of"
+   },
+   {
+    "start": 36.48,
+    "end": 36.48,
+    "text": "view"
+   },
+   {
+    "start": 36.48,
+    "end": 36.48,
+    "text": "is"
+   },
+   {
+    "start": 36.48,
+    "end": 36.48,
+    "text": "made"
+   },
+   {
+    "start": 36.48,
+    "end": 36.48,
+    "text": "up"
+   },
+   {
+    "start": 36.48,
+    "end": 36.48,
+    "text": "of"
+   },
+   {
+    "start": 36.48,
+    "end": 36.96,
+    "text": "olivine"
+   },
+   {
+    "start": 36.96,
+    "end": 38.07,
+    "text": "crystals"
+   }
+  ]
+ },
+ {
+  "start": 38.07,
+  "end": 38.08,
+  "text": "olivine crystals",
+  "words": [
+   {
+    "start": 38.07,
+    "end": 38.07,
+    "text": "olivine"
+   },
+   {
+    "start": 38.07,
+    "end": 38.08,
+    "text": "crystals"
+   }
+  ]
+ },
+ {
+  "start": 38.08,
+  "end": 40.55,
+  "text": "olivine crystals here you can see they have these curved",
+  "words": [
+   {
+    "start": 38.08,
+    "end": 38.08,
+    "text": "olivine"
+   },
+   {
+    "start": 38.08,
+    "end": 38.08,
+    "text": "crystals"
+   },
+   {
+    "start": 38.08,
+    "end": 38.56,
+    "text": "here"
+   },
+   {
+    "start": 38.56,
+    "end": 38.72,
+    "text": "you"
+   },
+   {
+    "start": 38.72,
+    "end": 38.88,
+    "text": "can"
+   },
+   {
+    "start": 38.88,
+    "end": 39.12,
+    "text": "see"
+   },
+   {
+    "start": 39.12,
+    "end": 39.36,
+    "text": "they"
+   },
+   {
+    "start": 39.36,
+    "end": 39.6,
+    "text": "have"
+   },
+   {
+    "start": 39.6,
+    "end": 40.0,
+    "text": "these"
+   },
+   {
+    "start": 40.0,
+    "end": 40.55,
+    "text": "curved"
+   }
+  ]
+ },
+ {
+  "start": 40.55,
+  "end": 40.56,
+  "text": "here you can see they have these curved",
+  "words": [
+   {
+    "start": 40.55,
+    "end": 40.55,
+    "text": "here"
+   },
+   {
+    "start": 40.55,
+    "end": 40.55,
+    "text": "you"
+   },
+   {
+    "start": 40.55,
+    "end": 40.55,
+    "text": "can"
+   },
+   {
+    "start": 40.55,
+    "end": 40.55,
+    "text": "see"
+   },
+   {
+    "start": 40.55,
+    "end": 40.55,
+    "text": "they"
+   },
+   {
+    "start": 40.55,
+    "end": 40.55,
+    "text": "have"
+   },
+   {
+    "start": 40.55,
+    "end": 40.55,
+    "text": "these"
+   },
+   {
+    "start": 40.55,
+    "end": 40.56,
+    "text": "curved"
+   }
+  ]
+ },
+ {
+  "start": 40.56,
+  "end": 41.27,
+  "text": "here you can see they have these curved fractures",
+  "words": [
+   {
+    "start": 40.56,
+    "end": 40.56,
+    "text": "here"
+   },
+   {
+    "start": 40.56,
+    "end": 40.56,
+    "text": "you"
+   },
+   {
+    "start": 40.56,
+    "end": 40.56,
+    "text": "can"
+   },
+   {
+    "start": 40.56,
+    "end": 40.56,
+    "text": "see"
+   },
+   {
+    "start": 40.56,
+    "end": 40.56,
+    "text": "they"
+   },
+   {
+    "start": 40.56,
+    "end": 40.56,
+    "text": "have"
+   },
+   {
+    "start": 40.56,
+    "end": 40.56,
+    "text": "these"
+   },
+   {
+    "start": 40.56,
+    "end": 40.56,
+    "text": "curved"
+   },
+   {
+    "start": 40.56,
+    "end": 41.27,
+    "text": "fractures"
+   }
+  ]
+ },
+ {
+  "start": 41.27,
+  "end": 41.28,
+  "text": "fractures",
+  "words": [
+   {
+    "start": 41.27,
+    "end": 41.28,
+    "text": "fractures"
+   }
+  ]
+ },
+ {
+  "start": 41.28,
+  "end": 44.47,
+  "text": "fractures called arcuate fractures that",
+  "words": [
+   {
+    "start": 41.28,
+    "end": 41.28,
+    "text": "fractures"
+   },
+   {
+    "start": 41.28,
+    "end": 41.6,
+    "text": "called"
+   },
+   {
+    "start": 41.6,
+    "end": 42.84,
+    "text": "arcuate"
+   },
+   {
+    "start": 42.84,
+    "end": 44.0,
+    "text": "fractures"
+   },
+   {
+    "start": 44.0,
+    "end": 44.47,
+    "text": "that"
+   }
+  ]
+ },
+ {
+  "start": 44.47,
+  "end": 44.48,
+  "text": "called arcuate fractures that",
+  "words": [
+   {
+    "start": 44.47,
+    "end": 44.47,
+    "text": "called"
+   },
+   {
+    "start": 44.47,
+    "end": 44.47,
+    "text": "arcuate"
+   },
+   {
+    "start": 44.47,
+    "end": 44.47,
+    "text": "fractures"
+   },
+   {
+    "start": 44.47,
+    "end": 44.48,
+    "text": "that"
+   }
+  ]
+ },
+ {
+  "start": 44.48,
+  "end": 47.11,
+  "text": "called arcuate fractures that is also distinctive of olivine pretty",
+  "words": [
+   {
+    "start": 44.48,
+    "end": 44.48,
+    "text": "called"
+   },
+   {
+    "start": 44.48,
+    "end": 44.48,
+    "text": "arcuate"
+   },
+   {
+    "start": 44.48,
+    "end": 44.48,
+    "text": "fractures"
+   },
+   {
+    "start": 44.48,
+    "end": 44.48,
+    "text": "that"
+   },
+   {
+    "start": 44.48,
+    "end": 44.64,
+    "text": "is"
+   },
+   {
+    "start": 44.64,
+    "end": 44.96,
+    "text": "also"
+   },
+   {
+    "start": 44.96,
+    "end": 45.6,
+    "text": "distinctive"
+   },
+   {
+    "start": 45.6,
+    "end": 45.76,
+    "text": "of"
+   },
+   {
+    "start": 45.76,
+    "end": 46.8,
+    "text": "olivine"
+   },
+   {
+    "start": 46.8,
+    "end": 47.11,
+    "text": "pretty"
+   }
+  ]
+ },
+ {
+  "start": 47.11,
+  "end": 47.12,
+  "text": "is also distinctive of olivine pretty",
+  "words": [
+   {
+    "start": 47.11,
+    "end": 47.11,
+    "text": "is"
+   },
+   {
+    "start": 47.11,
+    "end": 47.11,
+    "text": "also"
+   },
+   {
+    "start": 47.11,
+    "end": 47.11,
+    "text": "distinctive"
+   },
+   {
+    "start": 47.11,
+    "end": 47.11,
+    "text": "of"
+   },
+   {
+    "start": 47.11,
+    "end": 47.11,
+    "text": "olivine"
+   },
+   {
+    "start": 47.11,
+    "end": 47.12,
+    "text": "pretty"
+   }
+  ]
+ },
+ {
+  "start": 47.12,
+  "end": 47.83,
+  "text": "is also distinctive of olivine pretty typical",
+  "words": [
+   {
+    "start": 47.12,
+    "end": 47.12,
+    "text": "is"
+   },
+   {
+    "start": 47.12,
+    "end": 47.12,
+    "text": "also"
+   },
+   {
+    "start": 47.12,
+    "end": 47.12,
+    "text": "distinctive"
+   },
+   {
+    "start": 47.12,
+    "end": 47.12,
+    "text": "of"
+   },
+   {
+    "start": 47.12,
+    "end": 47.12,
+    "text": "olivine"
+   },
+   {
+    "start": 47.12,
+    "end": 47.12,
+    "text": "pretty"
+   },
+   {
+    "start": 47.12,
+    "end": 47.83,
+    "text": "typical"
+   }
+  ]
+ },
+ {
+  "start": 47.83,
+  "end": 47.84,
+  "text": "typical",
+  "words": [
+   {
+    "start": 47.83,
+    "end": 47.84,
+    "text": "typical"
+   }
+  ]
+ },
+ {
+  "start": 47.84,
+  "end": 56.83,
+  "text": "typical interference colors they get up pretty",
+  "words": [
+   {
+    "start": 47.84,
+    "end": 47.84,
+    "text": "typical"
+   },
+   {
+    "start": 47.84,
+    "end": 48.4,
+    "text": "interference"
+   },
+   {
+    "start": 48.4,
+    "end": 48.72,
+    "text": "colors"
+   },
+   {
+    "start": 48.72,
+    "end": 48.8,
+    "text": "they"
+   },
+   {
+    "start": 48.8,
+    "end": 48.96,
+    "text": "get"
+   },
+   {
+    "start": 48.96,
+    "end": 49.12,
+    "text": "up"
+   },
+   {
+    "start": 49.12,
+    "end": 56.83,
+    "text": "pretty"
+   }
+  ]
+ },
+ {
+  "start": 56.84,
+  "end": 62.15,
+  "text": "high",
+  "words": [
+   {
+    "start": 56.84,
+    "end": 62.15,
+    "text": "high"
+   }
+  ]
+ },
+ {
+  "start": 62.16,
+  "end": 65.27,
+  "text": "more coarse olivine crystals",
+  "words": [
+   {
+    "start": 62.16,
+    "end": 62.64,
+    "text": "more"
+   },
+   {
+    "start": 62.64,
+    "end": 63.12,
+    "text": "coarse"
+   },
+   {
+    "start": 63.12,
+    "end": 63.68,
+    "text": "olivine"
+   },
+   {
+    "start": 63.68,
+    "end": 65.27,
+    "text": "crystals"
+   }
+  ]
+ },
+ {
+  "start": 65.28,
+  "end": 68.47,
+  "text": "more coarse olivine crystals and again you can see those kind of",
+  "words": [
+   {
+    "start": 65.28,
+    "end": 65.28,
+    "text": "more"
+   },
+   {
+    "start": 65.28,
+    "end": 65.28,
+    "text": "coarse"
+   },
+   {
+    "start": 65.28,
+    "end": 65.28,
+    "text": "olivine"
+   },
+   {
+    "start": 65.28,
+    "end": 65.28,
+    "text": "crystals"
+   },
+   {
+    "start": 65.28,
+    "end": 65.52,
+    "text": "and"
+   },
+   {
+    "start": 65.52,
+    "end": 66.08,
+    "text": "again"
+   },
+   {
+    "start": 66.08,
+    "end": 66.4,
+    "text": "you"
+   },
+   {
+    "start": 66.4,
+    "end": 66.8,
+    "text": "can"
+   },
+   {
+    "start": 66.8,
+    "end": 67.12,
+    "text": "see"
+   },
+   {
+    "start": 67.12,
+    "end": 68.24,
+    "text": "those"
+   },
+   {
+    "start": 68.24,
+    "end": 68.4,
+    "text": "kind"
+   },
+   {
+    "start": 68.4,
+    "end": 68.47,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 68.47,
+  "end": 68.48,
+  "text": "and again you can see those kind of",
+  "words": [
+   {
+    "start": 68.47,
+    "end": 68.47,
+    "text": "and"
+   },
+   {
+    "start": 68.47,
+    "end": 68.47,
+    "text": "again"
+   },
+   {
+    "start": 68.47,
+    "end": 68.47,
+    "text": "you"
+   },
+   {
+    "start": 68.47,
+    "end": 68.47,
+    "text": "can"
+   },
+   {
+    "start": 68.47,
+    "end": 68.47,
+    "text": "see"
+   },
+   {
+    "start": 68.47,
+    "end": 68.47,
+    "text": "those"
+   },
+   {
+    "start": 68.47,
+    "end": 68.47,
+    "text": "kind"
+   },
+   {
+    "start": 68.47,
+    "end": 68.48,
+    "text": "of"
+   }
+  ]
+ },
+ {
+  "start": 68.48,
+  "end": 69.19,
+  "text": "and again you can see those kind of arcuate",
+  "words": [
+   {
+    "start": 68.48,
+    "end": 68.48,
+    "text": "and"
+   },
+   {
+    "start": 68.48,
+    "end": 68.48,
+    "text": "again"
+   },
+   {
+    "start": 68.48,
+    "end": 68.48,
+    "text": "you"
+   },
+   {
+    "start": 68.48,
+    "end": 68.48,
+    "text": "can"
+   },
+   {
+    "start": 68.48,
+    "end": 68.48,
+    "text": "see"
+   },
+   {
+    "start": 68.48,
+    "end": 68.48,
+    "text": "those"
+   },
+   {
+    "start": 68.48,
+    "end": 68.48,
+    "text": "kind"
+   },
+   {
+    "start": 68.48,
+    "end": 68.48,
+    "text": "of"
+   },
+   {
+    "start": 68.48,
+    "end": 69.19,
+    "text": "arcuate"
+   }
+  ]
+ },
+ {
+  "start": 69.19,
+  "end": 69.2,
+  "text": "arcuate",
+  "words": [
+   {
+    "start": 69.19,
+    "end": 69.2,
+    "text": "arcuate"
+   }
+  ]
+ },
+ {
+  "start": 69.2,
+  "end": 71.99,
+  "text": "arcuate fractures this is maybe a good point to",
+  "words": [
+   {
+    "start": 69.2,
+    "end": 69.2,
+    "text": "arcuate"
+   },
+   {
+    "start": 69.2,
+    "end": 70.4,
+    "text": "fractures"
+   },
+   {
+    "start": 70.4,
+    "end": 70.64,
+    "text": "this"
+   },
+   {
+    "start": 70.64,
+    "end": 70.88,
+    "text": "is"
+   },
+   {
+    "start": 70.88,
+    "end": 71.12,
+    "text": "maybe"
+   },
+   {
+    "start": 71.12,
+    "end": 71.2,
+    "text": "a"
+   },
+   {
+    "start": 71.2,
+    "end": 71.44,
+    "text": "good"
+   },
+   {
+    "start": 71.44,
+    "end": 71.84,
+    "text": "point"
+   },
+   {
+    "start": 71.84,
+    "end": 71.99,
+    "text": "to"
+   }
+  ]
+ },
+ {
+  "start": 71.99,
+  "end": 72.0,
+  "text": "fractures this is maybe a good point to",
+  "words": [
+   {
+    "start": 71.99,
+    "end": 71.99,
+    "text": "fractures"
+   },
+   {
+    "start": 71.99,
+    "end": 71.99,
+    "text": "this"
+   },
+   {
+    "start": 71.99,
+    "end": 71.99,
+    "text": "is"
+   },
+   {
+    "start": 71.99,
+    "end": 71.99,
+    "text": "maybe"
+   },
+   {
+    "start": 71.99,
+    "end": 71.99,
+    "text": "a"
+   },
+   {
+    "start": 71.99,
+    "end": 71.99,
+    "text": "good"
+   },
+   {
+    "start": 71.99,
+    "end": 71.99,
+    "text": "point"
+   },
+   {
+    "start": 71.99,
+    "end": 72.0,
+    "text": "to"
+   }
+  ]
+ },
+ {
+  "start": 72.0,
+  "end": 72.47,
+  "text": "fractures this is maybe a good point to say that",
+  "words": [
+   {
+    "start": 72.0,
+    "end": 72.0,
+    "text": "fractures"
+   },
+   {
+    "start": 72.0,
+    "end": 72.0,
+    "text": "this"
+   },
+   {
+    "start": 72.0,
+    "end": 72.0,
+    "text": "is"
+   },
+   {
+    "start": 72.0,
+    "end": 72.0,
+    "text": "maybe"
+   },
+   {
+    "start": 72.0,
+    "end": 72.0,
+    "text": "a"
+   },
+   {
+    "start": 72.0,
+    "end": 72.0,
+    "text": "good"
+   },
+   {
+    "start": 72.0,
+    "end": 72.0,
+    "text": "point"
+   },
+   {
+    "start": 72.0,
+    "end": 72.0,
+    "text": "to"
+   },
+   {
+    "start": 72.0,
+    "end": 72.16,
+    "text": "say"
+   },
+   {
+    "start": 72.16,
+    "end": 72.47,
+    "text": "that"
+   }
+  ]
+ },
+ {
+  "start": 72.47,
+  "end": 72.48,
+  "text": "say that",
+  "words": [
+   {
+    "start": 72.47,
+    "end": 72.47,
+    "text": "say"
+   },
+   {
+    "start": 72.47,
+    "end": 72.48,
+    "text": "that"
+   }
+  ]
+ },
+ {
+  "start": 72.48,
+  "end": 74.47,
+  "text": "say that i'm really terrible at identifying",
+  "words": [
+   {
+    "start": 72.48,
+    "end": 72.48,
+    "text": "say"
+   },
+   {
+    "start": 72.48,
+    "end": 72.48,
+    "text": "that"
+   },
+   {
+    "start": 72.48,
+    "end": 72.72,
+    "text": "i'm"
+   },
+   {
+    "start": 72.72,
+    "end": 73.12,
+    "text": "really"
+   },
+   {
+    "start": 73.12,
+    "end": 73.6,
+    "text": "terrible"
+   },
+   {
+    "start": 73.6,
+    "end": 73.76,
+    "text": "at"
+   },
+   {
+    "start": 73.76,
+    "end": 74.47,
+    "text": "identifying"
+   }
+  ]
+ },
+ {
+  "start": 74.47,
+  "end": 74.48,
+  "text": "i'm really terrible at identifying",
+  "words": [
+   {
+    "start": 74.47,
+    "end": 74.47,
+    "text": "i'm"
+   },
+   {
+    "start": 74.47,
+    "end": 74.47,
+    "text": "really"
+   },
+   {
+    "start": 74.47,
+    "end": 74.47,
+    "text": "terrible"
+   },
+   {
+    "start": 74.47,
+    "end": 74.47,
+    "text": "at"
+   },
+   {
+    "start": 74.47,
+    "end": 74.48,
+    "text": "identifying"
+   }
+  ]
+ },
+ {
+  "start": 74.48,
+  "end": 75.51,
+  "text": "i'm really terrible at identifying olivine in",
+  "words": [
+   {
+    "start": 74.48,
+    "end": 74.48,
+    "text": "i'm"
+   },
+   {
+    "start": 74.48,
+    "end": 74.48,
+    "text": "really"
+   },
+   {
+    "start": 74.48,
+    "end": 74.48,
+    "text": "terrible"
+   },
+   {
+    "start": 74.48,
+    "end": 74.48,
+    "text": "at"
+   },
+   {
+    "start": 74.48,
+    "end": 74.48,
+    "text": "identifying"
+   },
+   {
+    "start": 74.48,
+    "end": 75.28,
+    "text": "olivine"
+   },
+   {
+    "start": 75.28,
+    "end": 75.51,
+    "text": "in"
+   }
+  ]
+ },
+ {
+  "start": 75.51,
+  "end": 75.52,
+  "text": "olivine in",
+  "words": [
+   {
+    "start": 75.51,
+    "end": 75.51,
+    "text": "olivine"
+   },
+   {
+    "start": 75.51,
+    "end": 75.52,
+    "text": "in"
+   }
+  ]
+ },
+ {
+  "start": 75.52,
+  "end": 78.39,
+  "text": "olivine in thin section the relief is very similar",
+  "words": [
+   {
+    "start": 75.52,
+    "end": 75.52,
+    "text": "olivine"
+   },
+   {
+    "start": 75.52,
+    "end": 75.52,
+    "text": "in"
+   },
+   {
+    "start": 75.52,
+    "end": 75.84,
+    "text": "thin"
+   },
+   {
+    "start": 75.84,
+    "end": 77.12,
+    "text": "section"
+   },
+   {
+    "start": 77.12,
+    "end": 77.36,
+    "text": "the"
+   },
+   {
+    "start": 77.36,
+    "end": 77.76,
+    "text": "relief"
+   },
+   {
+    "start": 77.76,
+    "end": 77.92,
+    "text": "is"
+   },
+   {
+    "start": 77.92,
+    "end": 78.08,
+    "text": "very"
+   },
+   {
+    "start": 78.08,
+    "end": 78.39,
+    "text": "similar"
+   }
+  ]
+ },
+ {
+  "start": 78.39,
+  "end": 78.4,
+  "text": "thin section the relief is very similar",
+  "words": [
+   {
+    "start": 78.39,
+    "end": 78.39,
+    "text": "thin"
+   },
+   {
+    "start": 78.39,
+    "end": 78.39,
+    "text": "section"
+   },
+   {
+    "start": 78.39,
+    "end": 78.39,
+    "text": "the"
+   },
+   {
+    "start": 78.39,
+    "end": 78.39,
+    "text": "relief"
+   },
+   {
+    "start": 78.39,
+    "end": 78.39,
+    "text": "is"
+   },
+   {
+    "start": 78.39,
+    "end": 78.39,
+    "text": "very"
+   },
+   {
+    "start": 78.39,
+    "end": 78.4,
+    "text": "similar"
+   }
+  ]
+ },
+ {
+  "start": 78.4,
+  "end": 79.59,
+  "text": "thin section the relief is very similar to the pyroxenes",
+  "words": [
+   {
+    "start": 78.4,
+    "end": 78.4,
+    "text": "thin"
+   },
+   {
+    "start": 78.4,
+    "end": 78.4,
+    "text": "section"
+   },
+   {
+    "start": 78.4,
+    "end": 78.4,
+    "text": "the"
+   },
+   {
+    "start": 78.4,
+    "end": 78.4,
+    "text": "relief"
+   },
+   {
+    "start": 78.4,
+    "end": 78.4,
+    "text": "is"
+   },
+   {
+    "start": 78.4,
+    "end": 78.4,
+    "text": "very"
+   },
+   {
+    "start": 78.4,
+    "end": 78.4,
+    "text": "similar"
+   },
+   {
+    "start": 78.4,
+    "end": 78.56,
+    "text": "to"
+   },
+   {
+    "start": 78.56,
+    "end": 78.64,
+    "text": "the"
+   },
+   {
+    "start": 78.64,
+    "end": 79.59,
+    "text": "pyroxenes"
+   }
+  ]
+ },
+ {
+  "start": 79.59,
+  "end": 79.6,
+  "text": "to the pyroxenes",
+  "words": [
+   {
+    "start": 79.59,
+    "end": 79.59,
+    "text": "to"
+   },
+   {
+    "start": 79.59,
+    "end": 79.59,
+    "text": "the"
+   },
+   {
+    "start": 79.59,
+    "end": 79.6,
+    "text": "pyroxenes"
+   }
+  ]
+ },
+ {
+  "start": 79.6,
+  "end": 82.31,
+  "text": "to the pyroxenes sometimes it has cleavage um high",
+  "words": [
+   {
+    "start": 79.6,
+    "end": 79.6,
+    "text": "to"
+   },
+   {
+    "start": 79.6,
+    "end": 79.6,
+    "text": "the"
+   },
+   {
+    "start": 79.6,
+    "end": 79.6,
+    "text": "pyroxenes"
+   },
+   {
+    "start": 79.6,
+    "end": 80.16,
+    "text": "sometimes"
+   },
+   {
+    "start": 80.16,
+    "end": 80.24,
+    "text": "it"
+   },
+   {
+    "start": 80.24,
+    "end": 80.48,
+    "text": "has"
+   },
+   {
+    "start": 80.48,
+    "end": 81.76,
+    "text": "cleavage"
+   },
+   {
+    "start": 81.76,
+    "end": 82.08,
+    "text": "um"
+   },
+   {
+    "start": 82.08,
+    "end": 82.31,
+    "text": "high"
+   }
+  ]
+ },
+ {
+  "start": 82.31,
+  "end": 82.32,
+  "text": "sometimes it has cleavage um high",
+  "words": [
+   {
+    "start": 82.31,
+    "end": 82.31,
+    "text": "sometimes"
+   },
+   {
+    "start": 82.31,
+    "end": 82.31,
+    "text": "it"
+   },
+   {
+    "start": 82.31,
+    "end": 82.31,
+    "text": "has"
+   },
+   {
+    "start": 82.31,
+    "end": 82.31,
+    "text": "cleavage"
+   },
+   {
+    "start": 82.31,
+    "end": 82.31,
+    "text": "um"
+   },
+   {
+    "start": 82.31,
+    "end": 82.32,
+    "text": "high"
+   }
+  ]
+ },
+ {
+  "start": 82.32,
+  "end": 84.63,
+  "text": "sometimes it has cleavage um high interference colors are",
+  "words": [
+   {
+    "start": 82.32,
+    "end": 82.32,
+    "text": "sometimes"
+   },
+   {
+    "start": 82.32,
+    "end": 82.32,
+    "text": "it"
+   },
+   {
+    "start": 82.32,
+    "end": 82.32,
+    "text": "has"
+   },
+   {
+    "start": 82.32,
+    "end": 82.32,
+    "text": "cleavage"
+   },
+   {
+    "start": 82.32,
+    "end": 82.32,
+    "text": "um"
+   },
+   {
+    "start": 82.32,
+    "end": 82.32,
+    "text": "high"
+   },
+   {
+    "start": 82.32,
+    "end": 82.8,
+    "text": "interference"
+   },
+   {
+    "start": 82.8,
+    "end": 83.2,
+    "text": "colors"
+   },
+   {
+    "start": 83.2,
+    "end": 84.63,
+    "text": "are"
+   }
+  ]
+ },
+ {
+  "start": 84.63,
+  "end": 84.64,
+  "text": "interference colors are",
+  "words": [
+   {
+    "start": 84.63,
+    "end": 84.63,
+    "text": "interference"
+   },
+   {
+    "start": 84.63,
+    "end": 84.63,
+    "text": "colors"
+   },
+   {
+    "start": 84.63,
+    "end": 84.64,
+    "text": "are"
+   }
+  ]
+ },
+ {
+  "start": 84.64,
+  "end": 92.95,
+  "text": "interference colors are and parallel extinction are giveaways",
+  "words": [
+   {
+    "start": 84.64,
+    "end": 84.64,
+    "text": "interference"
+   },
+   {
+    "start": 84.64,
+    "end": 84.64,
+    "text": "colors"
+   },
+   {
+    "start": 84.64,
+    "end": 84.64,
+    "text": "are"
+   },
+   {
+    "start": 84.64,
+    "end": 84.8,
+    "text": "and"
+   },
+   {
+    "start": 84.8,
+    "end": 85.28,
+    "text": "parallel"
+   },
+   {
+    "start": 85.28,
+    "end": 85.76,
+    "text": "extinction"
+   },
+   {
+    "start": 85.76,
+    "end": 86.08,
+    "text": "are"
+   },
+   {
+    "start": 86.08,
+    "end": 92.95,
+    "text": "giveaways"
+   }
+  ]
+ },
+ {
+  "start": 92.96,
+  "end": 95.91,
+  "text": "and close-up of an olivine crystal maybe",
+  "words": [
+   {
+    "start": 92.96,
+    "end": 93.28,
+    "text": "and"
+   },
+   {
+    "start": 93.28,
+    "end": 93.84,
+    "text": "close-up"
+   },
+   {
+    "start": 93.84,
+    "end": 94.08,
+    "text": "of"
+   },
+   {
+    "start": 94.08,
+    "end": 94.32,
+    "text": "an"
+   },
+   {
+    "start": 94.32,
+    "end": 94.88,
+    "text": "olivine"
+   },
+   {
+    "start": 94.88,
+    "end": 95.6,
+    "text": "crystal"
+   },
+   {
+    "start": 95.6,
+    "end": 95.91,
+    "text": "maybe"
+   }
+  ]
+ },
+ {
+  "start": 95.92,
+  "end": 96.63,
+  "text": "and close-up of an olivine crystal maybe the hint",
+  "words": [
+   {
+    "start": 95.92,
+    "end": 95.92,
+    "text": "and"
+   },
+   {
+    "start": 95.92,
+    "end": 95.92,
+    "text": "close-up"
+   },
+   {
+    "start": 95.92,
+    "end": 95.92,
+    "text": "of"
+   },
+   {
+    "start": 95.92,
+    "end": 95.92,
+    "text": "an"
+   },
+   {
+    "start": 95.92,
+    "end": 95.92,
+    "text": "olivine"
+   },
+   {
+    "start": 95.92,
+    "end": 95.92,
+    "text": "crystal"
+   },
+   {
+    "start": 95.92,
+    "end": 95.92,
+    "text": "maybe"
+   },
+   {
+    "start": 95.92,
+    "end": 96.16,
+    "text": "the"
+   },
+   {
+    "start": 96.16,
+    "end": 96.63,
+    "text": "hint"
+   }
+  ]
+ },
+ {
+  "start": 96.63,
+  "end": 96.64,
+  "text": "the hint",
+  "words": [
+   {
+    "start": 96.63,
+    "end": 96.63,
+    "text": "the"
+   },
+   {
+    "start": 96.63,
+    "end": 96.64,
+    "text": "hint"
+   }
+  ]
+ },
+ {
+  "start": 96.64,
+  "end": 100.47,
+  "text": "the hint of a cleavage through there but you can",
+  "words": [
+   {
+    "start": 96.64,
+    "end": 96.64,
+    "text": "the"
+   },
+   {
+    "start": 96.64,
+    "end": 96.64,
+    "text": "hint"
+   },
+   {
+    "start": 96.64,
+    "end": 97.04,
+    "text": "of"
+   },
+   {
+    "start": 97.04,
+    "end": 97.36,
+    "text": "a"
+   },
+   {
+    "start": 97.36,
+    "end": 98.24,
+    "text": "cleavage"
+   },
+   {
+    "start": 98.24,
+    "end": 98.84,
+    "text": "through"
+   },
+   {
+    "start": 98.84,
+    "end": 99.92,
+    "text": "there"
+   },
+   {
+    "start": 99.92,
+    "end": 100.16,
+    "text": "but"
+   },
+   {
+    "start": 100.16,
+    "end": 100.32,
+    "text": "you"
+   },
+   {
+    "start": 100.32,
+    "end": 100.47,
+    "text": "can"
+   }
+  ]
+ },
+ {
+  "start": 100.47,
+  "end": 100.48,
+  "text": "of a cleavage through there but you can",
+  "words": [
+   {
+    "start": 100.47,
+    "end": 100.47,
+    "text": "of"
+   },
+   {
+    "start": 100.47,
+    "end": 100.47,
+    "text": "a"
+   },
+   {
+    "start": 100.47,
+    "end": 100.47,
+    "text": "cleavage"
+   },
+   {
+    "start": 100.47,
+    "end": 100.47,
+    "text": "through"
+   },
+   {
+    "start": 100.47,
+    "end": 100.47,
+    "text": "there"
+   },
+   {
+    "start": 100.47,
+    "end": 100.47,
+    "text": "but"
+   },
+   {
+    "start": 100.47,
+    "end": 100.47,
+    "text": "you"
+   },
+   {
+    "start": 100.47,
+    "end": 100.48,
+    "text": "can"
+   }
+  ]
+ },
+ {
+  "start": 100.48,
+  "end": 101.43,
+  "text": "of a cleavage through there but you can definitely see the",
+  "words": [
+   {
+    "start": 100.48,
+    "end": 100.48,
+    "text": "of"
+   },
+   {
+    "start": 100.48,
+    "end": 100.48,
+    "text": "a"
+   },
+   {
+    "start": 100.48,
+    "end": 100.48,
+    "text": "cleavage"
+   },
+   {
+    "start": 100.48,
+    "end": 100.48,
+    "text": "through"
+   },
+   {
+    "start": 100.48,
+    "end": 100.48,
+    "text": "there"
+   },
+   {
+    "start": 100.48,
+    "end": 100.48,
+    "text": "but"
+   },
+   {
+    "start": 100.48,
+    "end": 100.48,
+    "text": "you"
+   },
+   {
+    "start": 100.48,
+    "end": 100.48,
+    "text": "can"
+   },
+   {
+    "start": 100.48,
+    "end": 100.8,
+    "text": "definitely"
+   },
+   {
+    "start": 100.8,
+    "end": 100.96,
+    "text": "see"
+   },
+   {
+    "start": 100.96,
+    "end": 101.43,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 101.43,
+  "end": 101.44,
+  "text": "definitely see the",
+  "words": [
+   {
+    "start": 101.43,
+    "end": 101.43,
+    "text": "definitely"
+   },
+   {
+    "start": 101.43,
+    "end": 101.43,
+    "text": "see"
+   },
+   {
+    "start": 101.43,
+    "end": 101.44,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 101.44,
+  "end": 103.91,
+  "text": "definitely see the arcuate fractures when i cross the",
+  "words": [
+   {
+    "start": 101.44,
+    "end": 101.44,
+    "text": "definitely"
+   },
+   {
+    "start": 101.44,
+    "end": 101.44,
+    "text": "see"
+   },
+   {
+    "start": 101.44,
+    "end": 101.44,
+    "text": "the"
+   },
+   {
+    "start": 101.44,
+    "end": 102.0,
+    "text": "arcuate"
+   },
+   {
+    "start": 102.0,
+    "end": 103.28,
+    "text": "fractures"
+   },
+   {
+    "start": 103.28,
+    "end": 103.52,
+    "text": "when"
+   },
+   {
+    "start": 103.52,
+    "end": 103.6,
+    "text": "i"
+   },
+   {
+    "start": 103.6,
+    "end": 103.84,
+    "text": "cross"
+   },
+   {
+    "start": 103.84,
+    "end": 103.91,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 103.91,
+  "end": 103.92,
+  "text": "arcuate fractures when i cross the",
+  "words": [
+   {
+    "start": 103.91,
+    "end": 103.91,
+    "text": "arcuate"
+   },
+   {
+    "start": 103.91,
+    "end": 103.91,
+    "text": "fractures"
+   },
+   {
+    "start": 103.91,
+    "end": 103.91,
+    "text": "when"
+   },
+   {
+    "start": 103.91,
+    "end": 103.91,
+    "text": "i"
+   },
+   {
+    "start": 103.91,
+    "end": 103.91,
+    "text": "cross"
+   },
+   {
+    "start": 103.91,
+    "end": 103.92,
+    "text": "the"
+   }
+  ]
+ },
+ {
+  "start": 103.92,
+  "end": 105.75,
+  "text": "arcuate fractures when i cross the polars you'll see that this has",
+  "words": [
+   {
+    "start": 103.92,
+    "end": 103.92,
+    "text": "arcuate"
+   },
+   {
+    "start": 103.92,
+    "end": 103.92,
+    "text": "fractures"
+   },
+   {
+    "start": 103.92,
+    "end": 103.92,
+    "text": "when"
+   },
+   {
+    "start": 103.92,
+    "end": 103.92,
+    "text": "i"
+   },
+   {
+    "start": 103.92,
+    "end": 103.92,
+    "text": "cross"
+   },
+   {
+    "start": 103.92,
+    "end": 103.92,
+    "text": "the"
+   },
+   {
+    "start": 103.92,
+    "end": 104.32,
+    "text": "polars"
+   },
+   {
+    "start": 104.32,
+    "end": 104.56,
+    "text": "you'll"
+   },
+   {
+    "start": 104.56,
+    "end": 104.72,
+    "text": "see"
+   },
+   {
+    "start": 104.72,
+    "end": 104.88,
+    "text": "that"
+   },
+   {
+    "start": 104.88,
+    "end": 105.12,
+    "text": "this"
+   },
+   {
+    "start": 105.12,
+    "end": 105.75,
+    "text": "has"
+   }
+  ]
+ },
+ {
+  "start": 105.75,
+  "end": 105.76,
+  "text": "polars you'll see that this has",
+  "words": [
+   {
+    "start": 105.75,
+    "end": 105.75,
+    "text": "polars"
+   },
+   {
+    "start": 105.75,
+    "end": 105.75,
+    "text": "you'll"
+   },
+   {
+    "start": 105.75,
+    "end": 105.75,
+    "text": "see"
+   },
+   {
+    "start": 105.75,
+    "end": 105.75,
+    "text": "that"
+   },
+   {
+    "start": 105.75,
+    "end": 105.75,
+    "text": "this"
+   },
+   {
+    "start": 105.75,
+    "end": 105.76,
+    "text": "has"
+   }
+  ]
+ },
+ {
+  "start": 105.76,
+  "end": 108.31,
+  "text": "polars you'll see that this has approximately you've got to get in just",
+  "words": [
+   {
+    "start": 105.76,
+    "end": 105.76,
+    "text": "polars"
+   },
+   {
+    "start": 105.76,
+    "end": 105.76,
+    "text": "you'll"
+   },
+   {
+    "start": 105.76,
+    "end": 105.76,
+    "text": "see"
+   },
+   {
+    "start": 105.76,
+    "end": 105.76,
+    "text": "that"
+   },
+   {
+    "start": 105.76,
+    "end": 105.76,
+    "text": "this"
+   },
+   {
+    "start": 105.76,
+    "end": 105.76,
+    "text": "has"
+   },
+   {
+    "start": 105.76,
+    "end": 107.52,
+    "text": "approximately"
+   },
+   {
+    "start": 107.52,
+    "end": 107.6,
+    "text": "you've"
+   },
+   {
+    "start": 107.6,
+    "end": 107.76,
+    "text": "got"
+   },
+   {
+    "start": 107.76,
+    "end": 107.84,
+    "text": "to"
+   },
+   {
+    "start": 107.84,
+    "end": 108.0,
+    "text": "get"
+   },
+   {
+    "start": 108.0,
+    "end": 108.16,
+    "text": "in"
+   },
+   {
+    "start": 108.16,
+    "end": 108.31,
+    "text": "just"
+   }
+  ]
+ },
+ {
+  "start": 108.31,
+  "end": 108.32,
+  "text": "approximately you've got to get in just",
+  "words": [
+   {
+    "start": 108.31,
+    "end": 108.31,
+    "text": "approximately"
+   },
+   {
+    "start": 108.31,
+    "end": 108.31,
+    "text": "you've"
+   },
+   {
+    "start": 108.31,
+    "end": 108.31,
+    "text": "got"
+   },
+   {
+    "start": 108.31,
+    "end": 108.31,
+    "text": "to"
+   },
+   {
+    "start": 108.31,
+    "end": 108.31,
+    "text": "get"
+   },
+   {
+    "start": 108.31,
+    "end": 108.31,
+    "text": "in"
+   },
+   {
+    "start": 108.31,
+    "end": 108.32,
+    "text": "just"
+   }
+  ]
+ },
+ {
+  "start": 108.32,
+  "end": 109.51,
+  "text": "approximately you've got to get in just the right orientation but it has",
+  "words": [
+   {
+    "start": 108.32,
+    "end": 108.32,
+    "text": "approximately"
+   },
+   {
+    "start": 108.32,
+    "end": 108.32,
+    "text": "you've"
+   },
+   {
+    "start": 108.32,
+    "end": 108.32,
+    "text": "got"
+   },
+   {
+    "start": 108.32,
+    "end": 108.32,
+    "text": "to"
+   },
+   {
+    "start": 108.32,
+    "end": 108.32,
+    "text": "get"
+   },
+   {
+    "start": 108.32,
+    "end": 108.32,
+    "text": "in"
+   },
+   {
+    "start": 108.32,
+    "end": 108.32,
+    "text": "just"
+   },
+   {
+    "start": 108.32,
+    "end": 108.4,
+    "text": "the"
+   },
+   {
+    "start": 108.4,
+    "end": 108.56,
+    "text": "right"
+   },
+   {
+    "start": 108.56,
+    "end": 109.04,
+    "text": "orientation"
+   },
+   {
+    "start": 109.04,
+    "end": 109.2,
+    "text": "but"
+   },
+   {
+    "start": 109.2,
+    "end": 109.36,
+    "text": "it"
+   },
+   {
+    "start": 109.36,
+    "end": 109.51,
+    "text": "has"
+   }
+  ]
+ },
+ {
+  "start": 109.51,
+  "end": 109.52,
+  "text": "the right orientation but it has",
+  "words": [
+   {
+    "start": 109.51,
+    "end": 109.51,
+    "text": "the"
+   },
+   {
+    "start": 109.51,
+    "end": 109.51,
+    "text": "right"
+   },
+   {
+    "start": 109.51,
+    "end": 109.51,
+    "text": "orientation"
+   },
+   {
+    "start": 109.51,
+    "end": 109.51,
+    "text": "but"
+   },
+   {
+    "start": 109.51,
+    "end": 109.51,
+    "text": "it"
+   },
+   {
+    "start": 109.51,
+    "end": 109.52,
+    "text": "has"
+   }
+  ]
+ },
+ {
+  "start": 109.52,
+  "end": 112.39,
+  "text": "the right orientation but it has parallel extinction",
+  "words": [
+   {
+    "start": 109.52,
+    "end": 109.52,
+    "text": "the"
+   },
+   {
+    "start": 109.52,
+    "end": 109.52,
+    "text": "right"
+   },
+   {
+    "start": 109.52,
+    "end": 109.52,
+    "text": "orientation"
+   },
+   {
+    "start": 109.52,
+    "end": 109.52,
+    "text": "but"
+   },
+   {
+    "start": 109.52,
+    "end": 109.52,
+    "text": "it"
+   },
+   {
+    "start": 109.52,
+    "end": 109.52,
+    "text": "has"
+   },
+   {
+    "start": 109.52,
+    "end": 110.0,
+    "text": "parallel"
+   },
+   {
+    "start": 110.0,
+    "end": 112.39,
+    "text": "extinction"
+   }
+  ]
+ },
+ {
+  "start": 112.39,
+  "end": 112.4,
+  "text": "parallel extinction",
+  "words": [
+   {
+    "start": 112.39,
+    "end": 112.39,
+    "text": "parallel"
+   },
+   {
+    "start": 112.39,
+    "end": 112.4,
+    "text": "extinction"
+   }
+  ]
+ },
+ {
+  "start": 112.4,
+  "end": 114.15,
+  "text": "parallel extinction and fairly high order interference",
+  "words": [
+   {
+    "start": 112.4,
+    "end": 112.4,
+    "text": "parallel"
+   },
+   {
+    "start": 112.4,
+    "end": 112.4,
+    "text": "extinction"
+   },
+   {
+    "start": 112.4,
+    "end": 112.64,
+    "text": "and"
+   },
+   {
+    "start": 112.64,
+    "end": 112.96,
+    "text": "fairly"
+   },
+   {
+    "start": 112.96,
+    "end": 113.2,
+    "text": "high"
+   },
+   {
+    "start": 113.2,
+    "end": 113.6,
+    "text": "order"
+   },
+   {
+    "start": 113.6,
+    "end": 114.15,
+    "text": "interference"
+   }
+  ]
+ },
+ {
+  "start": 114.15,
+  "end": 114.16,
+  "text": "and fairly high order interference",
+  "words": [
+   {
+    "start": 114.15,
+    "end": 114.15,
+    "text": "and"
+   },
+   {
+    "start": 114.15,
+    "end": 114.15,
+    "text": "fairly"
+   },
+   {
+    "start": 114.15,
+    "end": 114.15,
+    "text": "high"
+   },
+   {
+    "start": 114.15,
+    "end": 114.15,
+    "text": "order"
+   },
+   {
+    "start": 114.15,
+    "end": 114.16,
+    "text": "interference"
+   }
+  ]
+ },
+ {
+  "start": 114.16,
+  "end": 115.91,
+  "text": "and fairly high order interference colors much higher than say",
+  "words": [
+   {
+    "start": 114.16,
+    "end": 114.16,
+    "text": "and"
+   },
+   {
+    "start": 114.16,
+    "end": 114.16,
+    "text": "fairly"
+   },
+   {
+    "start": 114.16,
+    "end": 114.16,
+    "text": "high"
+   },
+   {
+    "start": 114.16,
+    "end": 114.16,
+    "text": "order"
+   },
+   {
+    "start": 114.16,
+    "end": 114.16,
+    "text": "interference"
+   },
+   {
+    "start": 114.16,
+    "end": 114.8,
+    "text": "colors"
+   },
+   {
+    "start": 114.8,
+    "end": 115.04,
+    "text": "much"
+   },
+   {
+    "start": 115.04,
+    "end": 115.28,
+    "text": "higher"
+   },
+   {
+    "start": 115.28,
+    "end": 115.52,
+    "text": "than"
+   },
+   {
+    "start": 115.52,
+    "end": 115.91,
+    "text": "say"
+   }
+  ]
+ },
+ {
+  "start": 115.91,
+  "end": 115.92,
+  "text": "colors much higher than say",
+  "words": [
+   {
+    "start": 115.91,
+    "end": 115.91,
+    "text": "colors"
+   },
+   {
+    "start": 115.91,
+    "end": 115.91,
+    "text": "much"
+   },
+   {
+    "start": 115.91,
+    "end": 115.91,
+    "text": "higher"
+   },
+   {
+    "start": 115.91,
+    "end": 115.91,
+    "text": "than"
+   },
+   {
+    "start": 115.91,
+    "end": 115.92,
+    "text": "say"
+   }
+  ]
+ },
+ {
+  "start": 115.92,
+  "end": 123.59,
+  "text": "colors much higher than say an orthopyroxene",
+  "words": [
+   {
+    "start": 115.92,
+    "end": 115.92,
+    "text": "colors"
+   },
+   {
+    "start": 115.92,
+    "end": 115.92,
+    "text": "much"
+   },
+   {
+    "start": 115.92,
+    "end": 115.92,
+    "text": "higher"
+   },
+   {
+    "start": 115.92,
+    "end": 115.92,
+    "text": "than"
+   },
+   {
+    "start": 115.92,
+    "end": 115.92,
+    "text": "say"
+   },
+   {
+    "start": 115.92,
+    "end": 116.08,
+    "text": "an"
+   },
+   {
+    "start": 116.08,
+    "end": 123.59,
+    "text": "orthopyroxene"
+   }
+  ]
+ },
+ {
+  "start": 123.6,
+  "end": 126.63,
+  "text": "and then one last olivine",
+  "words": [
+   {
+    "start": 123.6,
+    "end": 123.76,
+    "text": "and"
+   },
+   {
+    "start": 123.76,
+    "end": 124.08,
+    "text": "then"
+   },
+   {
+    "start": 124.08,
+    "end": 124.48,
+    "text": "one"
+   },
+   {
+    "start": 124.48,
+    "end": 125.68,
+    "text": "last"
+   },
+   {
+    "start": 125.68,
+    "end": 126.63,
+    "text": "olivine"
+   }
+  ]
+ },
+ {
+  "start": 126.64,
+  "end": 129.91,
+  "text": "and then one last olivine it this one shows some rather poorly",
+  "words": [
+   {
+    "start": 126.64,
+    "end": 126.64,
+    "text": "and"
+   },
+   {
+    "start": 126.64,
+    "end": 126.64,
+    "text": "then"
+   },
+   {
+    "start": 126.64,
+    "end": 126.64,
+    "text": "one"
+   },
+   {
+    "start": 126.64,
+    "end": 126.64,
+    "text": "last"
+   },
+   {
+    "start": 126.64,
+    "end": 126.64,
+    "text": "olivine"
+   },
+   {
+    "start": 126.64,
+    "end": 126.88,
+    "text": "it"
+   },
+   {
+    "start": 126.88,
+    "end": 127.12,
+    "text": "this"
+   },
+   {
+    "start": 127.12,
+    "end": 127.52,
+    "text": "one"
+   },
+   {
+    "start": 127.52,
+    "end": 128.32,
+    "text": "shows"
+   },
+   {
+    "start": 128.32,
+    "end": 128.72,
+    "text": "some"
+   },
+   {
+    "start": 128.72,
+    "end": 129.04,
+    "text": "rather"
+   },
+   {
+    "start": 129.04,
+    "end": 129.91,
+    "text": "poorly"
+   }
+  ]
+ },
+ {
+  "start": 129.91,
+  "end": 129.92,
+  "text": "it this one shows some rather poorly",
+  "words": [
+   {
+    "start": 129.91,
+    "end": 129.91,
+    "text": "it"
+   },
+   {
+    "start": 129.91,
+    "end": 129.91,
+    "text": "this"
+   },
+   {
+    "start": 129.91,
+    "end": 129.91,
+    "text": "one"
+   },
+   {
+    "start": 129.91,
+    "end": 129.91,
+    "text": "shows"
+   },
+   {
+    "start": 129.91,
+    "end": 129.91,
+    "text": "some"
+   },
+   {
+    "start": 129.91,
+    "end": 129.91,
+    "text": "rather"
+   },
+   {
+    "start": 129.91,
+    "end": 129.92,
+    "text": "poorly"
+   }
+  ]
+ },
+ {
+  "start": 129.92,
+  "end": 133.59,
+  "text": "it this one shows some rather poorly formed cleavages cleavages are not super",
+  "words": [
+   {
+    "start": 129.92,
+    "end": 129.92,
+    "text": "it"
+   },
+   {
+    "start": 129.92,
+    "end": 129.92,
+    "text": "this"
+   },
+   {
+    "start": 129.92,
+    "end": 129.92,
+    "text": "one"
+   },
+   {
+    "start": 129.92,
+    "end": 129.92,
+    "text": "shows"
+   },
+   {
+    "start": 129.92,
+    "end": 129.92,
+    "text": "some"
+   },
+   {
+    "start": 129.92,
+    "end": 129.92,
+    "text": "rather"
+   },
+   {
+    "start": 129.92,
+    "end": 129.92,
+    "text": "poorly"
+   },
+   {
+    "start": 129.92,
+    "end": 131.28,
+    "text": "formed"
+   },
+   {
+    "start": 131.28,
+    "end": 132.24,
+    "text": "cleavages"
+   },
+   {
+    "start": 132.24,
+    "end": 132.8,
+    "text": "cleavages"
+   },
+   {
+    "start": 132.8,
+    "end": 132.88,
+    "text": "are"
+   },
+   {
+    "start": 132.88,
+    "end": 133.2,
+    "text": "not"
+   },
+   {
+    "start": 133.2,
+    "end": 133.59,
+    "text": "super"
+   }
+  ]
+ },
+ {
+  "start": 133.59,
+  "end": 133.6,
+  "text": "formed cleavages cleavages are not super",
+  "words": [
+   {
+    "start": 133.59,
+    "end": 133.59,
+    "text": "formed"
+   },
+   {
+    "start": 133.59,
+    "end": 133.59,
+    "text": "cleavages"
+   },
+   {
+    "start": 133.59,
+    "end": 133.59,
+    "text": "cleavages"
+   },
+   {
+    "start": 133.59,
+    "end": 133.59,
+    "text": "are"
+   },
+   {
+    "start": 133.59,
+    "end": 133.59,
+    "text": "not"
+   },
+   {
+    "start": 133.59,
+    "end": 133.6,
+    "text": "super"
+   }
+  ]
+ },
+ {
+  "start": 133.6,
+  "end": 134.15,
+  "text": "formed cleavages cleavages are not super common",
+  "words": [
+   {
+    "start": 133.6,
+    "end": 133.6,
+    "text": "formed"
+   },
+   {
+    "start": 133.6,
+    "end": 133.6,
+    "text": "cleavages"
+   },
+   {
+    "start": 133.6,
+    "end": 133.6,
+    "text": "cleavages"
+   },
+   {
+    "start": 133.6,
+    "end": 133.6,
+    "text": "are"
+   },
+   {
+    "start": 133.6,
+    "end": 133.6,
+    "text": "not"
+   },
+   {
+    "start": 133.6,
+    "end": 133.6,
+    "text": "super"
+   },
+   {
+    "start": 133.6,
+    "end": 134.15,
+    "text": "common"
+   }
+  ]
+ },
+ {
+  "start": 134.15,
+  "end": 134.16,
+  "text": "common",
+  "words": [
+   {
+    "start": 134.15,
+    "end": 134.16,
+    "text": "common"
+   }
+  ]
+ },
+ {
+  "start": 134.16,
+  "end": 136.47,
+  "text": "common in olivine to see them in olivine but",
+  "words": [
+   {
+    "start": 134.16,
+    "end": 134.16,
+    "text": "common"
+   },
+   {
+    "start": 134.16,
+    "end": 134.64,
+    "text": "in"
+   },
+   {
+    "start": 134.64,
+    "end": 135.2,
+    "text": "olivine"
+   },
+   {
+    "start": 135.2,
+    "end": 135.36,
+    "text": "to"
+   },
+   {
+    "start": 135.36,
+    "end": 135.6,
+    "text": "see"
+   },
+   {
+    "start": 135.6,
+    "end": 135.76,
+    "text": "them"
+   },
+   {
+    "start": 135.76,
+    "end": 135.84,
+    "text": "in"
+   },
+   {
+    "start": 135.84,
+    "end": 136.32,
+    "text": "olivine"
+   },
+   {
+    "start": 136.32,
+    "end": 136.47,
+    "text": "but"
+   }
+  ]
+ },
+ {
+  "start": 136.47,
+  "end": 136.48,
+  "text": "in olivine to see them in olivine but",
+  "words": [
+   {
+    "start": 136.47,
+    "end": 136.47,
+    "text": "in"
+   },
+   {
+    "start": 136.47,
+    "end": 136.47,
+    "text": "olivine"
+   },
+   {
+    "start": 136.47,
+    "end": 136.47,
+    "text": "to"
+   },
+   {
+    "start": 136.47,
+    "end": 136.47,
+    "text": "see"
+   },
+   {
+    "start": 136.47,
+    "end": 136.47,
+    "text": "them"
+   },
+   {
+    "start": 136.47,
+    "end": 136.47,
+    "text": "in"
+   },
+   {
+    "start": 136.47,
+    "end": 136.47,
+    "text": "olivine"
+   },
+   {
+    "start": 136.47,
+    "end": 136.48,
+    "text": "but"
+   }
+  ]
+ },
+ {
+  "start": 136.48,
+  "end": 137.19,
+  "text": "in olivine to see them in olivine but they do",
+  "words": [
+   {
+    "start": 136.48,
+    "end": 136.48,
+    "text": "in"
+   },
+   {
+    "start": 136.48,
+    "end": 136.48,
+    "text": "olivine"
+   },
+   {
+    "start": 136.48,
+    "end": 136.48,
+    "text": "to"
+   },
+   {
+    "start": 136.48,
+    "end": 136.48,
+    "text": "see"
+   },
+   {
+    "start": 136.48,
+    "end": 136.48,
+    "text": "them"
+   },
+   {
+    "start": 136.48,
+    "end": 136.48,
+    "text": "in"
+   },
+   {
+    "start": 136.48,
+    "end": 136.48,
+    "text": "olivine"
+   },
+   {
+    "start": 136.48,
+    "end": 136.48,
+    "text": "but"
+   },
+   {
+    "start": 136.48,
+    "end": 136.64,
+    "text": "they"
+   },
+   {
+    "start": 136.64,
+    "end": 137.19,
+    "text": "do"
+   }
+  ]
+ },
+ {
+  "start": 137.19,
+  "end": 137.2,
+  "text": "they do",
+  "words": [
+   {
+    "start": 137.19,
+    "end": 137.19,
+    "text": "they"
+   },
+   {
+    "start": 137.19,
+    "end": 137.2,
+    "text": "do"
+   }
+  ]
+ },
+ {
+  "start": 137.2,
+  "end": 139.51,
+  "text": "they do form and that you can see them in some",
+  "words": [
+   {
+    "start": 137.2,
+    "end": 137.2,
+    "text": "they"
+   },
+   {
+    "start": 137.2,
+    "end": 137.2,
+    "text": "do"
+   },
+   {
+    "start": 137.2,
+    "end": 137.6,
+    "text": "form"
+   },
+   {
+    "start": 137.6,
+    "end": 138.24,
+    "text": "and"
+   },
+   {
+    "start": 138.24,
+    "end": 138.48,
+    "text": "that"
+   },
+   {
+    "start": 138.48,
+    "end": 138.64,
+    "text": "you"
+   },
+   {
+    "start": 138.64,
+    "end": 138.88,
+    "text": "can"
+   },
+   {
+    "start": 138.88,
+    "end": 139.04,
+    "text": "see"
+   },
+   {
+    "start": 139.04,
+    "end": 139.2,
+    "text": "them"
+   },
+   {
+    "start": 139.2,
+    "end": 139.36,
+    "text": "in"
+   },
+   {
+    "start": 139.36,
+    "end": 139.51,
+    "text": "some"
+   }
+  ]
+ },
+ {
+  "start": 139.51,
+  "end": 139.52,
+  "text": "form and that you can see them in some",
+  "words": [
+   {
+    "start": 139.51,
+    "end": 139.51,
+    "text": "form"
+   },
+   {
+    "start": 139.51,
+    "end": 139.51,
+    "text": "and"
+   },
+   {
+    "start": 139.51,
+    "end": 139.51,
+    "text": "that"
+   },
+   {
+    "start": 139.51,
+    "end": 139.51,
+    "text": "you"
+   },
+   {
+    "start": 139.51,
+    "end": 139.51,
+    "text": "can"
+   },
+   {
+    "start": 139.51,
+    "end": 139.51,
+    "text": "see"
+   },
+   {
+    "start": 139.51,
+    "end": 139.51,
+    "text": "them"
+   },
+   {
+    "start": 139.51,
+    "end": 139.51,
+    "text": "in"
+   },
+   {
+    "start": 139.51,
+    "end": 139.52,
+    "text": "some"
+   }
+  ]
+ },
+ {
+  "start": 139.52,
+  "end": 143.84,
+  "text": "form and that you can see them in some thin sections",
+  "words": [
+   {
+    "start": 139.52,
+    "end": 139.52,
+    "text": "form"
+   },
+   {
+    "start": 139.52,
+    "end": 139.52,
+    "text": "and"
+   },
+   {
+    "start": 139.52,
+    "end": 139.52,
+    "text": "that"
+   },
+   {
+    "start": 139.52,
+    "end": 139.52,
+    "text": "you"
+   },
+   {
+    "start": 139.52,
+    "end": 139.52,
+    "text": "can"
+   },
+   {
+    "start": 139.52,
+    "end": 139.52,
+    "text": "see"
+   },
+   {
+    "start": 139.52,
+    "end": 139.52,
+    "text": "them"
+   },
+   {
+    "start": 139.52,
+    "end": 139.52,
+    "text": "in"
+   },
+   {
+    "start": 139.52,
+    "end": 139.52,
+    "text": "some"
+   },
+   {
+    "start": 139.52,
+    "end": 140.84,
+    "text": "thin"
+   },
+   {
+    "start": 140.84,
+    "end": 143.84,
+    "text": "sections"
+   }
+  ]
+ }
+]

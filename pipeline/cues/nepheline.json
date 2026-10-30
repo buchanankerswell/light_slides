@@ -1,0 +1,1171 @@
+[
+ {
+  "start": 0.0,
+  "end": 3.08,
+  "text": "Nephilim is hard to identify in thin section.",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.76,
+    "text": "Nephilim"
+   },
+   {
+    "start": 0.76,
+    "end": 1.18,
+    "text": "is"
+   },
+   {
+    "start": 1.18,
+    "end": 1.46,
+    "text": "hard"
+   },
+   {
+    "start": 1.46,
+    "end": 1.62,
+    "text": "to"
+   },
+   {
+    "start": 1.62,
+    "end": 2.2,
+    "text": "identify"
+   },
+   {
+    "start": 2.2,
+    "end": 2.52,
+    "text": "in"
+   },
+   {
+    "start": 2.52,
+    "end": 2.72,
+    "text": "thin"
+   },
+   {
+    "start": 2.72,
+    "end": 3.08,
+    "text": "section."
+   }
+  ]
+ },
+ {
+  "start": 3.48,
+  "end": 7.44,
+  "text": "It's clear, non-pleochroic, low relief in thin section.",
+  "words": [
+   {
+    "start": 3.48,
+    "end": 3.6,
+    "text": "It's"
+   },
+   {
+    "start": 3.6,
+    "end": 3.88,
+    "text": "clear,"
+   },
+   {
+    "start": 4.06,
+    "end": 4.2,
+    "text": "non"
+   },
+   {
+    "start": 4.2,
+    "end": 4.94,
+    "text": "-pleochroic,"
+   },
+   {
+    "start": 5.1,
+    "end": 5.32,
+    "text": "low"
+   },
+   {
+    "start": 5.32,
+    "end": 5.72,
+    "text": "relief"
+   },
+   {
+    "start": 5.72,
+    "end": 7.04,
+    "text": "in"
+   },
+   {
+    "start": 7.04,
+    "end": 7.18,
+    "text": "thin"
+   },
+   {
+    "start": 7.18,
+    "end": 7.44,
+    "text": "section."
+   }
+  ]
+ },
+ {
+  "start": 7.66,
+  "end": 10.28,
+  "text": "When you cross the polars, you'll see",
+  "words": [
+   {
+    "start": 7.66,
+    "end": 7.74,
+    "text": "When"
+   },
+   {
+    "start": 7.74,
+    "end": 7.9,
+    "text": "you"
+   },
+   {
+    "start": 7.9,
+    "end": 8.16,
+    "text": "cross"
+   },
+   {
+    "start": 8.16,
+    "end": 8.38,
+    "text": "the"
+   },
+   {
+    "start": 8.38,
+    "end": 8.86,
+    "text": "polars,"
+   },
+   {
+    "start": 9.32,
+    "end": 9.92,
+    "text": "you'll"
+   },
+   {
+    "start": 9.92,
+    "end": 10.28,
+    "text": "see"
+   }
+  ]
+ },
+ {
+  "start": 10.28,
+  "end": 14.28,
+  "text": "that it has low gray interference colors.",
+  "words": [
+   {
+    "start": 10.28,
+    "end": 10.64,
+    "text": "that"
+   },
+   {
+    "start": 10.64,
+    "end": 10.8,
+    "text": "it"
+   },
+   {
+    "start": 10.8,
+    "end": 11.08,
+    "text": "has"
+   },
+   {
+    "start": 11.08,
+    "end": 11.66,
+    "text": "low"
+   },
+   {
+    "start": 11.66,
+    "end": 12.9,
+    "text": "gray"
+   },
+   {
+    "start": 12.9,
+    "end": 13.78,
+    "text": "interference"
+   },
+   {
+    "start": 13.78,
+    "end": 14.28,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 15.7,
+  "end": 18.74,
+  "text": "It's that grain that actually has some,",
+  "words": [
+   {
+    "start": 15.7,
+    "end": 15.8,
+    "text": "It's"
+   },
+   {
+    "start": 15.8,
+    "end": 16.04,
+    "text": "that"
+   },
+   {
+    "start": 16.04,
+    "end": 17.46,
+    "text": "grain"
+   },
+   {
+    "start": 17.46,
+    "end": 17.72,
+    "text": "that"
+   },
+   {
+    "start": 17.72,
+    "end": 18.18,
+    "text": "actually"
+   },
+   {
+    "start": 18.18,
+    "end": 18.46,
+    "text": "has"
+   },
+   {
+    "start": 18.46,
+    "end": 18.74,
+    "text": "some,"
+   }
+  ]
+ },
+ {
+  "start": 18.86,
+  "end": 20.52,
+  "text": "looks like it has those black crystals in it.",
+  "words": [
+   {
+    "start": 18.86,
+    "end": 18.98,
+    "text": "looks"
+   },
+   {
+    "start": 18.98,
+    "end": 19.18,
+    "text": "like"
+   },
+   {
+    "start": 19.18,
+    "end": 19.26,
+    "text": "it"
+   },
+   {
+    "start": 19.26,
+    "end": 19.36,
+    "text": "has"
+   },
+   {
+    "start": 19.36,
+    "end": 19.54,
+    "text": "those"
+   },
+   {
+    "start": 19.54,
+    "end": 19.82,
+    "text": "black"
+   },
+   {
+    "start": 19.82,
+    "end": 20.24,
+    "text": "crystals"
+   },
+   {
+    "start": 20.24,
+    "end": 20.42,
+    "text": "in"
+   },
+   {
+    "start": 20.42,
+    "end": 20.52,
+    "text": "it."
+   }
+  ]
+ },
+ {
+  "start": 20.62,
+  "end": 23.48,
+  "text": "The blackish crystals, dark gray, are apatite,",
+  "words": [
+   {
+    "start": 20.62,
+    "end": 20.62,
+    "text": "The"
+   },
+   {
+    "start": 20.62,
+    "end": 21.34,
+    "text": "blackish"
+   },
+   {
+    "start": 21.34,
+    "end": 21.64,
+    "text": "crystals,"
+   },
+   {
+    "start": 21.92,
+    "end": 22.04,
+    "text": "dark"
+   },
+   {
+    "start": 22.04,
+    "end": 22.32,
+    "text": "gray,"
+   },
+   {
+    "start": 22.78,
+    "end": 23.02,
+    "text": "are"
+   },
+   {
+    "start": 23.02,
+    "end": 23.48,
+    "text": "apatite,"
+   }
+  ]
+ },
+ {
+  "start": 23.8,
+  "end": 25.52,
+  "text": "and it's the Nephilim that's around it.",
+  "words": [
+   {
+    "start": 23.8,
+    "end": 23.9,
+    "text": "and"
+   },
+   {
+    "start": 23.9,
+    "end": 24.08,
+    "text": "it's"
+   },
+   {
+    "start": 24.08,
+    "end": 24.22,
+    "text": "the"
+   },
+   {
+    "start": 24.22,
+    "end": 24.56,
+    "text": "Nephilim"
+   },
+   {
+    "start": 24.56,
+    "end": 24.94,
+    "text": "that's"
+   },
+   {
+    "start": 24.94,
+    "end": 25.24,
+    "text": "around"
+   },
+   {
+    "start": 25.24,
+    "end": 25.52,
+    "text": "it."
+   }
+  ]
+ },
+ {
+  "start": 31.18,
+  "end": 34.98,
+  "text": "This then is a close-up of the Nephilim",
+  "words": [
+   {
+    "start": 31.18,
+    "end": 31.74,
+    "text": "This"
+   },
+   {
+    "start": 31.74,
+    "end": 32.14,
+    "text": "then"
+   },
+   {
+    "start": 32.14,
+    "end": 32.52,
+    "text": "is"
+   },
+   {
+    "start": 32.52,
+    "end": 32.64,
+    "text": "a"
+   },
+   {
+    "start": 32.64,
+    "end": 32.96,
+    "text": "close"
+   },
+   {
+    "start": 32.96,
+    "end": 33.3,
+    "text": "-up"
+   },
+   {
+    "start": 33.3,
+    "end": 33.82,
+    "text": "of"
+   },
+   {
+    "start": 33.82,
+    "end": 34.34,
+    "text": "the"
+   },
+   {
+    "start": 34.34,
+    "end": 34.98,
+    "text": "Nephilim"
+   }
+  ]
+ },
+ {
+  "start": 34.98,
+  "end": 36.12,
+  "text": "with the apatite crystals.",
+  "words": [
+   {
+    "start": 34.98,
+    "end": 35.28,
+    "text": "with"
+   },
+   {
+    "start": 35.28,
+    "end": 35.42,
+    "text": "the"
+   },
+   {
+    "start": 35.42,
+    "end": 35.7,
+    "text": "apatite"
+   },
+   {
+    "start": 35.7,
+    "end": 36.12,
+    "text": "crystals."
+   }
+  ]
+ },
+ {
+  "start": 36.28,
+  "end": 38.96,
+  "text": "The apatite crystals are the ones that have the higher relief",
+  "words": [
+   {
+    "start": 36.28,
+    "end": 36.34,
+    "text": "The"
+   },
+   {
+    "start": 36.34,
+    "end": 36.52,
+    "text": "apatite"
+   },
+   {
+    "start": 36.52,
+    "end": 36.96,
+    "text": "crystals"
+   },
+   {
+    "start": 36.96,
+    "end": 37.26,
+    "text": "are"
+   },
+   {
+    "start": 37.26,
+    "end": 37.46,
+    "text": "the"
+   },
+   {
+    "start": 37.46,
+    "end": 37.88,
+    "text": "ones"
+   },
+   {
+    "start": 37.88,
+    "end": 38.16,
+    "text": "that"
+   },
+   {
+    "start": 38.16,
+    "end": 38.4,
+    "text": "have"
+   },
+   {
+    "start": 38.4,
+    "end": 38.52,
+    "text": "the"
+   },
+   {
+    "start": 38.52,
+    "end": 38.68,
+    "text": "higher"
+   },
+   {
+    "start": 38.68,
+    "end": 38.96,
+    "text": "relief"
+   }
+  ]
+ },
+ {
+  "start": 38.96,
+  "end": 40.28,
+  "text": "and sort of stand out a little bit.",
+  "words": [
+   {
+    "start": 38.96,
+    "end": 39.14,
+    "text": "and"
+   },
+   {
+    "start": 39.14,
+    "end": 39.28,
+    "text": "sort"
+   },
+   {
+    "start": 39.28,
+    "end": 39.4,
+    "text": "of"
+   },
+   {
+    "start": 39.4,
+    "end": 39.58,
+    "text": "stand"
+   },
+   {
+    "start": 39.58,
+    "end": 39.8,
+    "text": "out"
+   },
+   {
+    "start": 39.8,
+    "end": 39.92,
+    "text": "a"
+   },
+   {
+    "start": 39.92,
+    "end": 40.04,
+    "text": "little"
+   },
+   {
+    "start": 40.04,
+    "end": 40.28,
+    "text": "bit."
+   }
+  ]
+ },
+ {
+  "start": 41.14,
+  "end": 43.12,
+  "text": "But when I cross the polars, you'll",
+  "words": [
+   {
+    "start": 41.14,
+    "end": 41.34,
+    "text": "But"
+   },
+   {
+    "start": 41.34,
+    "end": 41.46,
+    "text": "when"
+   },
+   {
+    "start": 41.46,
+    "end": 41.58,
+    "text": "I"
+   },
+   {
+    "start": 41.58,
+    "end": 41.7,
+    "text": "cross"
+   },
+   {
+    "start": 41.7,
+    "end": 41.88,
+    "text": "the"
+   },
+   {
+    "start": 41.88,
+    "end": 42.28,
+    "text": "polars,"
+   },
+   {
+    "start": 42.8,
+    "end": 43.12,
+    "text": "you'll"
+   }
+  ]
+ },
+ {
+  "start": 43.12,
+  "end": 45.54,
+  "text": "see that the Nephilim, kind of like the apatite,",
+  "words": [
+   {
+    "start": 43.12,
+    "end": 43.36,
+    "text": "see"
+   },
+   {
+    "start": 43.36,
+    "end": 43.56,
+    "text": "that"
+   },
+   {
+    "start": 43.56,
+    "end": 43.66,
+    "text": "the"
+   },
+   {
+    "start": 43.66,
+    "end": 44.06,
+    "text": "Nephilim,"
+   },
+   {
+    "start": 44.44,
+    "end": 44.94,
+    "text": "kind"
+   },
+   {
+    "start": 44.94,
+    "end": 45.02,
+    "text": "of"
+   },
+   {
+    "start": 45.02,
+    "end": 45.12,
+    "text": "like"
+   },
+   {
+    "start": 45.12,
+    "end": 45.26,
+    "text": "the"
+   },
+   {
+    "start": 45.26,
+    "end": 45.54,
+    "text": "apatite,"
+   }
+  ]
+ },
+ {
+  "start": 45.94,
+  "end": 48.34,
+  "text": "is gray to black.",
+  "words": [
+   {
+    "start": 45.94,
+    "end": 46.26,
+    "text": "is"
+   },
+   {
+    "start": 46.26,
+    "end": 46.92,
+    "text": "gray"
+   },
+   {
+    "start": 46.92,
+    "end": 47.82,
+    "text": "to"
+   },
+   {
+    "start": 47.82,
+    "end": 48.34,
+    "text": "black."
+   }
+  ]
+ },
+ {
+  "start": 48.6,
+  "end": 51.42,
+  "text": "You can barely see the interference colors there.",
+  "words": [
+   {
+    "start": 48.6,
+    "end": 48.76,
+    "text": "You"
+   },
+   {
+    "start": 48.76,
+    "end": 48.92,
+    "text": "can"
+   },
+   {
+    "start": 48.92,
+    "end": 49.2,
+    "text": "barely"
+   },
+   {
+    "start": 49.2,
+    "end": 49.62,
+    "text": "see"
+   },
+   {
+    "start": 49.62,
+    "end": 50.0,
+    "text": "the"
+   },
+   {
+    "start": 50.0,
+    "end": 50.48,
+    "text": "interference"
+   },
+   {
+    "start": 50.48,
+    "end": 51.1,
+    "text": "colors"
+   },
+   {
+    "start": 51.1,
+    "end": 51.42,
+    "text": "there."
+   }
+  ]
+ },
+ {
+  "start": 51.88,
+  "end": 54.2,
+  "text": "And the apatite is virtually isotropic.",
+  "words": [
+   {
+    "start": 51.88,
+    "end": 52.16,
+    "text": "And"
+   },
+   {
+    "start": 52.16,
+    "end": 52.3,
+    "text": "the"
+   },
+   {
+    "start": 52.3,
+    "end": 52.6,
+    "text": "apatite"
+   },
+   {
+    "start": 52.6,
+    "end": 52.92,
+    "text": "is"
+   },
+   {
+    "start": 52.92,
+    "end": 53.44,
+    "text": "virtually"
+   },
+   {
+    "start": 53.44,
+    "end": 54.2,
+    "text": "isotropic."
+   }
+  ]
+ },
+ {
+  "start": 61.88,
+  "end": 63.96,
+  "text": "And then one last image.",
+  "words": [
+   {
+    "start": 61.88,
+    "end": 62.52,
+    "text": "And"
+   },
+   {
+    "start": 62.52,
+    "end": 62.72,
+    "text": "then"
+   },
+   {
+    "start": 62.72,
+    "end": 62.98,
+    "text": "one"
+   },
+   {
+    "start": 62.98,
+    "end": 63.48,
+    "text": "last"
+   },
+   {
+    "start": 63.48,
+    "end": 63.96,
+    "text": "image."
+   }
+  ]
+ },
+ {
+  "start": 64.4,
+  "end": 69.4,
+  "text": "I think the big crystal that you'll see here is Nephilim.",
+  "words": [
+   {
+    "start": 64.4,
+    "end": 64.4,
+    "text": "I"
+   },
+   {
+    "start": 64.4,
+    "end": 64.94,
+    "text": "think"
+   },
+   {
+    "start": 64.94,
+    "end": 65.18,
+    "text": "the"
+   },
+   {
+    "start": 65.18,
+    "end": 65.36,
+    "text": "big"
+   },
+   {
+    "start": 65.36,
+    "end": 65.76,
+    "text": "crystal"
+   },
+   {
+    "start": 65.76,
+    "end": 66.4,
+    "text": "that"
+   },
+   {
+    "start": 66.4,
+    "end": 66.72,
+    "text": "you'll"
+   },
+   {
+    "start": 66.72,
+    "end": 66.9,
+    "text": "see"
+   },
+   {
+    "start": 66.9,
+    "end": 67.22,
+    "text": "here"
+   },
+   {
+    "start": 67.22,
+    "end": 68.28,
+    "text": "is"
+   },
+   {
+    "start": 68.28,
+    "end": 69.4,
+    "text": "Nephilim."
+   }
+  ]
+ },
+ {
+  "start": 70.18,
+  "end": 73.48,
+  "text": "Nephilim is one of these alkali-rich minerals,",
+  "words": [
+   {
+    "start": 70.18,
+    "end": 70.82,
+    "text": "Nephilim"
+   },
+   {
+    "start": 70.82,
+    "end": 71.32,
+    "text": "is"
+   },
+   {
+    "start": 71.32,
+    "end": 71.52,
+    "text": "one"
+   },
+   {
+    "start": 71.52,
+    "end": 71.66,
+    "text": "of"
+   },
+   {
+    "start": 71.66,
+    "end": 71.92,
+    "text": "these"
+   },
+   {
+    "start": 71.92,
+    "end": 72.78,
+    "text": "alkali"
+   },
+   {
+    "start": 72.78,
+    "end": 73.06,
+    "text": "-rich"
+   },
+   {
+    "start": 73.06,
+    "end": 73.48,
+    "text": "minerals,"
+   }
+  ]
+ },
+ {
+  "start": 73.66,
+  "end": 74.36,
+  "text": "a feldspethoid.",
+  "words": [
+   {
+    "start": 73.66,
+    "end": 73.72,
+    "text": "a"
+   },
+   {
+    "start": 73.72,
+    "end": 74.36,
+    "text": "feldspethoid."
+   }
+  ]
+ },
+ {
+  "start": 75.02,
+  "end": 77.78,
+  "text": "So again, it's one of those situations",
+  "words": [
+   {
+    "start": 75.02,
+    "end": 75.32,
+    "text": "So"
+   },
+   {
+    "start": 75.32,
+    "end": 76.14,
+    "text": "again,"
+   },
+   {
+    "start": 76.56,
+    "end": 76.98,
+    "text": "it's"
+   },
+   {
+    "start": 76.98,
+    "end": 77.12,
+    "text": "one"
+   },
+   {
+    "start": 77.12,
+    "end": 77.2,
+    "text": "of"
+   },
+   {
+    "start": 77.2,
+    "end": 77.34,
+    "text": "those"
+   },
+   {
+    "start": 77.34,
+    "end": 77.78,
+    "text": "situations"
+   }
+  ]
+ },
+ {
+  "start": 77.78,
+  "end": 80.94,
+  "text": "where if you see other alkali minerals,",
+  "words": [
+   {
+    "start": 77.78,
+    "end": 78.08,
+    "text": "where"
+   },
+   {
+    "start": 78.08,
+    "end": 78.22,
+    "text": "if"
+   },
+   {
+    "start": 78.22,
+    "end": 78.32,
+    "text": "you"
+   },
+   {
+    "start": 78.32,
+    "end": 78.64,
+    "text": "see"
+   },
+   {
+    "start": 78.64,
+    "end": 79.08,
+    "text": "other"
+   },
+   {
+    "start": 79.08,
+    "end": 80.16,
+    "text": "alkali"
+   },
+   {
+    "start": 80.16,
+    "end": 80.94,
+    "text": "minerals,"
+   }
+  ]
+ },
+ {
+  "start": 81.22,
+  "end": 84.14,
+  "text": "like sodalite, especially also K-feldspar,",
+  "words": [
+   {
+    "start": 81.22,
+    "end": 81.34,
+    "text": "like"
+   },
+   {
+    "start": 81.34,
+    "end": 81.98,
+    "text": "sodalite,"
+   },
+   {
+    "start": 82.12,
+    "end": 82.48,
+    "text": "especially"
+   },
+   {
+    "start": 82.48,
+    "end": 83.44,
+    "text": "also"
+   },
+   {
+    "start": 83.44,
+    "end": 83.66,
+    "text": "K"
+   },
+   {
+    "start": 83.66,
+    "end": 84.14,
+    "text": "-feldspar,"
+   }
+  ]
+ },
+ {
+  "start": 84.36,
+  "end": 85.98,
+  "text": "then you start thinking about Nephilim.",
+  "words": [
+   {
+    "start": 84.36,
+    "end": 84.66,
+    "text": "then"
+   },
+   {
+    "start": 84.66,
+    "end": 84.78,
+    "text": "you"
+   },
+   {
+    "start": 84.78,
+    "end": 84.92,
+    "text": "start"
+   },
+   {
+    "start": 84.92,
+    "end": 85.24,
+    "text": "thinking"
+   },
+   {
+    "start": 85.24,
+    "end": 85.54,
+    "text": "about"
+   },
+   {
+    "start": 85.54,
+    "end": 85.98,
+    "text": "Nephilim."
+   }
+  ]
+ },
+ {
+  "start": 86.34,
+  "end": 89.34,
+  "text": "And when you see minerals with these optical characteristics,",
+  "words": [
+   {
+    "start": 86.34,
+    "end": 86.56,
+    "text": "And"
+   },
+   {
+    "start": 86.56,
+    "end": 86.66,
+    "text": "when"
+   },
+   {
+    "start": 86.66,
+    "end": 86.84,
+    "text": "you"
+   },
+   {
+    "start": 86.84,
+    "end": 87.08,
+    "text": "see"
+   },
+   {
+    "start": 87.08,
+    "end": 87.44,
+    "text": "minerals"
+   },
+   {
+    "start": 87.44,
+    "end": 87.84,
+    "text": "with"
+   },
+   {
+    "start": 87.84,
+    "end": 88.1,
+    "text": "these"
+   },
+   {
+    "start": 88.1,
+    "end": 88.58,
+    "text": "optical"
+   },
+   {
+    "start": 88.58,
+    "end": 89.34,
+    "text": "characteristics,"
+   }
+  ]
+ },
+ {
+  "start": 89.34,
+  "end": 91.66,
+  "text": "then you say, oh yeah, maybe that's Nephilim.",
+  "words": [
+   {
+    "start": 89.34,
+    "end": 89.68,
+    "text": "then"
+   },
+   {
+    "start": 89.68,
+    "end": 89.82,
+    "text": "you"
+   },
+   {
+    "start": 89.82,
+    "end": 90.0,
+    "text": "say,"
+   },
+   {
+    "start": 90.08,
+    "end": 90.2,
+    "text": "oh"
+   },
+   {
+    "start": 90.2,
+    "end": 90.36,
+    "text": "yeah,"
+   },
+   {
+    "start": 90.7,
+    "end": 90.72,
+    "text": "maybe"
+   },
+   {
+    "start": 90.72,
+    "end": 91.06,
+    "text": "that's"
+   },
+   {
+    "start": 91.06,
+    "end": 91.66,
+    "text": "Nephilim."
+   }
+  ]
+ }
+]

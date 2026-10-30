@@ -1,0 +1,2126 @@
+[
+ {
+  "start": 0.0,
+  "end": 5.58,
+  "text": "I often tell my students that apatite looks like garnet, except it isn't, and this is a case in point.",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.38,
+    "text": "I"
+   },
+   {
+    "start": 0.38,
+    "end": 0.6,
+    "text": "often"
+   },
+   {
+    "start": 0.6,
+    "end": 0.82,
+    "text": "tell"
+   },
+   {
+    "start": 0.82,
+    "end": 0.98,
+    "text": "my"
+   },
+   {
+    "start": 0.98,
+    "end": 1.38,
+    "text": "students"
+   },
+   {
+    "start": 1.38,
+    "end": 1.86,
+    "text": "that"
+   },
+   {
+    "start": 1.86,
+    "end": 2.28,
+    "text": "apatite"
+   },
+   {
+    "start": 2.28,
+    "end": 2.68,
+    "text": "looks"
+   },
+   {
+    "start": 2.68,
+    "end": 2.94,
+    "text": "like"
+   },
+   {
+    "start": 2.94,
+    "end": 3.34,
+    "text": "garnet,"
+   },
+   {
+    "start": 3.34,
+    "end": 3.56,
+    "text": "except"
+   },
+   {
+    "start": 3.56,
+    "end": 3.76,
+    "text": "it"
+   },
+   {
+    "start": 3.76,
+    "end": 4.06,
+    "text": "isn't,"
+   },
+   {
+    "start": 4.5,
+    "end": 4.7,
+    "text": "and"
+   },
+   {
+    "start": 4.7,
+    "end": 4.86,
+    "text": "this"
+   },
+   {
+    "start": 4.86,
+    "end": 4.96,
+    "text": "is"
+   },
+   {
+    "start": 4.96,
+    "end": 5.08,
+    "text": "a"
+   },
+   {
+    "start": 5.08,
+    "end": 5.22,
+    "text": "case"
+   },
+   {
+    "start": 5.22,
+    "end": 5.36,
+    "text": "in"
+   },
+   {
+    "start": 5.36,
+    "end": 5.58,
+    "text": "point."
+   }
+  ]
+ },
+ {
+  "start": 5.74,
+  "end": 9.14,
+  "text": "The central grain is actually apatite, but everything else around it is garnet.",
+  "words": [
+   {
+    "start": 5.74,
+    "end": 5.82,
+    "text": "The"
+   },
+   {
+    "start": 5.82,
+    "end": 6.1,
+    "text": "central"
+   },
+   {
+    "start": 6.1,
+    "end": 6.3,
+    "text": "grain"
+   },
+   {
+    "start": 6.3,
+    "end": 6.48,
+    "text": "is"
+   },
+   {
+    "start": 6.48,
+    "end": 6.74,
+    "text": "actually"
+   },
+   {
+    "start": 6.74,
+    "end": 7.04,
+    "text": "apatite,"
+   },
+   {
+    "start": 7.28,
+    "end": 7.34,
+    "text": "but"
+   },
+   {
+    "start": 7.34,
+    "end": 7.64,
+    "text": "everything"
+   },
+   {
+    "start": 7.64,
+    "end": 7.9,
+    "text": "else"
+   },
+   {
+    "start": 7.9,
+    "end": 8.16,
+    "text": "around"
+   },
+   {
+    "start": 8.16,
+    "end": 8.34,
+    "text": "it"
+   },
+   {
+    "start": 8.34,
+    "end": 8.66,
+    "text": "is"
+   },
+   {
+    "start": 8.66,
+    "end": 9.14,
+    "text": "garnet."
+   }
+  ]
+ },
+ {
+  "start": 9.46,
+  "end": 12.86,
+  "text": "They look very, very similar until you cross the polars.",
+  "words": [
+   {
+    "start": 9.46,
+    "end": 9.58,
+    "text": "They"
+   },
+   {
+    "start": 9.58,
+    "end": 9.74,
+    "text": "look"
+   },
+   {
+    "start": 9.74,
+    "end": 10.14,
+    "text": "very,"
+   },
+   {
+    "start": 10.18,
+    "end": 10.38,
+    "text": "very"
+   },
+   {
+    "start": 10.38,
+    "end": 10.84,
+    "text": "similar"
+   },
+   {
+    "start": 10.84,
+    "end": 11.8,
+    "text": "until"
+   },
+   {
+    "start": 11.8,
+    "end": 12.0,
+    "text": "you"
+   },
+   {
+    "start": 12.0,
+    "end": 12.22,
+    "text": "cross"
+   },
+   {
+    "start": 12.22,
+    "end": 12.46,
+    "text": "the"
+   },
+   {
+    "start": 12.46,
+    "end": 12.86,
+    "text": "polars."
+   }
+  ]
+ },
+ {
+  "start": 13.38,
+  "end": 20.56,
+  "text": "And then what you see is the garnet goes black, but the apatite has this very weak gray interference colors.",
+  "words": [
+   {
+    "start": 13.38,
+    "end": 13.42,
+    "text": "And"
+   },
+   {
+    "start": 13.42,
+    "end": 13.52,
+    "text": "then"
+   },
+   {
+    "start": 13.52,
+    "end": 13.64,
+    "text": "what"
+   },
+   {
+    "start": 13.64,
+    "end": 13.76,
+    "text": "you"
+   },
+   {
+    "start": 13.76,
+    "end": 13.94,
+    "text": "see"
+   },
+   {
+    "start": 13.94,
+    "end": 14.08,
+    "text": "is"
+   },
+   {
+    "start": 14.08,
+    "end": 14.2,
+    "text": "the"
+   },
+   {
+    "start": 14.2,
+    "end": 14.46,
+    "text": "garnet"
+   },
+   {
+    "start": 14.46,
+    "end": 14.68,
+    "text": "goes"
+   },
+   {
+    "start": 14.68,
+    "end": 15.02,
+    "text": "black,"
+   },
+   {
+    "start": 15.18,
+    "end": 15.34,
+    "text": "but"
+   },
+   {
+    "start": 15.34,
+    "end": 15.5,
+    "text": "the"
+   },
+   {
+    "start": 15.5,
+    "end": 16.2,
+    "text": "apatite"
+   },
+   {
+    "start": 16.2,
+    "end": 16.7,
+    "text": "has"
+   },
+   {
+    "start": 16.7,
+    "end": 16.96,
+    "text": "this"
+   },
+   {
+    "start": 16.96,
+    "end": 17.56,
+    "text": "very"
+   },
+   {
+    "start": 17.56,
+    "end": 18.12,
+    "text": "weak"
+   },
+   {
+    "start": 18.12,
+    "end": 19.54,
+    "text": "gray"
+   },
+   {
+    "start": 19.54,
+    "end": 20.08,
+    "text": "interference"
+   },
+   {
+    "start": 20.08,
+    "end": 20.56,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 21.94,
+  "end": 26.84,
+  "text": "And so that's the characteristic. It kind of looks like garnet, but when you cross the polars, it has great pleochroism.",
+  "words": [
+   {
+    "start": 21.94,
+    "end": 22.4,
+    "text": "And"
+   },
+   {
+    "start": 22.4,
+    "end": 22.64,
+    "text": "so"
+   },
+   {
+    "start": 22.64,
+    "end": 22.96,
+    "text": "that's"
+   },
+   {
+    "start": 22.96,
+    "end": 23.04,
+    "text": "the"
+   },
+   {
+    "start": 23.04,
+    "end": 23.44,
+    "text": "characteristic."
+   },
+   {
+    "start": 23.68,
+    "end": 23.7,
+    "text": "It"
+   },
+   {
+    "start": 23.7,
+    "end": 23.92,
+    "text": "kind"
+   },
+   {
+    "start": 23.92,
+    "end": 24.0,
+    "text": "of"
+   },
+   {
+    "start": 24.0,
+    "end": 24.1,
+    "text": "looks"
+   },
+   {
+    "start": 24.1,
+    "end": 24.3,
+    "text": "like"
+   },
+   {
+    "start": 24.3,
+    "end": 24.66,
+    "text": "garnet,"
+   },
+   {
+    "start": 24.66,
+    "end": 24.78,
+    "text": "but"
+   },
+   {
+    "start": 24.78,
+    "end": 24.88,
+    "text": "when"
+   },
+   {
+    "start": 24.88,
+    "end": 25.0,
+    "text": "you"
+   },
+   {
+    "start": 25.0,
+    "end": 25.16,
+    "text": "cross"
+   },
+   {
+    "start": 25.16,
+    "end": 25.34,
+    "text": "the"
+   },
+   {
+    "start": 25.34,
+    "end": 25.62,
+    "text": "polars,"
+   },
+   {
+    "start": 25.7,
+    "end": 25.8,
+    "text": "it"
+   },
+   {
+    "start": 25.8,
+    "end": 26.0,
+    "text": "has"
+   },
+   {
+    "start": 26.0,
+    "end": 26.22,
+    "text": "great"
+   },
+   {
+    "start": 26.22,
+    "end": 26.84,
+    "text": "pleochroism."
+   }
+  ]
+ },
+ {
+  "start": 27.18,
+  "end": 28.82,
+  "text": "It actually has lower relief also.",
+  "words": [
+   {
+    "start": 27.18,
+    "end": 27.32,
+    "text": "It"
+   },
+   {
+    "start": 27.32,
+    "end": 27.56,
+    "text": "actually"
+   },
+   {
+    "start": 27.56,
+    "end": 27.8,
+    "text": "has"
+   },
+   {
+    "start": 27.8,
+    "end": 28.04,
+    "text": "lower"
+   },
+   {
+    "start": 28.04,
+    "end": 28.46,
+    "text": "relief"
+   },
+   {
+    "start": 28.46,
+    "end": 28.82,
+    "text": "also."
+   }
+  ]
+ },
+ {
+  "start": 30.52,
+  "end": 33.44,
+  "text": "Here's another apatite almost in the center of the field of view.",
+  "words": [
+   {
+    "start": 30.52,
+    "end": 30.96,
+    "text": "Here's"
+   },
+   {
+    "start": 30.96,
+    "end": 31.14,
+    "text": "another"
+   },
+   {
+    "start": 31.14,
+    "end": 31.58,
+    "text": "apatite"
+   },
+   {
+    "start": 31.58,
+    "end": 32.06,
+    "text": "almost"
+   },
+   {
+    "start": 32.06,
+    "end": 32.32,
+    "text": "in"
+   },
+   {
+    "start": 32.32,
+    "end": 32.44,
+    "text": "the"
+   },
+   {
+    "start": 32.44,
+    "end": 32.68,
+    "text": "center"
+   },
+   {
+    "start": 32.68,
+    "end": 32.86,
+    "text": "of"
+   },
+   {
+    "start": 32.86,
+    "end": 32.92,
+    "text": "the"
+   },
+   {
+    "start": 32.92,
+    "end": 33.12,
+    "text": "field"
+   },
+   {
+    "start": 33.12,
+    "end": 33.28,
+    "text": "of"
+   },
+   {
+    "start": 33.28,
+    "end": 33.44,
+    "text": "view."
+   }
+  ]
+ },
+ {
+  "start": 33.8,
+  "end": 39.36,
+  "text": "Another case in point, you can tell it has higher relief than the biotite and the muscovite that are around it.",
+  "words": [
+   {
+    "start": 33.8,
+    "end": 34.04,
+    "text": "Another"
+   },
+   {
+    "start": 34.04,
+    "end": 34.28,
+    "text": "case"
+   },
+   {
+    "start": 34.28,
+    "end": 34.46,
+    "text": "in"
+   },
+   {
+    "start": 34.46,
+    "end": 34.76,
+    "text": "point,"
+   },
+   {
+    "start": 35.0,
+    "end": 35.06,
+    "text": "you"
+   },
+   {
+    "start": 35.06,
+    "end": 35.24,
+    "text": "can"
+   },
+   {
+    "start": 35.24,
+    "end": 35.4,
+    "text": "tell"
+   },
+   {
+    "start": 35.4,
+    "end": 35.56,
+    "text": "it"
+   },
+   {
+    "start": 35.56,
+    "end": 35.72,
+    "text": "has"
+   },
+   {
+    "start": 35.72,
+    "end": 36.0,
+    "text": "higher"
+   },
+   {
+    "start": 36.0,
+    "end": 36.36,
+    "text": "relief"
+   },
+   {
+    "start": 36.36,
+    "end": 36.62,
+    "text": "than"
+   },
+   {
+    "start": 36.62,
+    "end": 36.76,
+    "text": "the"
+   },
+   {
+    "start": 36.76,
+    "end": 37.3,
+    "text": "biotite"
+   },
+   {
+    "start": 37.3,
+    "end": 37.66,
+    "text": "and"
+   },
+   {
+    "start": 37.66,
+    "end": 37.78,
+    "text": "the"
+   },
+   {
+    "start": 37.78,
+    "end": 38.24,
+    "text": "muscovite"
+   },
+   {
+    "start": 38.24,
+    "end": 38.52,
+    "text": "that"
+   },
+   {
+    "start": 38.52,
+    "end": 38.78,
+    "text": "are"
+   },
+   {
+    "start": 38.78,
+    "end": 39.12,
+    "text": "around"
+   },
+   {
+    "start": 39.12,
+    "end": 39.36,
+    "text": "it."
+   }
+  ]
+ },
+ {
+  "start": 39.98,
+  "end": 45.98,
+  "text": "You cross the polars and at first it looks kind of black and you think, oh, maybe that's a garnet, but then as you rotate the stage,",
+  "words": [
+   {
+    "start": 39.98,
+    "end": 40.42,
+    "text": "You"
+   },
+   {
+    "start": 40.42,
+    "end": 40.66,
+    "text": "cross"
+   },
+   {
+    "start": 40.66,
+    "end": 40.9,
+    "text": "the"
+   },
+   {
+    "start": 40.9,
+    "end": 41.2,
+    "text": "polars"
+   },
+   {
+    "start": 41.2,
+    "end": 41.36,
+    "text": "and"
+   },
+   {
+    "start": 41.36,
+    "end": 41.48,
+    "text": "at"
+   },
+   {
+    "start": 41.48,
+    "end": 41.74,
+    "text": "first"
+   },
+   {
+    "start": 41.74,
+    "end": 41.92,
+    "text": "it"
+   },
+   {
+    "start": 41.92,
+    "end": 42.14,
+    "text": "looks"
+   },
+   {
+    "start": 42.14,
+    "end": 42.36,
+    "text": "kind"
+   },
+   {
+    "start": 42.36,
+    "end": 42.46,
+    "text": "of"
+   },
+   {
+    "start": 42.46,
+    "end": 42.72,
+    "text": "black"
+   },
+   {
+    "start": 42.72,
+    "end": 42.96,
+    "text": "and"
+   },
+   {
+    "start": 42.96,
+    "end": 43.04,
+    "text": "you"
+   },
+   {
+    "start": 43.04,
+    "end": 43.18,
+    "text": "think,"
+   },
+   {
+    "start": 43.26,
+    "end": 43.36,
+    "text": "oh,"
+   },
+   {
+    "start": 43.38,
+    "end": 43.6,
+    "text": "maybe"
+   },
+   {
+    "start": 43.6,
+    "end": 43.96,
+    "text": "that's"
+   },
+   {
+    "start": 43.96,
+    "end": 44.0,
+    "text": "a"
+   },
+   {
+    "start": 44.0,
+    "end": 44.42,
+    "text": "garnet,"
+   },
+   {
+    "start": 44.46,
+    "end": 44.68,
+    "text": "but"
+   },
+   {
+    "start": 44.68,
+    "end": 44.86,
+    "text": "then"
+   },
+   {
+    "start": 44.86,
+    "end": 45.0,
+    "text": "as"
+   },
+   {
+    "start": 45.0,
+    "end": 45.1,
+    "text": "you"
+   },
+   {
+    "start": 45.1,
+    "end": 45.36,
+    "text": "rotate"
+   },
+   {
+    "start": 45.36,
+    "end": 45.64,
+    "text": "the"
+   },
+   {
+    "start": 45.64,
+    "end": 45.98,
+    "text": "stage,"
+   }
+  ]
+ },
+ {
+  "start": 46.18,
+  "end": 50.28,
+  "text": "oh, it's got a very faint interference color there.",
+  "words": [
+   {
+    "start": 46.18,
+    "end": 46.54,
+    "text": "oh,"
+   },
+   {
+    "start": 46.68,
+    "end": 46.92,
+    "text": "it's"
+   },
+   {
+    "start": 46.92,
+    "end": 47.12,
+    "text": "got"
+   },
+   {
+    "start": 47.12,
+    "end": 47.32,
+    "text": "a"
+   },
+   {
+    "start": 47.32,
+    "end": 47.84,
+    "text": "very"
+   },
+   {
+    "start": 47.84,
+    "end": 48.42,
+    "text": "faint"
+   },
+   {
+    "start": 48.42,
+    "end": 49.52,
+    "text": "interference"
+   },
+   {
+    "start": 49.52,
+    "end": 50.02,
+    "text": "color"
+   },
+   {
+    "start": 50.02,
+    "end": 50.28,
+    "text": "there."
+   }
+  ]
+ },
+ {
+  "start": 50.6,
+  "end": 54.98,
+  "text": "And so then you know, oh, it's just an apatite that's kind of masquerading as a garnet.",
+  "words": [
+   {
+    "start": 50.6,
+    "end": 50.78,
+    "text": "And"
+   },
+   {
+    "start": 50.78,
+    "end": 51.06,
+    "text": "so"
+   },
+   {
+    "start": 51.06,
+    "end": 51.4,
+    "text": "then"
+   },
+   {
+    "start": 51.4,
+    "end": 51.56,
+    "text": "you"
+   },
+   {
+    "start": 51.56,
+    "end": 51.72,
+    "text": "know,"
+   },
+   {
+    "start": 51.88,
+    "end": 52.02,
+    "text": "oh,"
+   },
+   {
+    "start": 52.04,
+    "end": 52.18,
+    "text": "it's"
+   },
+   {
+    "start": 52.18,
+    "end": 52.38,
+    "text": "just"
+   },
+   {
+    "start": 52.38,
+    "end": 52.62,
+    "text": "an"
+   },
+   {
+    "start": 52.62,
+    "end": 53.04,
+    "text": "apatite"
+   },
+   {
+    "start": 53.04,
+    "end": 53.62,
+    "text": "that's"
+   },
+   {
+    "start": 53.62,
+    "end": 53.76,
+    "text": "kind"
+   },
+   {
+    "start": 53.76,
+    "end": 53.84,
+    "text": "of"
+   },
+   {
+    "start": 53.84,
+    "end": 54.38,
+    "text": "masquerading"
+   },
+   {
+    "start": 54.38,
+    "end": 54.6,
+    "text": "as"
+   },
+   {
+    "start": 54.6,
+    "end": 54.7,
+    "text": "a"
+   },
+   {
+    "start": 54.7,
+    "end": 54.98,
+    "text": "garnet."
+   }
+  ]
+ },
+ {
+  "start": 55.5,
+  "end": 59.2,
+  "text": "When I look at it again, I realize, oh, it does have lower relief than garnet.",
+  "words": [
+   {
+    "start": 55.5,
+    "end": 55.72,
+    "text": "When"
+   },
+   {
+    "start": 55.72,
+    "end": 55.84,
+    "text": "I"
+   },
+   {
+    "start": 55.84,
+    "end": 56.02,
+    "text": "look"
+   },
+   {
+    "start": 56.02,
+    "end": 56.18,
+    "text": "at"
+   },
+   {
+    "start": 56.18,
+    "end": 56.28,
+    "text": "it"
+   },
+   {
+    "start": 56.28,
+    "end": 56.5,
+    "text": "again,"
+   },
+   {
+    "start": 56.64,
+    "end": 56.7,
+    "text": "I"
+   },
+   {
+    "start": 56.7,
+    "end": 57.08,
+    "text": "realize,"
+   },
+   {
+    "start": 57.32,
+    "end": 57.44,
+    "text": "oh,"
+   },
+   {
+    "start": 57.46,
+    "end": 57.6,
+    "text": "it"
+   },
+   {
+    "start": 57.6,
+    "end": 57.78,
+    "text": "does"
+   },
+   {
+    "start": 57.78,
+    "end": 58.04,
+    "text": "have"
+   },
+   {
+    "start": 58.04,
+    "end": 58.26,
+    "text": "lower"
+   },
+   {
+    "start": 58.26,
+    "end": 58.62,
+    "text": "relief"
+   },
+   {
+    "start": 58.62,
+    "end": 58.84,
+    "text": "than"
+   },
+   {
+    "start": 58.84,
+    "end": 59.2,
+    "text": "garnet."
+   }
+  ]
+ },
+ {
+  "start": 59.96,
+  "end": 63.82,
+  "text": "Here are a couple of apatite grains near the center of the field of view.",
+  "words": [
+   {
+    "start": 59.96,
+    "end": 60.52,
+    "text": "Here"
+   },
+   {
+    "start": 60.52,
+    "end": 60.68,
+    "text": "are"
+   },
+   {
+    "start": 60.68,
+    "end": 60.8,
+    "text": "a"
+   },
+   {
+    "start": 60.8,
+    "end": 60.98,
+    "text": "couple"
+   },
+   {
+    "start": 60.98,
+    "end": 61.16,
+    "text": "of"
+   },
+   {
+    "start": 61.16,
+    "end": 61.44,
+    "text": "apatite"
+   },
+   {
+    "start": 61.44,
+    "end": 61.92,
+    "text": "grains"
+   },
+   {
+    "start": 61.92,
+    "end": 62.68,
+    "text": "near"
+   },
+   {
+    "start": 62.68,
+    "end": 62.88,
+    "text": "the"
+   },
+   {
+    "start": 62.88,
+    "end": 63.12,
+    "text": "center"
+   },
+   {
+    "start": 63.12,
+    "end": 63.3,
+    "text": "of"
+   },
+   {
+    "start": 63.3,
+    "end": 63.38,
+    "text": "the"
+   },
+   {
+    "start": 63.38,
+    "end": 63.52,
+    "text": "field"
+   },
+   {
+    "start": 63.52,
+    "end": 63.68,
+    "text": "of"
+   },
+   {
+    "start": 63.68,
+    "end": 63.82,
+    "text": "view."
+   }
+  ]
+ },
+ {
+  "start": 64.86,
+  "end": 74.58,
+  "text": "They show this pretty high relief and that's what really makes them stick out when you're looking through a thin section across the polars.",
+  "words": [
+   {
+    "start": 64.86,
+    "end": 65.42,
+    "text": "They"
+   },
+   {
+    "start": 65.42,
+    "end": 65.98,
+    "text": "show"
+   },
+   {
+    "start": 65.98,
+    "end": 66.34,
+    "text": "this"
+   },
+   {
+    "start": 66.34,
+    "end": 67.66,
+    "text": "pretty"
+   },
+   {
+    "start": 67.66,
+    "end": 67.9,
+    "text": "high"
+   },
+   {
+    "start": 67.9,
+    "end": 68.3,
+    "text": "relief"
+   },
+   {
+    "start": 68.3,
+    "end": 69.34,
+    "text": "and"
+   },
+   {
+    "start": 69.34,
+    "end": 69.58,
+    "text": "that's"
+   },
+   {
+    "start": 69.58,
+    "end": 69.74,
+    "text": "what"
+   },
+   {
+    "start": 69.74,
+    "end": 70.12,
+    "text": "really"
+   },
+   {
+    "start": 70.12,
+    "end": 70.84,
+    "text": "makes"
+   },
+   {
+    "start": 70.84,
+    "end": 71.0,
+    "text": "them"
+   },
+   {
+    "start": 71.0,
+    "end": 71.22,
+    "text": "stick"
+   },
+   {
+    "start": 71.22,
+    "end": 71.52,
+    "text": "out"
+   },
+   {
+    "start": 71.52,
+    "end": 71.8,
+    "text": "when"
+   },
+   {
+    "start": 71.8,
+    "end": 72.06,
+    "text": "you're"
+   },
+   {
+    "start": 72.06,
+    "end": 72.52,
+    "text": "looking"
+   },
+   {
+    "start": 72.52,
+    "end": 72.72,
+    "text": "through"
+   },
+   {
+    "start": 72.72,
+    "end": 72.86,
+    "text": "a"
+   },
+   {
+    "start": 72.86,
+    "end": 72.94,
+    "text": "thin"
+   },
+   {
+    "start": 72.94,
+    "end": 73.36,
+    "text": "section"
+   },
+   {
+    "start": 73.36,
+    "end": 74.02,
+    "text": "across"
+   },
+   {
+    "start": 74.02,
+    "end": 74.24,
+    "text": "the"
+   },
+   {
+    "start": 74.24,
+    "end": 74.58,
+    "text": "polars."
+   }
+  ]
+ },
+ {
+  "start": 74.86,
+  "end": 77.02,
+  "text": "And these are actually particularly gray.",
+  "words": [
+   {
+    "start": 74.86,
+    "end": 74.88,
+    "text": "And"
+   },
+   {
+    "start": 74.88,
+    "end": 75.2,
+    "text": "these"
+   },
+   {
+    "start": 75.2,
+    "end": 75.44,
+    "text": "are"
+   },
+   {
+    "start": 75.44,
+    "end": 75.9,
+    "text": "actually"
+   },
+   {
+    "start": 75.9,
+    "end": 76.56,
+    "text": "particularly"
+   },
+   {
+    "start": 76.56,
+    "end": 77.02,
+    "text": "gray."
+   }
+  ]
+ },
+ {
+  "start": 77.26,
+  "end": 82.08,
+  "text": "That's about as bright as they ever get in cross polars.",
+  "words": [
+   {
+    "start": 77.26,
+    "end": 77.52,
+    "text": "That's"
+   },
+   {
+    "start": 77.52,
+    "end": 77.68,
+    "text": "about"
+   },
+   {
+    "start": 77.68,
+    "end": 77.96,
+    "text": "as"
+   },
+   {
+    "start": 77.96,
+    "end": 79.14,
+    "text": "bright"
+   },
+   {
+    "start": 79.14,
+    "end": 79.52,
+    "text": "as"
+   },
+   {
+    "start": 79.52,
+    "end": 79.64,
+    "text": "they"
+   },
+   {
+    "start": 79.64,
+    "end": 79.8,
+    "text": "ever"
+   },
+   {
+    "start": 79.8,
+    "end": 80.06,
+    "text": "get"
+   },
+   {
+    "start": 80.06,
+    "end": 80.48,
+    "text": "in"
+   },
+   {
+    "start": 80.48,
+    "end": 81.68,
+    "text": "cross"
+   },
+   {
+    "start": 81.68,
+    "end": 82.08,
+    "text": "polars."
+   }
+  ]
+ },
+ {
+  "start": 90.18,
+  "end": 92.32,
+  "text": "This is also characteristic of apatite.",
+  "words": [
+   {
+    "start": 90.18,
+    "end": 90.72,
+    "text": "This"
+   },
+   {
+    "start": 90.72,
+    "end": 90.86,
+    "text": "is"
+   },
+   {
+    "start": 90.86,
+    "end": 91.12,
+    "text": "also"
+   },
+   {
+    "start": 91.12,
+    "end": 91.78,
+    "text": "characteristic"
+   },
+   {
+    "start": 91.78,
+    "end": 92.08,
+    "text": "of"
+   },
+   {
+    "start": 92.08,
+    "end": 92.32,
+    "text": "apatite."
+   }
+  ]
+ },
+ {
+  "start": 92.62,
+  "end": 95.94,
+  "text": "This is where the long axis is in the plane of the thin section.",
+  "words": [
+   {
+    "start": 92.62,
+    "end": 92.74,
+    "text": "This"
+   },
+   {
+    "start": 92.74,
+    "end": 92.96,
+    "text": "is"
+   },
+   {
+    "start": 92.96,
+    "end": 93.42,
+    "text": "where"
+   },
+   {
+    "start": 93.42,
+    "end": 93.58,
+    "text": "the"
+   },
+   {
+    "start": 93.58,
+    "end": 93.86,
+    "text": "long"
+   },
+   {
+    "start": 93.86,
+    "end": 94.24,
+    "text": "axis"
+   },
+   {
+    "start": 94.24,
+    "end": 94.52,
+    "text": "is"
+   },
+   {
+    "start": 94.52,
+    "end": 94.68,
+    "text": "in"
+   },
+   {
+    "start": 94.68,
+    "end": 94.76,
+    "text": "the"
+   },
+   {
+    "start": 94.76,
+    "end": 95.04,
+    "text": "plane"
+   },
+   {
+    "start": 95.04,
+    "end": 95.22,
+    "text": "of"
+   },
+   {
+    "start": 95.22,
+    "end": 95.34,
+    "text": "the"
+   },
+   {
+    "start": 95.34,
+    "end": 95.52,
+    "text": "thin"
+   },
+   {
+    "start": 95.52,
+    "end": 95.94,
+    "text": "section."
+   }
+  ]
+ },
+ {
+  "start": 96.76,
+  "end": 99.38,
+  "text": "They tend to get these fractures that run through them.",
+  "words": [
+   {
+    "start": 96.76,
+    "end": 97.06,
+    "text": "They"
+   },
+   {
+    "start": 97.06,
+    "end": 97.34,
+    "text": "tend"
+   },
+   {
+    "start": 97.34,
+    "end": 97.48,
+    "text": "to"
+   },
+   {
+    "start": 97.48,
+    "end": 97.64,
+    "text": "get"
+   },
+   {
+    "start": 97.64,
+    "end": 97.9,
+    "text": "these"
+   },
+   {
+    "start": 97.9,
+    "end": 98.48,
+    "text": "fractures"
+   },
+   {
+    "start": 98.48,
+    "end": 98.68,
+    "text": "that"
+   },
+   {
+    "start": 98.68,
+    "end": 98.86,
+    "text": "run"
+   },
+   {
+    "start": 98.86,
+    "end": 99.08,
+    "text": "through"
+   },
+   {
+    "start": 99.08,
+    "end": 99.38,
+    "text": "them."
+   }
+  ]
+ },
+ {
+  "start": 99.58,
+  "end": 102.88,
+  "text": "They tend to be sort of barrel shaped rather than prism shaped.",
+  "words": [
+   {
+    "start": 99.58,
+    "end": 99.7,
+    "text": "They"
+   },
+   {
+    "start": 99.7,
+    "end": 99.96,
+    "text": "tend"
+   },
+   {
+    "start": 99.96,
+    "end": 100.08,
+    "text": "to"
+   },
+   {
+    "start": 100.08,
+    "end": 100.3,
+    "text": "be"
+   },
+   {
+    "start": 100.3,
+    "end": 100.52,
+    "text": "sort"
+   },
+   {
+    "start": 100.52,
+    "end": 100.64,
+    "text": "of"
+   },
+   {
+    "start": 100.64,
+    "end": 101.04,
+    "text": "barrel"
+   },
+   {
+    "start": 101.04,
+    "end": 101.48,
+    "text": "shaped"
+   },
+   {
+    "start": 101.48,
+    "end": 101.88,
+    "text": "rather"
+   },
+   {
+    "start": 101.88,
+    "end": 102.1,
+    "text": "than"
+   },
+   {
+    "start": 102.1,
+    "end": 102.42,
+    "text": "prism"
+   },
+   {
+    "start": 102.42,
+    "end": 102.88,
+    "text": "shaped."
+   }
+  ]
+ },
+ {
+  "start": 103.58,
+  "end": 110.82,
+  "text": "And here you cross the polars and you can see that that really is as bright as it ever gets in cross polars.",
+  "words": [
+   {
+    "start": 103.58,
+    "end": 104.02,
+    "text": "And"
+   },
+   {
+    "start": 104.02,
+    "end": 104.24,
+    "text": "here"
+   },
+   {
+    "start": 104.24,
+    "end": 104.38,
+    "text": "you"
+   },
+   {
+    "start": 104.38,
+    "end": 104.58,
+    "text": "cross"
+   },
+   {
+    "start": 104.58,
+    "end": 104.8,
+    "text": "the"
+   },
+   {
+    "start": 104.8,
+    "end": 105.14,
+    "text": "polars"
+   },
+   {
+    "start": 105.14,
+    "end": 105.48,
+    "text": "and"
+   },
+   {
+    "start": 105.48,
+    "end": 105.74,
+    "text": "you"
+   },
+   {
+    "start": 105.74,
+    "end": 105.88,
+    "text": "can"
+   },
+   {
+    "start": 105.88,
+    "end": 106.16,
+    "text": "see"
+   },
+   {
+    "start": 106.16,
+    "end": 106.54,
+    "text": "that"
+   },
+   {
+    "start": 106.54,
+    "end": 107.02,
+    "text": "that"
+   },
+   {
+    "start": 107.02,
+    "end": 107.5,
+    "text": "really"
+   },
+   {
+    "start": 107.5,
+    "end": 107.78,
+    "text": "is"
+   },
+   {
+    "start": 107.78,
+    "end": 107.92,
+    "text": "as"
+   },
+   {
+    "start": 107.92,
+    "end": 108.16,
+    "text": "bright"
+   },
+   {
+    "start": 108.16,
+    "end": 108.48,
+    "text": "as"
+   },
+   {
+    "start": 108.48,
+    "end": 108.6,
+    "text": "it"
+   },
+   {
+    "start": 108.6,
+    "end": 108.74,
+    "text": "ever"
+   },
+   {
+    "start": 108.74,
+    "end": 109.02,
+    "text": "gets"
+   },
+   {
+    "start": 109.02,
+    "end": 109.88,
+    "text": "in"
+   },
+   {
+    "start": 109.88,
+    "end": 110.34,
+    "text": "cross"
+   },
+   {
+    "start": 110.34,
+    "end": 110.82,
+    "text": "polars."
+   }
+  ]
+ },
+ {
+  "start": 120.36,
+  "end": 123.8,
+  "text": "Yeah, just another little group of apatite crystals in the center.",
+  "words": [
+   {
+    "start": 120.36,
+    "end": 120.96,
+    "text": "Yeah,"
+   },
+   {
+    "start": 121.0,
+    "end": 121.16,
+    "text": "just"
+   },
+   {
+    "start": 121.16,
+    "end": 121.38,
+    "text": "another"
+   },
+   {
+    "start": 121.38,
+    "end": 121.64,
+    "text": "little"
+   },
+   {
+    "start": 121.64,
+    "end": 121.9,
+    "text": "group"
+   },
+   {
+    "start": 121.9,
+    "end": 122.04,
+    "text": "of"
+   },
+   {
+    "start": 122.04,
+    "end": 122.26,
+    "text": "apatite"
+   },
+   {
+    "start": 122.26,
+    "end": 122.74,
+    "text": "crystals"
+   },
+   {
+    "start": 122.74,
+    "end": 123.08,
+    "text": "in"
+   },
+   {
+    "start": 123.08,
+    "end": 123.28,
+    "text": "the"
+   },
+   {
+    "start": 123.28,
+    "end": 123.8,
+    "text": "center."
+   }
+  ]
+ },
+ {
+  "start": 123.96,
+  "end": 131.4,
+  "text": "There's also a zircon crystal, which is that little five-sided, almost house shaped crystal also close to the center.",
+  "words": [
+   {
+    "start": 123.96,
+    "end": 124.1,
+    "text": "There's"
+   },
+   {
+    "start": 124.1,
+    "end": 124.42,
+    "text": "also"
+   },
+   {
+    "start": 124.42,
+    "end": 124.54,
+    "text": "a"
+   },
+   {
+    "start": 124.54,
+    "end": 124.86,
+    "text": "zircon"
+   },
+   {
+    "start": 124.86,
+    "end": 125.38,
+    "text": "crystal,"
+   },
+   {
+    "start": 125.58,
+    "end": 125.74,
+    "text": "which"
+   },
+   {
+    "start": 125.74,
+    "end": 125.9,
+    "text": "is"
+   },
+   {
+    "start": 125.9,
+    "end": 126.1,
+    "text": "that"
+   },
+   {
+    "start": 126.1,
+    "end": 126.3,
+    "text": "little"
+   },
+   {
+    "start": 126.3,
+    "end": 126.74,
+    "text": "five"
+   },
+   {
+    "start": 126.74,
+    "end": 127.22,
+    "text": "-sided,"
+   },
+   {
+    "start": 127.64,
+    "end": 127.96,
+    "text": "almost"
+   },
+   {
+    "start": 127.96,
+    "end": 128.34,
+    "text": "house"
+   },
+   {
+    "start": 128.34,
+    "end": 128.78,
+    "text": "shaped"
+   },
+   {
+    "start": 128.78,
+    "end": 129.8,
+    "text": "crystal"
+   },
+   {
+    "start": 129.8,
+    "end": 130.5,
+    "text": "also"
+   },
+   {
+    "start": 130.5,
+    "end": 130.82,
+    "text": "close"
+   },
+   {
+    "start": 130.82,
+    "end": 131.04,
+    "text": "to"
+   },
+   {
+    "start": 131.04,
+    "end": 131.16,
+    "text": "the"
+   },
+   {
+    "start": 131.16,
+    "end": 131.4,
+    "text": "center."
+   }
+  ]
+ },
+ {
+  "start": 132.14,
+  "end": 135.5,
+  "text": "Again, that's super high relief when you cross the polars.",
+  "words": [
+   {
+    "start": 132.14,
+    "end": 132.74,
+    "text": "Again,"
+   },
+   {
+    "start": 133.1,
+    "end": 133.52,
+    "text": "that's"
+   },
+   {
+    "start": 133.52,
+    "end": 133.74,
+    "text": "super"
+   },
+   {
+    "start": 133.74,
+    "end": 133.92,
+    "text": "high"
+   },
+   {
+    "start": 133.92,
+    "end": 134.18,
+    "text": "relief"
+   },
+   {
+    "start": 134.18,
+    "end": 134.46,
+    "text": "when"
+   },
+   {
+    "start": 134.46,
+    "end": 134.6,
+    "text": "you"
+   },
+   {
+    "start": 134.6,
+    "end": 134.92,
+    "text": "cross"
+   },
+   {
+    "start": 134.92,
+    "end": 135.14,
+    "text": "the"
+   },
+   {
+    "start": 135.14,
+    "end": 135.5,
+    "text": "polars."
+   }
+  ]
+ },
+ {
+  "start": 135.6,
+  "end": 140.94,
+  "text": "Then you can see the apatite grains or those little droplets, gray interference colors.",
+  "words": [
+   {
+    "start": 135.6,
+    "end": 135.68,
+    "text": "Then"
+   },
+   {
+    "start": 135.68,
+    "end": 135.84,
+    "text": "you"
+   },
+   {
+    "start": 135.84,
+    "end": 135.98,
+    "text": "can"
+   },
+   {
+    "start": 135.98,
+    "end": 136.18,
+    "text": "see"
+   },
+   {
+    "start": 136.18,
+    "end": 136.3,
+    "text": "the"
+   },
+   {
+    "start": 136.3,
+    "end": 136.62,
+    "text": "apatite"
+   },
+   {
+    "start": 136.62,
+    "end": 137.06,
+    "text": "grains"
+   },
+   {
+    "start": 137.06,
+    "end": 137.26,
+    "text": "or"
+   },
+   {
+    "start": 137.26,
+    "end": 137.44,
+    "text": "those"
+   },
+   {
+    "start": 137.44,
+    "end": 137.68,
+    "text": "little"
+   },
+   {
+    "start": 137.68,
+    "end": 138.2,
+    "text": "droplets,"
+   },
+   {
+    "start": 139.02,
+    "end": 139.92,
+    "text": "gray"
+   },
+   {
+    "start": 139.92,
+    "end": 140.58,
+    "text": "interference"
+   },
+   {
+    "start": 140.58,
+    "end": 140.94,
+    "text": "colors."
+   }
+  ]
+ },
+ {
+  "start": 141.74,
+  "end": 148.04,
+  "text": "The zircon is the little bright green interference colors on the sort of house shaped crystal.",
+  "words": [
+   {
+    "start": 141.74,
+    "end": 141.96,
+    "text": "The"
+   },
+   {
+    "start": 141.96,
+    "end": 142.32,
+    "text": "zircon"
+   },
+   {
+    "start": 142.32,
+    "end": 142.62,
+    "text": "is"
+   },
+   {
+    "start": 142.62,
+    "end": 142.78,
+    "text": "the"
+   },
+   {
+    "start": 142.78,
+    "end": 143.02,
+    "text": "little"
+   },
+   {
+    "start": 143.02,
+    "end": 143.84,
+    "text": "bright"
+   },
+   {
+    "start": 143.84,
+    "end": 144.3,
+    "text": "green"
+   },
+   {
+    "start": 144.3,
+    "end": 145.14,
+    "text": "interference"
+   },
+   {
+    "start": 145.14,
+    "end": 145.86,
+    "text": "colors"
+   },
+   {
+    "start": 145.86,
+    "end": 146.24,
+    "text": "on"
+   },
+   {
+    "start": 146.24,
+    "end": 146.48,
+    "text": "the"
+   },
+   {
+    "start": 146.48,
+    "end": 146.78,
+    "text": "sort"
+   },
+   {
+    "start": 146.78,
+    "end": 146.9,
+    "text": "of"
+   },
+   {
+    "start": 146.9,
+    "end": 147.14,
+    "text": "house"
+   },
+   {
+    "start": 147.14,
+    "end": 147.44,
+    "text": "shaped"
+   },
+   {
+    "start": 147.44,
+    "end": 148.04,
+    "text": "crystal."
+   }
+  ]
+ },
+ {
+  "start": 149.2,
+  "end": 150.16,
+  "text": "Thanks for watching!",
+  "words": [
+   {
+    "start": 149.2,
+    "end": 150.16,
+    "text": "Thanks"
+   },
+   {
+    "start": 150.16,
+    "end": 150.16,
+    "text": "for"
+   },
+   {
+    "start": 150.16,
+    "end": 150.16,
+    "text": "watching!"
+   }
+  ]
+ }
+]
