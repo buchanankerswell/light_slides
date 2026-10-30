@@ -1,0 +1,43 @@
+---
+name: Prune workflow runs
+on:
+  schedule:
+    - cron: "0 3 * * 0"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Delete branch runs older than this many days (0 deletes everything eligible now)"
+        default: "7"
+        required: false
+      main_days:
+        description: "Delete main and tag runs older than this many days"
+        default: "90"
+        required: false
+permissions:
+  actions: write
+jobs:
+  prune:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Delete runs that are neither on main nor on a tag
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+          GRACE_DAYS: "${{ github.event.inputs.days || '7' }}"
+          MAIN_GRACE_DAYS: "${{ github.event.inputs.main_days || '90' }}"
+        run: |
+          cutoff=$(date -u -d "$GRACE_DAYS days ago" +%Y-%m-%dT%H:%M:%SZ)
+          main_cutoff=$(date -u -d "$MAIN_GRACE_DAYS days ago" +%Y-%m-%dT%H:%M:%SZ)
+          tagged=$(gh api "repos/$REPOSITORY/tags?per_page=100" --paginate -q '.[].commit.sha')
+          gh api "repos/$REPOSITORY/actions/runs?per_page=100" --paginate \
+            -q '.workflow_runs[] | "\(.id) \(.head_branch) \(.head_sha) \(.created_at)"' |
+          while read -r id branch sha created; do
+            if [[ "$branch" == main ]] || printf '%s\n' "$tagged" | grep -qx "$sha"; then
+              limit=$main_cutoff
+            else
+              limit=$cutoff
+            fi
+            [[ "$created" < "$limit" ]] || continue
+            gh api -X DELETE "repos/$REPOSITORY/actions/runs/$id" --silent
+            echo "deleted run $id on $branch"
+          done
