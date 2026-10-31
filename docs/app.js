@@ -26,7 +26,6 @@ let manifest,
   rafId = null;
 
 async function init() {
-  initTheme();
   manifest = await (await fetch("data/slides.json")).json();
   manifest.slides.forEach((s) => {
     slidesById[s.id] = s;
@@ -699,30 +698,4 @@ function buildPages(cues) {
 
 init();
 
-function initTheme() {
-  const toggle = document.createElement("button");
-  toggle.className = "pill theme-toggle";
-  toggle.setAttribute("aria-label", "Toggle light and dark mode");
-  const meta = document.getElementById("themeColor");
-  const paint = () => {
-    const dark = document.documentElement.classList.contains("dark-mode");
-    toggle.textContent = dark ? "☀ Light" : "☾ Dark";
-    meta.content = getComputedStyle(document.documentElement).getPropertyValue("--bg").trim();
-  };
-  const apply = (dark) => {
-    document.documentElement.classList.toggle("dark-mode", dark);
-    paint();
-  };
-  toggle.addEventListener("click", () => {
-    const dark = !document.documentElement.classList.contains("dark-mode");
-    localStorage.setItem("theme", dark ? "dark" : "light");
-    apply(dark);
-  });
-  // Default to the OS setting; an explicit toggle choice wins afterwards.
-  const stored = localStorage.getItem("theme");
-  apply(stored ? stored === "dark" : matchMedia("(prefers-color-scheme: dark)").matches);
-  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => {
-    if (!localStorage.getItem("theme")) apply(e.matches);
-  });
-  document.querySelector(".bar-side").appendChild(toggle);
-}
+initTheme(".bar-side");
