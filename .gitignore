@@ -14,3 +14,5 @@ __pycache__/
 pipeline/node_modules/
 pipeline/package.json
 pipeline/package-lock.json
+# dated make logs (see project.mk LOGGER)
+.log/
