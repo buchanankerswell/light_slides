@@ -4,7 +4,7 @@
 Copies docs/ to a temp dir and rewrites only the `video` field of
 data/slides.json from Release URLs to relative local encodes, so the
 viewer exercises the real posters, cues, CSS, JS, and mp4 bytes. Every
-other file is byte-identical to what `make build` produced.
+other file is byte-identical to what `make site` produced.
 
 Usage:
     python3 pipeline/local_test_tree.py --site docs --out /tmp/ls-local-test
