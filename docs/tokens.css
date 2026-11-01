@@ -1,0 +1,29 @@
+/* Canonical design tokens. Vendored verbatim into each app's stylesheet.
+   Reference: light_slides/docs/styles.css. */
+
+:root {
+  --hue: 215;
+  --sat: 6%;
+  --bg: #fff;
+  --panel: #fafafa;
+  --ink: #1a1a1a;
+  --muted: #5c5c5c;
+  --link: #3b5cf6;
+  --link-hover: #3250df;
+  --hairline: rgb(0 0 0 / 0.08);
+  --hairline-strong: rgb(0 0 0 / 0.2);
+  --radius: 6px;
+  color-scheme: light;
+}
+
+.dark-mode {
+  --bg: hsl(var(--hue), var(--sat), 14%);
+  --panel: hsl(var(--hue), var(--sat), 17%);
+  --ink: hsl(var(--hue), var(--sat), 94%);
+  --muted: hsl(var(--hue), var(--sat), 62%);
+  --link: #7698fd;
+  --link-hover: #9db4fe;
+  --hairline: rgb(255 255 255 / 0.08);
+  --hairline-strong: rgb(255 255 255 / 0.2);
+  color-scheme: dark;
+}

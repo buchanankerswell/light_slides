@@ -1,32 +1,9 @@
-/* Light Slides viewer — aligned with rxndb/pkft docs style.
-   Inter, flat hairline cards, light default + dark toggle. */
+/* Light Slides viewer — app-specific styles. Tokens and dialog chrome live
+   in the vendored tokens.css / dialogs.css (copies of actions/design/ at
+   the pinned tag). Pure HTML, CSS, and vanilla JavaScript. */
 
 :root {
-  --hue: 215;
-  --sat: 6%;
-  --bg: #fff;
-  --panel: #fafafa;
-  --ink: #1a1a1a;
-  --muted: #5c5c5c;
-  --link: #3b5cf6;
-  --link-hover: #3250df;
-  --hairline: rgb(0 0 0 / 0.08);
-  --hairline-strong: rgb(0 0 0 / 0.2);
-  --radius: 6px;
   --stage: #000;
-  color-scheme: light;
-}
-
-.dark-mode {
-  --bg: hsl(var(--hue), var(--sat), 14%);
-  --panel: hsl(var(--hue), var(--sat), 17%);
-  --ink: hsl(var(--hue), var(--sat), 94%);
-  --muted: hsl(var(--hue), var(--sat), 62%);
-  --link: #7698fd;
-  --link-hover: #9db4fe;
-  --hairline: rgb(255 255 255 / 0.08);
-  --hairline-strong: rgb(255 255 255 / 0.2);
-  color-scheme: dark;
 }
 
 * {
@@ -129,27 +106,6 @@ a:hover {
   gap: 0.6rem;
   justify-content: flex-end;
   min-width: 0;
-}
-
-.pill {
-  font-size: 0.85rem;
-  color: var(--ink);
-  text-decoration: none;
-  background: var(--panel);
-  box-shadow: inset 0 0 0 0.5px var(--hairline-strong);
-  border-radius: var(--radius);
-  padding: 0.45rem 0.9rem;
-  white-space: nowrap;
-}
-
-.pill:hover {
-  color: var(--link);
-}
-
-button.pill {
-  border: none;
-  cursor: pointer;
-  font: inherit;
 }
 
 @media (max-width: 700px) {
@@ -439,23 +395,6 @@ html:not(.dark-mode) .caption .w.said {
   display: block;
 }
 
-.theme-toggle {
-  padding: 0.45rem 0.9rem;
-  border: none;
-  box-shadow: inset 0 0 0 0.5px var(--hairline-strong);
-  border-radius: var(--radius);
-  background: var(--panel);
-  color: var(--ink);
-  cursor: pointer;
-  font: inherit;
-  font-size: 0.85rem;
-  white-space: nowrap;
-}
-
-.theme-toggle:hover {
-  color: var(--link);
-}
-
 /* Mineral library popup: docks right, covers the decks, leaves the ocular visible. */
 .library {
   position: fixed;
@@ -673,85 +612,6 @@ html:not(.dark-mode) .caption .w.said {
   flex-wrap: wrap;
   gap: 0.6rem;
   margin-top: 1.5rem;
-}
-
-.lib-body {
-  flex: 1;
-  min-width: 0;
-  overflow-y: auto;
-  padding: 1rem 1.5rem 1.5rem;
-}
-
-/* Centered help dialog over a dimmed page. */
-.help {
-  position: fixed;
-  inset: 0;
-  display: grid;
-  place-items: center;
-  z-index: 1100;
-  background: rgb(0 0 0 / 0.35);
-  padding: 1rem;
-}
-
-.help[hidden] {
-  display: none;
-}
-
-.help-card {
-  background: var(--bg);
-  color: var(--ink);
-  border-radius: var(--radius);
-  box-shadow: 0 12px 48px rgb(0 0 0 / 0.3);
-  padding: 1.5rem 1.75rem;
-  max-width: 430px;
-  width: 100%;
-  max-height: 88vh;
-  overflow-y: auto;
-}
-
-.help-card h2 {
-  margin: 0 0 0.75rem;
-  font-size: 1.1rem;
-}
-
-.help-list {
-  margin: 0;
-  display: grid;
-  gap: 0.5rem;
-}
-
-.help-list > div {
-  display: grid;
-  grid-template-columns: 9rem 1fr;
-  gap: 0.75rem;
-  align-items: baseline;
-}
-
-.help-list dt {
-  color: var(--muted);
-  font-size: 0.85rem;
-}
-
-.help-list dd {
-  margin: 0;
-  font-size: 0.9rem;
-}
-
-.help-list kbd {
-  font: inherit;
-  font-size: 0.78rem;
-  background: var(--panel);
-  box-shadow: inset 0 0 0 0.5px var(--hairline-strong);
-  border-radius: 4px;
-  padding: 0.1rem 0.4rem;
-  white-space: nowrap;
-}
-
-@media (max-width: 860px) {
-  .help-list > div {
-    grid-template-columns: 1fr;
-    gap: 0;
-  }
 }
 
 @media (max-width: 860px) {
