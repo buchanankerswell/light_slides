@@ -1,5 +1,7 @@
 # Light Slides: a thin-section viewer for teaching mineralogy
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23867985.svg)](https://doi.org/10.5281/zenodo.23867985)
+
 📚 See [buchanankerswell.com/light_slides](https://buchanankerswell.com/light_slides) for the live site.
 
 A minimal static viewer for optical mineralogy tutorials: scrub the microscope stage forwards and backwards with a slider and read the synced commentary. Pure HTML, CSS, and vanilla JavaScript; tutorial videos stream from cloud storage so the site stays small.
@@ -50,8 +52,8 @@ Scrub the stage with the slider, press `/` to filter minerals, and `?` for short
   year         = 2026,
   publisher    = {Zenodo},
   version      = {latest},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX},
+  doi          = {10.5281/zenodo.23867985},
+  url          = {https://doi.org/10.5281/zenodo.23867985},
 }
 ```
 
