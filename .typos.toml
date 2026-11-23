@@ -1,0 +1,6 @@
+[default.extend-words]
+# DOM video event (docs/app.js, prototype/app.js)
+seeked = "seeked"
+
+# Neodymium in the mineral dataset (pipeline/minerals.json, docs/data/slides.json)
+Nd = "Nd"

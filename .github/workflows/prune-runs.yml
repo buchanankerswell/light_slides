@@ -18,3 +18,6 @@ permissions:
 jobs:
   prune:
     uses: buchanankerswell/actions/.github/workflows/prune-runs.yml@v1
+    with:
+      days: ${{ github.event.inputs.days || '7' }}
+      main_days: ${{ github.event.inputs.main_days || '90' }}

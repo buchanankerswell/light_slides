@@ -10,7 +10,26 @@ import json
 import sys
 from pathlib import Path
 
-REQUIRED = ("id", "mineral", "symbol", "aliases", "features", "formula", "occurrences", "associated", "economic", "resources", "distinguishing", "uses", "minerals", "group", "video", "poster", "cues", "yt")
+REQUIRED = (
+    "id",
+    "mineral",
+    "symbol",
+    "aliases",
+    "features",
+    "formula",
+    "occurrences",
+    "associated",
+    "economic",
+    "resources",
+    "distinguishing",
+    "uses",
+    "minerals",
+    "group",
+    "video",
+    "poster",
+    "cues",
+    "yt",
+)
 
 
 def main():
@@ -44,9 +63,7 @@ def main():
         if entry.get("economic") not in ("yes", "no", "maybe", None):
             errors.append(f"{name}: economic must be yes/no/maybe, got {entry.get('economic')!r}")
         res = entry.get("resources")
-        if res is not None and (
-            not isinstance(res, list) or any(set(r) != {"label", "url"} or not r["url"].startswith("http") for r in res)
-        ):
+        if res is not None and (not isinstance(res, list) or any(set(r) != {"label", "url"} or not r["url"].startswith("http") for r in res)):
             errors.append(f"{name}: resources must be a [{{label, url}}] list")
         for f in ("distinguishing", "uses", "occurrences", "formula"):
             if entry.get(f) is not None and not isinstance(entry.get(f), str):

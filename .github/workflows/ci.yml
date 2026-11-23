@@ -1,3 +1,4 @@
+---
 name: ci
 
 # Fast, fixture-free checks only: full verification (make build, the
@@ -9,7 +10,11 @@ on:
   push:
     branches: [main]
     tags: ["v*"]
-
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   check:
     uses: buchanankerswell/actions/.github/workflows/validate-site.yml@v1
@@ -17,3 +22,13 @@ jobs:
     uses: buchanankerswell/actions/.github/workflows/design-drift.yml@v1
     with:
       static-dir: docs
+  lint-python:
+    uses: buchanankerswell/actions/.github/workflows/lint-python.yml@v1
+  lint-web:
+    uses: buchanankerswell/actions/.github/workflows/lint-web.yml@v1
+    with:
+      paths: "prototype/*.js prototype/*.css docs/*.js docs/*.css"
+  markdownlint:
+    uses: buchanankerswell/actions/.github/workflows/markdownlint.yml@v1
+  typos:
+    uses: buchanankerswell/actions/.github/workflows/typos.yml@v1
