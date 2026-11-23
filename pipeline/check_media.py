@@ -26,11 +26,7 @@ MAX_HOPS = 5
 # Identify as a browser: R2's edge challenges bare scripting user agents
 # (e.g. Python-urllib gets 403s for objects browsers load fine), and the
 # contract under test is precisely "will a browser play this".
-USER_AGENT = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/126.0.0.0 Safari/537.36"
-)
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 
 
 class NoRedirect(urllib.request.HTTPRedirectHandler):

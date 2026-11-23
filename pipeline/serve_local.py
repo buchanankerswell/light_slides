@@ -34,7 +34,7 @@ class RangeHandler(SimpleHTTPRequestHandler):
         if self.base and path == self.base:
             path = "/"
         elif self.base and path.startswith(self.base + "/"):
-            path = path[len(self.base):]
+            path = path[len(self.base) :]
         return super().translate_path(path)
 
     def send_head(self):
