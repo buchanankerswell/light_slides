@@ -4,3 +4,8 @@ seeked = "seeked"
 
 # Neodymium in the mineral dataset (pipeline/minerals.json, docs/data/slides.json)
 Nd = "Nd"
+
+# Mineral names and aliases in the dataset
+Margarite = "Margarite"
+margarite = "margarite"
+scap = "scap"
